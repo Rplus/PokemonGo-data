@@ -2861,6 +2861,7 @@
         "baseAttack": 192,
         "baseDefense": 249
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_ARTICUNO",
       "kmBuddyDistance": 20,
       "pokedex": 144
@@ -2877,6 +2878,7 @@
         "baseAttack": 253,
         "baseDefense": 188
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_ZAPDOS",
       "kmBuddyDistance": 20,
       "pokedex": 145
@@ -2893,6 +2895,7 @@
         "baseAttack": 251,
         "baseDefense": 184
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_MOLTRES",
       "kmBuddyDistance": 20,
       "pokedex": 146
@@ -2956,6 +2959,7 @@
         "baseAttack": 300,
         "baseDefense": 182
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_MEWTWO",
       "kmBuddyDistance": 20,
       "pokedex": 150
@@ -2971,6 +2975,7 @@
         "baseAttack": 210,
         "baseDefense": 210
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_MEW",
       "kmBuddyDistance": 20,
       "pokedex": 151
@@ -4429,6 +4434,7 @@
         "baseAttack": 241,
         "baseDefense": 210
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_RAIKOU",
       "kmBuddyDistance": 20,
       "pokedex": 243
@@ -4444,6 +4450,7 @@
         "baseAttack": 235,
         "baseDefense": 176
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_ENTEI",
       "kmBuddyDistance": 20,
       "pokedex": 244
@@ -4459,6 +4466,7 @@
         "baseAttack": 180,
         "baseDefense": 235
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_SUICUNE",
       "kmBuddyDistance": 20,
       "pokedex": 245
@@ -4525,6 +4533,7 @@
         "baseAttack": 193,
         "baseDefense": 323
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_LUGIA",
       "kmBuddyDistance": 20,
       "pokedex": 249
@@ -4541,6 +4550,7 @@
         "baseAttack": 239,
         "baseDefense": 274
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_HO_OH",
       "kmBuddyDistance": 20,
       "pokedex": 250
@@ -4557,6 +4567,7 @@
         "baseAttack": 210,
         "baseDefense": 210
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_CELEBI",
       "kmBuddyDistance": 20,
       "pokedex": 251
@@ -6569,6 +6580,7 @@
         "baseAttack": 179,
         "baseDefense": 356
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_REGIROCK",
       "kmBuddyDistance": 20,
       "pokedex": 377
@@ -6584,6 +6596,7 @@
         "baseAttack": 179,
         "baseDefense": 356
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_REGICE",
       "kmBuddyDistance": 20,
       "pokedex": 378
@@ -6599,6 +6612,7 @@
         "baseAttack": 143,
         "baseDefense": 285
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_REGISTEEL",
       "kmBuddyDistance": 20,
       "pokedex": 379
@@ -6615,6 +6629,7 @@
         "baseAttack": 228,
         "baseDefense": 268
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_LATIAS",
       "kmBuddyDistance": 20,
       "pokedex": 380
@@ -6631,6 +6646,7 @@
         "baseAttack": 268,
         "baseDefense": 228
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_LATIOS",
       "kmBuddyDistance": 20,
       "pokedex": 381
@@ -6646,6 +6662,7 @@
         "baseAttack": 270,
         "baseDefense": 251
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_KYOGRE",
       "kmBuddyDistance": 20,
       "pokedex": 382
@@ -6661,6 +6678,7 @@
         "baseAttack": 270,
         "baseDefense": 251
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_GROUDON",
       "kmBuddyDistance": 20,
       "pokedex": 383
@@ -6677,6 +6695,7 @@
         "baseAttack": 284,
         "baseDefense": 170
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_RAYQUAZA",
       "kmBuddyDistance": 20,
       "pokedex": 384
@@ -6693,6 +6712,7 @@
         "baseAttack": 210,
         "baseDefense": 210
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_JIRACHI",
       "kmBuddyDistance": 20,
       "pokedex": 385
@@ -6708,6 +6728,7 @@
         "baseAttack": 345,
         "baseDefense": 115
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_DEOXYS",
       "kmBuddyDistance": 20,
       "pokedex": 386
@@ -6723,6 +6744,7 @@
         "baseAttack": 414,
         "baseDefense": 46
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_DEOXYS",
       "kmBuddyDistance": 20,
       "pokedex": 386
@@ -6738,6 +6760,7 @@
         "baseAttack": 144,
         "baseDefense": 330
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_DEOXYS",
       "kmBuddyDistance": 20,
       "pokedex": 386
@@ -6753,6 +6776,7 @@
         "baseAttack": 345,
         "baseDefense": 115
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_DEOXYS",
       "kmBuddyDistance": 20,
       "pokedex": 386
@@ -6768,6 +6792,7 @@
         "baseAttack": 230,
         "baseDefense": 218
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_DEOXYS",
       "kmBuddyDistance": 20,
       "pokedex": 386
@@ -8573,6 +8598,7 @@
         "baseAttack": 156,
         "baseDefense": 270
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_UXIE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8589,6 +8615,7 @@
         "baseAttack": 212,
         "baseDefense": 212
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_MESPRIT",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8605,6 +8632,7 @@
         "baseAttack": 270,
         "baseDefense": 151
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_AZELF",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8622,6 +8650,7 @@
         "baseAttack": 275,
         "baseDefense": 211
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_DIALGA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8639,6 +8668,7 @@
         "baseAttack": 280,
         "baseDefense": 215
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_PALKIA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8656,6 +8686,7 @@
         "baseAttack": 251,
         "baseDefense": 213
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_HEATRAN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8672,6 +8703,7 @@
         "baseAttack": 287,
         "baseDefense": 210
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_REGIGIGAS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8689,6 +8721,7 @@
         "baseAttack": 187,
         "baseDefense": 225
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_GIRATINA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8706,6 +8739,7 @@
         "baseAttack": 187,
         "baseDefense": 225
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_GIRATINA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8723,6 +8757,7 @@
         "baseAttack": 225,
         "baseDefense": 187
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_GIRATINA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8739,6 +8774,7 @@
         "baseAttack": 152,
         "baseDefense": 258
       },
+      "rarity": "POKEMON_RARITY_LEGENDARY",
       "familyId": "FAMILY_CRESSELIA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8755,6 +8791,7 @@
         "baseAttack": 162,
         "baseDefense": 162
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_PHIONE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8771,6 +8808,7 @@
         "baseAttack": 210,
         "baseDefense": 210
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_MANAPHY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8787,6 +8825,7 @@
         "baseAttack": 285,
         "baseDefense": 198
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_DARKRAI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8803,6 +8842,7 @@
         "baseAttack": 261,
         "baseDefense": 166
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_SHAYMIN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8819,6 +8859,7 @@
         "baseAttack": 261,
         "baseDefense": 166
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_SHAYMIN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8836,6 +8877,7 @@
         "baseAttack": 210,
         "baseDefense": 210
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_SHAYMIN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8852,6 +8894,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8868,6 +8911,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8884,6 +8928,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8900,6 +8945,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8916,6 +8962,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8932,6 +8979,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8948,6 +8996,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8964,6 +9013,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8980,6 +9030,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -8996,6 +9047,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9012,6 +9064,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9028,6 +9081,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9044,6 +9098,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9060,6 +9115,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9076,6 +9132,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9092,6 +9149,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9108,6 +9166,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9124,6 +9183,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,
@@ -9140,6 +9200,7 @@
         "baseAttack": 238,
         "baseDefense": 238
       },
+      "rarity": "POKEMON_RARITY_MYTHIC",
       "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20,

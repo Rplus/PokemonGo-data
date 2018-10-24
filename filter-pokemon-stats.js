@@ -14,6 +14,7 @@ let props = [
   'type2',
   'stats',
   'familyId',
+  'rarity',
   'candyToEvolve',
   'kmBuddyDistance',
 ];
