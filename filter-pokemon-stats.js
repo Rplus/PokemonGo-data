@@ -15,8 +15,6 @@ let props = [
   'stats',
   'familyId',
   'rarity',
-  'candyToEvolve',
-  'kmBuddyDistance',
 ];
 
 if (process.argv[2] === 'filter=true') {
@@ -31,6 +29,19 @@ if (process.argv[2] === 'filter=true') {
   });
 }
 
-let fileContent = JSON.stringify(pmData, null, 2);
-fs.writeFileSync('pm-data.json', fileContent);
-console.log(`JSON saved! ( ${fileContent.length / 1000} kb )`);
+let outputJSON = (json = {}, fileName = '') => {
+  let fileContent = JSON.stringify(json, null, 2);
+  fs.writeFileSync(fileName, fileContent);
+  console.log(`JSON saved as ${fileName}! ( ${fileContent.length / 1000} kb )`);
+};
+
+outputJSON(pmData, 'pm-data.json');
+
+pmData = pmData.reduce((all, pm) => {
+  all[pm.pokemonSettings.pokedex] = all[pm.pokemonSettings.pokedex] || [];
+  all[pm.pokemonSettings.pokedex].push(pm);
+  return all;
+}, {});
+
+outputJSON(pmData, 'pm-data-by-dex.json');
+fileContent = JSON.stringify(pmData, null, 2);
