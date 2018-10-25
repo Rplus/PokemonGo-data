@@ -10,8 +10,6 @@ console.log(`All pm data length: ${pmData.length}`);
 
 let props = [
   'pokemonId',
-  'type',
-  'type2',
   'stats',
   'familyId',
   'rarity',
@@ -19,13 +17,23 @@ let props = [
 
 if (process.argv[2] === 'filter=true') {
   pmData = pmData.map(pm => {
+    let _pm = {
+      templateId: pm.templateId,
+    };
+
     for (const prop in pm.pokemonSettings) {
-      if (!props.includes(prop)) {
-        delete pm.pokemonSettings[prop];
+      if (props.includes(prop)) {
+        _pm[prop] = pm.pokemonSettings[prop];
       }
     }
-    pm.pokemonSettings.pokedex = +pm.templateId.match(/V(\d{4})/)[1];
-    return pm;
+
+    _pm.types = [
+      pm.pokemonSettings.type,
+      pm.pokemonSettings.type2
+    ].filter(Boolean);
+
+    _pm.pokedex = +(pm.templateId.match(/V(\d{4})/)[1]);
+    return _pm;
   });
 }
 
@@ -38,8 +46,8 @@ let outputJSON = (json = {}, fileName = '') => {
 outputJSON(pmData, 'pm-data.json');
 
 pmData = pmData.reduce((all, pm) => {
-  all[pm.pokemonSettings.pokedex] = all[pm.pokemonSettings.pokedex] || [];
-  all[pm.pokemonSettings.pokedex].push(pm);
+  all[pm.pokedex] = all[pm.pokedex] || [];
+  all[pm.pokedex].push(pm);
   return all;
 }, {});
 
