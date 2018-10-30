@@ -285,6 +285,7 @@
       "baseDefense": 70
     },
     "familyId": "FAMILY_RATTATA",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_DARK",
       "POKEMON_TYPE_NORMAL"
@@ -300,6 +301,7 @@
       "baseDefense": 70
     },
     "familyId": "FAMILY_RATTATA",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_NORMAL"
     ],
@@ -328,6 +330,7 @@
       "baseDefense": 159
     },
     "familyId": "FAMILY_RATTATA",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_DARK",
       "POKEMON_TYPE_NORMAL"
@@ -343,6 +346,7 @@
       "baseDefense": 144
     },
     "familyId": "FAMILY_RATTATA",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_NORMAL"
     ],
@@ -443,6 +447,7 @@
       "baseDefense": 172
     },
     "familyId": "FAMILY_PIKACHU",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ELECTRIC",
       "POKEMON_TYPE_PSYCHIC"
@@ -458,6 +463,7 @@
       "baseDefense": 165
     },
     "familyId": "FAMILY_PIKACHU",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_ELECTRIC"
     ],
@@ -486,6 +492,7 @@
       "baseDefense": 154
     },
     "familyId": "FAMILY_SANDSHREW",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ICE",
       "POKEMON_TYPE_STEEL"
@@ -501,6 +508,7 @@
       "baseDefense": 145
     },
     "familyId": "FAMILY_SANDSHREW",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_GROUND"
     ],
@@ -529,6 +537,7 @@
       "baseDefense": 221
     },
     "familyId": "FAMILY_SANDSHREW",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ICE",
       "POKEMON_TYPE_STEEL"
@@ -544,6 +553,7 @@
       "baseDefense": 202
     },
     "familyId": "FAMILY_SANDSHREW",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_GROUND"
     ],
@@ -686,6 +696,7 @@
       "baseDefense": 122
     },
     "familyId": "FAMILY_VULPIX",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ICE"
     ],
@@ -700,6 +711,7 @@
       "baseDefense": 122
     },
     "familyId": "FAMILY_VULPIX",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_FIRE"
     ],
@@ -728,6 +740,7 @@
       "baseDefense": 207
     },
     "familyId": "FAMILY_VULPIX",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ICE",
       "POKEMON_TYPE_FAIRY"
@@ -743,6 +756,7 @@
       "baseDefense": 204
     },
     "familyId": "FAMILY_VULPIX",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_FIRE"
     ],
@@ -936,6 +950,7 @@
       "baseDefense": 89
     },
     "familyId": "FAMILY_DIGLETT",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_GROUND",
       "POKEMON_TYPE_STEEL"
@@ -951,6 +966,7 @@
       "baseDefense": 88
     },
     "familyId": "FAMILY_DIGLETT",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_GROUND"
     ],
@@ -979,6 +995,7 @@
       "baseDefense": 148
     },
     "familyId": "FAMILY_DIGLETT",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_GROUND",
       "POKEMON_TYPE_STEEL"
@@ -994,6 +1011,7 @@
       "baseDefense": 147
     },
     "familyId": "FAMILY_DIGLETT",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_GROUND"
     ],
@@ -1022,6 +1040,7 @@
       "baseDefense": 81
     },
     "familyId": "FAMILY_MEOWTH",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_DARK"
     ],
@@ -1036,6 +1055,7 @@
       "baseDefense": 81
     },
     "familyId": "FAMILY_MEOWTH",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_NORMAL"
     ],
@@ -1064,6 +1084,7 @@
       "baseDefense": 139
     },
     "familyId": "FAMILY_MEOWTH",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_DARK"
     ],
@@ -1078,6 +1099,7 @@
       "baseDefense": 139
     },
     "familyId": "FAMILY_MEOWTH",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_NORMAL"
     ],
@@ -1393,6 +1415,7 @@
       "baseDefense": 163
     },
     "familyId": "FAMILY_GEODUDE",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ROCK",
       "POKEMON_TYPE_ELECTRIC"
@@ -1408,6 +1431,7 @@
       "baseDefense": 163
     },
     "familyId": "FAMILY_GEODUDE",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_ROCK",
       "POKEMON_TYPE_GROUND"
@@ -1438,6 +1462,7 @@
       "baseDefense": 196
     },
     "familyId": "FAMILY_GEODUDE",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ROCK",
       "POKEMON_TYPE_ELECTRIC"
@@ -1453,6 +1478,7 @@
       "baseDefense": 196
     },
     "familyId": "FAMILY_GEODUDE",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_ROCK",
       "POKEMON_TYPE_GROUND"
@@ -1483,6 +1509,7 @@
       "baseDefense": 229
     },
     "familyId": "FAMILY_GEODUDE",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_ROCK",
       "POKEMON_TYPE_ELECTRIC"
@@ -1498,6 +1525,7 @@
       "baseDefense": 229
     },
     "familyId": "FAMILY_GEODUDE",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_ROCK",
       "POKEMON_TYPE_GROUND"
@@ -1689,6 +1717,7 @@
       "baseDefense": 90
     },
     "familyId": "FAMILY_GRIMER",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_POISON",
       "POKEMON_TYPE_DARK"
@@ -1704,6 +1733,7 @@
       "baseDefense": 90
     },
     "familyId": "FAMILY_GRIMER",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_POISON"
     ],
@@ -1732,6 +1762,7 @@
       "baseDefense": 184
     },
     "familyId": "FAMILY_GRIMER",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_POISON",
       "POKEMON_TYPE_DARK"
@@ -1747,6 +1778,7 @@
       "baseDefense": 184
     },
     "familyId": "FAMILY_GRIMER",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_POISON"
     ],
@@ -1964,6 +1996,7 @@
       "baseDefense": 158
     },
     "familyId": "FAMILY_EXEGGCUTE",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_GRASS",
       "POKEMON_TYPE_DRAGON"
@@ -1979,6 +2012,7 @@
       "baseDefense": 158
     },
     "familyId": "FAMILY_EXEGGCUTE",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_GRASS",
       "POKEMON_TYPE_PSYCHIC"
@@ -2022,6 +2056,7 @@
       "baseDefense": 200
     },
     "familyId": "FAMILY_CUBONE",
+    "isotope": "ALOLA",
     "types": [
       "POKEMON_TYPE_FIRE",
       "POKEMON_TYPE_GHOST"
@@ -2037,6 +2072,7 @@
       "baseDefense": 200
     },
     "familyId": "FAMILY_CUBONE",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_GROUND"
     ],
@@ -5625,6 +5661,7 @@
       "baseDefense": 139
     },
     "familyId": "FAMILY_CASTFORM",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_NORMAL"
     ],
@@ -5639,6 +5676,7 @@
       "baseDefense": 139
     },
     "familyId": "FAMILY_CASTFORM",
+    "isotope": "RAINY",
     "types": [
       "POKEMON_TYPE_WATER"
     ],
@@ -5653,6 +5691,7 @@
       "baseDefense": 139
     },
     "familyId": "FAMILY_CASTFORM",
+    "isotope": "SNOWY",
     "types": [
       "POKEMON_TYPE_ICE"
     ],
@@ -5667,6 +5706,7 @@
       "baseDefense": 139
     },
     "familyId": "FAMILY_CASTFORM",
+    "isotope": "SUNNY",
     "types": [
       "POKEMON_TYPE_FIRE"
     ],
@@ -6195,6 +6235,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_DEOXYS",
+    "isotope": "ATTACK",
     "types": [
       "POKEMON_TYPE_PSYCHIC"
     ],
@@ -6210,6 +6251,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_DEOXYS",
+    "isotope": "DEFENSE",
     "types": [
       "POKEMON_TYPE_PSYCHIC"
     ],
@@ -6225,6 +6267,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_DEOXYS",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_PSYCHIC"
     ],
@@ -6240,6 +6283,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_DEOXYS",
+    "isotope": "SPEED",
     "types": [
       "POKEMON_TYPE_PSYCHIC"
     ],
@@ -6647,6 +6691,7 @@
       "baseDefense": 180
     },
     "familyId": "FAMILY_BURMY",
+    "isotope": "PLANT",
     "types": [
       "POKEMON_TYPE_BUG",
       "POKEMON_TYPE_GRASS"
@@ -6662,6 +6707,7 @@
       "baseDefense": 175
     },
     "familyId": "FAMILY_BURMY",
+    "isotope": "SANDY",
     "types": [
       "POKEMON_TYPE_BUG",
       "POKEMON_TYPE_GROUND"
@@ -6677,6 +6723,7 @@
       "baseDefense": 180
     },
     "familyId": "FAMILY_BURMY",
+    "isotope": "TRASH",
     "types": [
       "POKEMON_TYPE_BUG",
       "POKEMON_TYPE_STEEL"
@@ -6807,6 +6854,7 @@
       "baseDefense": 153
     },
     "familyId": "FAMILY_CHERUBI",
+    "isotope": "OVERCAST",
     "types": [
       "POKEMON_TYPE_GRASS"
     ],
@@ -6821,6 +6869,7 @@
       "baseDefense": 153
     },
     "familyId": "FAMILY_CHERUBI",
+    "isotope": "SUNNY",
     "types": [
       "POKEMON_TYPE_GRASS"
     ],
@@ -6849,6 +6898,7 @@
       "baseDefense": 105
     },
     "familyId": "FAMILY_SHELLOS",
+    "isotope": "EAST_SEA",
     "types": [
       "POKEMON_TYPE_WATER"
     ],
@@ -6863,6 +6913,7 @@
       "baseDefense": 105
     },
     "familyId": "FAMILY_SHELLOS",
+    "isotope": "WEST_SEA",
     "types": [
       "POKEMON_TYPE_WATER"
     ],
@@ -6892,6 +6943,7 @@
       "baseDefense": 143
     },
     "familyId": "FAMILY_SHELLOS",
+    "isotope": "EAST_SEA",
     "types": [
       "POKEMON_TYPE_WATER",
       "POKEMON_TYPE_GROUND"
@@ -6907,6 +6959,7 @@
       "baseDefense": 143
     },
     "familyId": "FAMILY_SHELLOS",
+    "isotope": "WEST_SEA",
     "types": [
       "POKEMON_TYPE_WATER",
       "POKEMON_TYPE_GROUND"
@@ -7738,6 +7791,7 @@
       "baseDefense": 219
     },
     "familyId": "FAMILY_ROTOM",
+    "isotope": "FAN",
     "types": [
       "POKEMON_TYPE_ELECTRIC",
       "POKEMON_TYPE_FLYING"
@@ -7753,6 +7807,7 @@
       "baseDefense": 219
     },
     "familyId": "FAMILY_ROTOM",
+    "isotope": "FROST",
     "types": [
       "POKEMON_TYPE_ELECTRIC",
       "POKEMON_TYPE_ICE"
@@ -7768,6 +7823,7 @@
       "baseDefense": 219
     },
     "familyId": "FAMILY_ROTOM",
+    "isotope": "HEAT",
     "types": [
       "POKEMON_TYPE_ELECTRIC",
       "POKEMON_TYPE_FIRE"
@@ -7783,6 +7839,7 @@
       "baseDefense": 219
     },
     "familyId": "FAMILY_ROTOM",
+    "isotope": "MOW",
     "types": [
       "POKEMON_TYPE_ELECTRIC",
       "POKEMON_TYPE_GRASS"
@@ -7798,6 +7855,7 @@
       "baseDefense": 219
     },
     "familyId": "FAMILY_ROTOM",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_ELECTRIC",
       "POKEMON_TYPE_GHOST"
@@ -7813,6 +7871,7 @@
       "baseDefense": 159
     },
     "familyId": "FAMILY_ROTOM",
+    "isotope": "WASH",
     "types": [
       "POKEMON_TYPE_ELECTRIC",
       "POKEMON_TYPE_WATER"
@@ -7953,6 +8012,7 @@
     },
     "rarity": "POKEMON_RARITY_LEGENDARY",
     "familyId": "FAMILY_GIRATINA",
+    "isotope": "ALTERED",
     "types": [
       "POKEMON_TYPE_GHOST",
       "POKEMON_TYPE_DRAGON"
@@ -7969,6 +8029,7 @@
     },
     "rarity": "POKEMON_RARITY_LEGENDARY",
     "familyId": "FAMILY_GIRATINA",
+    "isotope": "ORIGIN",
     "types": [
       "POKEMON_TYPE_GHOST",
       "POKEMON_TYPE_DRAGON"
@@ -8060,6 +8121,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_SHAYMIN",
+    "isotope": "LAND",
     "types": [
       "POKEMON_TYPE_GRASS"
     ],
@@ -8075,6 +8137,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_SHAYMIN",
+    "isotope": "SKY",
     "types": [
       "POKEMON_TYPE_GRASS",
       "POKEMON_TYPE_FLYING"
@@ -8106,6 +8169,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "BUG",
     "types": [
       "POKEMON_TYPE_BUG"
     ],
@@ -8121,6 +8185,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "DARK",
     "types": [
       "POKEMON_TYPE_DARK"
     ],
@@ -8136,6 +8201,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "DRAGON",
     "types": [
       "POKEMON_TYPE_DRAGON"
     ],
@@ -8151,6 +8217,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "ELECTRIC",
     "types": [
       "POKEMON_TYPE_ELECTRIC"
     ],
@@ -8166,6 +8233,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "FAIRY",
     "types": [
       "POKEMON_TYPE_FAIRY"
     ],
@@ -8181,6 +8249,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "FIGHTING",
     "types": [
       "POKEMON_TYPE_FIGHTING"
     ],
@@ -8196,6 +8265,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "FIRE",
     "types": [
       "POKEMON_TYPE_FIRE"
     ],
@@ -8211,6 +8281,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "FLYING",
     "types": [
       "POKEMON_TYPE_FLYING"
     ],
@@ -8226,6 +8297,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "GHOST",
     "types": [
       "POKEMON_TYPE_GHOST"
     ],
@@ -8241,6 +8313,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "GRASS",
     "types": [
       "POKEMON_TYPE_GRASS"
     ],
@@ -8256,6 +8329,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "GROUND",
     "types": [
       "POKEMON_TYPE_GROUND"
     ],
@@ -8271,6 +8345,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "ICE",
     "types": [
       "POKEMON_TYPE_ICE"
     ],
@@ -8286,6 +8361,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_NORMAL"
     ],
@@ -8301,6 +8377,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "POISON",
     "types": [
       "POKEMON_TYPE_POISON"
     ],
@@ -8316,6 +8393,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "PSYCHIC",
     "types": [
       "POKEMON_TYPE_PSYCHIC"
     ],
@@ -8331,6 +8409,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "ROCK",
     "types": [
       "POKEMON_TYPE_ROCK"
     ],
@@ -8346,6 +8425,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "STEEL",
     "types": [
       "POKEMON_TYPE_STEEL"
     ],
@@ -8361,6 +8441,7 @@
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_ARCEUS",
+    "isotope": "WATER",
     "types": [
       "POKEMON_TYPE_WATER"
     ],
