@@ -27,6 +27,11 @@ if (process.argv[2] === 'filter=true') {
       }
     }
 
+    let isotope = _pm.templateId.split(_pm.pokemonId)[1];
+    if (isotope) {
+      _pm.isotope = isotope.replace(/^\_/, '');
+    }
+
     _pm.types = [
       pm.pokemonSettings.type,
       pm.pokemonSettings.type2
