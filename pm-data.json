@@ -6703,8 +6703,8 @@
     "pokemonId": "WORMADAM",
     "stats": {
       "baseStamina": 155,
-      "baseAttack": 127,
-      "baseDefense": 175
+      "baseAttack": 141,
+      "baseDefense": 180
     },
     "familyId": "FAMILY_BURMY",
     "isotope": "SANDY",
@@ -6719,8 +6719,8 @@
     "pokemonId": "WORMADAM",
     "stats": {
       "baseStamina": 155,
-      "baseAttack": 141,
-      "baseDefense": 180
+      "baseAttack": 127,
+      "baseDefense": 175
     },
     "familyId": "FAMILY_BURMY",
     "isotope": "TRASH",
@@ -7772,8 +7772,8 @@
     "pokemonId": "ROTOM",
     "stats": {
       "baseStamina": 137,
-      "baseAttack": 204,
-      "baseDefense": 219
+      "baseAttack": 185,
+      "baseDefense": 159
     },
     "familyId": "FAMILY_ROTOM",
     "types": [
@@ -7851,8 +7851,8 @@
     "pokemonId": "ROTOM",
     "stats": {
       "baseStamina": 137,
-      "baseAttack": 204,
-      "baseDefense": 219
+      "baseAttack": 185,
+      "baseDefense": 159
     },
     "familyId": "FAMILY_ROTOM",
     "isotope": "NORMAL",
@@ -7867,8 +7867,8 @@
     "pokemonId": "ROTOM",
     "stats": {
       "baseStamina": 137,
-      "baseAttack": 185,
-      "baseDefense": 159
+      "baseAttack": 204,
+      "baseDefense": 219
     },
     "familyId": "FAMILY_ROTOM",
     "isotope": "WASH",
@@ -8101,8 +8101,8 @@
     "pokemonId": "SHAYMIN",
     "stats": {
       "baseStamina": 225,
-      "baseAttack": 261,
-      "baseDefense": 166
+      "baseAttack": 210,
+      "baseDefense": 210
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_SHAYMIN",
@@ -8116,8 +8116,8 @@
     "pokemonId": "SHAYMIN",
     "stats": {
       "baseStamina": 225,
-      "baseAttack": 261,
-      "baseDefense": 166
+      "baseAttack": 210,
+      "baseDefense": 210
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_SHAYMIN",
@@ -8132,8 +8132,8 @@
     "pokemonId": "SHAYMIN",
     "stats": {
       "baseStamina": 225,
-      "baseAttack": 210,
-      "baseDefense": 210
+      "baseAttack": 261,
+      "baseDefense": 166
     },
     "rarity": "POKEMON_RARITY_MYTHIC",
     "familyId": "FAMILY_SHAYMIN",
