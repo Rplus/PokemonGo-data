@@ -7232,6 +7232,14 @@
       "quickSwapCooldownDurationSeconds": 60.0
     }
   }, {
+    "templateId": "COMBAT_STAT_STAGE_SETTINGS",
+    "combatStatStageSettings": {
+      "minimumStatStage": -4,
+      "maximumStatStage": 4,
+      "attackBuffMultiplier": [0.5, 0.5714286, 0.6666667, 0.8, 1.0, 1.25, 1.5, 1.75, 2.0],
+      "defenseBuffMultiplier": [0.5, 0.5714286, 0.6666667, 0.8, 1.0, 1.25, 1.5, 1.75, 2.0]
+    }
+  }, {
     "templateId": "COMBAT_STAT_STAGE_SETTINGS_KEY",
     "combatStatStageSettings": {
       "minimumStatStage": -4,
@@ -7561,7 +7569,12 @@
       "type": "POKEMON_TYPE_ROCK",
       "power": 70.0,
       "vfxName": "ancient_power",
-      "energyDelta": -45
+      "energyDelta": -45,
+      "buffs": {
+        "attackerAttackStatStageChange": 2,
+        "attackerDefenseStatStageChange": 2,
+        "buffActivationChance": 0.1
+      }
     }
   }, {
     "templateId": "COMBAT_V0063_MOVE_ROCK_TOMB",
@@ -7615,7 +7628,12 @@
       "type": "POKEMON_TYPE_GHOST",
       "power": 50.0,
       "vfxName": "ominous_wind",
-      "energyDelta": -40
+      "energyDelta": -40,
+      "buffs": {
+        "attackerAttackStatStageChange": 2,
+        "attackerDefenseStatStageChange": 2,
+        "buffActivationChance": 0.1
+      }
     }
   }, {
     "templateId": "COMBAT_V0070_MOVE_SHADOW_BALL",
@@ -8698,7 +8716,12 @@
       "type": "POKEMON_TYPE_BUG",
       "power": 70.0,
       "vfxName": "silver_wind",
-      "energyDelta": -45
+      "energyDelta": -45,
+      "buffs": {
+        "attackerAttackStatStageChange": 2,
+        "attackerDefenseStatStageChange": 2,
+        "buffActivationChance": 0.1
+      }
     }
   }, {
     "templateId": "COMBAT_V0263_MOVE_ASTONISH_FAST",
@@ -10931,6 +10954,9 @@
       }, {
         "form": "SPINDA_07",
         "assetBundleValue": 18
+      }, {
+        "form": "SPINDA_08",
+        "assetBundleValue": 19
       }]
     }
   }, {
@@ -12489,6 +12515,12 @@
     "templateId": "LUCKY_POKEMON_SETTINGS",
     "luckyPokemonSettings": {
       "powerUpStardustDiscountPercent": 0.5
+    }
+  }, {
+    "templateId": "ONBOARDING_V2_SETTINGS",
+    "onboardingV2Settings": {
+      "pokedexId": ["PIDGEY", "RATTATA", "CATERPIE", "PIDGEY", "RATTATA", "CATERPIE"],
+      "eggKmUntilHatch": 2
     }
   }, {
     "templateId": "PLAYER_LEVEL_SETTINGS",
@@ -16791,7 +16823,8 @@
     "genderSettings": {
       "pokemon": "COMBEE",
       "gender": {
-        "femalePercent": 1.0
+        "malePercent": 0.875,
+        "femalePercent": 0.125
       }
     }
   }, {
@@ -36222,7 +36255,7 @@
       "modelHeight": 0.4,
       "evolutionBranch": [{
         "evolution": "PILOSWINE",
-        "candyCost": 50
+        "candyCost": 25
       }],
       "modelScaleV2": 1.1,
       "buddyOffsetMale": [9.6, 0.0, 0.0],
@@ -36304,6 +36337,11 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.1,
+      "evolutionBranch": [{
+        "evolution": "MAMOSWINE",
+        "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+        "candyCost": 100
+      }],
       "modelScaleV2": 1.0,
       "buddyOffsetMale": [30.0, 0.0, 30.89],
       "buddyOffsetFemale": [30.0, 0.0, 30.89],
@@ -41077,7 +41115,8 @@
       "evolutionBranch": [{
         "evolution": "GALLADE",
         "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-        "candyCost": 100
+        "candyCost": 100,
+        "genderRequirement": "MALE"
       }, {
         "evolution": "GARDEVOIR",
         "candyCost": 100
@@ -46596,7 +46635,8 @@
       "evolutionBranch": [{
         "evolution": "FROSLASS",
         "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-        "candyCost": 100
+        "candyCost": 100,
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "GLALIE",
         "candyCost": 100
@@ -50015,10 +50055,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_PLANT"
+        "form": "WORMADAM_PLANT",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "buddyOffsetMale": [0.0, 0.0, 0.0],
@@ -50082,10 +50124,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_PLANT"
+        "form": "WORMADAM_PLANT",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "form": "BURMY_PLANT",
@@ -50150,10 +50194,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_SANDY"
+        "form": "WORMADAM_SANDY",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "form": "BURMY_SANDY",
@@ -50218,10 +50264,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_TRASH"
+        "form": "WORMADAM_TRASH",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "form": "BURMY_TRASH",
@@ -50605,7 +50653,8 @@
       "modelHeight": 0.3,
       "evolutionBranch": [{
         "evolution": "VESPIQUEN",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "FEMALE"
       }],
       "modelScaleV2": 1.27,
       "buddyOffsetMale": [0.0, 0.0, 21.0],
@@ -54629,8 +54678,8 @@
       "buddySize": "BUDDY_BIG",
       "modelHeight": 3.82,
       "modelScaleV2": 0.7,
-      "buddyOffsetMale": [0.0, 0.0, -141.0],
-      "buddyOffsetFemale": [0.0, 0.0, -141.0],
+      "buddyOffsetMale": [9.68, 0.0, -14.94],
+      "buddyOffsetFemale": [9.68, 0.0, -14.94],
       "buddyScale": 19.0,
       "thirdMove": {
         "stardustToUnlock": 50000,
@@ -55957,10 +56006,10 @@
       "animationTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
       "evolutionPips": 1,
       "rarity": "POKEMON_RARITY_LEGENDARY",
-      "pokedexHeightM": 4.5,
-      "pokedexWeightKg": 750.0,
-      "heightStdDev": 0.5625,
-      "weightStdDev": 93.75,
+      "pokedexHeightM": 6.9,
+      "pokedexWeightKg": 650.0,
+      "heightStdDev": 0.8625,
+      "weightStdDev": 81.25,
       "familyId": "FAMILY_GIRATINA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
@@ -56365,10 +56414,10 @@
       "animationTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
       "evolutionPips": 1,
       "rarity": "POKEMON_RARITY_MYTHIC",
-      "pokedexHeightM": 0.2,
-      "pokedexWeightKg": 2.1,
-      "heightStdDev": 0.025,
-      "weightStdDev": 0.2625,
+      "pokedexHeightM": 0.4,
+      "pokedexWeightKg": 5.2,
+      "heightStdDev": 0.05,
+      "weightStdDev": 0.65,
       "familyId": "FAMILY_SHAYMIN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
@@ -64848,5 +64897,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1549590777062"
+  "timestampMs": "1551794594941"
 }
