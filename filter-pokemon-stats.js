@@ -64,7 +64,7 @@ fileContent = JSON.stringify(pmData, null, 2);
   for (let dex in d) {
     let a = [...d[dex]];
     if (d[dex].length !== 1) {
-      a.filter(pm => pm.isotope)
+      a = a.filter(pm => pm.isotope);
     }
     a.forEach(i => {
       let ads = `${i.stats.baseAttack}-${i.stats.baseDefense}-${i.stats.baseStamina}`;
@@ -79,5 +79,5 @@ fileContent = JSON.stringify(pmData, null, 2);
     });
   }
 
-  outputJSON(arr, 'pm-data-with-ads.json', 0);
+  outputJSON(arr, 'pm-data-with-ads.json', 2);
 })(pmData);
