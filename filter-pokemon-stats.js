@@ -42,8 +42,8 @@ if (process.argv[2] === 'filter=true') {
   });
 }
 
-let outputJSON = (json = {}, fileName = '') => {
-  let fileContent = JSON.stringify(json, null, 2);
+let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
+  let fileContent = JSON.stringify(json, null, jsonSpace);
   fs.writeFileSync(fileName, fileContent);
   console.log(`JSON saved as ${fileName}! ( ${fileContent.length / 1000} kb )`);
 };
@@ -79,6 +79,5 @@ fileContent = JSON.stringify(pmData, null, 2);
     });
   }
 
-  outputJSON(arr, 'pm-data-with-ads.json');
-  fileContent = JSON.stringify(pmData, null, 2);
+  outputJSON(arr, 'pm-data-with-ads.json', 0);
 })(pmData);
