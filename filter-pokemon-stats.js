@@ -58,3 +58,27 @@ pmData = pmData.reduce((all, pm) => {
 
 outputJSON(pmData, 'pm-data-by-dex.json');
 fileContent = JSON.stringify(pmData, null, 2);
+
+((d) => {
+  var arr = [];
+  for (let dex in d) {
+    let a = [...d[dex]];
+    if (d[dex].length !== 1) {
+      a.filter(pm => pm.isotope)
+    }
+    a.forEach(i => {
+      let ads = `${i.stats.baseAttack}-${i.stats.baseDefense}-${i.stats.baseStamina}`;
+      let o = {
+        dex: +dex,
+        ads: ads.split('-').map(Number),
+      };
+      if (i.isotope) {
+        o.isotope = i.isotope.toLowerCase();
+      }
+      arr.push(o);
+    });
+  }
+
+  outputJSON(arr, 'pm-data-with-ads.json');
+  fileContent = JSON.stringify(pmData, null, 2);
+})(pmData);
