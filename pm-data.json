@@ -2730,6 +2730,38 @@
     "pokedex": 150
   },
   {
+    "templateId": "V0150_POKEMON_MEWTWO_A",
+    "pokemonId": "MEWTWO",
+    "stats": {
+      "baseStamina": 214,
+      "baseAttack": 182,
+      "baseDefense": 278
+    },
+    "rarity": "POKEMON_RARITY_LEGENDARY",
+    "familyId": "FAMILY_MEWTWO",
+    "isotope": "A",
+    "types": [
+      "POKEMON_TYPE_PSYCHIC"
+    ],
+    "pokedex": 150
+  },
+  {
+    "templateId": "V0150_POKEMON_MEWTWO_NORMAL",
+    "pokemonId": "MEWTWO",
+    "stats": {
+      "baseStamina": 214,
+      "baseAttack": 300,
+      "baseDefense": 182
+    },
+    "rarity": "POKEMON_RARITY_LEGENDARY",
+    "familyId": "FAMILY_MEWTWO",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_PSYCHIC"
+    ],
+    "pokedex": 150
+  },
+  {
     "templateId": "V0151_POKEMON_MEW",
     "pokemonId": "MEW",
     "stats": {
