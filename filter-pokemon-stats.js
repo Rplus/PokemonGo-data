@@ -223,4 +223,5 @@ fileContent = JSON.stringify(pmData, null, 2);
   .sort();
 
   outputJSON(op, 'pm-index.json', 2);
+  outputJSON(op, 'pm-index.min.json', null);
 })(allData);
