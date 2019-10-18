@@ -36541,6 +36541,234 @@
   ],
   "moves": [
     {
+      "templateId": "V0217_MOVE_ICE_SHARD_FAST",
+      "moveSettings": {
+        "movementId": "ICE_SHARD_FAST",
+        "pokemonType": "$PT_ICE",
+        "power": 12,
+        "durationMs": 1200,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 900,
+        "energyDelta": 12
+      }
+    },
+    {
+      "templateId": "V0208_MOVE_KARATE_CHOP_FAST",
+      "moveSettings": {
+        "movementId": "KARATE_CHOP_FAST",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 8,
+        "durationMs": 800,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 800,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "V0209_MOVE_EMBER_FAST",
+      "moveSettings": {
+        "movementId": "EMBER_FAST",
+        "pokemonType": "$PT_FIRE",
+        "power": 10,
+        "durationMs": 1000,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 800,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "V0211_MOVE_PECK_FAST",
+      "moveSettings": {
+        "movementId": "PECK_FAST",
+        "pokemonType": "$PT_FLYING",
+        "power": 10,
+        "durationMs": 1000,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 900,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "V0206_MOVE_SPARK_FAST",
+      "moveSettings": {
+        "movementId": "SPARK_FAST",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 6,
+        "durationMs": 700,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 700,
+        "energyDelta": 9
+      }
+    },
+    {
+      "templateId": "V0210_MOVE_WING_ATTACK_FAST",
+      "moveSettings": {
+        "movementId": "WING_ATTACK_FAST",
+        "pokemonType": "$PT_FLYING",
+        "power": 8,
+        "durationMs": 800,
+        "damageWindowStartMs": 550,
+        "damageWindowEndMs": 750,
+        "energyDelta": 9
+      }
+    },
+    {
+      "templateId": "V0203_MOVE_SUCKER_PUNCH_FAST",
+      "moveSettings": {
+        "movementId": "SUCKER_PUNCH_FAST",
+        "pokemonType": "$PT_DARK",
+        "power": 7,
+        "durationMs": 700,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 700,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "V0205_MOVE_THUNDER_SHOCK_FAST",
+      "moveSettings": {
+        "movementId": "THUNDER_SHOCK_FAST",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 5,
+        "durationMs": 600,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 600,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "V0218_MOVE_FROST_BREATH_FAST",
+      "moveSettings": {
+        "movementId": "FROST_BREATH_FAST",
+        "pokemonType": "$PT_ICE",
+        "power": 10,
+        "durationMs": 900,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 750,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "V0215_MOVE_RAZOR_LEAF_FAST",
+      "moveSettings": {
+        "movementId": "RAZOR_LEAF_FAST",
+        "pokemonType": "$PT_GRASS",
+        "power": 13,
+        "durationMs": 1000,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 850,
+        "energyDelta": 7
+      }
+    },
+    {
+      "templateId": "V0216_MOVE_MUD_SHOT_FAST",
+      "moveSettings": {
+        "movementId": "MUD_SHOT_FAST",
+        "pokemonType": "$PT_GROUND",
+        "power": 5,
+        "durationMs": 600,
+        "damageWindowStartMs": 350,
+        "damageWindowEndMs": 550,
+        "energyDelta": 7
+      }
+    },
+    {
+      "templateId": "V0200_MOVE_FURY_CUTTER_FAST",
+      "moveSettings": {
+        "movementId": "FURY_CUTTER_FAST",
+        "pokemonType": "$PT_BUG",
+        "power": 3,
+        "durationMs": 400,
+        "damageWindowStartMs": 100,
+        "damageWindowEndMs": 400,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0201_MOVE_BUG_BITE_FAST",
+      "moveSettings": {
+        "movementId": "BUG_BITE_FAST",
+        "pokemonType": "$PT_BUG",
+        "power": 5,
+        "durationMs": 500,
+        "damageWindowStartMs": 250,
+        "damageWindowEndMs": 450,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0207_MOVE_LOW_KICK_FAST",
+      "moveSettings": {
+        "movementId": "LOW_KICK_FAST",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 6,
+        "durationMs": 600,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 600,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0212_MOVE_LICK_FAST",
+      "moveSettings": {
+        "movementId": "LICK_FAST",
+        "pokemonType": "$PT_GHOST",
+        "power": 5,
+        "durationMs": 500,
+        "damageWindowStartMs": 200,
+        "damageWindowEndMs": 500,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0213_MOVE_SHADOW_CLAW_FAST",
+      "moveSettings": {
+        "movementId": "SHADOW_CLAW_FAST",
+        "pokemonType": "$PT_GHOST",
+        "power": 9,
+        "durationMs": 700,
+        "damageWindowStartMs": 250,
+        "damageWindowEndMs": 500,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0214_MOVE_VINE_WHIP_FAST",
+      "moveSettings": {
+        "movementId": "VINE_WHIP_FAST",
+        "pokemonType": "$PT_GRASS",
+        "power": 7,
+        "durationMs": 600,
+        "damageWindowStartMs": 350,
+        "damageWindowEndMs": 600,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0202_MOVE_BITE_FAST",
+      "moveSettings": {
+        "movementId": "BITE_FAST",
+        "pokemonType": "$PT_DARK",
+        "power": 6,
+        "durationMs": 500,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "energyDelta": 4
+      }
+    },
+    {
+      "templateId": "V0204_MOVE_DRAGON_BREATH_FAST",
+      "moveSettings": {
+        "movementId": "DRAGON_BREATH_FAST",
+        "pokemonType": "$PT_DRAGON",
+        "power": 6,
+        "durationMs": 500,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "energyDelta": 4
+      }
+    },
+    {
       "templateId": "V0013_MOVE_WRAP",
       "moveSettings": {
         "movementId": "WRAP",
@@ -36550,30 +36778,6 @@
         "damageWindowStartMs": 2050,
         "damageWindowEndMs": 2700,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0014_MOVE_HYPER_BEAM",
-      "moveSettings": {
-        "movementId": "HYPER_BEAM",
-        "pokemonType": "$PT_NORMAL",
-        "power": 150,
-        "durationMs": 3800,
-        "damageWindowStartMs": 3300,
-        "damageWindowEndMs": 3600,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0016_MOVE_DARK_PULSE",
-      "moveSettings": {
-        "movementId": "DARK_PULSE",
-        "pokemonType": "$PT_DARK",
-        "power": 80,
-        "durationMs": 3000,
-        "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 2300,
-        "energyDelta": -50
       }
     },
     {
@@ -36598,102 +36802,6 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1500,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0021_MOVE_FLAME_WHEEL",
-      "moveSettings": {
-        "movementId": "FLAME_WHEEL",
-        "pokemonType": "$PT_FIRE",
-        "power": 60,
-        "durationMs": 2700,
-        "damageWindowStartMs": 2100,
-        "damageWindowEndMs": 2400,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0022_MOVE_MEGAHORN",
-      "moveSettings": {
-        "movementId": "MEGAHORN",
-        "pokemonType": "$PT_BUG",
-        "power": 90,
-        "durationMs": 2200,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 1900,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0024_MOVE_FLAMETHROWER",
-      "moveSettings": {
-        "movementId": "FLAMETHROWER",
-        "pokemonType": "$PT_FIRE",
-        "power": 70,
-        "durationMs": 2200,
-        "damageWindowStartMs": 1500,
-        "damageWindowEndMs": 1700,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0026_MOVE_DIG",
-      "moveSettings": {
-        "movementId": "DIG",
-        "pokemonType": "$PT_GROUND",
-        "power": 100,
-        "durationMs": 4700,
-        "damageWindowStartMs": 2800,
-        "damageWindowEndMs": 4500,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0028_MOVE_CROSS_CHOP",
-      "moveSettings": {
-        "movementId": "CROSS_CHOP",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 50,
-        "durationMs": 1500,
-        "damageWindowStartMs": 800,
-        "damageWindowEndMs": 1200,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0030_MOVE_PSYBEAM",
-      "moveSettings": {
-        "movementId": "PSYBEAM",
-        "pokemonType": "$PT_PSYCHIC",
-        "power": 70,
-        "durationMs": 3200,
-        "damageWindowStartMs": 1300,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0031_MOVE_EARTHQUAKE",
-      "moveSettings": {
-        "movementId": "EARTHQUAKE",
-        "pokemonType": "$PT_GROUND",
-        "power": 120,
-        "durationMs": 3600,
-        "damageWindowStartMs": 2700,
-        "damageWindowEndMs": 3500,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0032_MOVE_STONE_EDGE",
-      "moveSettings": {
-        "movementId": "STONE_EDGE",
-        "pokemonType": "$PT_ROCK",
-        "power": 100,
-        "durationMs": 2300,
-        "damageWindowStartMs": 700,
-        "damageWindowEndMs": 2100,
-        "energyDelta": -100
       }
     },
     {
@@ -36733,18 +36841,6 @@
       }
     },
     {
-      "templateId": "V0036_MOVE_FLASH_CANNON",
-      "moveSettings": {
-        "movementId": "FLASH_CANNON",
-        "pokemonType": "$PT_STEEL",
-        "power": 100,
-        "durationMs": 2700,
-        "damageWindowStartMs": 1600,
-        "damageWindowEndMs": 2500,
-        "energyDelta": -100
-      }
-    },
-    {
       "templateId": "V0038_MOVE_DRILL_PECK",
       "moveSettings": {
         "movementId": "DRILL_PECK",
@@ -36757,42 +36853,6 @@
       }
     },
     {
-      "templateId": "V0039_MOVE_ICE_BEAM",
-      "moveSettings": {
-        "movementId": "ICE_BEAM",
-        "pokemonType": "$PT_ICE",
-        "power": 90,
-        "durationMs": 3300,
-        "damageWindowStartMs": 1300,
-        "damageWindowEndMs": 2800,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0040_MOVE_BLIZZARD",
-      "moveSettings": {
-        "movementId": "BLIZZARD",
-        "pokemonType": "$PT_ICE",
-        "power": 130,
-        "durationMs": 3100,
-        "damageWindowStartMs": 1500,
-        "damageWindowEndMs": 2900,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0042_MOVE_HEAT_WAVE",
-      "moveSettings": {
-        "movementId": "HEAT_WAVE",
-        "pokemonType": "$PT_FIRE",
-        "power": 95,
-        "durationMs": 3000,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 2800,
-        "energyDelta": -100
-      }
-    },
-    {
       "templateId": "V0045_MOVE_AERIAL_ACE",
       "moveSettings": {
         "movementId": "AERIAL_ACE",
@@ -36802,54 +36862,6 @@
         "damageWindowStartMs": 1900,
         "damageWindowEndMs": 2200,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0046_MOVE_DRILL_RUN",
-      "moveSettings": {
-        "movementId": "DRILL_RUN",
-        "pokemonType": "$PT_GROUND",
-        "power": 80,
-        "durationMs": 2800,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 2600,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0047_MOVE_PETAL_BLIZZARD",
-      "moveSettings": {
-        "movementId": "PETAL_BLIZZARD",
-        "pokemonType": "$PT_GRASS",
-        "power": 110,
-        "durationMs": 2600,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 2300,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0048_MOVE_MEGA_DRAIN",
-      "moveSettings": {
-        "movementId": "MEGA_DRAIN",
-        "pokemonType": "$PT_GRASS",
-        "power": 25,
-        "durationMs": 2600,
-        "damageWindowStartMs": 950,
-        "damageWindowEndMs": 2000,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0049_MOVE_BUG_BUZZ",
-      "moveSettings": {
-        "movementId": "BUG_BUZZ",
-        "pokemonType": "$PT_BUG",
-        "power": 90,
-        "durationMs": 3700,
-        "damageWindowStartMs": 2000,
-        "damageWindowEndMs": 3100,
-        "energyDelta": -50
       }
     },
     {
@@ -36886,18 +36898,6 @@
         "damageWindowStartMs": 1450,
         "damageWindowEndMs": 1700,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0054_MOVE_SUBMISSION",
-      "moveSettings": {
-        "movementId": "SUBMISSION",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 60,
-        "durationMs": 2200,
-        "damageWindowStartMs": 1800,
-        "damageWindowEndMs": 2000,
-        "energyDelta": -50
       }
     },
     {
@@ -36973,42 +36973,6 @@
       }
     },
     {
-      "templateId": "V0063_MOVE_ROCK_TOMB",
-      "moveSettings": {
-        "movementId": "ROCK_TOMB",
-        "pokemonType": "$PT_ROCK",
-        "power": 70,
-        "durationMs": 3200,
-        "damageWindowStartMs": 2250,
-        "damageWindowEndMs": 3000,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0064_MOVE_ROCK_SLIDE",
-      "moveSettings": {
-        "movementId": "ROCK_SLIDE",
-        "pokemonType": "$PT_ROCK",
-        "power": 80,
-        "durationMs": 2700,
-        "damageWindowStartMs": 1500,
-        "damageWindowEndMs": 2600,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0065_MOVE_POWER_GEM",
-      "moveSettings": {
-        "movementId": "POWER_GEM",
-        "pokemonType": "$PT_ROCK",
-        "power": 80,
-        "durationMs": 2900,
-        "damageWindowStartMs": 1950,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -50
-      }
-    },
-    {
       "templateId": "V0066_MOVE_SHADOW_SNEAK",
       "moveSettings": {
         "movementId": "SHADOW_SNEAK",
@@ -37045,18 +37009,6 @@
       }
     },
     {
-      "templateId": "V0070_MOVE_SHADOW_BALL",
-      "moveSettings": {
-        "movementId": "SHADOW_BALL",
-        "pokemonType": "$PT_GHOST",
-        "power": 100,
-        "durationMs": 3000,
-        "damageWindowStartMs": 2400,
-        "damageWindowEndMs": 2800,
-        "energyDelta": -50
-      }
-    },
-    {
       "templateId": "V0072_MOVE_MAGNET_BOMB",
       "moveSettings": {
         "movementId": "MAGNET_BOMB",
@@ -37066,30 +37018,6 @@
         "damageWindowStartMs": 2200,
         "damageWindowEndMs": 2600,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0074_MOVE_IRON_HEAD",
-      "moveSettings": {
-        "movementId": "IRON_HEAD",
-        "pokemonType": "$PT_STEEL",
-        "power": 60,
-        "durationMs": 1900,
-        "damageWindowStartMs": 1300,
-        "damageWindowEndMs": 1700,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0075_MOVE_PARABOLIC_CHARGE",
-      "moveSettings": {
-        "movementId": "PARABOLIC_CHARGE",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 25,
-        "durationMs": 2800,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 2400,
-        "energyDelta": -50
       }
     },
     {
@@ -37105,30 +37033,6 @@
       }
     },
     {
-      "templateId": "V0078_MOVE_THUNDER",
-      "moveSettings": {
-        "movementId": "THUNDER",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 100,
-        "durationMs": 2400,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 2200,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0079_MOVE_THUNDERBOLT",
-      "moveSettings": {
-        "movementId": "THUNDERBOLT",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 80,
-        "durationMs": 2500,
-        "damageWindowStartMs": 1800,
-        "damageWindowEndMs": 2300,
-        "energyDelta": -50
-      }
-    },
-    {
       "templateId": "V0080_MOVE_TWISTER",
       "moveSettings": {
         "movementId": "TWISTER",
@@ -37138,18 +37042,6 @@
         "damageWindowStartMs": 950,
         "damageWindowEndMs": 2600,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0082_MOVE_DRAGON_PULSE",
-      "moveSettings": {
-        "movementId": "DRAGON_PULSE",
-        "pokemonType": "$PT_DRAGON",
-        "power": 90,
-        "durationMs": 3600,
-        "damageWindowStartMs": 2150,
-        "damageWindowEndMs": 3300,
-        "energyDelta": -50
       }
     },
     {
@@ -37177,54 +37069,6 @@
       }
     },
     {
-      "templateId": "V0085_MOVE_DRAINING_KISS",
-      "moveSettings": {
-        "movementId": "DRAINING_KISS",
-        "pokemonType": "$PT_FAIRY",
-        "power": 60,
-        "durationMs": 2600,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 1300,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0086_MOVE_DAZZLING_GLEAM",
-      "moveSettings": {
-        "movementId": "DAZZLING_GLEAM",
-        "pokemonType": "$PT_FAIRY",
-        "power": 100,
-        "durationMs": 3500,
-        "damageWindowStartMs": 2100,
-        "damageWindowEndMs": 3300,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0087_MOVE_MOONBLAST",
-      "moveSettings": {
-        "movementId": "MOONBLAST",
-        "pokemonType": "$PT_FAIRY",
-        "power": 130,
-        "durationMs": 3900,
-        "damageWindowStartMs": 2200,
-        "damageWindowEndMs": 3700,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0088_MOVE_PLAY_ROUGH",
-      "moveSettings": {
-        "movementId": "PLAY_ROUGH",
-        "pokemonType": "$PT_FAIRY",
-        "power": 90,
-        "durationMs": 2900,
-        "damageWindowStartMs": 1300,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -50
-      }
-    },
-    {
       "templateId": "V0089_MOVE_CROSS_POISON",
       "moveSettings": {
         "movementId": "CROSS_POISON",
@@ -37234,42 +37078,6 @@
         "damageWindowStartMs": 900,
         "damageWindowEndMs": 1300,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0090_MOVE_SLUDGE_BOMB",
-      "moveSettings": {
-        "movementId": "SLUDGE_BOMB",
-        "pokemonType": "$PT_POISON",
-        "power": 80,
-        "durationMs": 2300,
-        "damageWindowStartMs": 1100,
-        "damageWindowEndMs": 2100,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0091_MOVE_SLUDGE_WAVE",
-      "moveSettings": {
-        "movementId": "SLUDGE_WAVE",
-        "pokemonType": "$PT_POISON",
-        "power": 110,
-        "durationMs": 3200,
-        "damageWindowStartMs": 2000,
-        "damageWindowEndMs": 3000,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0092_MOVE_GUNK_SHOT",
-      "moveSettings": {
-        "movementId": "GUNK_SHOT",
-        "pokemonType": "$PT_POISON",
-        "power": 130,
-        "durationMs": 3100,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -100
       }
     },
     {
@@ -37285,18 +37093,6 @@
       }
     },
     {
-      "templateId": "V0095_MOVE_BULLDOZE",
-      "moveSettings": {
-        "movementId": "BULLDOZE",
-        "pokemonType": "$PT_GROUND",
-        "power": 80,
-        "durationMs": 3500,
-        "damageWindowStartMs": 2600,
-        "damageWindowEndMs": 3100,
-        "energyDelta": -50
-      }
-    },
-    {
       "templateId": "V0096_MOVE_MUD_BOMB",
       "moveSettings": {
         "movementId": "MUD_BOMB",
@@ -37306,18 +37102,6 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2100,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0099_MOVE_SIGNAL_BEAM",
-      "moveSettings": {
-        "movementId": "SIGNAL_BEAM",
-        "pokemonType": "$PT_BUG",
-        "power": 75,
-        "durationMs": 2900,
-        "damageWindowStartMs": 1800,
-        "damageWindowEndMs": 2600,
-        "energyDelta": -50
       }
     },
     {
@@ -37345,6 +37129,414 @@
       }
     },
     {
+      "templateId": "V0111_MOVE_ICY_WIND",
+      "moveSettings": {
+        "movementId": "ICY_WIND",
+        "pokemonType": "$PT_ICE",
+        "power": 60,
+        "durationMs": 3300,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2800,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0115_MOVE_FIRE_PUNCH",
+      "moveSettings": {
+        "movementId": "FIRE_PUNCH",
+        "pokemonType": "$PT_FIRE",
+        "power": 55,
+        "durationMs": 2200,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0117_MOVE_LEAF_BLADE",
+      "moveSettings": {
+        "movementId": "LEAF_BLADE",
+        "pokemonType": "$PT_GRASS",
+        "power": 70,
+        "durationMs": 2400,
+        "damageWindowStartMs": 1250,
+        "damageWindowEndMs": 2200,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0123_MOVE_BRICK_BREAK",
+      "moveSettings": {
+        "movementId": "BRICK_BREAK",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 40,
+        "durationMs": 1600,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1400,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0126_MOVE_HORN_ATTACK",
+      "moveSettings": {
+        "movementId": "HORN_ATTACK",
+        "pokemonType": "$PT_NORMAL",
+        "power": 40,
+        "durationMs": 1850,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1650,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0131_MOVE_BODY_SLAM",
+      "moveSettings": {
+        "movementId": "BODY_SLAM",
+        "pokemonType": "$PT_NORMAL",
+        "power": 50,
+        "durationMs": 1900,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0132_MOVE_REST",
+      "moveSettings": {
+        "movementId": "REST",
+        "pokemonType": "$PT_NORMAL",
+        "power": 50,
+        "durationMs": 1900,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0136_MOVE_WRAP_GREEN",
+      "moveSettings": {
+        "movementId": "WRAP_GREEN",
+        "pokemonType": "$PT_NORMAL",
+        "power": 25,
+        "durationMs": 2900,
+        "damageWindowStartMs": 2050,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0137_MOVE_WRAP_PINK",
+      "moveSettings": {
+        "movementId": "WRAP_PINK",
+        "pokemonType": "$PT_NORMAL",
+        "power": 25,
+        "durationMs": 2900,
+        "damageWindowStartMs": 2050,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0016_MOVE_DARK_PULSE",
+      "moveSettings": {
+        "movementId": "DARK_PULSE",
+        "pokemonType": "$PT_DARK",
+        "power": 80,
+        "durationMs": 3000,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2300,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0021_MOVE_FLAME_WHEEL",
+      "moveSettings": {
+        "movementId": "FLAME_WHEEL",
+        "pokemonType": "$PT_FIRE",
+        "power": 60,
+        "durationMs": 2700,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2400,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0024_MOVE_FLAMETHROWER",
+      "moveSettings": {
+        "movementId": "FLAMETHROWER",
+        "pokemonType": "$PT_FIRE",
+        "power": 70,
+        "durationMs": 2200,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0026_MOVE_DIG",
+      "moveSettings": {
+        "movementId": "DIG",
+        "pokemonType": "$PT_GROUND",
+        "power": 100,
+        "durationMs": 4700,
+        "damageWindowStartMs": 2800,
+        "damageWindowEndMs": 4500,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0028_MOVE_CROSS_CHOP",
+      "moveSettings": {
+        "movementId": "CROSS_CHOP",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 50,
+        "durationMs": 1500,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1200,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0030_MOVE_PSYBEAM",
+      "moveSettings": {
+        "movementId": "PSYBEAM",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 70,
+        "durationMs": 3200,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0039_MOVE_ICE_BEAM",
+      "moveSettings": {
+        "movementId": "ICE_BEAM",
+        "pokemonType": "$PT_ICE",
+        "power": 90,
+        "durationMs": 3300,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2800,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0046_MOVE_DRILL_RUN",
+      "moveSettings": {
+        "movementId": "DRILL_RUN",
+        "pokemonType": "$PT_GROUND",
+        "power": 80,
+        "durationMs": 2800,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0048_MOVE_MEGA_DRAIN",
+      "moveSettings": {
+        "movementId": "MEGA_DRAIN",
+        "pokemonType": "$PT_GRASS",
+        "power": 25,
+        "durationMs": 2600,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0049_MOVE_BUG_BUZZ",
+      "moveSettings": {
+        "movementId": "BUG_BUZZ",
+        "pokemonType": "$PT_BUG",
+        "power": 90,
+        "durationMs": 3700,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0054_MOVE_SUBMISSION",
+      "moveSettings": {
+        "movementId": "SUBMISSION",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 60,
+        "durationMs": 2200,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0063_MOVE_ROCK_TOMB",
+      "moveSettings": {
+        "movementId": "ROCK_TOMB",
+        "pokemonType": "$PT_ROCK",
+        "power": 70,
+        "durationMs": 3200,
+        "damageWindowStartMs": 2250,
+        "damageWindowEndMs": 3000,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0064_MOVE_ROCK_SLIDE",
+      "moveSettings": {
+        "movementId": "ROCK_SLIDE",
+        "pokemonType": "$PT_ROCK",
+        "power": 80,
+        "durationMs": 2700,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0065_MOVE_POWER_GEM",
+      "moveSettings": {
+        "movementId": "POWER_GEM",
+        "pokemonType": "$PT_ROCK",
+        "power": 80,
+        "durationMs": 2900,
+        "damageWindowStartMs": 1950,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0070_MOVE_SHADOW_BALL",
+      "moveSettings": {
+        "movementId": "SHADOW_BALL",
+        "pokemonType": "$PT_GHOST",
+        "power": 100,
+        "durationMs": 3000,
+        "damageWindowStartMs": 2400,
+        "damageWindowEndMs": 2800,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0074_MOVE_IRON_HEAD",
+      "moveSettings": {
+        "movementId": "IRON_HEAD",
+        "pokemonType": "$PT_STEEL",
+        "power": 60,
+        "durationMs": 1900,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0075_MOVE_PARABOLIC_CHARGE",
+      "moveSettings": {
+        "movementId": "PARABOLIC_CHARGE",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 25,
+        "durationMs": 2800,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0079_MOVE_THUNDERBOLT",
+      "moveSettings": {
+        "movementId": "THUNDERBOLT",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 80,
+        "durationMs": 2500,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2300,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0082_MOVE_DRAGON_PULSE",
+      "moveSettings": {
+        "movementId": "DRAGON_PULSE",
+        "pokemonType": "$PT_DRAGON",
+        "power": 90,
+        "durationMs": 3600,
+        "damageWindowStartMs": 2150,
+        "damageWindowEndMs": 3300,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0085_MOVE_DRAINING_KISS",
+      "moveSettings": {
+        "movementId": "DRAINING_KISS",
+        "pokemonType": "$PT_FAIRY",
+        "power": 60,
+        "durationMs": 2600,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1300,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0086_MOVE_DAZZLING_GLEAM",
+      "moveSettings": {
+        "movementId": "DAZZLING_GLEAM",
+        "pokemonType": "$PT_FAIRY",
+        "power": 100,
+        "durationMs": 3500,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 3300,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0088_MOVE_PLAY_ROUGH",
+      "moveSettings": {
+        "movementId": "PLAY_ROUGH",
+        "pokemonType": "$PT_FAIRY",
+        "power": 90,
+        "durationMs": 2900,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0090_MOVE_SLUDGE_BOMB",
+      "moveSettings": {
+        "movementId": "SLUDGE_BOMB",
+        "pokemonType": "$PT_POISON",
+        "power": 80,
+        "durationMs": 2300,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 2100,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0095_MOVE_BULLDOZE",
+      "moveSettings": {
+        "movementId": "BULLDOZE",
+        "pokemonType": "$PT_GROUND",
+        "power": 80,
+        "durationMs": 3500,
+        "damageWindowStartMs": 2600,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0099_MOVE_SIGNAL_BEAM",
+      "moveSettings": {
+        "movementId": "SIGNAL_BEAM",
+        "pokemonType": "$PT_BUG",
+        "power": 75,
+        "durationMs": 2900,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -50
+      }
+    },
+    {
       "templateId": "V0102_MOVE_FLAME_BURST",
       "moveSettings": {
         "movementId": "FLAME_BURST",
@@ -37354,18 +37546,6 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2100,
         "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0103_MOVE_FIRE_BLAST",
-      "moveSettings": {
-        "movementId": "FIRE_BLAST",
-        "pokemonType": "$PT_FIRE",
-        "power": 140,
-        "durationMs": 4200,
-        "damageWindowStartMs": 3100,
-        "damageWindowEndMs": 3900,
-        "energyDelta": -100
       }
     },
     {
@@ -37405,18 +37585,6 @@
       }
     },
     {
-      "templateId": "V0107_MOVE_HYDRO_PUMP",
-      "moveSettings": {
-        "movementId": "HYDRO_PUMP",
-        "pokemonType": "$PT_WATER",
-        "power": 130,
-        "durationMs": 3300,
-        "damageWindowStartMs": 900,
-        "damageWindowEndMs": 3000,
-        "energyDelta": -100
-      }
-    },
-    {
       "templateId": "V0108_MOVE_PSYCHIC",
       "moveSettings": {
         "movementId": "PSYCHIC",
@@ -37438,66 +37606,6 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2000,
         "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0111_MOVE_ICY_WIND",
-      "moveSettings": {
-        "movementId": "ICY_WIND",
-        "pokemonType": "$PT_ICE",
-        "power": 60,
-        "durationMs": 3300,
-        "damageWindowStartMs": 2000,
-        "damageWindowEndMs": 2800,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0114_MOVE_GIGA_DRAIN",
-      "moveSettings": {
-        "movementId": "GIGA_DRAIN",
-        "pokemonType": "$PT_GRASS",
-        "power": 50,
-        "durationMs": 3900,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 2200,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0115_MOVE_FIRE_PUNCH",
-      "moveSettings": {
-        "movementId": "FIRE_PUNCH",
-        "pokemonType": "$PT_FIRE",
-        "power": 55,
-        "durationMs": 2200,
-        "damageWindowStartMs": 1500,
-        "damageWindowEndMs": 1900,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0116_MOVE_SOLAR_BEAM",
-      "moveSettings": {
-        "movementId": "SOLAR_BEAM",
-        "pokemonType": "$PT_GRASS",
-        "power": 180,
-        "durationMs": 4900,
-        "damageWindowStartMs": 2700,
-        "damageWindowEndMs": 4700,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0117_MOVE_LEAF_BLADE",
-      "moveSettings": {
-        "movementId": "LEAF_BLADE",
-        "pokemonType": "$PT_GRASS",
-        "power": 70,
-        "durationMs": 2400,
-        "damageWindowStartMs": 1250,
-        "damageWindowEndMs": 2200,
-        "energyDelta": -33
       }
     },
     {
@@ -37525,30 +37633,6 @@
       }
     },
     {
-      "templateId": "V0122_MOVE_HURRICANE",
-      "moveSettings": {
-        "movementId": "HURRICANE",
-        "pokemonType": "$PT_FLYING",
-        "power": 110,
-        "durationMs": 2700,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 2400,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0123_MOVE_BRICK_BREAK",
-      "moveSettings": {
-        "movementId": "BRICK_BREAK",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 40,
-        "durationMs": 1600,
-        "damageWindowStartMs": 800,
-        "damageWindowEndMs": 1400,
-        "energyDelta": -33
-      }
-    },
-    {
       "templateId": "V0125_MOVE_SWIFT",
       "moveSettings": {
         "movementId": "SWIFT",
@@ -37558,18 +37642,6 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 2600,
         "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0126_MOVE_HORN_ATTACK",
-      "moveSettings": {
-        "movementId": "HORN_ATTACK",
-        "pokemonType": "$PT_NORMAL",
-        "power": 40,
-        "durationMs": 1850,
-        "damageWindowStartMs": 800,
-        "damageWindowEndMs": 1650,
-        "energyDelta": -33
       }
     },
     {
@@ -37597,27 +37669,207 @@
       }
     },
     {
-      "templateId": "V0131_MOVE_BODY_SLAM",
+      "templateId": "V0014_MOVE_HYPER_BEAM",
       "moveSettings": {
-        "movementId": "BODY_SLAM",
+        "movementId": "HYPER_BEAM",
         "pokemonType": "$PT_NORMAL",
-        "power": 50,
-        "durationMs": 1900,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 1700,
-        "energyDelta": -33
+        "power": 150,
+        "durationMs": 3800,
+        "damageWindowStartMs": 3300,
+        "damageWindowEndMs": 3600,
+        "energyDelta": -100
       }
     },
     {
-      "templateId": "V0132_MOVE_REST",
+      "templateId": "V0022_MOVE_MEGAHORN",
       "moveSettings": {
-        "movementId": "REST",
-        "pokemonType": "$PT_NORMAL",
-        "power": 50,
-        "durationMs": 1900,
+        "movementId": "MEGAHORN",
+        "pokemonType": "$PT_BUG",
+        "power": 90,
+        "durationMs": 2200,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0031_MOVE_EARTHQUAKE",
+      "moveSettings": {
+        "movementId": "EARTHQUAKE",
+        "pokemonType": "$PT_GROUND",
+        "power": 120,
+        "durationMs": 3600,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0032_MOVE_STONE_EDGE",
+      "moveSettings": {
+        "movementId": "STONE_EDGE",
+        "pokemonType": "$PT_ROCK",
+        "power": 100,
+        "durationMs": 2300,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 2100,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0036_MOVE_FLASH_CANNON",
+      "moveSettings": {
+        "movementId": "FLASH_CANNON",
+        "pokemonType": "$PT_STEEL",
+        "power": 100,
+        "durationMs": 2700,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0040_MOVE_BLIZZARD",
+      "moveSettings": {
+        "movementId": "BLIZZARD",
+        "pokemonType": "$PT_ICE",
+        "power": 130,
+        "durationMs": 3100,
         "damageWindowStartMs": 1500,
-        "damageWindowEndMs": 1700,
-        "energyDelta": -33
+        "damageWindowEndMs": 2900,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0042_MOVE_HEAT_WAVE",
+      "moveSettings": {
+        "movementId": "HEAT_WAVE",
+        "pokemonType": "$PT_FIRE",
+        "power": 95,
+        "durationMs": 3000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2800,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0047_MOVE_PETAL_BLIZZARD",
+      "moveSettings": {
+        "movementId": "PETAL_BLIZZARD",
+        "pokemonType": "$PT_GRASS",
+        "power": 110,
+        "durationMs": 2600,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2300,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0078_MOVE_THUNDER",
+      "moveSettings": {
+        "movementId": "THUNDER",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 100,
+        "durationMs": 2400,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2200,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0087_MOVE_MOONBLAST",
+      "moveSettings": {
+        "movementId": "MOONBLAST",
+        "pokemonType": "$PT_FAIRY",
+        "power": 130,
+        "durationMs": 3900,
+        "damageWindowStartMs": 2200,
+        "damageWindowEndMs": 3700,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0091_MOVE_SLUDGE_WAVE",
+      "moveSettings": {
+        "movementId": "SLUDGE_WAVE",
+        "pokemonType": "$PT_POISON",
+        "power": 110,
+        "durationMs": 3200,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 3000,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0092_MOVE_GUNK_SHOT",
+      "moveSettings": {
+        "movementId": "GUNK_SHOT",
+        "pokemonType": "$PT_POISON",
+        "power": 130,
+        "durationMs": 3100,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0103_MOVE_FIRE_BLAST",
+      "moveSettings": {
+        "movementId": "FIRE_BLAST",
+        "pokemonType": "$PT_FIRE",
+        "power": 140,
+        "durationMs": 4200,
+        "damageWindowStartMs": 3100,
+        "damageWindowEndMs": 3900,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0107_MOVE_HYDRO_PUMP",
+      "moveSettings": {
+        "movementId": "HYDRO_PUMP",
+        "pokemonType": "$PT_WATER",
+        "power": 130,
+        "durationMs": 3300,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 3000,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0114_MOVE_GIGA_DRAIN",
+      "moveSettings": {
+        "movementId": "GIGA_DRAIN",
+        "pokemonType": "$PT_GRASS",
+        "power": 50,
+        "durationMs": 3900,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2200,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0116_MOVE_SOLAR_BEAM",
+      "moveSettings": {
+        "movementId": "SOLAR_BEAM",
+        "pokemonType": "$PT_GRASS",
+        "power": 180,
+        "durationMs": 4900,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 4700,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0122_MOVE_HURRICANE",
+      "moveSettings": {
+        "movementId": "HURRICANE",
+        "pokemonType": "$PT_FLYING",
+        "power": 110,
+        "durationMs": 2700,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "energyDelta": -100
       }
     },
     {
@@ -37632,279 +37884,158 @@
       }
     },
     {
-      "templateId": "V0134_MOVE_SCALD_BLASTOISE",
+      "templateId": "V0250_MOVE_VOLT_SWITCH_FAST",
       "moveSettings": {
-        "movementId": "SCALD_BLASTOISE",
-        "pokemonType": "$PT_WATER",
-        "power": 50,
-        "durationMs": 4700,
-        "damageWindowStartMs": 2500,
-        "damageWindowEndMs": 4600,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0135_MOVE_HYDRO_PUMP_BLASTOISE",
-      "moveSettings": {
-        "movementId": "HYDRO_PUMP_BLASTOISE",
-        "pokemonType": "$PT_WATER",
-        "power": 90,
-        "durationMs": 4500,
-        "damageWindowStartMs": 2200,
-        "damageWindowEndMs": 4300,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0136_MOVE_WRAP_GREEN",
-      "moveSettings": {
-        "movementId": "WRAP_GREEN",
-        "pokemonType": "$PT_NORMAL",
-        "power": 25,
-        "durationMs": 2900,
-        "damageWindowStartMs": 2050,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0137_MOVE_WRAP_PINK",
-      "moveSettings": {
-        "movementId": "WRAP_PINK",
-        "pokemonType": "$PT_NORMAL",
-        "power": 25,
-        "durationMs": 2900,
-        "damageWindowStartMs": 2050,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0200_MOVE_FURY_CUTTER_FAST",
-      "moveSettings": {
-        "movementId": "FURY_CUTTER_FAST",
-        "pokemonType": "$PT_BUG",
-        "power": 3,
-        "durationMs": 400,
-        "damageWindowStartMs": 100,
-        "damageWindowEndMs": 400,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0201_MOVE_BUG_BITE_FAST",
-      "moveSettings": {
-        "movementId": "BUG_BITE_FAST",
-        "pokemonType": "$PT_BUG",
-        "power": 5,
-        "durationMs": 500,
-        "damageWindowStartMs": 250,
-        "damageWindowEndMs": 450,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0202_MOVE_BITE_FAST",
-      "moveSettings": {
-        "movementId": "BITE_FAST",
-        "pokemonType": "$PT_DARK",
-        "power": 6,
-        "durationMs": 500,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 500,
-        "energyDelta": 4
-      }
-    },
-    {
-      "templateId": "V0203_MOVE_SUCKER_PUNCH_FAST",
-      "moveSettings": {
-        "movementId": "SUCKER_PUNCH_FAST",
-        "pokemonType": "$PT_DARK",
-        "power": 7,
-        "durationMs": 700,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 700,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "V0204_MOVE_DRAGON_BREATH_FAST",
-      "moveSettings": {
-        "movementId": "DRAGON_BREATH_FAST",
-        "pokemonType": "$PT_DRAGON",
-        "power": 6,
-        "durationMs": 500,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 500,
-        "energyDelta": 4
-      }
-    },
-    {
-      "templateId": "V0205_MOVE_THUNDER_SHOCK_FAST",
-      "moveSettings": {
-        "movementId": "THUNDER_SHOCK_FAST",
+        "movementId": "VOLT_SWITCH_FAST",
         "pokemonType": "$PT_ELECTRIC",
-        "power": 5,
-        "durationMs": 600,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 600,
-        "energyDelta": 8
+        "power": 20,
+        "durationMs": 2300,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2100,
+        "energyDelta": 25
       }
     },
     {
-      "templateId": "V0206_MOVE_SPARK_FAST",
+      "templateId": "V0231_MOVE_SPLASH_FAST",
       "moveSettings": {
-        "movementId": "SPARK_FAST",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 6,
-        "durationMs": 700,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 700,
-        "energyDelta": 9
+        "movementId": "SPLASH_FAST",
+        "pokemonType": "$PT_WATER",
+        "durationMs": 1730,
+        "damageWindowStartMs": 1030,
+        "damageWindowEndMs": 1230,
+        "energyDelta": 20
       }
     },
     {
-      "templateId": "V0207_MOVE_LOW_KICK_FAST",
+      "templateId": "V0235_MOVE_CONFUSION_FAST",
       "moveSettings": {
-        "movementId": "LOW_KICK_FAST",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 6,
-        "durationMs": 600,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 600,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0208_MOVE_KARATE_CHOP_FAST",
-      "moveSettings": {
-        "movementId": "KARATE_CHOP_FAST",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 8,
-        "durationMs": 800,
+        "movementId": "CONFUSION_FAST",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 20,
+        "durationMs": 1600,
         "damageWindowStartMs": 600,
-        "damageWindowEndMs": 800,
-        "energyDelta": 10
+        "damageWindowEndMs": 1600,
+        "energyDelta": 15
       }
     },
     {
-      "templateId": "V0209_MOVE_EMBER_FAST",
+      "templateId": "V0244_MOVE_POWDER_SNOW_FAST",
       "moveSettings": {
-        "movementId": "EMBER_FAST",
-        "pokemonType": "$PT_FIRE",
-        "power": 10,
-        "durationMs": 1000,
-        "damageWindowStartMs": 600,
-        "damageWindowEndMs": 800,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "V0210_MOVE_WING_ATTACK_FAST",
-      "moveSettings": {
-        "movementId": "WING_ATTACK_FAST",
-        "pokemonType": "$PT_FLYING",
-        "power": 8,
-        "durationMs": 800,
-        "damageWindowStartMs": 550,
-        "damageWindowEndMs": 750,
-        "energyDelta": 9
-      }
-    },
-    {
-      "templateId": "V0211_MOVE_PECK_FAST",
-      "moveSettings": {
-        "movementId": "PECK_FAST",
-        "pokemonType": "$PT_FLYING",
-        "power": 10,
-        "durationMs": 1000,
-        "damageWindowStartMs": 450,
-        "damageWindowEndMs": 900,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "V0212_MOVE_LICK_FAST",
-      "moveSettings": {
-        "movementId": "LICK_FAST",
-        "pokemonType": "$PT_GHOST",
-        "power": 5,
-        "durationMs": 500,
-        "damageWindowStartMs": 200,
-        "damageWindowEndMs": 500,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0213_MOVE_SHADOW_CLAW_FAST",
-      "moveSettings": {
-        "movementId": "SHADOW_CLAW_FAST",
-        "pokemonType": "$PT_GHOST",
-        "power": 9,
-        "durationMs": 700,
-        "damageWindowStartMs": 250,
-        "damageWindowEndMs": 500,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0214_MOVE_VINE_WHIP_FAST",
-      "moveSettings": {
-        "movementId": "VINE_WHIP_FAST",
-        "pokemonType": "$PT_GRASS",
-        "power": 7,
-        "durationMs": 600,
-        "damageWindowStartMs": 350,
-        "damageWindowEndMs": 600,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0215_MOVE_RAZOR_LEAF_FAST",
-      "moveSettings": {
-        "movementId": "RAZOR_LEAF_FAST",
-        "pokemonType": "$PT_GRASS",
-        "power": 13,
-        "durationMs": 1000,
-        "damageWindowStartMs": 600,
-        "damageWindowEndMs": 850,
-        "energyDelta": 7
-      }
-    },
-    {
-      "templateId": "V0216_MOVE_MUD_SHOT_FAST",
-      "moveSettings": {
-        "movementId": "MUD_SHOT_FAST",
-        "pokemonType": "$PT_GROUND",
-        "power": 5,
-        "durationMs": 600,
-        "damageWindowStartMs": 350,
-        "damageWindowEndMs": 550,
-        "energyDelta": 7
-      }
-    },
-    {
-      "templateId": "V0217_MOVE_ICE_SHARD_FAST",
-      "moveSettings": {
-        "movementId": "ICE_SHARD_FAST",
+        "movementId": "POWDER_SNOW_FAST",
         "pokemonType": "$PT_ICE",
+        "power": 6,
+        "durationMs": 1000,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1000,
+        "energyDelta": 15
+      }
+    },
+    {
+      "templateId": "V0249_MOVE_CHARGE_BEAM_FAST",
+      "moveSettings": {
+        "movementId": "CHARGE_BEAM_FAST",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 8,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 15
+      }
+    },
+    {
+      "templateId": "V0261_MOVE_STRUGGLE_BUG_FAST",
+      "moveSettings": {
+        "movementId": "STRUGGLE_BUG_FAST",
+        "pokemonType": "$PT_BUG",
+        "power": 15,
+        "durationMs": 1500,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1500,
+        "energyDelta": 15
+      }
+    },
+    {
+      "templateId": "V0264_MOVE_HEX_FAST",
+      "moveSettings": {
+        "movementId": "HEX_FAST",
+        "pokemonType": "$PT_GHOST",
+        "power": 10,
+        "durationMs": 1200,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1200,
+        "energyDelta": 15
+      }
+    },
+    {
+      "templateId": "V0237_MOVE_BUBBLE_FAST",
+      "moveSettings": {
+        "movementId": "BUBBLE_FAST",
+        "pokemonType": "$PT_WATER",
         "power": 12,
         "durationMs": 1200,
-        "damageWindowStartMs": 600,
-        "damageWindowEndMs": 900,
+        "damageWindowStartMs": 750,
+        "damageWindowEndMs": 1000,
+        "energyDelta": 14
+      }
+    },
+    {
+      "templateId": "V0260_MOVE_INFESTATION_FAST",
+      "moveSettings": {
+        "movementId": "INFESTATION_FAST",
+        "pokemonType": "$PT_BUG",
+        "power": 10,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 14
+      }
+    },
+    {
+      "templateId": "V0263_MOVE_ASTONISH_FAST",
+      "moveSettings": {
+        "movementId": "ASTONISH_FAST",
+        "pokemonType": "$PT_GHOST",
+        "power": 8,
+        "durationMs": 1100,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 14
+      }
+    },
+    {
+      "templateId": "V0271_MOVE_BULLET_SEED_FAST",
+      "moveSettings": {
+        "movementId": "BULLET_SEED_FAST",
+        "pokemonType": "$PT_GRASS",
+        "power": 8,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 14
+      }
+    },
+    {
+      "templateId": "V0233_MOVE_MUD_SLAP_FAST",
+      "moveSettings": {
+        "movementId": "MUD_SLAP_FAST",
+        "pokemonType": "$PT_GROUND",
+        "power": 15,
+        "durationMs": 1400,
+        "damageWindowStartMs": 1150,
+        "damageWindowEndMs": 1350,
         "energyDelta": 12
       }
     },
     {
-      "templateId": "V0218_MOVE_FROST_BREATH_FAST",
+      "templateId": "V0274_MOVE_EXTRASENSORY_FAST",
       "moveSettings": {
-        "movementId": "FROST_BREATH_FAST",
-        "pokemonType": "$PT_ICE",
-        "power": 10,
-        "durationMs": 900,
-        "damageWindowStartMs": 450,
-        "damageWindowEndMs": 750,
-        "energyDelta": 8
+        "movementId": "EXTRASENSORY_FAST",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 12,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 12
       }
     },
     {
@@ -37920,63 +38051,87 @@
       }
     },
     {
-      "templateId": "V0220_MOVE_SCRATCH_FAST",
+      "templateId": "V0229_MOVE_BULLET_PUNCH_FAST",
       "moveSettings": {
-        "movementId": "SCRATCH_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "power": 6,
-        "durationMs": 500,
+        "movementId": "BULLET_PUNCH_FAST",
+        "pokemonType": "$PT_STEEL",
+        "power": 9,
+        "durationMs": 900,
         "damageWindowStartMs": 300,
-        "damageWindowEndMs": 500,
-        "energyDelta": 4
+        "damageWindowEndMs": 900,
+        "energyDelta": 10
       }
     },
     {
-      "templateId": "V0221_MOVE_TACKLE_FAST",
+      "templateId": "V0234_MOVE_ZEN_HEADBUTT_FAST",
       "moveSettings": {
-        "movementId": "TACKLE_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "power": 5,
-        "durationMs": 500,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 500,
-        "energyDelta": 5
+        "movementId": "ZEN_HEADBUTT_FAST",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 12,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 10
       }
     },
     {
-      "templateId": "V0222_MOVE_POUND_FAST",
+      "templateId": "V0241_MOVE_ROCK_SMASH_FAST",
       "moveSettings": {
-        "movementId": "POUND_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "power": 7,
-        "durationMs": 600,
-        "damageWindowStartMs": 340,
-        "damageWindowEndMs": 540,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0223_MOVE_CUT_FAST",
-      "moveSettings": {
-        "movementId": "CUT_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "power": 5,
-        "durationMs": 500,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 500,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "V0224_MOVE_POISON_JAB_FAST",
-      "moveSettings": {
-        "movementId": "POISON_JAB_FAST",
-        "pokemonType": "$PT_POISON",
-        "power": 10,
-        "durationMs": 800,
-        "damageWindowStartMs": 200,
+        "movementId": "ROCK_SMASH_FAST",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 15,
+        "durationMs": 1300,
+        "damageWindowStartMs": 550,
         "damageWindowEndMs": 800,
-        "energyDelta": 7
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "V0255_MOVE_AIR_SLASH_FAST",
+      "moveSettings": {
+        "movementId": "AIR_SLASH_FAST",
+        "pokemonType": "$PT_FLYING",
+        "power": 14,
+        "durationMs": 1200,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1200,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "V0269_MOVE_FIRE_SPIN_FAST",
+      "moveSettings": {
+        "movementId": "FIRE_SPIN_FAST",
+        "pokemonType": "$PT_FIRE",
+        "power": 14,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "V0238_MOVE_FEINT_ATTACK_FAST",
+      "moveSettings": {
+        "movementId": "FEINT_ATTACK_FAST",
+        "pokemonType": "$PT_DARK",
+        "power": 10,
+        "durationMs": 900,
+        "damageWindowStartMs": 750,
+        "damageWindowEndMs": 900,
+        "energyDelta": 9
+      }
+    },
+    {
+      "templateId": "V0253_MOVE_DRAGON_TAIL_FAST",
+      "moveSettings": {
+        "movementId": "DRAGON_TAIL_FAST",
+        "pokemonType": "$PT_DRAGON",
+        "power": 15,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 9
       }
     },
     {
@@ -38004,6 +38159,42 @@
       }
     },
     {
+      "templateId": "V0240_MOVE_FIRE_FANG_FAST",
+      "moveSettings": {
+        "movementId": "FIRE_FANG_FAST",
+        "pokemonType": "$PT_FIRE",
+        "power": 12,
+        "durationMs": 900,
+        "damageWindowStartMs": 640,
+        "damageWindowEndMs": 840,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "V0243_MOVE_COUNTER_FAST",
+      "moveSettings": {
+        "movementId": "COUNTER_FAST",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 12,
+        "durationMs": 900,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 900,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "V0224_MOVE_POISON_JAB_FAST",
+      "moveSettings": {
+        "movementId": "POISON_JAB_FAST",
+        "pokemonType": "$PT_POISON",
+        "power": 10,
+        "durationMs": 800,
+        "damageWindowStartMs": 200,
+        "damageWindowEndMs": 800,
+        "energyDelta": 7
+      }
+    },
+    {
       "templateId": "V0227_MOVE_ROCK_THROW_FAST",
       "moveSettings": {
         "movementId": "ROCK_THROW_FAST",
@@ -38028,89 +38219,6 @@
       }
     },
     {
-      "templateId": "V0229_MOVE_BULLET_PUNCH_FAST",
-      "moveSettings": {
-        "movementId": "BULLET_PUNCH_FAST",
-        "pokemonType": "$PT_STEEL",
-        "power": 9,
-        "durationMs": 900,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 900,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "V0230_MOVE_WATER_GUN_FAST",
-      "moveSettings": {
-        "movementId": "WATER_GUN_FAST",
-        "pokemonType": "$PT_WATER",
-        "power": 5,
-        "durationMs": 500,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 500,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "V0231_MOVE_SPLASH_FAST",
-      "moveSettings": {
-        "movementId": "SPLASH_FAST",
-        "pokemonType": "$PT_WATER",
-        "durationMs": 1730,
-        "damageWindowStartMs": 1030,
-        "damageWindowEndMs": 1230,
-        "energyDelta": 20
-      }
-    },
-    {
-      "templateId": "V0232_MOVE_WATER_GUN_FAST_BLASTOISE",
-      "moveSettings": {
-        "movementId": "WATER_GUN_FAST_BLASTOISE",
-        "pokemonType": "$PT_WATER",
-        "power": 10,
-        "durationMs": 1000,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 500,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0233_MOVE_MUD_SLAP_FAST",
-      "moveSettings": {
-        "movementId": "MUD_SLAP_FAST",
-        "pokemonType": "$PT_GROUND",
-        "power": 15,
-        "durationMs": 1400,
-        "damageWindowStartMs": 1150,
-        "damageWindowEndMs": 1350,
-        "energyDelta": 12
-      }
-    },
-    {
-      "templateId": "V0234_MOVE_ZEN_HEADBUTT_FAST",
-      "moveSettings": {
-        "movementId": "ZEN_HEADBUTT_FAST",
-        "pokemonType": "$PT_PSYCHIC",
-        "power": 12,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "V0235_MOVE_CONFUSION_FAST",
-      "moveSettings": {
-        "movementId": "CONFUSION_FAST",
-        "pokemonType": "$PT_PSYCHIC",
-        "power": 20,
-        "durationMs": 1600,
-        "damageWindowStartMs": 600,
-        "damageWindowEndMs": 1600,
-        "energyDelta": 15
-      }
-    },
-    {
       "templateId": "V0236_MOVE_POISON_STING_FAST",
       "moveSettings": {
         "movementId": "POISON_STING_FAST",
@@ -38120,352 +38228,6 @@
         "damageWindowStartMs": 375,
         "damageWindowEndMs": 575,
         "energyDelta": 7
-      }
-    },
-    {
-      "templateId": "V0237_MOVE_BUBBLE_FAST",
-      "moveSettings": {
-        "movementId": "BUBBLE_FAST",
-        "pokemonType": "$PT_WATER",
-        "power": 12,
-        "durationMs": 1200,
-        "damageWindowStartMs": 750,
-        "damageWindowEndMs": 1000,
-        "energyDelta": 14
-      }
-    },
-    {
-      "templateId": "V0238_MOVE_FEINT_ATTACK_FAST",
-      "moveSettings": {
-        "movementId": "FEINT_ATTACK_FAST",
-        "pokemonType": "$PT_DARK",
-        "power": 10,
-        "durationMs": 900,
-        "damageWindowStartMs": 750,
-        "damageWindowEndMs": 900,
-        "energyDelta": 9
-      }
-    },
-    {
-      "templateId": "V0239_MOVE_STEEL_WING_FAST",
-      "moveSettings": {
-        "movementId": "STEEL_WING_FAST",
-        "pokemonType": "$PT_STEEL",
-        "power": 11,
-        "durationMs": 800,
-        "damageWindowStartMs": 500,
-        "damageWindowEndMs": 800,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0240_MOVE_FIRE_FANG_FAST",
-      "moveSettings": {
-        "movementId": "FIRE_FANG_FAST",
-        "pokemonType": "$PT_FIRE",
-        "power": 12,
-        "durationMs": 900,
-        "damageWindowStartMs": 640,
-        "damageWindowEndMs": 840,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "V0241_MOVE_ROCK_SMASH_FAST",
-      "moveSettings": {
-        "movementId": "ROCK_SMASH_FAST",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 15,
-        "durationMs": 1300,
-        "damageWindowStartMs": 550,
-        "damageWindowEndMs": 800,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "V0242_MOVE_TRANSFORM_FAST",
-      "moveSettings": {
-        "movementId": "TRANSFORM_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "durationMs": 2230,
-        "damageWindowStartMs": 300,
-        "damageWindowEndMs": 700
-      }
-    },
-    {
-      "templateId": "V0243_MOVE_COUNTER_FAST",
-      "moveSettings": {
-        "movementId": "COUNTER_FAST",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 12,
-        "durationMs": 900,
-        "damageWindowStartMs": 700,
-        "damageWindowEndMs": 900,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "V0244_MOVE_POWDER_SNOW_FAST",
-      "moveSettings": {
-        "movementId": "POWDER_SNOW_FAST",
-        "pokemonType": "$PT_ICE",
-        "power": 6,
-        "durationMs": 1000,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1000,
-        "energyDelta": 15
-      }
-    },
-    {
-      "templateId": "V0245_MOVE_CLOSE_COMBAT",
-      "moveSettings": {
-        "movementId": "CLOSE_COMBAT",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 100,
-        "durationMs": 2300,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 2300,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0246_MOVE_DYNAMIC_PUNCH",
-      "moveSettings": {
-        "movementId": "DYNAMIC_PUNCH",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 90,
-        "durationMs": 2700,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0247_MOVE_FOCUS_BLAST",
-      "moveSettings": {
-        "movementId": "FOCUS_BLAST",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 140,
-        "durationMs": 3500,
-        "damageWindowStartMs": 3000,
-        "damageWindowEndMs": 3500,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0248_MOVE_AURORA_BEAM",
-      "moveSettings": {
-        "movementId": "AURORA_BEAM",
-        "pokemonType": "$PT_ICE",
-        "power": 80,
-        "durationMs": 3550,
-        "damageWindowStartMs": 3350,
-        "damageWindowEndMs": 3550,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0249_MOVE_CHARGE_BEAM_FAST",
-      "moveSettings": {
-        "movementId": "CHARGE_BEAM_FAST",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 8,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 15
-      }
-    },
-    {
-      "templateId": "V0250_MOVE_VOLT_SWITCH_FAST",
-      "moveSettings": {
-        "movementId": "VOLT_SWITCH_FAST",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 20,
-        "durationMs": 2300,
-        "damageWindowStartMs": 1800,
-        "damageWindowEndMs": 2100,
-        "energyDelta": 25
-      }
-    },
-    {
-      "templateId": "V0251_MOVE_WILD_CHARGE",
-      "moveSettings": {
-        "movementId": "WILD_CHARGE",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 90,
-        "durationMs": 2600,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 2100,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0252_MOVE_ZAP_CANNON",
-      "moveSettings": {
-        "movementId": "ZAP_CANNON",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 140,
-        "durationMs": 3700,
-        "damageWindowStartMs": 3000,
-        "damageWindowEndMs": 3500,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0253_MOVE_DRAGON_TAIL_FAST",
-      "moveSettings": {
-        "movementId": "DRAGON_TAIL_FAST",
-        "pokemonType": "$PT_DRAGON",
-        "power": 15,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 9
-      }
-    },
-    {
-      "templateId": "V0254_MOVE_AVALANCHE",
-      "moveSettings": {
-        "movementId": "AVALANCHE",
-        "pokemonType": "$PT_ICE",
-        "power": 90,
-        "durationMs": 2700,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 2100,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0255_MOVE_AIR_SLASH_FAST",
-      "moveSettings": {
-        "movementId": "AIR_SLASH_FAST",
-        "pokemonType": "$PT_FLYING",
-        "power": 14,
-        "durationMs": 1200,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 1200,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "V0256_MOVE_BRAVE_BIRD",
-      "moveSettings": {
-        "movementId": "BRAVE_BIRD",
-        "pokemonType": "$PT_FLYING",
-        "power": 90,
-        "durationMs": 2000,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 1600,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0257_MOVE_SKY_ATTACK",
-      "moveSettings": {
-        "movementId": "SKY_ATTACK",
-        "pokemonType": "$PT_FLYING",
-        "power": 80,
-        "durationMs": 2000,
-        "damageWindowStartMs": 1500,
-        "damageWindowEndMs": 1700,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0258_MOVE_SAND_TOMB",
-      "moveSettings": {
-        "movementId": "SAND_TOMB",
-        "pokemonType": "$PT_GROUND",
-        "power": 80,
-        "durationMs": 4000,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 4000,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0259_MOVE_ROCK_BLAST",
-      "moveSettings": {
-        "movementId": "ROCK_BLAST",
-        "pokemonType": "$PT_ROCK",
-        "power": 50,
-        "durationMs": 2100,
-        "damageWindowStartMs": 1600,
-        "damageWindowEndMs": 2000,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0260_MOVE_INFESTATION_FAST",
-      "moveSettings": {
-        "movementId": "INFESTATION_FAST",
-        "pokemonType": "$PT_BUG",
-        "power": 10,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 14
-      }
-    },
-    {
-      "templateId": "V0261_MOVE_STRUGGLE_BUG_FAST",
-      "moveSettings": {
-        "movementId": "STRUGGLE_BUG_FAST",
-        "pokemonType": "$PT_BUG",
-        "power": 15,
-        "durationMs": 1500,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 1500,
-        "energyDelta": 15
-      }
-    },
-    {
-      "templateId": "V0262_MOVE_SILVER_WIND",
-      "moveSettings": {
-        "movementId": "SILVER_WIND",
-        "pokemonType": "$PT_BUG",
-        "power": 70,
-        "durationMs": 3700,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 3500,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0263_MOVE_ASTONISH_FAST",
-      "moveSettings": {
-        "movementId": "ASTONISH_FAST",
-        "pokemonType": "$PT_GHOST",
-        "power": 8,
-        "durationMs": 1100,
-        "damageWindowStartMs": 700,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 14
-      }
-    },
-    {
-      "templateId": "V0264_MOVE_HEX_FAST",
-      "moveSettings": {
-        "movementId": "HEX_FAST",
-        "pokemonType": "$PT_GHOST",
-        "power": 10,
-        "durationMs": 1200,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 1200,
-        "energyDelta": 15
-      }
-    },
-    {
-      "templateId": "V0265_MOVE_NIGHT_SHADE",
-      "moveSettings": {
-        "movementId": "NIGHT_SHADE",
-        "pokemonType": "$PT_GHOST",
-        "power": 60,
-        "durationMs": 2600,
-        "damageWindowStartMs": 2100,
-        "damageWindowEndMs": 2500,
-        "energyDelta": -50
       }
     },
     {
@@ -38481,135 +38243,168 @@
       }
     },
     {
-      "templateId": "V0267_MOVE_GYRO_BALL",
+      "templateId": "V0222_MOVE_POUND_FAST",
       "moveSettings": {
-        "movementId": "GYRO_BALL",
+        "movementId": "POUND_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "power": 7,
+        "durationMs": 600,
+        "damageWindowStartMs": 340,
+        "damageWindowEndMs": 540,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0232_MOVE_WATER_GUN_FAST_BLASTOISE",
+      "moveSettings": {
+        "movementId": "WATER_GUN_FAST_BLASTOISE",
+        "pokemonType": "$PT_WATER",
+        "power": 10,
+        "durationMs": 1000,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "V0239_MOVE_STEEL_WING_FAST",
+      "moveSettings": {
+        "movementId": "STEEL_WING_FAST",
         "pokemonType": "$PT_STEEL",
-        "power": 80,
-        "durationMs": 3300,
-        "damageWindowStartMs": 3000,
-        "damageWindowEndMs": 3300,
-        "energyDelta": -50
+        "power": 11,
+        "durationMs": 800,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 800,
+        "energyDelta": 6
       }
     },
     {
-      "templateId": "V0268_MOVE_HEAVY_SLAM",
+      "templateId": "V0221_MOVE_TACKLE_FAST",
       "moveSettings": {
-        "movementId": "HEAVY_SLAM",
-        "pokemonType": "$PT_STEEL",
-        "power": 70,
-        "durationMs": 2100,
-        "damageWindowStartMs": 1500,
-        "damageWindowEndMs": 1900,
-        "energyDelta": -50
+        "movementId": "TACKLE_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "power": 5,
+        "durationMs": 500,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "energyDelta": 5
       }
     },
     {
-      "templateId": "V0269_MOVE_FIRE_SPIN_FAST",
+      "templateId": "V0223_MOVE_CUT_FAST",
       "moveSettings": {
-        "movementId": "FIRE_SPIN_FAST",
-        "pokemonType": "$PT_FIRE",
-        "power": 14,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 10
+        "movementId": "CUT_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "power": 5,
+        "durationMs": 500,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "energyDelta": 5
       }
     },
     {
-      "templateId": "V0270_MOVE_OVERHEAT",
+      "templateId": "V0230_MOVE_WATER_GUN_FAST",
       "moveSettings": {
-        "movementId": "OVERHEAT",
-        "pokemonType": "$PT_FIRE",
-        "power": 160,
-        "durationMs": 4000,
-        "damageWindowStartMs": 2600,
-        "damageWindowEndMs": 3800,
-        "energyDelta": -100
+        "movementId": "WATER_GUN_FAST",
+        "pokemonType": "$PT_WATER",
+        "power": 5,
+        "durationMs": 500,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "energyDelta": 5
       }
     },
     {
-      "templateId": "V0271_MOVE_BULLET_SEED_FAST",
+      "templateId": "V0220_MOVE_SCRATCH_FAST",
       "moveSettings": {
-        "movementId": "BULLET_SEED_FAST",
-        "pokemonType": "$PT_GRASS",
-        "power": 8,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 14
+        "movementId": "SCRATCH_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "power": 6,
+        "durationMs": 500,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 500,
+        "energyDelta": 4
       }
     },
     {
-      "templateId": "V0272_MOVE_GRASS_KNOT",
+      "templateId": "V0242_MOVE_TRANSFORM_FAST",
       "moveSettings": {
-        "movementId": "GRASS_KNOT",
-        "pokemonType": "$PT_GRASS",
-        "power": 90,
-        "durationMs": 2600,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 2600,
-        "energyDelta": -50
+        "movementId": "TRANSFORM_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "durationMs": 2230,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 700
       }
     },
     {
-      "templateId": "V0273_MOVE_ENERGY_BALL",
+      "templateId": "V0321_MOVE_GIGA_IMPACT",
       "moveSettings": {
-        "movementId": "ENERGY_BALL",
-        "pokemonType": "$PT_GRASS",
-        "power": 90,
-        "durationMs": 3900,
-        "damageWindowStartMs": 3000,
-        "damageWindowEndMs": 3800,
-        "energyDelta": -50
+        "movementId": "GIGA_IMPACT",
+        "pokemonType": "$PT_NORMAL",
+        "power": 9001,
+        "durationMs": 4700,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2400,
+        "energyDelta": 100
       }
     },
     {
-      "templateId": "V0274_MOVE_EXTRASENSORY_FAST",
+      "templateId": "V0291_MOVE_PRESENT_FAST",
       "moveSettings": {
-        "movementId": "EXTRASENSORY_FAST",
-        "pokemonType": "$PT_PSYCHIC",
+        "movementId": "PRESENT_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "power": 5,
+        "durationMs": 1300,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1300,
+        "energyDelta": 20
+      }
+    },
+    {
+      "templateId": "V0327_MOVE_ICE_FANG_FAST",
+      "moveSettings": {
+        "movementId": "ICE_FANG_FAST",
+        "pokemonType": "$PT_ICE",
         "power": 12,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 12
+        "durationMs": 1500,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 1000,
+        "energyDelta": 20
       }
     },
     {
-      "templateId": "V0275_MOVE_FUTURESIGHT",
+      "templateId": "V0326_MOVE_THUNDER_FANG_FAST",
       "moveSettings": {
-        "movementId": "FUTURESIGHT",
-        "pokemonType": "$PT_PSYCHIC",
-        "power": 120,
-        "durationMs": 2700,
+        "movementId": "THUNDER_FANG_FAST",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 12,
+        "durationMs": 1200,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 900,
+        "energyDelta": 16
+      }
+    },
+    {
+      "templateId": "V0281_MOVE_HIDDEN_POWER_FAST",
+      "moveSettings": {
+        "movementId": "HIDDEN_POWER_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "power": 15,
+        "durationMs": 1500,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "energyDelta": 15
+      }
+    },
+    {
+      "templateId": "V0287_MOVE_YAWN_FAST",
+      "moveSettings": {
+        "movementId": "YAWN_FAST",
+        "pokemonType": "$PT_NORMAL",
+        "durationMs": 1700,
         "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0276_MOVE_MIRROR_COAT",
-      "moveSettings": {
-        "movementId": "MIRROR_COAT",
-        "pokemonType": "$PT_PSYCHIC",
-        "power": 60,
-        "durationMs": 2600,
-        "damageWindowStartMs": 2300,
-        "damageWindowEndMs": 2500,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0277_MOVE_OUTRAGE",
-      "moveSettings": {
-        "movementId": "OUTRAGE",
-        "pokemonType": "$PT_DRAGON",
-        "power": 110,
-        "durationMs": 3900,
-        "damageWindowStartMs": 2500,
-        "damageWindowEndMs": 3700,
-        "energyDelta": -50
+        "damageWindowEndMs": 1600,
+        "energyDelta": 15
       }
     },
     {
@@ -38625,39 +38420,15 @@
       }
     },
     {
-      "templateId": "V0279_MOVE_CRUNCH",
+      "templateId": "V0320_MOVE_CHARM_FAST",
       "moveSettings": {
-        "movementId": "CRUNCH",
-        "pokemonType": "$PT_DARK",
-        "power": 70,
-        "durationMs": 3200,
-        "damageWindowStartMs": 1300,
-        "damageWindowEndMs": 3000,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0280_MOVE_FOUL_PLAY",
-      "moveSettings": {
-        "movementId": "FOUL_PLAY",
-        "pokemonType": "$PT_DARK",
-        "power": 70,
-        "durationMs": 2000,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 1900,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0281_MOVE_HIDDEN_POWER_FAST",
-      "moveSettings": {
-        "movementId": "HIDDEN_POWER_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "power": 15,
+        "movementId": "CHARM_FAST",
+        "pokemonType": "$PT_FAIRY",
+        "power": 20,
         "durationMs": 1500,
-        "damageWindowStartMs": 1100,
-        "damageWindowEndMs": 1400,
-        "energyDelta": 15
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1200,
+        "energyDelta": 11
       }
     },
     {
@@ -38685,27 +38456,51 @@
       }
     },
     {
-      "templateId": "V0284_MOVE_SURF",
+      "templateId": "V0297_MOVE_SMACK_DOWN_FAST",
       "moveSettings": {
-        "movementId": "SURF",
-        "pokemonType": "$PT_WATER",
-        "power": 65,
-        "durationMs": 1700,
-        "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 1600,
-        "energyDelta": -50
+        "movementId": "SMACK_DOWN_FAST",
+        "pokemonType": "$PT_ROCK",
+        "power": 16,
+        "durationMs": 1200,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 8
       }
     },
     {
-      "templateId": "V0285_MOVE_DRACO_METEOR",
+      "templateId": "V0259_MOVE_ROCK_BLAST",
       "moveSettings": {
-        "movementId": "DRACO_METEOR",
-        "pokemonType": "$PT_DRAGON",
-        "power": 150,
-        "durationMs": 3600,
-        "damageWindowStartMs": 3000,
+        "movementId": "ROCK_BLAST",
+        "pokemonType": "$PT_ROCK",
+        "power": 50,
+        "durationMs": 2100,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0262_MOVE_SILVER_WIND",
+      "moveSettings": {
+        "movementId": "SILVER_WIND",
+        "pokemonType": "$PT_BUG",
+        "power": 70,
+        "durationMs": 3700,
+        "damageWindowStartMs": 1700,
         "damageWindowEndMs": 3500,
-        "energyDelta": -100
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0279_MOVE_CRUNCH",
+      "moveSettings": {
+        "movementId": "CRUNCH",
+        "pokemonType": "$PT_DARK",
+        "power": 70,
+        "durationMs": 3200,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 3000,
+        "energyDelta": -33
       }
     },
     {
@@ -38718,65 +38513,6 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 1600,
         "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0287_MOVE_YAWN_FAST",
-      "moveSettings": {
-        "movementId": "YAWN_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "durationMs": 1700,
-        "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 1600,
-        "energyDelta": 15
-      }
-    },
-    {
-      "templateId": "V0288_MOVE_PSYCHO_BOOST",
-      "moveSettings": {
-        "movementId": "PSYCHO_BOOST",
-        "pokemonType": "$PT_PSYCHIC",
-        "power": 70,
-        "durationMs": 4000,
-        "damageWindowStartMs": 3500,
-        "damageWindowEndMs": 4000,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0289_MOVE_ORIGIN_PULSE",
-      "moveSettings": {
-        "movementId": "ORIGIN_PULSE",
-        "pokemonType": "$PT_WATER",
-        "power": 130,
-        "durationMs": 1700,
-        "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 1600,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0290_MOVE_PRECIPICE_BLADES",
-      "moveSettings": {
-        "movementId": "PRECIPICE_BLADES",
-        "pokemonType": "$PT_GROUND",
-        "power": 130,
-        "durationMs": 1700,
-        "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 1600,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "V0291_MOVE_PRESENT_FAST",
-      "moveSettings": {
-        "movementId": "PRESENT_FAST",
-        "pokemonType": "$PT_NORMAL",
-        "power": 5,
-        "durationMs": 1300,
-        "damageWindowStartMs": 1100,
-        "damageWindowEndMs": 1300,
-        "energyDelta": 20
       }
     },
     {
@@ -38828,6 +38564,270 @@
       }
     },
     {
+      "templateId": "V0312_MOVE_LEAF_TORNADO",
+      "moveSettings": {
+        "movementId": "LEAF_TORNADO",
+        "pokemonType": "$PT_GRASS",
+        "power": 45,
+        "durationMs": 3100,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0316_MOVE_MUDDY_WATER",
+      "moveSettings": {
+        "movementId": "MUDDY_WATER",
+        "pokemonType": "$PT_WATER",
+        "power": 50,
+        "durationMs": 2200,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0317_MOVE_BLAZE_KICK",
+      "moveSettings": {
+        "movementId": "BLAZE_KICK",
+        "pokemonType": "$PT_FIRE",
+        "power": 45,
+        "durationMs": 1200,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 800,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0319_MOVE_POWER_UP_PUNCH",
+      "moveSettings": {
+        "movementId": "POWER_UP_PUNCH",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 50,
+        "durationMs": 2000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0322_MOVE_FRUSTRATION",
+      "moveSettings": {
+        "movementId": "FRUSTRATION",
+        "pokemonType": "$PT_NORMAL",
+        "power": 10,
+        "durationMs": 2000,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1800,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0323_MOVE_RETURN",
+      "moveSettings": {
+        "movementId": "RETURN",
+        "pokemonType": "$PT_NORMAL",
+        "power": 35,
+        "durationMs": 700,
+        "damageWindowStartMs": 100,
+        "damageWindowEndMs": 350,
+        "energyDelta": -33
+      }
+    },
+    {
+      "templateId": "V0246_MOVE_DYNAMIC_PUNCH",
+      "moveSettings": {
+        "movementId": "DYNAMIC_PUNCH",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 90,
+        "durationMs": 2700,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0248_MOVE_AURORA_BEAM",
+      "moveSettings": {
+        "movementId": "AURORA_BEAM",
+        "pokemonType": "$PT_ICE",
+        "power": 80,
+        "durationMs": 3550,
+        "damageWindowStartMs": 3350,
+        "damageWindowEndMs": 3550,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0251_MOVE_WILD_CHARGE",
+      "moveSettings": {
+        "movementId": "WILD_CHARGE",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 90,
+        "durationMs": 2600,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0254_MOVE_AVALANCHE",
+      "moveSettings": {
+        "movementId": "AVALANCHE",
+        "pokemonType": "$PT_ICE",
+        "power": 90,
+        "durationMs": 2700,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2100,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0257_MOVE_SKY_ATTACK",
+      "moveSettings": {
+        "movementId": "SKY_ATTACK",
+        "pokemonType": "$PT_FLYING",
+        "power": 80,
+        "durationMs": 2000,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0258_MOVE_SAND_TOMB",
+      "moveSettings": {
+        "movementId": "SAND_TOMB",
+        "pokemonType": "$PT_GROUND",
+        "power": 80,
+        "durationMs": 4000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 4000,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0265_MOVE_NIGHT_SHADE",
+      "moveSettings": {
+        "movementId": "NIGHT_SHADE",
+        "pokemonType": "$PT_GHOST",
+        "power": 60,
+        "durationMs": 2600,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0267_MOVE_GYRO_BALL",
+      "moveSettings": {
+        "movementId": "GYRO_BALL",
+        "pokemonType": "$PT_STEEL",
+        "power": 80,
+        "durationMs": 3300,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3300,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0268_MOVE_HEAVY_SLAM",
+      "moveSettings": {
+        "movementId": "HEAVY_SLAM",
+        "pokemonType": "$PT_STEEL",
+        "power": 70,
+        "durationMs": 2100,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0272_MOVE_GRASS_KNOT",
+      "moveSettings": {
+        "movementId": "GRASS_KNOT",
+        "pokemonType": "$PT_GRASS",
+        "power": 90,
+        "durationMs": 2600,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0273_MOVE_ENERGY_BALL",
+      "moveSettings": {
+        "movementId": "ENERGY_BALL",
+        "pokemonType": "$PT_GRASS",
+        "power": 90,
+        "durationMs": 3900,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3800,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0276_MOVE_MIRROR_COAT",
+      "moveSettings": {
+        "movementId": "MIRROR_COAT",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 60,
+        "durationMs": 2600,
+        "damageWindowStartMs": 2300,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0277_MOVE_OUTRAGE",
+      "moveSettings": {
+        "movementId": "OUTRAGE",
+        "pokemonType": "$PT_DRAGON",
+        "power": 110,
+        "durationMs": 3900,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 3700,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0280_MOVE_FOUL_PLAY",
+      "moveSettings": {
+        "movementId": "FOUL_PLAY",
+        "pokemonType": "$PT_DARK",
+        "power": 70,
+        "durationMs": 2000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0284_MOVE_SURF",
+      "moveSettings": {
+        "movementId": "SURF",
+        "pokemonType": "$PT_WATER",
+        "power": 65,
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0288_MOVE_PSYCHO_BOOST",
+      "moveSettings": {
+        "movementId": "PSYCHO_BOOST",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 70,
+        "durationMs": 4000,
+        "damageWindowStartMs": 3500,
+        "damageWindowEndMs": 4000,
+        "energyDelta": -50
+      }
+    },
+    {
       "templateId": "V0296_MOVE_FRENZY_PLANT",
       "moveSettings": {
         "movementId": "FRENZY_PLANT",
@@ -38837,18 +38837,6 @@
         "damageWindowStartMs": 2145,
         "damageWindowEndMs": 2550,
         "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "V0297_MOVE_SMACK_DOWN_FAST",
-      "moveSettings": {
-        "movementId": "SMACK_DOWN_FAST",
-        "pokemonType": "$PT_ROCK",
-        "power": 16,
-        "durationMs": 1200,
-        "damageWindowStartMs": 800,
-        "damageWindowEndMs": 1100,
-        "energyDelta": 8
       }
     },
     {
@@ -38900,18 +38888,6 @@
       }
     },
     {
-      "templateId": "V0302_MOVE_SKULL_BASH",
-      "moveSettings": {
-        "movementId": "SKULL_BASH",
-        "pokemonType": "$PT_NORMAL",
-        "power": 130,
-        "durationMs": 3100,
-        "damageWindowStartMs": 1800,
-        "damageWindowEndMs": 2300,
-        "energyDelta": -100
-      }
-    },
-    {
       "templateId": "V0303_MOVE_ACID_SPRAY",
       "moveSettings": {
         "movementId": "ACID_SPRAY",
@@ -38945,6 +38921,162 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1750,
         "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0324_MOVE_SYNCHRONOISE",
+      "moveSettings": {
+        "movementId": "SYNCHRONOISE",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 80,
+        "durationMs": 2600,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0134_MOVE_SCALD_BLASTOISE",
+      "moveSettings": {
+        "movementId": "SCALD_BLASTOISE",
+        "pokemonType": "$PT_WATER",
+        "power": 50,
+        "durationMs": 4700,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 4600,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0135_MOVE_HYDRO_PUMP_BLASTOISE",
+      "moveSettings": {
+        "movementId": "HYDRO_PUMP_BLASTOISE",
+        "pokemonType": "$PT_WATER",
+        "power": 90,
+        "durationMs": 4500,
+        "damageWindowStartMs": 2200,
+        "damageWindowEndMs": 4300,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0245_MOVE_CLOSE_COMBAT",
+      "moveSettings": {
+        "movementId": "CLOSE_COMBAT",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 100,
+        "durationMs": 2300,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2300,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0247_MOVE_FOCUS_BLAST",
+      "moveSettings": {
+        "movementId": "FOCUS_BLAST",
+        "pokemonType": "$PT_FIGHTING",
+        "power": 140,
+        "durationMs": 3500,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0252_MOVE_ZAP_CANNON",
+      "moveSettings": {
+        "movementId": "ZAP_CANNON",
+        "pokemonType": "$PT_ELECTRIC",
+        "power": 140,
+        "durationMs": 3700,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0256_MOVE_BRAVE_BIRD",
+      "moveSettings": {
+        "movementId": "BRAVE_BIRD",
+        "pokemonType": "$PT_FLYING",
+        "power": 90,
+        "durationMs": 2000,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0270_MOVE_OVERHEAT",
+      "moveSettings": {
+        "movementId": "OVERHEAT",
+        "pokemonType": "$PT_FIRE",
+        "power": 160,
+        "durationMs": 4000,
+        "damageWindowStartMs": 2600,
+        "damageWindowEndMs": 3800,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0275_MOVE_FUTURESIGHT",
+      "moveSettings": {
+        "movementId": "FUTURESIGHT",
+        "pokemonType": "$PT_PSYCHIC",
+        "power": 120,
+        "durationMs": 2700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0285_MOVE_DRACO_METEOR",
+      "moveSettings": {
+        "movementId": "DRACO_METEOR",
+        "pokemonType": "$PT_DRAGON",
+        "power": 150,
+        "durationMs": 3600,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0289_MOVE_ORIGIN_PULSE",
+      "moveSettings": {
+        "movementId": "ORIGIN_PULSE",
+        "pokemonType": "$PT_WATER",
+        "power": 130,
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0290_MOVE_PRECIPICE_BLADES",
+      "moveSettings": {
+        "movementId": "PRECIPICE_BLADES",
+        "pokemonType": "$PT_GROUND",
+        "power": 130,
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -100
+      }
+    },
+    {
+      "templateId": "V0302_MOVE_SKULL_BASH",
+      "moveSettings": {
+        "movementId": "SKULL_BASH",
+        "pokemonType": "$PT_NORMAL",
+        "power": 130,
+        "durationMs": 3100,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2300,
+        "energyDelta": -100
       }
     },
     {
@@ -39008,18 +39140,6 @@
       }
     },
     {
-      "templateId": "V0312_MOVE_LEAF_TORNADO",
-      "moveSettings": {
-        "movementId": "LEAF_TORNADO",
-        "pokemonType": "$PT_GRASS",
-        "power": 45,
-        "durationMs": 3100,
-        "damageWindowStartMs": 2000,
-        "damageWindowEndMs": 2600,
-        "energyDelta": -33
-      }
-    },
-    {
       "templateId": "V0313_MOVE_LEECH_LIFE",
       "moveSettings": {
         "movementId": "LEECH_LIFE",
@@ -39050,30 +39170,6 @@
       }
     },
     {
-      "templateId": "V0316_MOVE_MUDDY_WATER",
-      "moveSettings": {
-        "movementId": "MUDDY_WATER",
-        "pokemonType": "$PT_WATER",
-        "power": 50,
-        "durationMs": 2200,
-        "damageWindowStartMs": 1200,
-        "damageWindowEndMs": 1900,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0317_MOVE_BLAZE_KICK",
-      "moveSettings": {
-        "movementId": "BLAZE_KICK",
-        "pokemonType": "$PT_FIRE",
-        "power": 45,
-        "durationMs": 1200,
-        "damageWindowStartMs": 450,
-        "damageWindowEndMs": 800,
-        "energyDelta": -33
-      }
-    },
-    {
       "templateId": "V0318_MOVE_RAZOR_SHELL",
       "moveSettings": {
         "movementId": "RAZOR_SHELL",
@@ -39081,78 +39177,6 @@
         "durationMs": 1300,
         "damageWindowStartMs": 650,
         "damageWindowEndMs": 1000
-      }
-    },
-    {
-      "templateId": "V0319_MOVE_POWER_UP_PUNCH",
-      "moveSettings": {
-        "movementId": "POWER_UP_PUNCH",
-        "pokemonType": "$PT_FIGHTING",
-        "power": 50,
-        "durationMs": 2000,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 1900,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0320_MOVE_CHARM_FAST",
-      "moveSettings": {
-        "movementId": "CHARM_FAST",
-        "pokemonType": "$PT_FAIRY",
-        "power": 20,
-        "durationMs": 1500,
-        "damageWindowStartMs": 900,
-        "damageWindowEndMs": 1200,
-        "energyDelta": 11
-      }
-    },
-    {
-      "templateId": "V0321_MOVE_GIGA_IMPACT",
-      "moveSettings": {
-        "movementId": "GIGA_IMPACT",
-        "pokemonType": "$PT_NORMAL",
-        "power": 9001,
-        "durationMs": 4700,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 2400,
-        "energyDelta": 100
-      }
-    },
-    {
-      "templateId": "V0322_MOVE_FRUSTRATION",
-      "moveSettings": {
-        "movementId": "FRUSTRATION",
-        "pokemonType": "$PT_NORMAL",
-        "power": 10,
-        "durationMs": 2000,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 1800,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0323_MOVE_RETURN",
-      "moveSettings": {
-        "movementId": "RETURN",
-        "pokemonType": "$PT_NORMAL",
-        "power": 35,
-        "durationMs": 700,
-        "damageWindowStartMs": 100,
-        "damageWindowEndMs": 350,
-        "energyDelta": -33
-      }
-    },
-    {
-      "templateId": "V0324_MOVE_SYNCHRONOISE",
-      "moveSettings": {
-        "movementId": "SYNCHRONOISE",
-        "pokemonType": "$PT_PSYCHIC",
-        "power": 80,
-        "durationMs": 2600,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1600,
-        "energyDelta": -50
       }
     },
     {
@@ -39164,30 +39188,6 @@
         "durationMs": 300,
         "damageWindowStartMs": 170,
         "damageWindowEndMs": 300
-      }
-    },
-    {
-      "templateId": "V0326_MOVE_THUNDER_FANG_FAST",
-      "moveSettings": {
-        "movementId": "THUNDER_FANG_FAST",
-        "pokemonType": "$PT_ELECTRIC",
-        "power": 12,
-        "durationMs": 1200,
-        "damageWindowStartMs": 400,
-        "damageWindowEndMs": 900,
-        "energyDelta": 16
-      }
-    },
-    {
-      "templateId": "V0327_MOVE_ICE_FANG_FAST",
-      "moveSettings": {
-        "movementId": "ICE_FANG_FAST",
-        "pokemonType": "$PT_ICE",
-        "power": 12,
-        "durationMs": 1500,
-        "damageWindowStartMs": 400,
-        "damageWindowEndMs": 1000,
-        "energyDelta": 20
       }
     },
     {
@@ -39213,993 +39213,110 @@
   ],
   "combat_moves": [
     {
-      "templateId": "COMBAT_V0013_MOVE_WRAP",
+      "templateId": "COMBAT_V0231_MOVE_SPLASH_FAST",
       "combatMove": {
-        "uniqueId": "WRAP",
-        "type": "$PT_NORMAL",
-        "power": 60,
-        "energyDelta": -45
+        "uniqueId": "SPLASH_FAST",
+        "type": "$PT_WATER",
+        "energyDelta": 12
       }
     },
     {
-      "templateId": "COMBAT_V0014_MOVE_HYPER_BEAM",
+      "templateId": "COMBAT_V0235_MOVE_CONFUSION_FAST",
       "combatMove": {
-        "uniqueId": "HYPER_BEAM",
-        "type": "$PT_NORMAL",
-        "power": 150,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0016_MOVE_DARK_PULSE",
-      "combatMove": {
-        "uniqueId": "DARK_PULSE",
-        "type": "$PT_DARK",
-        "power": 80,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0018_MOVE_SLUDGE",
-      "combatMove": {
-        "uniqueId": "SLUDGE",
-        "type": "$PT_POISON",
-        "power": 50,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0020_MOVE_VICE_GRIP",
-      "combatMove": {
-        "uniqueId": "VICE_GRIP",
-        "type": "$PT_NORMAL",
-        "power": 40,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0021_MOVE_FLAME_WHEEL",
-      "combatMove": {
-        "uniqueId": "FLAME_WHEEL",
-        "type": "$PT_FIRE",
-        "power": 60,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0022_MOVE_MEGAHORN",
-      "combatMove": {
-        "uniqueId": "MEGAHORN",
-        "type": "$PT_BUG",
-        "power": 90,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0024_MOVE_FLAMETHROWER",
-      "combatMove": {
-        "uniqueId": "FLAMETHROWER",
-        "type": "$PT_FIRE",
-        "power": 90,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0026_MOVE_DIG",
-      "combatMove": {
-        "uniqueId": "DIG",
-        "type": "$PT_GROUND",
-        "power": 100,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0028_MOVE_CROSS_CHOP",
-      "combatMove": {
-        "uniqueId": "CROSS_CHOP",
-        "type": "$PT_FIGHTING",
-        "power": 50,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0030_MOVE_PSYBEAM",
-      "combatMove": {
-        "uniqueId": "PSYBEAM",
+        "uniqueId": "CONFUSION_FAST",
         "type": "$PT_PSYCHIC",
-        "power": 70,
-        "energyDelta": -60
+        "power": 16,
+        "energyDelta": 12
       }
     },
     {
-      "templateId": "COMBAT_V0031_MOVE_EARTHQUAKE",
+      "templateId": "COMBAT_V0237_MOVE_BUBBLE_FAST",
       "combatMove": {
-        "uniqueId": "EARTHQUAKE",
-        "type": "$PT_GROUND",
-        "power": 120,
-        "energyDelta": -65
+        "uniqueId": "BUBBLE_FAST",
+        "type": "$PT_WATER",
+        "power": 8,
+        "energyDelta": 11
       }
     },
     {
-      "templateId": "COMBAT_V0032_MOVE_STONE_EDGE",
+      "templateId": "COMBAT_V0249_MOVE_CHARGE_BEAM_FAST",
       "combatMove": {
-        "uniqueId": "STONE_EDGE",
-        "type": "$PT_ROCK",
-        "power": 100,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0033_MOVE_ICE_PUNCH",
-      "combatMove": {
-        "uniqueId": "ICE_PUNCH",
-        "type": "$PT_ICE",
-        "power": 55,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0034_MOVE_HEART_STAMP",
-      "combatMove": {
-        "uniqueId": "HEART_STAMP",
-        "type": "$PT_PSYCHIC",
-        "power": 40,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0035_MOVE_DISCHARGE",
-      "combatMove": {
-        "uniqueId": "DISCHARGE",
+        "uniqueId": "CHARGE_BEAM_FAST",
         "type": "$PT_ELECTRIC",
-        "power": 65,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0036_MOVE_FLASH_CANNON",
-      "combatMove": {
-        "uniqueId": "FLASH_CANNON",
-        "type": "$PT_STEEL",
-        "power": 110,
-        "energyDelta": -65
-      }
-    },
-    {
-      "templateId": "COMBAT_V0038_MOVE_DRILL_PECK",
-      "combatMove": {
-        "uniqueId": "DRILL_PECK",
-        "type": "$PT_FLYING",
-        "power": 60,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0039_MOVE_ICE_BEAM",
-      "combatMove": {
-        "uniqueId": "ICE_BEAM",
-        "type": "$PT_ICE",
-        "power": 90,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0040_MOVE_BLIZZARD",
-      "combatMove": {
-        "uniqueId": "BLIZZARD",
-        "type": "$PT_ICE",
-        "power": 130,
-        "energyDelta": -75
-      }
-    },
-    {
-      "templateId": "COMBAT_V0042_MOVE_HEAT_WAVE",
-      "combatMove": {
-        "uniqueId": "HEAT_WAVE",
-        "type": "$PT_FIRE",
-        "power": 95,
-        "energyDelta": -75
-      }
-    },
-    {
-      "templateId": "COMBAT_V0045_MOVE_AERIAL_ACE",
-      "combatMove": {
-        "uniqueId": "AERIAL_ACE",
-        "type": "$PT_FLYING",
-        "power": 55,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0046_MOVE_DRILL_RUN",
-      "combatMove": {
-        "uniqueId": "DRILL_RUN",
-        "type": "$PT_GROUND",
-        "power": 80,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0047_MOVE_PETAL_BLIZZARD",
-      "combatMove": {
-        "uniqueId": "PETAL_BLIZZARD",
-        "type": "$PT_GRASS",
-        "power": 110,
-        "energyDelta": -65
-      }
-    },
-    {
-      "templateId": "COMBAT_V0048_MOVE_MEGA_DRAIN",
-      "combatMove": {
-        "uniqueId": "MEGA_DRAIN",
-        "type": "$PT_GRASS",
-        "power": 25,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0049_MOVE_BUG_BUZZ",
-      "combatMove": {
-        "uniqueId": "BUG_BUZZ",
-        "type": "$PT_BUG",
-        "power": 90,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0050_MOVE_POISON_FANG",
-      "combatMove": {
-        "uniqueId": "POISON_FANG",
-        "type": "$PT_POISON",
-        "power": 40,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0051_MOVE_NIGHT_SLASH",
-      "combatMove": {
-        "uniqueId": "NIGHT_SLASH",
-        "type": "$PT_DARK",
-        "power": 50,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0053_MOVE_BUBBLE_BEAM",
-      "combatMove": {
-        "uniqueId": "BUBBLE_BEAM",
-        "type": "$PT_WATER",
-        "power": 25,
-        "energyDelta": -40,
-        "buffs": {
-          "targetAttackStatStageChange": -1,
-          "buffActivationChance": 1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0054_MOVE_SUBMISSION",
-      "combatMove": {
-        "uniqueId": "SUBMISSION",
-        "type": "$PT_FIGHTING",
-        "power": 60,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0056_MOVE_LOW_SWEEP",
-      "combatMove": {
-        "uniqueId": "LOW_SWEEP",
-        "type": "$PT_FIGHTING",
-        "power": 40,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0057_MOVE_AQUA_JET",
-      "combatMove": {
-        "uniqueId": "AQUA_JET",
-        "type": "$PT_WATER",
-        "power": 45,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0058_MOVE_AQUA_TAIL",
-      "combatMove": {
-        "uniqueId": "AQUA_TAIL",
-        "type": "$PT_WATER",
-        "power": 50,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0059_MOVE_SEED_BOMB",
-      "combatMove": {
-        "uniqueId": "SEED_BOMB",
-        "type": "$PT_GRASS",
-        "power": 55,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0060_MOVE_PSYSHOCK",
-      "combatMove": {
-        "uniqueId": "PSYSHOCK",
-        "type": "$PT_PSYCHIC",
-        "power": 70,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0062_MOVE_ANCIENT_POWER",
-      "combatMove": {
-        "uniqueId": "ANCIENT_POWER",
-        "type": "$PT_ROCK",
-        "power": 70,
-        "energyDelta": -45,
-        "buffs": {
-          "attackerAttackStatStageChange": 2,
-          "attackerDefenseStatStageChange": 2,
-          "buffActivationChance": 0.1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0063_MOVE_ROCK_TOMB",
-      "combatMove": {
-        "uniqueId": "ROCK_TOMB",
-        "type": "$PT_ROCK",
-        "power": 70,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0064_MOVE_ROCK_SLIDE",
-      "combatMove": {
-        "uniqueId": "ROCK_SLIDE",
-        "type": "$PT_ROCK",
-        "power": 80,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0065_MOVE_POWER_GEM",
-      "combatMove": {
-        "uniqueId": "POWER_GEM",
-        "type": "$PT_ROCK",
-        "power": 80,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0066_MOVE_SHADOW_SNEAK",
-      "combatMove": {
-        "uniqueId": "SHADOW_SNEAK",
-        "type": "$PT_GHOST",
-        "power": 50,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0067_MOVE_SHADOW_PUNCH",
-      "combatMove": {
-        "uniqueId": "SHADOW_PUNCH",
-        "type": "$PT_GHOST",
-        "power": 40,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0069_MOVE_OMINOUS_WIND",
-      "combatMove": {
-        "uniqueId": "OMINOUS_WIND",
-        "type": "$PT_GHOST",
-        "power": 50,
-        "energyDelta": -40,
-        "buffs": {
-          "attackerAttackStatStageChange": 2,
-          "attackerDefenseStatStageChange": 2,
-          "buffActivationChance": 0.1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0070_MOVE_SHADOW_BALL",
-      "combatMove": {
-        "uniqueId": "SHADOW_BALL",
-        "type": "$PT_GHOST",
-        "power": 100,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0072_MOVE_MAGNET_BOMB",
-      "combatMove": {
-        "uniqueId": "MAGNET_BOMB",
-        "type": "$PT_STEEL",
-        "power": 70,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0074_MOVE_IRON_HEAD",
-      "combatMove": {
-        "uniqueId": "IRON_HEAD",
-        "type": "$PT_STEEL",
-        "power": 70,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0075_MOVE_PARABOLIC_CHARGE",
-      "combatMove": {
-        "uniqueId": "PARABOLIC_CHARGE",
-        "type": "$PT_ELECTRIC",
-        "power": 25,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0077_MOVE_THUNDER_PUNCH",
-      "combatMove": {
-        "uniqueId": "THUNDER_PUNCH",
-        "type": "$PT_ELECTRIC",
-        "power": 55,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0078_MOVE_THUNDER",
-      "combatMove": {
-        "uniqueId": "THUNDER",
-        "type": "$PT_ELECTRIC",
-        "power": 100,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0079_MOVE_THUNDERBOLT",
-      "combatMove": {
-        "uniqueId": "THUNDERBOLT",
-        "type": "$PT_ELECTRIC",
-        "power": 90,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0080_MOVE_TWISTER",
-      "combatMove": {
-        "uniqueId": "TWISTER",
-        "type": "$PT_DRAGON",
-        "power": 45,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0082_MOVE_DRAGON_PULSE",
-      "combatMove": {
-        "uniqueId": "DRAGON_PULSE",
-        "type": "$PT_DRAGON",
-        "power": 90,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0083_MOVE_DRAGON_CLAW",
-      "combatMove": {
-        "uniqueId": "DRAGON_CLAW",
-        "type": "$PT_DRAGON",
-        "power": 50,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0084_MOVE_DISARMING_VOICE",
-      "combatMove": {
-        "uniqueId": "DISARMING_VOICE",
-        "type": "$PT_FAIRY",
-        "power": 70,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0085_MOVE_DRAINING_KISS",
-      "combatMove": {
-        "uniqueId": "DRAINING_KISS",
-        "type": "$PT_FAIRY",
-        "power": 60,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0086_MOVE_DAZZLING_GLEAM",
-      "combatMove": {
-        "uniqueId": "DAZZLING_GLEAM",
-        "type": "$PT_FAIRY",
-        "power": 110,
-        "energyDelta": -70
-      }
-    },
-    {
-      "templateId": "COMBAT_V0087_MOVE_MOONBLAST",
-      "combatMove": {
-        "uniqueId": "MOONBLAST",
-        "type": "$PT_FAIRY",
-        "power": 130,
-        "energyDelta": -70
-      }
-    },
-    {
-      "templateId": "COMBAT_V0088_MOVE_PLAY_ROUGH",
-      "combatMove": {
-        "uniqueId": "PLAY_ROUGH",
-        "type": "$PT_FAIRY",
-        "power": 90,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0089_MOVE_CROSS_POISON",
-      "combatMove": {
-        "uniqueId": "CROSS_POISON",
-        "type": "$PT_POISON",
-        "power": 40,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0090_MOVE_SLUDGE_BOMB",
-      "combatMove": {
-        "uniqueId": "SLUDGE_BOMB",
-        "type": "$PT_POISON",
-        "power": 80,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0091_MOVE_SLUDGE_WAVE",
-      "combatMove": {
-        "uniqueId": "SLUDGE_WAVE",
-        "type": "$PT_POISON",
-        "power": 110,
-        "energyDelta": -65
-      }
-    },
-    {
-      "templateId": "COMBAT_V0092_MOVE_GUNK_SHOT",
-      "combatMove": {
-        "uniqueId": "GUNK_SHOT",
-        "type": "$PT_POISON",
-        "power": 130,
-        "energyDelta": -75
-      }
-    },
-    {
-      "templateId": "COMBAT_V0094_MOVE_BONE_CLUB",
-      "combatMove": {
-        "uniqueId": "BONE_CLUB",
-        "type": "$PT_GROUND",
-        "power": 40,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0095_MOVE_BULLDOZE",
-      "combatMove": {
-        "uniqueId": "BULLDOZE",
-        "type": "$PT_GROUND",
-        "power": 80,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0096_MOVE_MUD_BOMB",
-      "combatMove": {
-        "uniqueId": "MUD_BOMB",
-        "type": "$PT_GROUND",
-        "power": 55,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0099_MOVE_SIGNAL_BEAM",
-      "combatMove": {
-        "uniqueId": "SIGNAL_BEAM",
-        "type": "$PT_BUG",
-        "power": 75,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0100_MOVE_X_SCISSOR",
-      "combatMove": {
-        "uniqueId": "X_SCISSOR",
-        "type": "$PT_BUG",
-        "power": 45,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0101_MOVE_FLAME_CHARGE",
-      "combatMove": {
-        "uniqueId": "FLAME_CHARGE",
-        "type": "$PT_FIRE",
-        "power": 70,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0102_MOVE_FLAME_BURST",
-      "combatMove": {
-        "uniqueId": "FLAME_BURST",
-        "type": "$PT_FIRE",
-        "power": 70,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0103_MOVE_FIRE_BLAST",
-      "combatMove": {
-        "uniqueId": "FIRE_BLAST",
-        "type": "$PT_FIRE",
-        "power": 140,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0104_MOVE_BRINE",
-      "combatMove": {
-        "uniqueId": "BRINE",
-        "type": "$PT_WATER",
-        "power": 60,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0105_MOVE_WATER_PULSE",
-      "combatMove": {
-        "uniqueId": "WATER_PULSE",
-        "type": "$PT_WATER",
-        "power": 70,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0106_MOVE_SCALD",
-      "combatMove": {
-        "uniqueId": "SCALD",
-        "type": "$PT_WATER",
-        "power": 80,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0107_MOVE_HYDRO_PUMP",
-      "combatMove": {
-        "uniqueId": "HYDRO_PUMP",
-        "type": "$PT_WATER",
-        "power": 130,
-        "energyDelta": -75
-      }
-    },
-    {
-      "templateId": "COMBAT_V0108_MOVE_PSYCHIC",
-      "combatMove": {
-        "uniqueId": "PSYCHIC",
-        "type": "$PT_PSYCHIC",
-        "power": 90,
-        "energyDelta": -55,
-        "buffs": {
-          "targetDefenseStatStageChange": -1,
-          "buffActivationChance": 0.1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0109_MOVE_PSYSTRIKE",
-      "combatMove": {
-        "uniqueId": "PSYSTRIKE",
-        "type": "$PT_PSYCHIC",
-        "power": 90,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0111_MOVE_ICY_WIND",
-      "combatMove": {
-        "uniqueId": "ICY_WIND",
-        "type": "$PT_ICE",
-        "power": 60,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0114_MOVE_GIGA_DRAIN",
-      "combatMove": {
-        "uniqueId": "GIGA_DRAIN",
-        "type": "$PT_GRASS",
-        "power": 50,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0115_MOVE_FIRE_PUNCH",
-      "combatMove": {
-        "uniqueId": "FIRE_PUNCH",
-        "type": "$PT_FIRE",
-        "power": 55,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0116_MOVE_SOLAR_BEAM",
-      "combatMove": {
-        "uniqueId": "SOLAR_BEAM",
-        "type": "$PT_GRASS",
-        "power": 150,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0117_MOVE_LEAF_BLADE",
-      "combatMove": {
-        "uniqueId": "LEAF_BLADE",
-        "type": "$PT_GRASS",
-        "power": 70,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0118_MOVE_POWER_WHIP",
-      "combatMove": {
-        "uniqueId": "POWER_WHIP",
-        "type": "$PT_GRASS",
-        "power": 90,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0121_MOVE_AIR_CUTTER",
-      "combatMove": {
-        "uniqueId": "AIR_CUTTER",
-        "type": "$PT_FLYING",
-        "power": 60,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0122_MOVE_HURRICANE",
-      "combatMove": {
-        "uniqueId": "HURRICANE",
-        "type": "$PT_FLYING",
-        "power": 110,
-        "energyDelta": -65
-      }
-    },
-    {
-      "templateId": "COMBAT_V0123_MOVE_BRICK_BREAK",
-      "combatMove": {
-        "uniqueId": "BRICK_BREAK",
-        "type": "$PT_FIGHTING",
-        "power": 40,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0125_MOVE_SWIFT",
-      "combatMove": {
-        "uniqueId": "SWIFT",
-        "type": "$PT_NORMAL",
-        "power": 60,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0126_MOVE_HORN_ATTACK",
-      "combatMove": {
-        "uniqueId": "HORN_ATTACK",
-        "type": "$PT_NORMAL",
-        "power": 40,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0127_MOVE_STOMP",
-      "combatMove": {
-        "uniqueId": "STOMP",
-        "type": "$PT_NORMAL",
-        "power": 55,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0129_MOVE_HYPER_FANG",
-      "combatMove": {
-        "uniqueId": "HYPER_FANG",
-        "type": "$PT_NORMAL",
-        "power": 80,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0131_MOVE_BODY_SLAM",
-      "combatMove": {
-        "uniqueId": "BODY_SLAM",
-        "type": "$PT_NORMAL",
-        "power": 60,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0132_MOVE_REST",
-      "combatMove": {
-        "uniqueId": "REST",
-        "type": "$PT_NORMAL",
-        "power": 50,
-        "energyDelta": -35
-      }
-    },
-    {
-      "templateId": "COMBAT_V0133_MOVE_STRUGGLE",
-      "combatMove": {
-        "uniqueId": "STRUGGLE",
-        "type": "$PT_NORMAL",
-        "power": 35,
-        "energyDelta": -100
-      }
-    },
-    {
-      "templateId": "COMBAT_V0134_MOVE_SCALD_BLASTOISE",
-      "combatMove": {
-        "uniqueId": "SCALD_BLASTOISE",
-        "type": "$PT_WATER",
-        "power": 50,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0135_MOVE_HYDRO_PUMP_BLASTOISE",
-      "combatMove": {
-        "uniqueId": "HYDRO_PUMP_BLASTOISE",
-        "type": "$PT_WATER",
-        "power": 90,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0136_MOVE_WRAP_GREEN",
-      "combatMove": {
-        "uniqueId": "WRAP_GREEN",
-        "type": "$PT_NORMAL",
-        "power": 25,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0137_MOVE_WRAP_PINK",
-      "combatMove": {
-        "uniqueId": "WRAP_PINK",
-        "type": "$PT_NORMAL",
-        "power": 25,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0200_MOVE_FURY_CUTTER_FAST",
-      "combatMove": {
-        "uniqueId": "FURY_CUTTER_FAST",
-        "type": "$PT_BUG",
-        "power": 2,
-        "energyDelta": 4
-      }
-    },
-    {
-      "templateId": "COMBAT_V0201_MOVE_BUG_BITE_FAST",
-      "combatMove": {
-        "uniqueId": "BUG_BITE_FAST",
-        "type": "$PT_BUG",
-        "power": 3,
-        "energyDelta": 3
-      }
-    },
-    {
-      "templateId": "COMBAT_V0202_MOVE_BITE_FAST",
-      "combatMove": {
-        "uniqueId": "BITE_FAST",
-        "type": "$PT_DARK",
-        "power": 4,
-        "energyDelta": 2
-      }
-    },
-    {
-      "templateId": "COMBAT_V0203_MOVE_SUCKER_PUNCH_FAST",
-      "combatMove": {
-        "uniqueId": "SUCKER_PUNCH_FAST",
-        "type": "$PT_DARK",
         "power": 5,
-        "energyDelta": 7
+        "energyDelta": 11
       }
     },
     {
-      "templateId": "COMBAT_V0204_MOVE_DRAGON_BREATH_FAST",
+      "templateId": "COMBAT_V0260_MOVE_INFESTATION_FAST",
       "combatMove": {
-        "uniqueId": "DRAGON_BREATH_FAST",
-        "type": "$PT_DRAGON",
-        "power": 4,
-        "energyDelta": 3
+        "uniqueId": "INFESTATION_FAST",
+        "type": "$PT_BUG",
+        "power": 6,
+        "energyDelta": 11
       }
     },
     {
-      "templateId": "COMBAT_V0205_MOVE_THUNDER_SHOCK_FAST",
+      "templateId": "COMBAT_V0217_MOVE_ICE_SHARD_FAST",
       "combatMove": {
-        "uniqueId": "THUNDER_SHOCK_FAST",
+        "uniqueId": "ICE_SHARD_FAST",
+        "type": "$PT_ICE",
+        "power": 9,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "COMBAT_V0250_MOVE_VOLT_SWITCH_FAST",
+      "combatMove": {
+        "uniqueId": "VOLT_SWITCH_FAST",
         "type": "$PT_ELECTRIC",
+        "power": 12,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "COMBAT_V0253_MOVE_DRAGON_TAIL_FAST",
+      "combatMove": {
+        "uniqueId": "DRAGON_TAIL_FAST",
+        "type": "$PT_DRAGON",
+        "power": 9,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "COMBAT_V0216_MOVE_MUD_SHOT_FAST",
+      "combatMove": {
+        "uniqueId": "MUD_SHOT_FAST",
+        "type": "$PT_GROUND",
         "power": 3,
         "energyDelta": 9
       }
     },
     {
-      "templateId": "COMBAT_V0206_MOVE_SPARK_FAST",
+      "templateId": "COMBAT_V0226_MOVE_PSYCHO_CUT_FAST",
       "combatMove": {
-        "uniqueId": "SPARK_FAST",
-        "type": "$PT_ELECTRIC",
-        "power": 4,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "COMBAT_V0207_MOVE_LOW_KICK_FAST",
-      "combatMove": {
-        "uniqueId": "LOW_KICK_FAST",
-        "type": "$PT_FIGHTING",
-        "power": 4,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "COMBAT_V0208_MOVE_KARATE_CHOP_FAST",
-      "combatMove": {
-        "uniqueId": "KARATE_CHOP_FAST",
-        "type": "$PT_FIGHTING",
-        "power": 5,
-        "energyDelta": 7
-      }
-    },
-    {
-      "templateId": "COMBAT_V0209_MOVE_EMBER_FAST",
-      "combatMove": {
-        "uniqueId": "EMBER_FAST",
-        "type": "$PT_FIRE",
-        "power": 6,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "COMBAT_V0210_MOVE_WING_ATTACK_FAST",
-      "combatMove": {
-        "uniqueId": "WING_ATTACK_FAST",
-        "type": "$PT_FLYING",
-        "power": 5,
-        "energyDelta": 7
-      }
-    },
-    {
-      "templateId": "COMBAT_V0211_MOVE_PECK_FAST",
-      "combatMove": {
-        "uniqueId": "PECK_FAST",
-        "type": "$PT_FLYING",
-        "power": 6,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "COMBAT_V0212_MOVE_LICK_FAST",
-      "combatMove": {
-        "uniqueId": "LICK_FAST",
-        "type": "$PT_GHOST",
+        "uniqueId": "PSYCHO_CUT_FAST",
+        "type": "$PT_PSYCHIC",
         "power": 3,
-        "energyDelta": 3
+        "energyDelta": 9
+      }
+    },
+    {
+      "templateId": "COMBAT_V0255_MOVE_AIR_SLASH_FAST",
+      "combatMove": {
+        "uniqueId": "AIR_SLASH_FAST",
+        "type": "$PT_FLYING",
+        "power": 9,
+        "energyDelta": 9
+      }
+    },
+    {
+      "templateId": "COMBAT_V0263_MOVE_ASTONISH_FAST",
+      "combatMove": {
+        "uniqueId": "ASTONISH_FAST",
+        "type": "$PT_GHOST",
+        "power": 5,
+        "energyDelta": 9
       }
     },
     {
@@ -40221,39 +39338,30 @@
       }
     },
     {
-      "templateId": "COMBAT_V0215_MOVE_RAZOR_LEAF_FAST",
+      "templateId": "COMBAT_V0233_MOVE_MUD_SLAP_FAST",
       "combatMove": {
-        "uniqueId": "RAZOR_LEAF_FAST",
-        "type": "$PT_GRASS",
-        "power": 11,
-        "energyDelta": 4
-      }
-    },
-    {
-      "templateId": "COMBAT_V0216_MOVE_MUD_SHOT_FAST",
-      "combatMove": {
-        "uniqueId": "MUD_SHOT_FAST",
+        "uniqueId": "MUD_SLAP_FAST",
         "type": "$PT_GROUND",
-        "power": 3,
-        "energyDelta": 9
-      }
-    },
-    {
-      "templateId": "COMBAT_V0217_MOVE_ICE_SHARD_FAST",
-      "combatMove": {
-        "uniqueId": "ICE_SHARD_FAST",
-        "type": "$PT_ICE",
         "power": 9,
-        "energyDelta": 10
+        "energyDelta": 8
       }
     },
     {
-      "templateId": "COMBAT_V0218_MOVE_FROST_BREATH_FAST",
+      "templateId": "COMBAT_V0244_MOVE_POWDER_SNOW_FAST",
       "combatMove": {
-        "uniqueId": "FROST_BREATH_FAST",
+        "uniqueId": "POWDER_SNOW_FAST",
         "type": "$PT_ICE",
-        "power": 7,
-        "energyDelta": 5
+        "power": 4,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "COMBAT_V0261_MOVE_STRUGGLE_BUG_FAST",
+      "combatMove": {
+        "uniqueId": "STRUGGLE_BUG_FAST",
+        "type": "$PT_BUG",
+        "power": 9,
+        "energyDelta": 8
       }
     },
     {
@@ -40266,84 +39374,12 @@
       }
     },
     {
-      "templateId": "COMBAT_V0220_MOVE_SCRATCH_FAST",
-      "combatMove": {
-        "uniqueId": "SCRATCH_FAST",
-        "type": "$PT_NORMAL",
-        "power": 4,
-        "energyDelta": 2
-      }
-    },
-    {
-      "templateId": "COMBAT_V0221_MOVE_TACKLE_FAST",
-      "combatMove": {
-        "uniqueId": "TACKLE_FAST",
-        "type": "$PT_NORMAL",
-        "power": 3,
-        "energyDelta": 2
-      }
-    },
-    {
-      "templateId": "COMBAT_V0222_MOVE_POUND_FAST",
-      "combatMove": {
-        "uniqueId": "POUND_FAST",
-        "type": "$PT_NORMAL",
-        "power": 5,
-        "energyDelta": 4
-      }
-    },
-    {
-      "templateId": "COMBAT_V0223_MOVE_CUT_FAST",
-      "combatMove": {
-        "uniqueId": "CUT_FAST",
-        "type": "$PT_NORMAL",
-        "power": 3,
-        "energyDelta": 2
-      }
-    },
-    {
       "templateId": "COMBAT_V0224_MOVE_POISON_JAB_FAST",
       "combatMove": {
         "uniqueId": "POISON_JAB_FAST",
         "type": "$PT_POISON",
         "power": 6,
         "energyDelta": 7
-      }
-    },
-    {
-      "templateId": "COMBAT_V0225_MOVE_ACID_FAST",
-      "combatMove": {
-        "uniqueId": "ACID_FAST",
-        "type": "$PT_POISON",
-        "power": 6,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "COMBAT_V0226_MOVE_PSYCHO_CUT_FAST",
-      "combatMove": {
-        "uniqueId": "PSYCHO_CUT_FAST",
-        "type": "$PT_PSYCHIC",
-        "power": 3,
-        "energyDelta": 9
-      }
-    },
-    {
-      "templateId": "COMBAT_V0227_MOVE_ROCK_THROW_FAST",
-      "combatMove": {
-        "uniqueId": "ROCK_THROW_FAST",
-        "type": "$PT_ROCK",
-        "power": 8,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "COMBAT_V0228_MOVE_METAL_CLAW_FAST",
-      "combatMove": {
-        "uniqueId": "METAL_CLAW_FAST",
-        "type": "$PT_STEEL",
-        "power": 5,
-        "energyDelta": 6
       }
     },
     {
@@ -40356,38 +39392,30 @@
       }
     },
     {
-      "templateId": "COMBAT_V0230_MOVE_WATER_GUN_FAST",
+      "templateId": "COMBAT_V0241_MOVE_ROCK_SMASH_FAST",
       "combatMove": {
-        "uniqueId": "WATER_GUN_FAST",
-        "type": "$PT_WATER",
-        "power": 3,
-        "energyDelta": 3
-      }
-    },
-    {
-      "templateId": "COMBAT_V0231_MOVE_SPLASH_FAST",
-      "combatMove": {
-        "uniqueId": "SPLASH_FAST",
-        "type": "$PT_WATER",
-        "energyDelta": 12
-      }
-    },
-    {
-      "templateId": "COMBAT_V0232_MOVE_WATER_GUN_FAST_BLASTOISE",
-      "combatMove": {
-        "uniqueId": "WATER_GUN_FAST_BLASTOISE",
-        "type": "$PT_WATER",
-        "power": 6,
-        "energyDelta": 4
-      }
-    },
-    {
-      "templateId": "COMBAT_V0233_MOVE_MUD_SLAP_FAST",
-      "combatMove": {
-        "uniqueId": "MUD_SLAP_FAST",
-        "type": "$PT_GROUND",
+        "uniqueId": "ROCK_SMASH_FAST",
+        "type": "$PT_FIGHTING",
         "power": 9,
-        "energyDelta": 8
+        "energyDelta": 7
+      }
+    },
+    {
+      "templateId": "COMBAT_V0243_MOVE_COUNTER_FAST",
+      "combatMove": {
+        "uniqueId": "COUNTER_FAST",
+        "type": "$PT_FIGHTING",
+        "power": 8,
+        "energyDelta": 7
+      }
+    },
+    {
+      "templateId": "COMBAT_V0228_MOVE_METAL_CLAW_FAST",
+      "combatMove": {
+        "uniqueId": "METAL_CLAW_FAST",
+        "type": "$PT_STEEL",
+        "power": 5,
+        "energyDelta": 6
       }
     },
     {
@@ -40400,15 +39428,6 @@
       }
     },
     {
-      "templateId": "COMBAT_V0235_MOVE_CONFUSION_FAST",
-      "combatMove": {
-        "uniqueId": "CONFUSION_FAST",
-        "type": "$PT_PSYCHIC",
-        "power": 16,
-        "energyDelta": 12
-      }
-    },
-    {
       "templateId": "COMBAT_V0236_MOVE_POISON_STING_FAST",
       "combatMove": {
         "uniqueId": "POISON_STING_FAST",
@@ -40418,21 +39437,48 @@
       }
     },
     {
-      "templateId": "COMBAT_V0237_MOVE_BUBBLE_FAST",
-      "combatMove": {
-        "uniqueId": "BUBBLE_FAST",
-        "type": "$PT_WATER",
-        "power": 8,
-        "energyDelta": 11
-      }
-    },
-    {
       "templateId": "COMBAT_V0238_MOVE_FEINT_ATTACK_FAST",
       "combatMove": {
         "uniqueId": "FEINT_ATTACK_FAST",
         "type": "$PT_DARK",
         "power": 6,
         "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "COMBAT_V0211_MOVE_PECK_FAST",
+      "combatMove": {
+        "uniqueId": "PECK_FAST",
+        "type": "$PT_FLYING",
+        "power": 6,
+        "energyDelta": 5
+      }
+    },
+    {
+      "templateId": "COMBAT_V0218_MOVE_FROST_BREATH_FAST",
+      "combatMove": {
+        "uniqueId": "FROST_BREATH_FAST",
+        "type": "$PT_ICE",
+        "power": 7,
+        "energyDelta": 5
+      }
+    },
+    {
+      "templateId": "COMBAT_V0225_MOVE_ACID_FAST",
+      "combatMove": {
+        "uniqueId": "ACID_FAST",
+        "type": "$PT_POISON",
+        "power": 6,
+        "energyDelta": 5
+      }
+    },
+    {
+      "templateId": "COMBAT_V0227_MOVE_ROCK_THROW_FAST",
+      "combatMove": {
+        "uniqueId": "ROCK_THROW_FAST",
+        "type": "$PT_ROCK",
+        "power": 8,
+        "energyDelta": 5
       }
     },
     {
@@ -40454,12 +39500,75 @@
       }
     },
     {
-      "templateId": "COMBAT_V0241_MOVE_ROCK_SMASH_FAST",
+      "templateId": "COMBAT_V0215_MOVE_RAZOR_LEAF_FAST",
       "combatMove": {
-        "uniqueId": "ROCK_SMASH_FAST",
-        "type": "$PT_FIGHTING",
-        "power": 9,
-        "energyDelta": 7
+        "uniqueId": "RAZOR_LEAF_FAST",
+        "type": "$PT_GRASS",
+        "power": 11,
+        "energyDelta": 4
+      }
+    },
+    {
+      "templateId": "COMBAT_V0222_MOVE_POUND_FAST",
+      "combatMove": {
+        "uniqueId": "POUND_FAST",
+        "type": "$PT_NORMAL",
+        "power": 5,
+        "energyDelta": 4
+      }
+    },
+    {
+      "templateId": "COMBAT_V0232_MOVE_WATER_GUN_FAST_BLASTOISE",
+      "combatMove": {
+        "uniqueId": "WATER_GUN_FAST_BLASTOISE",
+        "type": "$PT_WATER",
+        "power": 6,
+        "energyDelta": 4
+      }
+    },
+    {
+      "templateId": "COMBAT_V0212_MOVE_LICK_FAST",
+      "combatMove": {
+        "uniqueId": "LICK_FAST",
+        "type": "$PT_GHOST",
+        "power": 3,
+        "energyDelta": 3
+      }
+    },
+    {
+      "templateId": "COMBAT_V0230_MOVE_WATER_GUN_FAST",
+      "combatMove": {
+        "uniqueId": "WATER_GUN_FAST",
+        "type": "$PT_WATER",
+        "power": 3,
+        "energyDelta": 3
+      }
+    },
+    {
+      "templateId": "COMBAT_V0220_MOVE_SCRATCH_FAST",
+      "combatMove": {
+        "uniqueId": "SCRATCH_FAST",
+        "type": "$PT_NORMAL",
+        "power": 4,
+        "energyDelta": 2
+      }
+    },
+    {
+      "templateId": "COMBAT_V0221_MOVE_TACKLE_FAST",
+      "combatMove": {
+        "uniqueId": "TACKLE_FAST",
+        "type": "$PT_NORMAL",
+        "power": 3,
+        "energyDelta": 2
+      }
+    },
+    {
+      "templateId": "COMBAT_V0223_MOVE_CUT_FAST",
+      "combatMove": {
+        "uniqueId": "CUT_FAST",
+        "type": "$PT_NORMAL",
+        "power": 3,
+        "energyDelta": 2
       }
     },
     {
@@ -40467,326 +39576,6 @@
       "combatMove": {
         "uniqueId": "TRANSFORM_FAST",
         "type": "$PT_NORMAL"
-      }
-    },
-    {
-      "templateId": "COMBAT_V0243_MOVE_COUNTER_FAST",
-      "combatMove": {
-        "uniqueId": "COUNTER_FAST",
-        "type": "$PT_FIGHTING",
-        "power": 8,
-        "energyDelta": 7
-      }
-    },
-    {
-      "templateId": "COMBAT_V0244_MOVE_POWDER_SNOW_FAST",
-      "combatMove": {
-        "uniqueId": "POWDER_SNOW_FAST",
-        "type": "$PT_ICE",
-        "power": 4,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "COMBAT_V0245_MOVE_CLOSE_COMBAT",
-      "combatMove": {
-        "uniqueId": "CLOSE_COMBAT",
-        "type": "$PT_FIGHTING",
-        "power": 100,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0246_MOVE_DYNAMIC_PUNCH",
-      "combatMove": {
-        "uniqueId": "DYNAMIC_PUNCH",
-        "type": "$PT_FIGHTING",
-        "power": 90,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0247_MOVE_FOCUS_BLAST",
-      "combatMove": {
-        "uniqueId": "FOCUS_BLAST",
-        "type": "$PT_FIGHTING",
-        "power": 150,
-        "energyDelta": -75
-      }
-    },
-    {
-      "templateId": "COMBAT_V0248_MOVE_AURORA_BEAM",
-      "combatMove": {
-        "uniqueId": "AURORA_BEAM",
-        "type": "$PT_ICE",
-        "power": 80,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0249_MOVE_CHARGE_BEAM_FAST",
-      "combatMove": {
-        "uniqueId": "CHARGE_BEAM_FAST",
-        "type": "$PT_ELECTRIC",
-        "power": 5,
-        "energyDelta": 11
-      }
-    },
-    {
-      "templateId": "COMBAT_V0250_MOVE_VOLT_SWITCH_FAST",
-      "combatMove": {
-        "uniqueId": "VOLT_SWITCH_FAST",
-        "type": "$PT_ELECTRIC",
-        "power": 12,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "COMBAT_V0251_MOVE_WILD_CHARGE",
-      "combatMove": {
-        "uniqueId": "WILD_CHARGE",
-        "type": "$PT_ELECTRIC",
-        "power": 90,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0252_MOVE_ZAP_CANNON",
-      "combatMove": {
-        "uniqueId": "ZAP_CANNON",
-        "type": "$PT_ELECTRIC",
-        "power": 150,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0253_MOVE_DRAGON_TAIL_FAST",
-      "combatMove": {
-        "uniqueId": "DRAGON_TAIL_FAST",
-        "type": "$PT_DRAGON",
-        "power": 9,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "COMBAT_V0254_MOVE_AVALANCHE",
-      "combatMove": {
-        "uniqueId": "AVALANCHE",
-        "type": "$PT_ICE",
-        "power": 90,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0255_MOVE_AIR_SLASH_FAST",
-      "combatMove": {
-        "uniqueId": "AIR_SLASH_FAST",
-        "type": "$PT_FLYING",
-        "power": 9,
-        "energyDelta": 9
-      }
-    },
-    {
-      "templateId": "COMBAT_V0256_MOVE_BRAVE_BIRD",
-      "combatMove": {
-        "uniqueId": "BRAVE_BIRD",
-        "type": "$PT_FLYING",
-        "power": 90,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0257_MOVE_SKY_ATTACK",
-      "combatMove": {
-        "uniqueId": "SKY_ATTACK",
-        "type": "$PT_FLYING",
-        "power": 80,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0258_MOVE_SAND_TOMB",
-      "combatMove": {
-        "uniqueId": "SAND_TOMB",
-        "type": "$PT_GROUND",
-        "power": 80,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0259_MOVE_ROCK_BLAST",
-      "combatMove": {
-        "uniqueId": "ROCK_BLAST",
-        "type": "$PT_ROCK",
-        "power": 50,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0260_MOVE_INFESTATION_FAST",
-      "combatMove": {
-        "uniqueId": "INFESTATION_FAST",
-        "type": "$PT_BUG",
-        "power": 6,
-        "energyDelta": 11
-      }
-    },
-    {
-      "templateId": "COMBAT_V0261_MOVE_STRUGGLE_BUG_FAST",
-      "combatMove": {
-        "uniqueId": "STRUGGLE_BUG_FAST",
-        "type": "$PT_BUG",
-        "power": 9,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "COMBAT_V0262_MOVE_SILVER_WIND",
-      "combatMove": {
-        "uniqueId": "SILVER_WIND",
-        "type": "$PT_BUG",
-        "power": 70,
-        "energyDelta": -45,
-        "buffs": {
-          "attackerAttackStatStageChange": 2,
-          "attackerDefenseStatStageChange": 2,
-          "buffActivationChance": 0.1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0263_MOVE_ASTONISH_FAST",
-      "combatMove": {
-        "uniqueId": "ASTONISH_FAST",
-        "type": "$PT_GHOST",
-        "power": 5,
-        "energyDelta": 9
-      }
-    },
-    {
-      "templateId": "COMBAT_V0264_MOVE_HEX_FAST",
-      "combatMove": {
-        "uniqueId": "HEX_FAST",
-        "type": "$PT_GHOST",
-        "power": 6,
-        "energyDelta": 11
-      }
-    },
-    {
-      "templateId": "COMBAT_V0265_MOVE_NIGHT_SHADE",
-      "combatMove": {
-        "uniqueId": "NIGHT_SHADE",
-        "type": "$PT_GHOST",
-        "power": 60,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0266_MOVE_IRON_TAIL_FAST",
-      "combatMove": {
-        "uniqueId": "IRON_TAIL_FAST",
-        "type": "$PT_STEEL",
-        "power": 9,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "COMBAT_V0267_MOVE_GYRO_BALL",
-      "combatMove": {
-        "uniqueId": "GYRO_BALL",
-        "type": "$PT_STEEL",
-        "power": 80,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0268_MOVE_HEAVY_SLAM",
-      "combatMove": {
-        "uniqueId": "HEAVY_SLAM",
-        "type": "$PT_STEEL",
-        "power": 70,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0269_MOVE_FIRE_SPIN_FAST",
-      "combatMove": {
-        "uniqueId": "FIRE_SPIN_FAST",
-        "type": "$PT_FIRE",
-        "power": 9,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "COMBAT_V0270_MOVE_OVERHEAT",
-      "combatMove": {
-        "uniqueId": "OVERHEAT",
-        "type": "$PT_FIRE",
-        "power": 150,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "COMBAT_V0271_MOVE_BULLET_SEED_FAST",
-      "combatMove": {
-        "uniqueId": "BULLET_SEED_FAST",
-        "type": "$PT_GRASS",
-        "power": 5,
-        "energyDelta": 11
-      }
-    },
-    {
-      "templateId": "COMBAT_V0272_MOVE_GRASS_KNOT",
-      "combatMove": {
-        "uniqueId": "GRASS_KNOT",
-        "type": "$PT_GRASS",
-        "power": 90,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0273_MOVE_ENERGY_BALL",
-      "combatMove": {
-        "uniqueId": "ENERGY_BALL",
-        "type": "$PT_GRASS",
-        "power": 90,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "COMBAT_V0274_MOVE_EXTRASENSORY_FAST",
-      "combatMove": {
-        "uniqueId": "EXTRASENSORY_FAST",
-        "type": "$PT_PSYCHIC",
-        "power": 8,
-        "energyDelta": 10
-      }
-    },
-    {
-      "templateId": "COMBAT_V0275_MOVE_FUTURESIGHT",
-      "combatMove": {
-        "uniqueId": "FUTURESIGHT",
-        "type": "$PT_PSYCHIC",
-        "power": 120,
-        "energyDelta": -65
-      }
-    },
-    {
-      "templateId": "COMBAT_V0276_MOVE_MIRROR_COAT",
-      "combatMove": {
-        "uniqueId": "MIRROR_COAT",
-        "type": "$PT_PSYCHIC",
-        "power": 60,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0277_MOVE_OUTRAGE",
-      "combatMove": {
-        "uniqueId": "OUTRAGE",
-        "type": "$PT_DRAGON",
-        "power": 110,
-        "energyDelta": -60
       }
     },
     {
@@ -40799,21 +39588,74 @@
       }
     },
     {
-      "templateId": "COMBAT_V0279_MOVE_CRUNCH",
+      "templateId": "COMBAT_V0287_MOVE_YAWN_FAST",
       "combatMove": {
-        "uniqueId": "CRUNCH",
-        "type": "$PT_DARK",
-        "power": 70,
-        "energyDelta": -45
+        "uniqueId": "YAWN_FAST",
+        "type": "$PT_NORMAL",
+        "energyDelta": 12
       }
     },
     {
-      "templateId": "COMBAT_V0280_MOVE_FOUL_PLAY",
+      "templateId": "COMBAT_V0291_MOVE_PRESENT_FAST",
       "combatMove": {
-        "uniqueId": "FOUL_PLAY",
-        "type": "$PT_DARK",
-        "power": 70,
-        "energyDelta": -45
+        "uniqueId": "PRESENT_FAST",
+        "type": "$PT_NORMAL",
+        "power": 3,
+        "energyDelta": 12
+      }
+    },
+    {
+      "templateId": "COMBAT_V0264_MOVE_HEX_FAST",
+      "combatMove": {
+        "uniqueId": "HEX_FAST",
+        "type": "$PT_GHOST",
+        "power": 6,
+        "energyDelta": 11
+      }
+    },
+    {
+      "templateId": "COMBAT_V0271_MOVE_BULLET_SEED_FAST",
+      "combatMove": {
+        "uniqueId": "BULLET_SEED_FAST",
+        "type": "$PT_GRASS",
+        "power": 5,
+        "energyDelta": 11
+      }
+    },
+    {
+      "templateId": "COMBAT_V0269_MOVE_FIRE_SPIN_FAST",
+      "combatMove": {
+        "uniqueId": "FIRE_SPIN_FAST",
+        "type": "$PT_FIRE",
+        "power": 9,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "COMBAT_V0274_MOVE_EXTRASENSORY_FAST",
+      "combatMove": {
+        "uniqueId": "EXTRASENSORY_FAST",
+        "type": "$PT_PSYCHIC",
+        "power": 8,
+        "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "COMBAT_V0205_MOVE_THUNDER_SHOCK_FAST",
+      "combatMove": {
+        "uniqueId": "THUNDER_SHOCK_FAST",
+        "type": "$PT_ELECTRIC",
+        "power": 3,
+        "energyDelta": 9
+      }
+    },
+    {
+      "templateId": "COMBAT_V0206_MOVE_SPARK_FAST",
+      "combatMove": {
+        "uniqueId": "SPARK_FAST",
+        "type": "$PT_ELECTRIC",
+        "power": 4,
+        "energyDelta": 8
       }
     },
     {
@@ -40844,74 +39686,246 @@
       }
     },
     {
-      "templateId": "COMBAT_V0284_MOVE_SURF",
+      "templateId": "COMBAT_V0297_MOVE_SMACK_DOWN_FAST",
       "combatMove": {
-        "uniqueId": "SURF",
-        "type": "$PT_WATER",
-        "power": 65,
-        "energyDelta": -40
+        "uniqueId": "SMACK_DOWN_FAST",
+        "type": "$PT_ROCK",
+        "power": 12,
+        "energyDelta": 8
       }
     },
     {
-      "templateId": "COMBAT_V0285_MOVE_DRACO_METEOR",
+      "templateId": "COMBAT_V0203_MOVE_SUCKER_PUNCH_FAST",
       "combatMove": {
-        "uniqueId": "DRACO_METEOR",
-        "type": "$PT_DRAGON",
-        "power": 150,
-        "energyDelta": -75
+        "uniqueId": "SUCKER_PUNCH_FAST",
+        "type": "$PT_DARK",
+        "power": 5,
+        "energyDelta": 7
       }
     },
     {
-      "templateId": "COMBAT_V0286_MOVE_DOOM_DESIRE",
+      "templateId": "COMBAT_V0208_MOVE_KARATE_CHOP_FAST",
       "combatMove": {
-        "uniqueId": "DOOM_DESIRE",
+        "uniqueId": "KARATE_CHOP_FAST",
+        "type": "$PT_FIGHTING",
+        "power": 5,
+        "energyDelta": 7
+      }
+    },
+    {
+      "templateId": "COMBAT_V0210_MOVE_WING_ATTACK_FAST",
+      "combatMove": {
+        "uniqueId": "WING_ATTACK_FAST",
+        "type": "$PT_FLYING",
+        "power": 5,
+        "energyDelta": 7
+      }
+    },
+    {
+      "templateId": "COMBAT_V0209_MOVE_EMBER_FAST",
+      "combatMove": {
+        "uniqueId": "EMBER_FAST",
+        "type": "$PT_FIRE",
+        "power": 6,
+        "energyDelta": 6
+      }
+    },
+    {
+      "templateId": "COMBAT_V0266_MOVE_IRON_TAIL_FAST",
+      "combatMove": {
+        "uniqueId": "IRON_TAIL_FAST",
         "type": "$PT_STEEL",
-        "power": 75,
-        "energyDelta": -40
+        "power": 9,
+        "energyDelta": 6
       }
     },
     {
-      "templateId": "COMBAT_V0287_MOVE_YAWN_FAST",
+      "templateId": "COMBAT_V0320_MOVE_CHARM_FAST",
       "combatMove": {
-        "uniqueId": "YAWN_FAST",
-        "type": "$PT_NORMAL",
-        "energyDelta": 12
+        "uniqueId": "CHARM_FAST",
+        "type": "$PT_FAIRY",
+        "power": 16,
+        "energyDelta": 6
       }
     },
     {
-      "templateId": "COMBAT_V0288_MOVE_PSYCHO_BOOST",
+      "templateId": "COMBAT_V0207_MOVE_LOW_KICK_FAST",
       "combatMove": {
-        "uniqueId": "PSYCHO_BOOST",
-        "type": "$PT_PSYCHIC",
-        "power": 70,
-        "energyDelta": -40
+        "uniqueId": "LOW_KICK_FAST",
+        "type": "$PT_FIGHTING",
+        "power": 4,
+        "energyDelta": 5
       }
     },
     {
-      "templateId": "COMBAT_V0289_MOVE_ORIGIN_PULSE",
+      "templateId": "COMBAT_V0326_MOVE_THUNDER_FANG_FAST",
       "combatMove": {
-        "uniqueId": "ORIGIN_PULSE",
-        "type": "$PT_WATER",
-        "power": 130,
-        "energyDelta": -60
+        "uniqueId": "THUNDER_FANG_FAST",
+        "type": "$PT_ELECTRIC",
+        "power": 8,
+        "energyDelta": 5
       }
     },
     {
-      "templateId": "COMBAT_V0290_MOVE_PRECIPICE_BLADES",
+      "templateId": "COMBAT_V0327_MOVE_ICE_FANG_FAST",
       "combatMove": {
-        "uniqueId": "PRECIPICE_BLADES",
-        "type": "$PT_GROUND",
-        "power": 130,
-        "energyDelta": -60
+        "uniqueId": "ICE_FANG_FAST",
+        "type": "$PT_ICE",
+        "power": 8,
+        "energyDelta": 5
       }
     },
     {
-      "templateId": "COMBAT_V0291_MOVE_PRESENT_FAST",
+      "templateId": "COMBAT_V0200_MOVE_FURY_CUTTER_FAST",
       "combatMove": {
-        "uniqueId": "PRESENT_FAST",
-        "type": "$PT_NORMAL",
+        "uniqueId": "FURY_CUTTER_FAST",
+        "type": "$PT_BUG",
+        "power": 2,
+        "energyDelta": 4
+      }
+    },
+    {
+      "templateId": "COMBAT_V0201_MOVE_BUG_BITE_FAST",
+      "combatMove": {
+        "uniqueId": "BUG_BITE_FAST",
+        "type": "$PT_BUG",
         "power": 3,
-        "energyDelta": 12
+        "energyDelta": 3
+      }
+    },
+    {
+      "templateId": "COMBAT_V0204_MOVE_DRAGON_BREATH_FAST",
+      "combatMove": {
+        "uniqueId": "DRAGON_BREATH_FAST",
+        "type": "$PT_DRAGON",
+        "power": 4,
+        "energyDelta": 3
+      }
+    },
+    {
+      "templateId": "COMBAT_V0202_MOVE_BITE_FAST",
+      "combatMove": {
+        "uniqueId": "BITE_FAST",
+        "type": "$PT_DARK",
+        "power": 4,
+        "energyDelta": 2
+      }
+    },
+    {
+      "templateId": "COMBAT_V0028_MOVE_CROSS_CHOP",
+      "combatMove": {
+        "uniqueId": "CROSS_CHOP",
+        "type": "$PT_FIGHTING",
+        "power": 50,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0050_MOVE_POISON_FANG",
+      "combatMove": {
+        "uniqueId": "POISON_FANG",
+        "type": "$PT_POISON",
+        "power": 40,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0058_MOVE_AQUA_TAIL",
+      "combatMove": {
+        "uniqueId": "AQUA_TAIL",
+        "type": "$PT_WATER",
+        "power": 50,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0067_MOVE_SHADOW_PUNCH",
+      "combatMove": {
+        "uniqueId": "SHADOW_PUNCH",
+        "type": "$PT_GHOST",
+        "power": 40,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0083_MOVE_DRAGON_CLAW",
+      "combatMove": {
+        "uniqueId": "DRAGON_CLAW",
+        "type": "$PT_DRAGON",
+        "power": 50,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0089_MOVE_CROSS_POISON",
+      "combatMove": {
+        "uniqueId": "CROSS_POISON",
+        "type": "$PT_POISON",
+        "power": 40,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0094_MOVE_BONE_CLUB",
+      "combatMove": {
+        "uniqueId": "BONE_CLUB",
+        "type": "$PT_GROUND",
+        "power": 40,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0100_MOVE_X_SCISSOR",
+      "combatMove": {
+        "uniqueId": "X_SCISSOR",
+        "type": "$PT_BUG",
+        "power": 45,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0117_MOVE_LEAF_BLADE",
+      "combatMove": {
+        "uniqueId": "LEAF_BLADE",
+        "type": "$PT_GRASS",
+        "power": 70,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0123_MOVE_BRICK_BREAK",
+      "combatMove": {
+        "uniqueId": "BRICK_BREAK",
+        "type": "$PT_FIGHTING",
+        "power": 40,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0126_MOVE_HORN_ATTACK",
+      "combatMove": {
+        "uniqueId": "HORN_ATTACK",
+        "type": "$PT_NORMAL",
+        "power": 40,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0131_MOVE_BODY_SLAM",
+      "combatMove": {
+        "uniqueId": "BODY_SLAM",
+        "type": "$PT_NORMAL",
+        "power": 60,
+        "energyDelta": -35
+      }
+    },
+    {
+      "templateId": "COMBAT_V0132_MOVE_REST",
+      "combatMove": {
+        "uniqueId": "REST",
+        "type": "$PT_NORMAL",
+        "power": 50,
+        "energyDelta": -35
       }
     },
     {
@@ -40951,125 +39965,6 @@
       }
     },
     {
-      "templateId": "COMBAT_V0296_MOVE_FRENZY_PLANT",
-      "combatMove": {
-        "uniqueId": "FRENZY_PLANT",
-        "type": "$PT_GRASS",
-        "power": 100,
-        "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "COMBAT_V0297_MOVE_SMACK_DOWN_FAST",
-      "combatMove": {
-        "uniqueId": "SMACK_DOWN_FAST",
-        "type": "$PT_ROCK",
-        "power": 12,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "COMBAT_V0298_MOVE_BLAST_BURN",
-      "combatMove": {
-        "uniqueId": "BLAST_BURN",
-        "type": "$PT_FIRE",
-        "power": 110,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0299_MOVE_HYDRO_CANNON",
-      "combatMove": {
-        "uniqueId": "HYDRO_CANNON",
-        "type": "$PT_WATER",
-        "power": 90,
-        "energyDelta": -40
-      }
-    },
-    {
-      "templateId": "COMBAT_V0300_MOVE_LAST_RESORT",
-      "combatMove": {
-        "uniqueId": "LAST_RESORT",
-        "type": "$PT_NORMAL",
-        "power": 90,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "COMBAT_V0301_MOVE_METEOR_MASH",
-      "combatMove": {
-        "uniqueId": "METEOR_MASH",
-        "type": "$PT_STEEL",
-        "power": 100,
-        "energyDelta": -50
-      }
-    },
-    {
-      "templateId": "COMBAT_V0302_MOVE_SKULL_BASH",
-      "combatMove": {
-        "uniqueId": "SKULL_BASH",
-        "type": "$PT_NORMAL",
-        "power": 130,
-        "energyDelta": -75,
-        "buffs": {
-          "attackerDefenseStatStageChange": 1,
-          "buffActivationChance": 1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0303_MOVE_ACID_SPRAY",
-      "combatMove": {
-        "uniqueId": "ACID_SPRAY",
-        "type": "$PT_POISON",
-        "power": 20,
-        "energyDelta": -50,
-        "buffs": {
-          "targetDefenseStatStageChange": -2,
-          "buffActivationChance": 1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0304_MOVE_EARTH_POWER",
-      "combatMove": {
-        "uniqueId": "EARTH_POWER",
-        "type": "$PT_GROUND",
-        "power": 90,
-        "energyDelta": -55,
-        "buffs": {
-          "targetDefenseStatStageChange": -1,
-          "buffActivationChance": 0.1
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0305_MOVE_CRABHAMMER",
-      "combatMove": {
-        "uniqueId": "CRABHAMMER",
-        "type": "$PT_WATER",
-        "power": 75,
-        "energyDelta": -50,
-        "buffs": {
-          "attackerAttackStatStageChange": 2,
-          "buffActivationChance": 0.125
-        }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0312_MOVE_LEAF_TORNADO",
-      "combatMove": {
-        "uniqueId": "LEAF_TORNADO",
-        "type": "$PT_GRASS",
-        "power": 45,
-        "energyDelta": -40,
-        "buffs": {
-          "targetAttackStatStageChange": -1,
-          "buffActivationChance": 0.5
-        }
-      }
-    },
-    {
       "templateId": "COMBAT_V0316_MOVE_MUDDY_WATER",
       "combatMove": {
         "uniqueId": "MUDDY_WATER",
@@ -41080,15 +39975,6 @@
           "targetAttackStatStageChange": -1,
           "buffActivationChance": 0.3
         }
-      }
-    },
-    {
-      "templateId": "COMBAT_V0317_MOVE_BLAZE_KICK",
-      "combatMove": {
-        "uniqueId": "BLAZE_KICK",
-        "type": "$PT_FIRE",
-        "power": 55,
-        "energyDelta": -40
       }
     },
     {
@@ -41105,12 +39991,205 @@
       }
     },
     {
-      "templateId": "COMBAT_V0320_MOVE_CHARM_FAST",
+      "templateId": "COMBAT_V0018_MOVE_SLUDGE",
       "combatMove": {
-        "uniqueId": "CHARM_FAST",
-        "type": "$PT_FAIRY",
-        "power": 16,
-        "energyDelta": 6
+        "uniqueId": "SLUDGE",
+        "type": "$PT_POISON",
+        "power": 50,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0020_MOVE_VICE_GRIP",
+      "combatMove": {
+        "uniqueId": "VICE_GRIP",
+        "type": "$PT_NORMAL",
+        "power": 40,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0033_MOVE_ICE_PUNCH",
+      "combatMove": {
+        "uniqueId": "ICE_PUNCH",
+        "type": "$PT_ICE",
+        "power": 55,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0034_MOVE_HEART_STAMP",
+      "combatMove": {
+        "uniqueId": "HEART_STAMP",
+        "type": "$PT_PSYCHIC",
+        "power": 40,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0038_MOVE_DRILL_PECK",
+      "combatMove": {
+        "uniqueId": "DRILL_PECK",
+        "type": "$PT_FLYING",
+        "power": 60,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0051_MOVE_NIGHT_SLASH",
+      "combatMove": {
+        "uniqueId": "NIGHT_SLASH",
+        "type": "$PT_DARK",
+        "power": 50,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0053_MOVE_BUBBLE_BEAM",
+      "combatMove": {
+        "uniqueId": "BUBBLE_BEAM",
+        "type": "$PT_WATER",
+        "power": 25,
+        "energyDelta": -40,
+        "buffs": {
+          "targetAttackStatStageChange": -1,
+          "buffActivationChance": 1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0056_MOVE_LOW_SWEEP",
+      "combatMove": {
+        "uniqueId": "LOW_SWEEP",
+        "type": "$PT_FIGHTING",
+        "power": 40,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0059_MOVE_SEED_BOMB",
+      "combatMove": {
+        "uniqueId": "SEED_BOMB",
+        "type": "$PT_GRASS",
+        "power": 55,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0069_MOVE_OMINOUS_WIND",
+      "combatMove": {
+        "uniqueId": "OMINOUS_WIND",
+        "type": "$PT_GHOST",
+        "power": 50,
+        "energyDelta": -40,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "attackerDefenseStatStageChange": 2,
+          "buffActivationChance": 0.1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0077_MOVE_THUNDER_PUNCH",
+      "combatMove": {
+        "uniqueId": "THUNDER_PUNCH",
+        "type": "$PT_ELECTRIC",
+        "power": 55,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0096_MOVE_MUD_BOMB",
+      "combatMove": {
+        "uniqueId": "MUD_BOMB",
+        "type": "$PT_GROUND",
+        "power": 55,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0115_MOVE_FIRE_PUNCH",
+      "combatMove": {
+        "uniqueId": "FIRE_PUNCH",
+        "type": "$PT_FIRE",
+        "power": 55,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0127_MOVE_STOMP",
+      "combatMove": {
+        "uniqueId": "STOMP",
+        "type": "$PT_NORMAL",
+        "power": 55,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0259_MOVE_ROCK_BLAST",
+      "combatMove": {
+        "uniqueId": "ROCK_BLAST",
+        "type": "$PT_ROCK",
+        "power": 50,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0284_MOVE_SURF",
+      "combatMove": {
+        "uniqueId": "SURF",
+        "type": "$PT_WATER",
+        "power": 65,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0286_MOVE_DOOM_DESIRE",
+      "combatMove": {
+        "uniqueId": "DOOM_DESIRE",
+        "type": "$PT_STEEL",
+        "power": 75,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0288_MOVE_PSYCHO_BOOST",
+      "combatMove": {
+        "uniqueId": "PSYCHO_BOOST",
+        "type": "$PT_PSYCHIC",
+        "power": 70,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0299_MOVE_HYDRO_CANNON",
+      "combatMove": {
+        "uniqueId": "HYDRO_CANNON",
+        "type": "$PT_WATER",
+        "power": 90,
+        "energyDelta": -40
+      }
+    },
+    {
+      "templateId": "COMBAT_V0312_MOVE_LEAF_TORNADO",
+      "combatMove": {
+        "uniqueId": "LEAF_TORNADO",
+        "type": "$PT_GRASS",
+        "power": 45,
+        "energyDelta": -40,
+        "buffs": {
+          "targetAttackStatStageChange": -1,
+          "buffActivationChance": 0.5
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0317_MOVE_BLAZE_KICK",
+      "combatMove": {
+        "uniqueId": "BLAZE_KICK",
+        "type": "$PT_FIRE",
+        "power": 55,
+        "energyDelta": -40
       }
     },
     {
@@ -41132,6 +40211,357 @@
       }
     },
     {
+      "templateId": "COMBAT_V0013_MOVE_WRAP",
+      "combatMove": {
+        "uniqueId": "WRAP",
+        "type": "$PT_NORMAL",
+        "power": 60,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0035_MOVE_DISCHARGE",
+      "combatMove": {
+        "uniqueId": "DISCHARGE",
+        "type": "$PT_ELECTRIC",
+        "power": 65,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0045_MOVE_AERIAL_ACE",
+      "combatMove": {
+        "uniqueId": "AERIAL_ACE",
+        "type": "$PT_FLYING",
+        "power": 55,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0057_MOVE_AQUA_JET",
+      "combatMove": {
+        "uniqueId": "AQUA_JET",
+        "type": "$PT_WATER",
+        "power": 45,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0060_MOVE_PSYSHOCK",
+      "combatMove": {
+        "uniqueId": "PSYSHOCK",
+        "type": "$PT_PSYCHIC",
+        "power": 70,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0062_MOVE_ANCIENT_POWER",
+      "combatMove": {
+        "uniqueId": "ANCIENT_POWER",
+        "type": "$PT_ROCK",
+        "power": 70,
+        "energyDelta": -45,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "attackerDefenseStatStageChange": 2,
+          "buffActivationChance": 0.1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0064_MOVE_ROCK_SLIDE",
+      "combatMove": {
+        "uniqueId": "ROCK_SLIDE",
+        "type": "$PT_ROCK",
+        "power": 80,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0066_MOVE_SHADOW_SNEAK",
+      "combatMove": {
+        "uniqueId": "SHADOW_SNEAK",
+        "type": "$PT_GHOST",
+        "power": 50,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0072_MOVE_MAGNET_BOMB",
+      "combatMove": {
+        "uniqueId": "MAGNET_BOMB",
+        "type": "$PT_STEEL",
+        "power": 70,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0080_MOVE_TWISTER",
+      "combatMove": {
+        "uniqueId": "TWISTER",
+        "type": "$PT_DRAGON",
+        "power": 45,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0084_MOVE_DISARMING_VOICE",
+      "combatMove": {
+        "uniqueId": "DISARMING_VOICE",
+        "type": "$PT_FAIRY",
+        "power": 70,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0109_MOVE_PSYSTRIKE",
+      "combatMove": {
+        "uniqueId": "PSYSTRIKE",
+        "type": "$PT_PSYCHIC",
+        "power": 90,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0111_MOVE_ICY_WIND",
+      "combatMove": {
+        "uniqueId": "ICY_WIND",
+        "type": "$PT_ICE",
+        "power": 60,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0136_MOVE_WRAP_GREEN",
+      "combatMove": {
+        "uniqueId": "WRAP_GREEN",
+        "type": "$PT_NORMAL",
+        "power": 25,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0137_MOVE_WRAP_PINK",
+      "combatMove": {
+        "uniqueId": "WRAP_PINK",
+        "type": "$PT_NORMAL",
+        "power": 25,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0254_MOVE_AVALANCHE",
+      "combatMove": {
+        "uniqueId": "AVALANCHE",
+        "type": "$PT_ICE",
+        "power": 90,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0257_MOVE_SKY_ATTACK",
+      "combatMove": {
+        "uniqueId": "SKY_ATTACK",
+        "type": "$PT_FLYING",
+        "power": 80,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0262_MOVE_SILVER_WIND",
+      "combatMove": {
+        "uniqueId": "SILVER_WIND",
+        "type": "$PT_BUG",
+        "power": 70,
+        "energyDelta": -45,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "attackerDefenseStatStageChange": 2,
+          "buffActivationChance": 0.1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0279_MOVE_CRUNCH",
+      "combatMove": {
+        "uniqueId": "CRUNCH",
+        "type": "$PT_DARK",
+        "power": 70,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0280_MOVE_FOUL_PLAY",
+      "combatMove": {
+        "uniqueId": "FOUL_PLAY",
+        "type": "$PT_DARK",
+        "power": 70,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0296_MOVE_FRENZY_PLANT",
+      "combatMove": {
+        "uniqueId": "FRENZY_PLANT",
+        "type": "$PT_GRASS",
+        "power": 100,
+        "energyDelta": -45
+      }
+    },
+    {
+      "templateId": "COMBAT_V0016_MOVE_DARK_PULSE",
+      "combatMove": {
+        "uniqueId": "DARK_PULSE",
+        "type": "$PT_DARK",
+        "power": 80,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0054_MOVE_SUBMISSION",
+      "combatMove": {
+        "uniqueId": "SUBMISSION",
+        "type": "$PT_FIGHTING",
+        "power": 60,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0074_MOVE_IRON_HEAD",
+      "combatMove": {
+        "uniqueId": "IRON_HEAD",
+        "type": "$PT_STEEL",
+        "power": 70,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0090_MOVE_SLUDGE_BOMB",
+      "combatMove": {
+        "uniqueId": "SLUDGE_BOMB",
+        "type": "$PT_POISON",
+        "power": 80,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0101_MOVE_FLAME_CHARGE",
+      "combatMove": {
+        "uniqueId": "FLAME_CHARGE",
+        "type": "$PT_FIRE",
+        "power": 70,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0104_MOVE_BRINE",
+      "combatMove": {
+        "uniqueId": "BRINE",
+        "type": "$PT_WATER",
+        "power": 60,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0118_MOVE_POWER_WHIP",
+      "combatMove": {
+        "uniqueId": "POWER_WHIP",
+        "type": "$PT_GRASS",
+        "power": 90,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0129_MOVE_HYPER_FANG",
+      "combatMove": {
+        "uniqueId": "HYPER_FANG",
+        "type": "$PT_NORMAL",
+        "power": 80,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0246_MOVE_DYNAMIC_PUNCH",
+      "combatMove": {
+        "uniqueId": "DYNAMIC_PUNCH",
+        "type": "$PT_FIGHTING",
+        "power": 90,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0251_MOVE_WILD_CHARGE",
+      "combatMove": {
+        "uniqueId": "WILD_CHARGE",
+        "type": "$PT_ELECTRIC",
+        "power": 90,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0268_MOVE_HEAVY_SLAM",
+      "combatMove": {
+        "uniqueId": "HEAVY_SLAM",
+        "type": "$PT_STEEL",
+        "power": 70,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0272_MOVE_GRASS_KNOT",
+      "combatMove": {
+        "uniqueId": "GRASS_KNOT",
+        "type": "$PT_GRASS",
+        "power": 90,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0298_MOVE_BLAST_BURN",
+      "combatMove": {
+        "uniqueId": "BLAST_BURN",
+        "type": "$PT_FIRE",
+        "power": 110,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0301_MOVE_METEOR_MASH",
+      "combatMove": {
+        "uniqueId": "METEOR_MASH",
+        "type": "$PT_STEEL",
+        "power": 100,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "COMBAT_V0303_MOVE_ACID_SPRAY",
+      "combatMove": {
+        "uniqueId": "ACID_SPRAY",
+        "type": "$PT_POISON",
+        "power": 20,
+        "energyDelta": -50,
+        "buffs": {
+          "targetDefenseStatStageChange": -2,
+          "buffActivationChance": 1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0305_MOVE_CRABHAMMER",
+      "combatMove": {
+        "uniqueId": "CRABHAMMER",
+        "type": "$PT_WATER",
+        "power": 75,
+        "energyDelta": -50,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "buffActivationChance": 0.125
+        }
+      }
+    },
+    {
       "templateId": "COMBAT_V0324_MOVE_SYNCHRONOISE",
       "combatMove": {
         "uniqueId": "SYNCHRONOISE",
@@ -41141,21 +40571,591 @@
       }
     },
     {
-      "templateId": "COMBAT_V0326_MOVE_THUNDER_FANG_FAST",
+      "templateId": "COMBAT_V0021_MOVE_FLAME_WHEEL",
       "combatMove": {
-        "uniqueId": "THUNDER_FANG_FAST",
-        "type": "$PT_ELECTRIC",
-        "power": 8,
-        "energyDelta": 5
+        "uniqueId": "FLAME_WHEEL",
+        "type": "$PT_FIRE",
+        "power": 60,
+        "energyDelta": -55
       }
     },
     {
-      "templateId": "COMBAT_V0327_MOVE_ICE_FANG_FAST",
+      "templateId": "COMBAT_V0022_MOVE_MEGAHORN",
       "combatMove": {
-        "uniqueId": "ICE_FANG_FAST",
+        "uniqueId": "MEGAHORN",
+        "type": "$PT_BUG",
+        "power": 90,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0024_MOVE_FLAMETHROWER",
+      "combatMove": {
+        "uniqueId": "FLAMETHROWER",
+        "type": "$PT_FIRE",
+        "power": 90,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0032_MOVE_STONE_EDGE",
+      "combatMove": {
+        "uniqueId": "STONE_EDGE",
+        "type": "$PT_ROCK",
+        "power": 100,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0039_MOVE_ICE_BEAM",
+      "combatMove": {
+        "uniqueId": "ICE_BEAM",
         "type": "$PT_ICE",
-        "power": 8,
-        "energyDelta": 5
+        "power": 90,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0046_MOVE_DRILL_RUN",
+      "combatMove": {
+        "uniqueId": "DRILL_RUN",
+        "type": "$PT_GROUND",
+        "power": 80,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0048_MOVE_MEGA_DRAIN",
+      "combatMove": {
+        "uniqueId": "MEGA_DRAIN",
+        "type": "$PT_GRASS",
+        "power": 25,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0070_MOVE_SHADOW_BALL",
+      "combatMove": {
+        "uniqueId": "SHADOW_BALL",
+        "type": "$PT_GHOST",
+        "power": 100,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0075_MOVE_PARABOLIC_CHARGE",
+      "combatMove": {
+        "uniqueId": "PARABOLIC_CHARGE",
+        "type": "$PT_ELECTRIC",
+        "power": 25,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0079_MOVE_THUNDERBOLT",
+      "combatMove": {
+        "uniqueId": "THUNDERBOLT",
+        "type": "$PT_ELECTRIC",
+        "power": 90,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0085_MOVE_DRAINING_KISS",
+      "combatMove": {
+        "uniqueId": "DRAINING_KISS",
+        "type": "$PT_FAIRY",
+        "power": 60,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0099_MOVE_SIGNAL_BEAM",
+      "combatMove": {
+        "uniqueId": "SIGNAL_BEAM",
+        "type": "$PT_BUG",
+        "power": 75,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0102_MOVE_FLAME_BURST",
+      "combatMove": {
+        "uniqueId": "FLAME_BURST",
+        "type": "$PT_FIRE",
+        "power": 70,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0108_MOVE_PSYCHIC",
+      "combatMove": {
+        "uniqueId": "PSYCHIC",
+        "type": "$PT_PSYCHIC",
+        "power": 90,
+        "energyDelta": -55,
+        "buffs": {
+          "targetDefenseStatStageChange": -1,
+          "buffActivationChance": 0.1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0121_MOVE_AIR_CUTTER",
+      "combatMove": {
+        "uniqueId": "AIR_CUTTER",
+        "type": "$PT_FLYING",
+        "power": 60,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0125_MOVE_SWIFT",
+      "combatMove": {
+        "uniqueId": "SWIFT",
+        "type": "$PT_NORMAL",
+        "power": 60,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0256_MOVE_BRAVE_BIRD",
+      "combatMove": {
+        "uniqueId": "BRAVE_BIRD",
+        "type": "$PT_FLYING",
+        "power": 90,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0265_MOVE_NIGHT_SHADE",
+      "combatMove": {
+        "uniqueId": "NIGHT_SHADE",
+        "type": "$PT_GHOST",
+        "power": 60,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0276_MOVE_MIRROR_COAT",
+      "combatMove": {
+        "uniqueId": "MIRROR_COAT",
+        "type": "$PT_PSYCHIC",
+        "power": 60,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0300_MOVE_LAST_RESORT",
+      "combatMove": {
+        "uniqueId": "LAST_RESORT",
+        "type": "$PT_NORMAL",
+        "power": 90,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "COMBAT_V0304_MOVE_EARTH_POWER",
+      "combatMove": {
+        "uniqueId": "EARTH_POWER",
+        "type": "$PT_GROUND",
+        "power": 90,
+        "energyDelta": -55,
+        "buffs": {
+          "targetDefenseStatStageChange": -1,
+          "buffActivationChance": 0.1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0030_MOVE_PSYBEAM",
+      "combatMove": {
+        "uniqueId": "PSYBEAM",
+        "type": "$PT_PSYCHIC",
+        "power": 70,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0049_MOVE_BUG_BUZZ",
+      "combatMove": {
+        "uniqueId": "BUG_BUZZ",
+        "type": "$PT_BUG",
+        "power": 90,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0063_MOVE_ROCK_TOMB",
+      "combatMove": {
+        "uniqueId": "ROCK_TOMB",
+        "type": "$PT_ROCK",
+        "power": 70,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0065_MOVE_POWER_GEM",
+      "combatMove": {
+        "uniqueId": "POWER_GEM",
+        "type": "$PT_ROCK",
+        "power": 80,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0078_MOVE_THUNDER",
+      "combatMove": {
+        "uniqueId": "THUNDER",
+        "type": "$PT_ELECTRIC",
+        "power": 100,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0082_MOVE_DRAGON_PULSE",
+      "combatMove": {
+        "uniqueId": "DRAGON_PULSE",
+        "type": "$PT_DRAGON",
+        "power": 90,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0088_MOVE_PLAY_ROUGH",
+      "combatMove": {
+        "uniqueId": "PLAY_ROUGH",
+        "type": "$PT_FAIRY",
+        "power": 90,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0095_MOVE_BULLDOZE",
+      "combatMove": {
+        "uniqueId": "BULLDOZE",
+        "type": "$PT_GROUND",
+        "power": 80,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0105_MOVE_WATER_PULSE",
+      "combatMove": {
+        "uniqueId": "WATER_PULSE",
+        "type": "$PT_WATER",
+        "power": 70,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0106_MOVE_SCALD",
+      "combatMove": {
+        "uniqueId": "SCALD",
+        "type": "$PT_WATER",
+        "power": 80,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0245_MOVE_CLOSE_COMBAT",
+      "combatMove": {
+        "uniqueId": "CLOSE_COMBAT",
+        "type": "$PT_FIGHTING",
+        "power": 100,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0248_MOVE_AURORA_BEAM",
+      "combatMove": {
+        "uniqueId": "AURORA_BEAM",
+        "type": "$PT_ICE",
+        "power": 80,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0258_MOVE_SAND_TOMB",
+      "combatMove": {
+        "uniqueId": "SAND_TOMB",
+        "type": "$PT_GROUND",
+        "power": 80,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0267_MOVE_GYRO_BALL",
+      "combatMove": {
+        "uniqueId": "GYRO_BALL",
+        "type": "$PT_STEEL",
+        "power": 80,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0273_MOVE_ENERGY_BALL",
+      "combatMove": {
+        "uniqueId": "ENERGY_BALL",
+        "type": "$PT_GRASS",
+        "power": 90,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0277_MOVE_OUTRAGE",
+      "combatMove": {
+        "uniqueId": "OUTRAGE",
+        "type": "$PT_DRAGON",
+        "power": 110,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0289_MOVE_ORIGIN_PULSE",
+      "combatMove": {
+        "uniqueId": "ORIGIN_PULSE",
+        "type": "$PT_WATER",
+        "power": 130,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0290_MOVE_PRECIPICE_BLADES",
+      "combatMove": {
+        "uniqueId": "PRECIPICE_BLADES",
+        "type": "$PT_GROUND",
+        "power": 130,
+        "energyDelta": -60
+      }
+    },
+    {
+      "templateId": "COMBAT_V0031_MOVE_EARTHQUAKE",
+      "combatMove": {
+        "uniqueId": "EARTHQUAKE",
+        "type": "$PT_GROUND",
+        "power": 120,
+        "energyDelta": -65
+      }
+    },
+    {
+      "templateId": "COMBAT_V0036_MOVE_FLASH_CANNON",
+      "combatMove": {
+        "uniqueId": "FLASH_CANNON",
+        "type": "$PT_STEEL",
+        "power": 110,
+        "energyDelta": -65
+      }
+    },
+    {
+      "templateId": "COMBAT_V0047_MOVE_PETAL_BLIZZARD",
+      "combatMove": {
+        "uniqueId": "PETAL_BLIZZARD",
+        "type": "$PT_GRASS",
+        "power": 110,
+        "energyDelta": -65
+      }
+    },
+    {
+      "templateId": "COMBAT_V0091_MOVE_SLUDGE_WAVE",
+      "combatMove": {
+        "uniqueId": "SLUDGE_WAVE",
+        "type": "$PT_POISON",
+        "power": 110,
+        "energyDelta": -65
+      }
+    },
+    {
+      "templateId": "COMBAT_V0122_MOVE_HURRICANE",
+      "combatMove": {
+        "uniqueId": "HURRICANE",
+        "type": "$PT_FLYING",
+        "power": 110,
+        "energyDelta": -65
+      }
+    },
+    {
+      "templateId": "COMBAT_V0275_MOVE_FUTURESIGHT",
+      "combatMove": {
+        "uniqueId": "FUTURESIGHT",
+        "type": "$PT_PSYCHIC",
+        "power": 120,
+        "energyDelta": -65
+      }
+    },
+    {
+      "templateId": "COMBAT_V0086_MOVE_DAZZLING_GLEAM",
+      "combatMove": {
+        "uniqueId": "DAZZLING_GLEAM",
+        "type": "$PT_FAIRY",
+        "power": 110,
+        "energyDelta": -70
+      }
+    },
+    {
+      "templateId": "COMBAT_V0087_MOVE_MOONBLAST",
+      "combatMove": {
+        "uniqueId": "MOONBLAST",
+        "type": "$PT_FAIRY",
+        "power": 130,
+        "energyDelta": -70
+      }
+    },
+    {
+      "templateId": "COMBAT_V0040_MOVE_BLIZZARD",
+      "combatMove": {
+        "uniqueId": "BLIZZARD",
+        "type": "$PT_ICE",
+        "power": 130,
+        "energyDelta": -75
+      }
+    },
+    {
+      "templateId": "COMBAT_V0042_MOVE_HEAT_WAVE",
+      "combatMove": {
+        "uniqueId": "HEAT_WAVE",
+        "type": "$PT_FIRE",
+        "power": 95,
+        "energyDelta": -75
+      }
+    },
+    {
+      "templateId": "COMBAT_V0092_MOVE_GUNK_SHOT",
+      "combatMove": {
+        "uniqueId": "GUNK_SHOT",
+        "type": "$PT_POISON",
+        "power": 130,
+        "energyDelta": -75
+      }
+    },
+    {
+      "templateId": "COMBAT_V0107_MOVE_HYDRO_PUMP",
+      "combatMove": {
+        "uniqueId": "HYDRO_PUMP",
+        "type": "$PT_WATER",
+        "power": 130,
+        "energyDelta": -75
+      }
+    },
+    {
+      "templateId": "COMBAT_V0247_MOVE_FOCUS_BLAST",
+      "combatMove": {
+        "uniqueId": "FOCUS_BLAST",
+        "type": "$PT_FIGHTING",
+        "power": 150,
+        "energyDelta": -75
+      }
+    },
+    {
+      "templateId": "COMBAT_V0285_MOVE_DRACO_METEOR",
+      "combatMove": {
+        "uniqueId": "DRACO_METEOR",
+        "type": "$PT_DRAGON",
+        "power": 150,
+        "energyDelta": -75
+      }
+    },
+    {
+      "templateId": "COMBAT_V0302_MOVE_SKULL_BASH",
+      "combatMove": {
+        "uniqueId": "SKULL_BASH",
+        "type": "$PT_NORMAL",
+        "power": 130,
+        "energyDelta": -75,
+        "buffs": {
+          "attackerDefenseStatStageChange": 1,
+          "buffActivationChance": 1
+        }
+      }
+    },
+    {
+      "templateId": "COMBAT_V0014_MOVE_HYPER_BEAM",
+      "combatMove": {
+        "uniqueId": "HYPER_BEAM",
+        "type": "$PT_NORMAL",
+        "power": 150,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0026_MOVE_DIG",
+      "combatMove": {
+        "uniqueId": "DIG",
+        "type": "$PT_GROUND",
+        "power": 100,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0103_MOVE_FIRE_BLAST",
+      "combatMove": {
+        "uniqueId": "FIRE_BLAST",
+        "type": "$PT_FIRE",
+        "power": 140,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0114_MOVE_GIGA_DRAIN",
+      "combatMove": {
+        "uniqueId": "GIGA_DRAIN",
+        "type": "$PT_GRASS",
+        "power": 50,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0116_MOVE_SOLAR_BEAM",
+      "combatMove": {
+        "uniqueId": "SOLAR_BEAM",
+        "type": "$PT_GRASS",
+        "power": 150,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0134_MOVE_SCALD_BLASTOISE",
+      "combatMove": {
+        "uniqueId": "SCALD_BLASTOISE",
+        "type": "$PT_WATER",
+        "power": 50,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0135_MOVE_HYDRO_PUMP_BLASTOISE",
+      "combatMove": {
+        "uniqueId": "HYDRO_PUMP_BLASTOISE",
+        "type": "$PT_WATER",
+        "power": 90,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0252_MOVE_ZAP_CANNON",
+      "combatMove": {
+        "uniqueId": "ZAP_CANNON",
+        "type": "$PT_ELECTRIC",
+        "power": 150,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0270_MOVE_OVERHEAT",
+      "combatMove": {
+        "uniqueId": "OVERHEAT",
+        "type": "$PT_FIRE",
+        "power": 150,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "COMBAT_V0133_MOVE_STRUGGLE",
+      "combatMove": {
+        "uniqueId": "STRUGGLE",
+        "type": "$PT_NORMAL",
+        "power": 35,
+        "energyDelta": -100
       }
     }
   ],

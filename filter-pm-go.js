@@ -95,8 +95,14 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
   let op = {
     pms: [],
     // forms: _data.filter(d => d.formSettings),
-    moves: _data.filter(d => d.moveSettings),
-    combat_moves: _data.filter(d => d.combatMove),
+    moves:
+      _data
+      .filter(d => d.moveSettings)
+      .sort((a, b) => b.moveSettings.energyDelta - a.moveSettings.energyDelta),
+    combat_moves:
+      _data
+      .filter(d => d.combatMove)
+      .sort((a, b) => b.combatMove.energyDelta - a.combatMove.energyDelta),
   };
 
   let _forms = _data.filter(d => d.formSettings);
