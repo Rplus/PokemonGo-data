@@ -7,5 +7,8 @@ get-data:
 get-data-old:
 	wget -q --no-check-certificate --no-cache --no-cookies  'https://github.com/pokemongo-dev-contrib/pokemongo-game-master/raw/master/versions/latest/GAME_MASTER.json' -O 'GAME_MASTER.json'
 
-filter-pm-stats:
+filter-pm-stats: filter-pm-go
 	node filter-pokemon-stats.js filter=${filter}
+
+filter-pm-go:
+	node filter-pm-go.js
