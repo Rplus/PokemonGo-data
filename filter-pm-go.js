@@ -45,6 +45,7 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
     'type',
     'energyDelta',
     'buffs',
+    'durationTurns',
   ];
 
   _data
@@ -95,15 +96,52 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
   let op = {
     pms: [],
     // forms: _data.filter(d => d.formSettings),
-    moves:
-      _data
-      .filter(d => d.moveSettings)
-      .sort((a, b) => b.moveSettings.energyDelta - a.moveSettings.energyDelta),
-    combat_moves:
-      _data
-      .filter(d => d.combatMove)
-      .sort((a, b) => b.combatMove.energyDelta - a.combatMove.energyDelta),
+    moves: [],
   };
+  
+  let _moves = _data
+  .filter(d => d.moveSettings)
+  .sort((a, b) => b.moveSettings.energyDelta - a.moveSettings.energyDelta);
+
+  let _combat_moves = _data
+    .filter(d => d.combatMove)
+    .sort((a, b) => b.combatMove.energyDelta - a.combatMove.energyDelta);
+  
+  op.moves = _moves
+    .map(m => {
+      return {
+        templateId: m.templateId,
+        type: m.moveSettings.pokemonType,
+        mid: m.moveSettings.movementId,
+        data: { ...m.moveSettings },
+      };
+    });
+  
+  _combat_moves.forEach(cm => {
+    let tid = cm.templateId.replace('COMBAT_', '');
+    let _m = op.moves.find(m => m.templateId === tid);
+    if (_m) {
+      _m.pvpData = { ...cm.combatMove };
+    } else {
+      op.moves.push({
+        templateId: tid,
+        pvpData: { ...cm.combatMove },
+      });
+    }
+  });
+
+  op.moves.forEach(m => {
+    // m.mid = m.moveSettings.movementId;
+    delete m.data.movementId;
+    delete m.data.pokemonType;
+    if (m.pvpData) {
+      delete m.pvpData.uniqueId;
+      if (m.pvpData.type === m.type) {
+        delete m.pvpData.type;
+      }
+    }
+  })
+  
 
   let _forms = _data.filter(d => d.formSettings);
 
@@ -146,7 +184,7 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
 
 
   op.types = op.moves.reduce((all, m) => {
-    let _type = m.moveSettings.pokemonType;
+    let _type = m.type;
     if (all.indexOf(_type) === -1) {
       all.push(_type);
     }
