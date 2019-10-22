@@ -15,6 +15,22 @@
     "pokedex": 1
   },
   {
+    "templateId": "V0001_POKEMON_BULBASAUR_FALL_2019",
+    "pokemonId": "BULBASAUR",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 118,
+      "baseDefense": 111
+    },
+    "familyId": "FAMILY_BULBASAUR",
+    "isotope": "FALL_2019",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 1
+  },
+  {
     "templateId": "V0001_POKEMON_BULBASAUR_NORMAL",
     "pokemonId": "BULBASAUR",
     "stats": {
@@ -203,6 +219,21 @@
     "pokedex": 4
   },
   {
+    "templateId": "V0004_POKEMON_CHARMANDER_FALL_2019",
+    "pokemonId": "CHARMANDER",
+    "stats": {
+      "baseStamina": 118,
+      "baseAttack": 116,
+      "baseDefense": 93
+    },
+    "familyId": "FAMILY_CHARMANDER",
+    "isotope": "FALL_2019",
+    "types": [
+      "POKEMON_TYPE_FIRE"
+    ],
+    "pokedex": 4
+  },
+  {
     "templateId": "V0004_POKEMON_CHARMANDER_NORMAL",
     "pokemonId": "CHARMANDER",
     "stats": {
@@ -378,6 +409,21 @@
       "baseDefense": 121
     },
     "familyId": "FAMILY_SQUIRTLE",
+    "types": [
+      "POKEMON_TYPE_WATER"
+    ],
+    "pokedex": 7
+  },
+  {
+    "templateId": "V0007_POKEMON_SQUIRTLE_FALL_2019",
+    "pokemonId": "SQUIRTLE",
+    "stats": {
+      "baseStamina": 127,
+      "baseAttack": 94,
+      "baseDefense": 121
+    },
+    "familyId": "FAMILY_SQUIRTLE",
+    "isotope": "FALL_2019",
     "types": [
       "POKEMON_TYPE_WATER"
     ],
@@ -605,6 +651,54 @@
     "pokedex": 13
   },
   {
+    "templateId": "V0013_POKEMON_WEEDLE_NORMAL",
+    "pokemonId": "WEEDLE",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 63,
+      "baseDefense": 50
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 13
+  },
+  {
+    "templateId": "V0013_POKEMON_WEEDLE_PURIFIED",
+    "pokemonId": "WEEDLE",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 63,
+      "baseDefense": 50
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 13
+  },
+  {
+    "templateId": "V0013_POKEMON_WEEDLE_SHADOW",
+    "pokemonId": "WEEDLE",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 63,
+      "baseDefense": 50
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 13
+  },
+  {
     "templateId": "V0014_POKEMON_KAKUNA",
     "pokemonId": "KAKUNA",
     "stats": {
@@ -620,6 +714,54 @@
     "pokedex": 14
   },
   {
+    "templateId": "V0014_POKEMON_KAKUNA_NORMAL",
+    "pokemonId": "KAKUNA",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 46,
+      "baseDefense": 75
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 14
+  },
+  {
+    "templateId": "V0014_POKEMON_KAKUNA_PURIFIED",
+    "pokemonId": "KAKUNA",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 46,
+      "baseDefense": 75
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 14
+  },
+  {
+    "templateId": "V0014_POKEMON_KAKUNA_SHADOW",
+    "pokemonId": "KAKUNA",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 46,
+      "baseDefense": 75
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 14
+  },
+  {
     "templateId": "V0015_POKEMON_BEEDRILL",
     "pokemonId": "BEEDRILL",
     "stats": {
@@ -628,6 +770,54 @@
       "baseDefense": 130
     },
     "familyId": "FAMILY_WEEDLE",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 15
+  },
+  {
+    "templateId": "V0015_POKEMON_BEEDRILL_NORMAL",
+    "pokemonId": "BEEDRILL",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 169,
+      "baseDefense": 130
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 15
+  },
+  {
+    "templateId": "V0015_POKEMON_BEEDRILL_PURIFIED",
+    "pokemonId": "BEEDRILL",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 169,
+      "baseDefense": 130
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_BUG",
+      "POKEMON_TYPE_POISON"
+    ],
+    "pokedex": 15
+  },
+  {
+    "templateId": "V0015_POKEMON_BEEDRILL_SHADOW",
+    "pokemonId": "BEEDRILL",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 169,
+      "baseDefense": 130
+    },
+    "familyId": "FAMILY_WEEDLE",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_BUG",
       "POKEMON_TYPE_POISON"
@@ -896,6 +1086,36 @@
       "baseDefense": 96
     },
     "familyId": "FAMILY_PIKACHU",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 25
+  },
+  {
+    "templateId": "V0025_POKEMON_PIKACHU_FALL_2019",
+    "pokemonId": "PIKACHU",
+    "stats": {
+      "baseStamina": 111,
+      "baseAttack": 112,
+      "baseDefense": 96
+    },
+    "familyId": "FAMILY_PIKACHU",
+    "isotope": "FALL_2019",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 25
+  },
+  {
+    "templateId": "V0025_POKEMON_PIKACHU_NORMAL",
+    "pokemonId": "PIKACHU",
+    "stats": {
+      "baseStamina": 111,
+      "baseAttack": 112,
+      "baseDefense": 96
+    },
+    "familyId": "FAMILY_PIKACHU",
+    "isotope": "NORMAL",
     "types": [
       "POKEMON_TYPE_ELECTRIC"
     ],
@@ -3949,6 +4169,51 @@
     "pokedex": 125
   },
   {
+    "templateId": "V0125_POKEMON_ELECTABUZZ_NORMAL",
+    "pokemonId": "ELECTABUZZ",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 198,
+      "baseDefense": 158
+    },
+    "familyId": "FAMILY_ELECTABUZZ",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 125
+  },
+  {
+    "templateId": "V0125_POKEMON_ELECTABUZZ_PURIFIED",
+    "pokemonId": "ELECTABUZZ",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 198,
+      "baseDefense": 158
+    },
+    "familyId": "FAMILY_ELECTABUZZ",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 125
+  },
+  {
+    "templateId": "V0125_POKEMON_ELECTABUZZ_SHADOW",
+    "pokemonId": "ELECTABUZZ",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 198,
+      "baseDefense": 158
+    },
+    "familyId": "FAMILY_ELECTABUZZ",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 125
+  },
+  {
     "templateId": "V0126_POKEMON_MAGMAR",
     "pokemonId": "MAGMAR",
     "stats": {
@@ -3957,6 +4222,51 @@
       "baseDefense": 154
     },
     "familyId": "FAMILY_MAGMAR",
+    "types": [
+      "POKEMON_TYPE_FIRE"
+    ],
+    "pokedex": 126
+  },
+  {
+    "templateId": "V0126_POKEMON_MAGMAR_NORMAL",
+    "pokemonId": "MAGMAR",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 206,
+      "baseDefense": 154
+    },
+    "familyId": "FAMILY_MAGMAR",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_FIRE"
+    ],
+    "pokedex": 126
+  },
+  {
+    "templateId": "V0126_POKEMON_MAGMAR_PURIFIED",
+    "pokemonId": "MAGMAR",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 206,
+      "baseDefense": 154
+    },
+    "familyId": "FAMILY_MAGMAR",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_FIRE"
+    ],
+    "pokedex": 126
+  },
+  {
+    "templateId": "V0126_POKEMON_MAGMAR_SHADOW",
+    "pokemonId": "MAGMAR",
+    "stats": {
+      "baseStamina": 163,
+      "baseAttack": 206,
+      "baseDefense": 154
+    },
+    "familyId": "FAMILY_MAGMAR",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_FIRE"
     ],
@@ -5138,6 +5448,51 @@
     "pokedex": 179
   },
   {
+    "templateId": "V0179_POKEMON_MAREEP_NORMAL",
+    "pokemonId": "MAREEP",
+    "stats": {
+      "baseStamina": 146,
+      "baseAttack": 114,
+      "baseDefense": 79
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 179
+  },
+  {
+    "templateId": "V0179_POKEMON_MAREEP_PURIFIED",
+    "pokemonId": "MAREEP",
+    "stats": {
+      "baseStamina": 146,
+      "baseAttack": 114,
+      "baseDefense": 79
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 179
+  },
+  {
+    "templateId": "V0179_POKEMON_MAREEP_SHADOW",
+    "pokemonId": "MAREEP",
+    "stats": {
+      "baseStamina": 146,
+      "baseAttack": 114,
+      "baseDefense": 79
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 179
+  },
+  {
     "templateId": "V0180_POKEMON_FLAAFFY",
     "pokemonId": "FLAAFFY",
     "stats": {
@@ -5152,6 +5507,51 @@
     "pokedex": 180
   },
   {
+    "templateId": "V0180_POKEMON_FLAAFFY_NORMAL",
+    "pokemonId": "FLAAFFY",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 145,
+      "baseDefense": 109
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 180
+  },
+  {
+    "templateId": "V0180_POKEMON_FLAAFFY_PURIFIED",
+    "pokemonId": "FLAAFFY",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 145,
+      "baseDefense": 109
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 180
+  },
+  {
+    "templateId": "V0180_POKEMON_FLAAFFY_SHADOW",
+    "pokemonId": "FLAAFFY",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 145,
+      "baseDefense": 109
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 180
+  },
+  {
     "templateId": "V0181_POKEMON_AMPHAROS",
     "pokemonId": "AMPHAROS",
     "stats": {
@@ -5160,6 +5560,51 @@
       "baseDefense": 169
     },
     "familyId": "FAMILY_MAREEP",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 181
+  },
+  {
+    "templateId": "V0181_POKEMON_AMPHAROS_NORMAL",
+    "pokemonId": "AMPHAROS",
+    "stats": {
+      "baseStamina": 207,
+      "baseAttack": 211,
+      "baseDefense": 169
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 181
+  },
+  {
+    "templateId": "V0181_POKEMON_AMPHAROS_PURIFIED",
+    "pokemonId": "AMPHAROS",
+    "stats": {
+      "baseStamina": 207,
+      "baseAttack": 211,
+      "baseDefense": 169
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 181
+  },
+  {
+    "templateId": "V0181_POKEMON_AMPHAROS_SHADOW",
+    "pokemonId": "AMPHAROS",
+    "stats": {
+      "baseStamina": 207,
+      "baseAttack": 211,
+      "baseDefense": 169
+    },
+    "familyId": "FAMILY_MAREEP",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_ELECTRIC"
     ],
@@ -7024,6 +7469,51 @@
     "pokedex": 273
   },
   {
+    "templateId": "V0273_POKEMON_SEEDOT_NORMAL",
+    "pokemonId": "SEEDOT",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 71,
+      "baseDefense": 77
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GRASS"
+    ],
+    "pokedex": 273
+  },
+  {
+    "templateId": "V0273_POKEMON_SEEDOT_PURIFIED",
+    "pokemonId": "SEEDOT",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 71,
+      "baseDefense": 77
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GRASS"
+    ],
+    "pokedex": 273
+  },
+  {
+    "templateId": "V0273_POKEMON_SEEDOT_SHADOW",
+    "pokemonId": "SEEDOT",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 71,
+      "baseDefense": 77
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_GRASS"
+    ],
+    "pokedex": 273
+  },
+  {
     "templateId": "V0274_POKEMON_NUZLEAF",
     "pokemonId": "NUZLEAF",
     "stats": {
@@ -7039,6 +7529,54 @@
     "pokedex": 274
   },
   {
+    "templateId": "V0274_POKEMON_NUZLEAF_NORMAL",
+    "pokemonId": "NUZLEAF",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 134,
+      "baseDefense": 78
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 274
+  },
+  {
+    "templateId": "V0274_POKEMON_NUZLEAF_PURIFIED",
+    "pokemonId": "NUZLEAF",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 134,
+      "baseDefense": 78
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 274
+  },
+  {
+    "templateId": "V0274_POKEMON_NUZLEAF_SHADOW",
+    "pokemonId": "NUZLEAF",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 134,
+      "baseDefense": 78
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 274
+  },
+  {
     "templateId": "V0275_POKEMON_SHIFTRY",
     "pokemonId": "SHIFTRY",
     "stats": {
@@ -7047,6 +7585,54 @@
       "baseDefense": 121
     },
     "familyId": "FAMILY_SEEDOT",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 275
+  },
+  {
+    "templateId": "V0275_POKEMON_SHIFTRY_NORMAL",
+    "pokemonId": "SHIFTRY",
+    "stats": {
+      "baseStamina": 207,
+      "baseAttack": 200,
+      "baseDefense": 121
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 275
+  },
+  {
+    "templateId": "V0275_POKEMON_SHIFTRY_PURIFIED",
+    "pokemonId": "SHIFTRY",
+    "stats": {
+      "baseStamina": 207,
+      "baseAttack": 200,
+      "baseDefense": 121
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 275
+  },
+  {
+    "templateId": "V0275_POKEMON_SHIFTRY_SHADOW",
+    "pokemonId": "SHIFTRY",
+    "stats": {
+      "baseStamina": 207,
+      "baseAttack": 200,
+      "baseDefense": 121
+    },
+    "familyId": "FAMILY_SEEDOT",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_GRASS",
       "POKEMON_TYPE_DARK"
@@ -7591,6 +8177,54 @@
     "pokedex": 302
   },
   {
+    "templateId": "V0302_POKEMON_SABLEYE_NORMAL",
+    "pokemonId": "SABLEYE",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 141,
+      "baseDefense": 136
+    },
+    "familyId": "FAMILY_SABLEYE",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_DARK",
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 302
+  },
+  {
+    "templateId": "V0302_POKEMON_SABLEYE_PURIFIED",
+    "pokemonId": "SABLEYE",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 141,
+      "baseDefense": 136
+    },
+    "familyId": "FAMILY_SABLEYE",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_DARK",
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 302
+  },
+  {
+    "templateId": "V0302_POKEMON_SABLEYE_SHADOW",
+    "pokemonId": "SABLEYE",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 141,
+      "baseDefense": 136
+    },
+    "familyId": "FAMILY_SABLEYE",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_DARK",
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 302
+  },
+  {
     "templateId": "V0303_POKEMON_MAWILE",
     "pokemonId": "MAWILE",
     "stats": {
@@ -7966,6 +8600,51 @@
     "pokedex": 328
   },
   {
+    "templateId": "V0328_POKEMON_TRAPINCH_NORMAL",
+    "pokemonId": "TRAPINCH",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 162,
+      "baseDefense": 78
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GROUND"
+    ],
+    "pokedex": 328
+  },
+  {
+    "templateId": "V0328_POKEMON_TRAPINCH_PURIFIED",
+    "pokemonId": "TRAPINCH",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 162,
+      "baseDefense": 78
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GROUND"
+    ],
+    "pokedex": 328
+  },
+  {
+    "templateId": "V0328_POKEMON_TRAPINCH_SHADOW",
+    "pokemonId": "TRAPINCH",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 162,
+      "baseDefense": 78
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_GROUND"
+    ],
+    "pokedex": 328
+  },
+  {
     "templateId": "V0329_POKEMON_VIBRAVA",
     "pokemonId": "VIBRAVA",
     "stats": {
@@ -7974,6 +8653,54 @@
       "baseDefense": 99
     },
     "familyId": "FAMILY_TRAPINCH",
+    "types": [
+      "POKEMON_TYPE_GROUND",
+      "POKEMON_TYPE_DRAGON"
+    ],
+    "pokedex": 329
+  },
+  {
+    "templateId": "V0329_POKEMON_VIBRAVA_NORMAL",
+    "pokemonId": "VIBRAVA",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 134,
+      "baseDefense": 99
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GROUND",
+      "POKEMON_TYPE_DRAGON"
+    ],
+    "pokedex": 329
+  },
+  {
+    "templateId": "V0329_POKEMON_VIBRAVA_PURIFIED",
+    "pokemonId": "VIBRAVA",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 134,
+      "baseDefense": 99
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GROUND",
+      "POKEMON_TYPE_DRAGON"
+    ],
+    "pokedex": 329
+  },
+  {
+    "templateId": "V0329_POKEMON_VIBRAVA_SHADOW",
+    "pokemonId": "VIBRAVA",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 134,
+      "baseDefense": 99
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_GROUND",
       "POKEMON_TYPE_DRAGON"
@@ -7996,6 +8723,54 @@
     "pokedex": 330
   },
   {
+    "templateId": "V0330_POKEMON_FLYGON_NORMAL",
+    "pokemonId": "FLYGON",
+    "stats": {
+      "baseStamina": 190,
+      "baseAttack": 205,
+      "baseDefense": 168
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GROUND",
+      "POKEMON_TYPE_DRAGON"
+    ],
+    "pokedex": 330
+  },
+  {
+    "templateId": "V0330_POKEMON_FLYGON_PURIFIED",
+    "pokemonId": "FLYGON",
+    "stats": {
+      "baseStamina": 190,
+      "baseAttack": 205,
+      "baseDefense": 168
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GROUND",
+      "POKEMON_TYPE_DRAGON"
+    ],
+    "pokedex": 330
+  },
+  {
+    "templateId": "V0330_POKEMON_FLYGON_SHADOW",
+    "pokemonId": "FLYGON",
+    "stats": {
+      "baseStamina": 190,
+      "baseAttack": 205,
+      "baseDefense": 168
+    },
+    "familyId": "FAMILY_TRAPINCH",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_GROUND",
+      "POKEMON_TYPE_DRAGON"
+    ],
+    "pokedex": 330
+  },
+  {
     "templateId": "V0331_POKEMON_CACNEA",
     "pokemonId": "CACNEA",
     "stats": {
@@ -8010,6 +8785,51 @@
     "pokedex": 331
   },
   {
+    "templateId": "V0331_POKEMON_CACNEA_NORMAL",
+    "pokemonId": "CACNEA",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 156,
+      "baseDefense": 74
+    },
+    "familyId": "FAMILY_CACNEA",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GRASS"
+    ],
+    "pokedex": 331
+  },
+  {
+    "templateId": "V0331_POKEMON_CACNEA_PURIFIED",
+    "pokemonId": "CACNEA",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 156,
+      "baseDefense": 74
+    },
+    "familyId": "FAMILY_CACNEA",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GRASS"
+    ],
+    "pokedex": 331
+  },
+  {
+    "templateId": "V0331_POKEMON_CACNEA_SHADOW",
+    "pokemonId": "CACNEA",
+    "stats": {
+      "baseStamina": 137,
+      "baseAttack": 156,
+      "baseDefense": 74
+    },
+    "familyId": "FAMILY_CACNEA",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_GRASS"
+    ],
+    "pokedex": 331
+  },
+  {
     "templateId": "V0332_POKEMON_CACTURNE",
     "pokemonId": "CACTURNE",
     "stats": {
@@ -8018,6 +8838,54 @@
       "baseDefense": 115
     },
     "familyId": "FAMILY_CACNEA",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 332
+  },
+  {
+    "templateId": "V0332_POKEMON_CACTURNE_NORMAL",
+    "pokemonId": "CACTURNE",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 221,
+      "baseDefense": 115
+    },
+    "familyId": "FAMILY_CACNEA",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 332
+  },
+  {
+    "templateId": "V0332_POKEMON_CACTURNE_PURIFIED",
+    "pokemonId": "CACTURNE",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 221,
+      "baseDefense": 115
+    },
+    "familyId": "FAMILY_CACNEA",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GRASS",
+      "POKEMON_TYPE_DARK"
+    ],
+    "pokedex": 332
+  },
+  {
+    "templateId": "V0332_POKEMON_CACTURNE_SHADOW",
+    "pokemonId": "CACTURNE",
+    "stats": {
+      "baseStamina": 172,
+      "baseAttack": 221,
+      "baseDefense": 115
+    },
+    "familyId": "FAMILY_CACNEA",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_GRASS",
       "POKEMON_TYPE_DARK"
@@ -8392,6 +9260,51 @@
     "pokedex": 353
   },
   {
+    "templateId": "V0353_POKEMON_SHUPPET_NORMAL",
+    "pokemonId": "SHUPPET",
+    "stats": {
+      "baseStamina": 127,
+      "baseAttack": 138,
+      "baseDefense": 65
+    },
+    "familyId": "FAMILY_SHUPPET",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 353
+  },
+  {
+    "templateId": "V0353_POKEMON_SHUPPET_PURIFIED",
+    "pokemonId": "SHUPPET",
+    "stats": {
+      "baseStamina": 127,
+      "baseAttack": 138,
+      "baseDefense": 65
+    },
+    "familyId": "FAMILY_SHUPPET",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 353
+  },
+  {
+    "templateId": "V0353_POKEMON_SHUPPET_SHADOW",
+    "pokemonId": "SHUPPET",
+    "stats": {
+      "baseStamina": 127,
+      "baseAttack": 138,
+      "baseDefense": 65
+    },
+    "familyId": "FAMILY_SHUPPET",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 353
+  },
+  {
     "templateId": "V0354_POKEMON_BANETTE",
     "pokemonId": "BANETTE",
     "stats": {
@@ -8400,6 +9313,51 @@
       "baseDefense": 126
     },
     "familyId": "FAMILY_SHUPPET",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 354
+  },
+  {
+    "templateId": "V0354_POKEMON_BANETTE_NORMAL",
+    "pokemonId": "BANETTE",
+    "stats": {
+      "baseStamina": 162,
+      "baseAttack": 218,
+      "baseDefense": 126
+    },
+    "familyId": "FAMILY_SHUPPET",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 354
+  },
+  {
+    "templateId": "V0354_POKEMON_BANETTE_PURIFIED",
+    "pokemonId": "BANETTE",
+    "stats": {
+      "baseStamina": 162,
+      "baseAttack": 218,
+      "baseDefense": 126
+    },
+    "familyId": "FAMILY_SHUPPET",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 354
+  },
+  {
+    "templateId": "V0354_POKEMON_BANETTE_SHADOW",
+    "pokemonId": "BANETTE",
+    "stats": {
+      "baseStamina": 162,
+      "baseAttack": 218,
+      "baseDefense": 126
+    },
+    "familyId": "FAMILY_SHUPPET",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_GHOST"
     ],
@@ -8420,6 +9378,51 @@
     "pokedex": 355
   },
   {
+    "templateId": "V0355_POKEMON_DUSKULL_NORMAL",
+    "pokemonId": "DUSKULL",
+    "stats": {
+      "baseStamina": 85,
+      "baseAttack": 70,
+      "baseDefense": 162
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 355
+  },
+  {
+    "templateId": "V0355_POKEMON_DUSKULL_PURIFIED",
+    "pokemonId": "DUSKULL",
+    "stats": {
+      "baseStamina": 85,
+      "baseAttack": 70,
+      "baseDefense": 162
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 355
+  },
+  {
+    "templateId": "V0355_POKEMON_DUSKULL_SHADOW",
+    "pokemonId": "DUSKULL",
+    "stats": {
+      "baseStamina": 85,
+      "baseAttack": 70,
+      "baseDefense": 162
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 355
+  },
+  {
     "templateId": "V0356_POKEMON_DUSCLOPS",
     "pokemonId": "DUSCLOPS",
     "stats": {
@@ -8428,6 +9431,51 @@
       "baseDefense": 234
     },
     "familyId": "FAMILY_DUSKULL",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 356
+  },
+  {
+    "templateId": "V0356_POKEMON_DUSCLOPS_NORMAL",
+    "pokemonId": "DUSCLOPS",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 124,
+      "baseDefense": 234
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 356
+  },
+  {
+    "templateId": "V0356_POKEMON_DUSCLOPS_PURIFIED",
+    "pokemonId": "DUSCLOPS",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 124,
+      "baseDefense": 234
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 356
+  },
+  {
+    "templateId": "V0356_POKEMON_DUSCLOPS_SHADOW",
+    "pokemonId": "DUSCLOPS",
+    "stats": {
+      "baseStamina": 120,
+      "baseAttack": 124,
+      "baseDefense": 234
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_GHOST"
     ],
@@ -10425,6 +11473,51 @@
     "pokedex": 466
   },
   {
+    "templateId": "V0466_POKEMON_ELECTIVIRE_NORMAL",
+    "pokemonId": "ELECTIVIRE",
+    "stats": {
+      "baseStamina": 181,
+      "baseAttack": 249,
+      "baseDefense": 163
+    },
+    "familyId": "FAMILY_ELECTABUZZ",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 466
+  },
+  {
+    "templateId": "V0466_POKEMON_ELECTIVIRE_PURIFIED",
+    "pokemonId": "ELECTIVIRE",
+    "stats": {
+      "baseStamina": 181,
+      "baseAttack": 249,
+      "baseDefense": 163
+    },
+    "familyId": "FAMILY_ELECTABUZZ",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 466
+  },
+  {
+    "templateId": "V0466_POKEMON_ELECTIVIRE_SHADOW",
+    "pokemonId": "ELECTIVIRE",
+    "stats": {
+      "baseStamina": 181,
+      "baseAttack": 249,
+      "baseDefense": 163
+    },
+    "familyId": "FAMILY_ELECTABUZZ",
+    "isotope": "SHADOW",
+    "types": [
+      "POKEMON_TYPE_ELECTRIC"
+    ],
+    "pokedex": 466
+  },
+  {
     "templateId": "V0467_POKEMON_MAGMORTAR",
     "pokemonId": "MAGMORTAR",
     "stats": {
@@ -10433,6 +11526,51 @@
       "baseDefense": 172
     },
     "familyId": "FAMILY_MAGMAR",
+    "types": [
+      "POKEMON_TYPE_FIRE"
+    ],
+    "pokedex": 467
+  },
+  {
+    "templateId": "V0467_POKEMON_MAGMORTAR_NORMAL",
+    "pokemonId": "MAGMORTAR",
+    "stats": {
+      "baseStamina": 181,
+      "baseAttack": 247,
+      "baseDefense": 172
+    },
+    "familyId": "FAMILY_MAGMAR",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_FIRE"
+    ],
+    "pokedex": 467
+  },
+  {
+    "templateId": "V0467_POKEMON_MAGMORTAR_PURIFIED",
+    "pokemonId": "MAGMORTAR",
+    "stats": {
+      "baseStamina": 181,
+      "baseAttack": 247,
+      "baseDefense": 172
+    },
+    "familyId": "FAMILY_MAGMAR",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_FIRE"
+    ],
+    "pokedex": 467
+  },
+  {
+    "templateId": "V0467_POKEMON_MAGMORTAR_SHADOW",
+    "pokemonId": "MAGMORTAR",
+    "stats": {
+      "baseStamina": 181,
+      "baseAttack": 247,
+      "baseDefense": 172
+    },
+    "familyId": "FAMILY_MAGMAR",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_FIRE"
     ],
@@ -10627,6 +11765,51 @@
       "baseDefense": 254
     },
     "familyId": "FAMILY_DUSKULL",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 477
+  },
+  {
+    "templateId": "V0477_POKEMON_DUSKNOIR_NORMAL",
+    "pokemonId": "DUSKNOIR",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 180,
+      "baseDefense": 254
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "NORMAL",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 477
+  },
+  {
+    "templateId": "V0477_POKEMON_DUSKNOIR_PURIFIED",
+    "pokemonId": "DUSKNOIR",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 180,
+      "baseDefense": 254
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "PURIFIED",
+    "types": [
+      "POKEMON_TYPE_GHOST"
+    ],
+    "pokedex": 477
+  },
+  {
+    "templateId": "V0477_POKEMON_DUSKNOIR_SHADOW",
+    "pokemonId": "DUSKNOIR",
+    "stats": {
+      "baseStamina": 128,
+      "baseAttack": 180,
+      "baseDefense": 254
+    },
+    "familyId": "FAMILY_DUSKULL",
+    "isotope": "SHADOW",
     "types": [
       "POKEMON_TYPE_GHOST"
     ],
