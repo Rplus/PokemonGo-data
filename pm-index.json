@@ -44,7 +44,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.7,
-            "WeightKg": 6.9
+            "weightKg": 6.9
           }
         },
         {
@@ -88,7 +88,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.7,
-            "WeightKg": 6.9
+            "weightKg": 6.9
           }
         },
         {
@@ -132,7 +132,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.7,
-            "WeightKg": 6.9
+            "weightKg": 6.9
           }
         },
         {
@@ -168,7 +168,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.7,
-            "WeightKg": 6.9
+            "weightKg": 6.9
           }
         }
       ]
@@ -217,7 +217,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 13
+            "weightKg": 13
           }
         },
         {
@@ -261,7 +261,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 13
+            "weightKg": 13
           }
         },
         {
@@ -305,7 +305,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 13
+            "weightKg": 13
           }
         }
       ]
@@ -346,7 +346,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2,
-            "WeightKg": 100
+            "weightKg": 100
           }
         },
         {
@@ -382,7 +382,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2,
-            "WeightKg": 100
+            "weightKg": 100
           }
         },
         {
@@ -418,7 +418,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2,
-            "WeightKg": 100
+            "weightKg": 100
           }
         }
       ]
@@ -466,7 +466,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         },
         {
@@ -509,7 +509,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         },
         {
@@ -552,7 +552,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         },
         {
@@ -587,7 +587,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         }
       ]
@@ -635,7 +635,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.1,
-            "WeightKg": 19
+            "weightKg": 19
           }
         },
         {
@@ -678,7 +678,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.1,
-            "WeightKg": 19
+            "weightKg": 19
           }
         },
         {
@@ -721,7 +721,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.1,
-            "WeightKg": 19
+            "weightKg": 19
           }
         }
       ]
@@ -762,7 +762,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.7,
-            "WeightKg": 90.5
+            "weightKg": 90.5
           }
         },
         {
@@ -798,7 +798,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.7,
-            "WeightKg": 90.5
+            "weightKg": 90.5
           }
         },
         {
@@ -834,7 +834,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.7,
-            "WeightKg": 90.5
+            "weightKg": 90.5
           }
         }
       ]
@@ -882,7 +882,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 9
+            "weightKg": 9
           }
         },
         {
@@ -925,7 +925,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 9
+            "weightKg": 9
           }
         },
         {
@@ -968,7 +968,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 9
+            "weightKg": 9
           }
         },
         {
@@ -1003,7 +1003,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 9
+            "weightKg": 9
           }
         }
       ]
@@ -1051,7 +1051,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 22.5
+            "weightKg": 22.5
           }
         },
         {
@@ -1094,7 +1094,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 22.5
+            "weightKg": 22.5
           }
         },
         {
@@ -1137,7 +1137,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 22.5
+            "weightKg": 22.5
           }
         }
       ]
@@ -1178,7 +1178,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.6,
-            "WeightKg": 85.5
+            "weightKg": 85.5
           }
         },
         {
@@ -1214,7 +1214,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.6,
-            "WeightKg": 85.5
+            "weightKg": 85.5
           }
         },
         {
@@ -1250,7 +1250,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.6,
-            "WeightKg": 85.5
+            "weightKg": 85.5
           }
         }
       ]
@@ -1295,7 +1295,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2.9
+            "weightKg": 2.9
           }
         }
       ]
@@ -1340,7 +1340,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 9.9
+            "weightKg": 9.9
           }
         }
       ]
@@ -1381,7 +1381,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 32
+            "weightKg": 32
           }
         }
       ]
@@ -1428,7 +1428,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.2
+            "weightKg": 3.2
           }
         },
         {
@@ -1470,7 +1470,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.2
+            "weightKg": 3.2
           }
         },
         {
@@ -1512,7 +1512,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.2
+            "weightKg": 3.2
           }
         }
       ]
@@ -1559,7 +1559,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 10
+            "weightKg": 10
           }
         },
         {
@@ -1601,7 +1601,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 10
+            "weightKg": 10
           }
         },
         {
@@ -1643,7 +1643,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 10
+            "weightKg": 10
           }
         }
       ]
@@ -1684,7 +1684,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 29.5
+            "weightKg": 29.5
           }
         },
         {
@@ -1720,7 +1720,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 29.5
+            "weightKg": 29.5
           }
         },
         {
@@ -1756,7 +1756,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 29.5
+            "weightKg": 29.5
           }
         }
       ]
@@ -1804,7 +1804,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 1.8
+            "weightKg": 1.8
           }
         }
       ]
@@ -1852,7 +1852,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         }
       ]
@@ -1893,7 +1893,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 39.5
+            "weightKg": 39.5
           }
         }
       ]
@@ -1941,7 +1941,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.5
+            "weightKg": 3.5
           }
         },
         {
@@ -1986,7 +1986,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.3,
-            "WeightKg": 3.8
+            "weightKg": 3.8
           }
         },
         {
@@ -2029,7 +2029,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.5
+            "weightKg": 3.5
           }
         },
         {
@@ -2072,7 +2072,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.5
+            "weightKg": 3.5
           }
         }
       ]
@@ -2112,7 +2112,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 18.5
+            "weightKg": 18.5
           }
         },
         {
@@ -2149,7 +2149,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.7,
-            "WeightKg": 25.5
+            "weightKg": 25.5
           }
         },
         {
@@ -2184,7 +2184,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 18.5
+            "weightKg": 18.5
           }
         },
         {
@@ -2219,7 +2219,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 18.5
+            "weightKg": 18.5
           }
         }
       ]
@@ -2267,7 +2267,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2
+            "weightKg": 2
           }
         }
       ]
@@ -2308,7 +2308,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 38
+            "weightKg": 38
           }
         }
       ]
@@ -2355,7 +2355,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2,
-            "WeightKg": 6.9
+            "weightKg": 6.9
           }
         }
       ]
@@ -2397,7 +2397,7 @@
               "femalePercent": 0.5
             },
             "heightM": 3.5,
-            "WeightKg": 65
+            "weightKg": 65
           }
         }
       ]
@@ -2444,7 +2444,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 6
+            "weightKg": 6
           }
         },
         {
@@ -2478,7 +2478,7 @@
               "malePercent": 1
             },
             "heightM": 0.4,
-            "WeightKg": 6
+            "weightKg": 6
           }
         }
       ]
@@ -2520,7 +2520,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -2559,7 +2559,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.7,
-            "WeightKg": 21
+            "weightKg": 21
           }
         }
       ]
@@ -2607,7 +2607,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 12
+            "weightKg": 12
           }
         },
         {
@@ -2652,7 +2652,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.7,
-            "WeightKg": 40
+            "weightKg": 40
           }
         }
       ]
@@ -2692,7 +2692,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 29.5
+            "weightKg": 29.5
           }
         },
         {
@@ -2730,7 +2730,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 1.2,
-            "WeightKg": 55
+            "weightKg": 55
           }
         }
       ]
@@ -2776,7 +2776,7 @@
               "femalePercent": 1
             },
             "heightM": 0.4,
-            "WeightKg": 7
+            "weightKg": 7
           }
         }
       ]
@@ -2822,7 +2822,7 @@
               "femalePercent": 1
             },
             "heightM": 0.8,
-            "WeightKg": 20
+            "weightKg": 20
           }
         }
       ]
@@ -2863,7 +2863,7 @@
               "femalePercent": 1
             },
             "heightM": 1.3,
-            "WeightKg": 60
+            "weightKg": 60
           }
         }
       ]
@@ -2909,7 +2909,7 @@
               "malePercent": 1
             },
             "heightM": 0.5,
-            "WeightKg": 9
+            "weightKg": 9
           }
         }
       ]
@@ -2955,7 +2955,7 @@
               "malePercent": 1
             },
             "heightM": 0.9,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         }
       ]
@@ -2996,7 +2996,7 @@
               "malePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 62
+            "weightKg": 62
           }
         }
       ]
@@ -3043,7 +3043,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.6,
-            "WeightKg": 7.5
+            "weightKg": 7.5
           }
         }
       ]
@@ -3085,7 +3085,7 @@
               "femalePercent": 0.75
             },
             "heightM": 1.3,
-            "WeightKg": 40
+            "weightKg": 40
           }
         }
       ]
@@ -3133,7 +3133,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.6,
-            "WeightKg": 9.9
+            "weightKg": 9.9
           }
         },
         {
@@ -3177,7 +3177,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.6,
-            "WeightKg": 9.9
+            "weightKg": 9.9
           }
         }
       ]
@@ -3218,7 +3218,7 @@
               "femalePercent": 0.75
             },
             "heightM": 1.1,
-            "WeightKg": 19.9
+            "weightKg": 19.9
           }
         },
         {
@@ -3257,7 +3257,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 1.1,
-            "WeightKg": 19.9
+            "weightKg": 19.9
           }
         }
       ]
@@ -3305,7 +3305,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.5,
-            "WeightKg": 5.5
+            "weightKg": 5.5
           }
         }
       ]
@@ -3348,7 +3348,7 @@
               "femalePercent": 0.75
             },
             "heightM": 1,
-            "WeightKg": 12
+            "weightKg": 12
           }
         }
       ]
@@ -3397,7 +3397,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 7.5
+            "weightKg": 7.5
           }
         },
         {
@@ -3441,7 +3441,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 7.5
+            "weightKg": 7.5
           }
         },
         {
@@ -3485,7 +3485,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 7.5
+            "weightKg": 7.5
           }
         }
       ]
@@ -3533,7 +3533,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 55
+            "weightKg": 55
           }
         },
         {
@@ -3576,7 +3576,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 55
+            "weightKg": 55
           }
         },
         {
@@ -3619,7 +3619,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 55
+            "weightKg": 55
           }
         }
       ]
@@ -3668,7 +3668,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 5.4
+            "weightKg": 5.4
           }
         },
         {
@@ -3712,7 +3712,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 5.4
+            "weightKg": 5.4
           }
         },
         {
@@ -3756,7 +3756,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 5.4
+            "weightKg": 5.4
           }
         }
       ]
@@ -3811,7 +3811,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 8.6
+            "weightKg": 8.6
           }
         },
         {
@@ -3861,7 +3861,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 8.6
+            "weightKg": 8.6
           }
         },
         {
@@ -3911,7 +3911,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 8.6
+            "weightKg": 8.6
           }
         }
       ]
@@ -3953,7 +3953,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 18.6
+            "weightKg": 18.6
           }
         },
         {
@@ -3990,7 +3990,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 18.6
+            "weightKg": 18.6
           }
         },
         {
@@ -4027,7 +4027,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 18.6
+            "weightKg": 18.6
           }
         }
       ]
@@ -4075,7 +4075,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 5.4
+            "weightKg": 5.4
           }
         }
       ]
@@ -4116,7 +4116,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 29.5
+            "weightKg": 29.5
           }
         }
       ]
@@ -4165,7 +4165,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -4209,7 +4209,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -4253,7 +4253,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         }
       ]
@@ -4294,7 +4294,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         },
         {
@@ -4330,7 +4330,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         },
         {
@@ -4366,7 +4366,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         }
       ]
@@ -4414,7 +4414,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.2,
-            "WeightKg": 0.8
+            "weightKg": 0.8
           }
         },
         {
@@ -4459,7 +4459,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.2,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -4499,7 +4499,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 33.3
+            "weightKg": 33.3
           }
         },
         {
@@ -4536,7 +4536,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.7,
-            "WeightKg": 66.6
+            "weightKg": 66.6
           }
         }
       ]
@@ -4584,7 +4584,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 4.2
+            "weightKg": 4.2
           }
         },
         {
@@ -4628,7 +4628,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.4,
-            "WeightKg": 4.2
+            "weightKg": 4.2
           }
         }
       ]
@@ -4668,7 +4668,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 32
+            "weightKg": 32
           }
         },
         {
@@ -4704,7 +4704,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 1.1,
-            "WeightKg": 33
+            "weightKg": 33
           }
         }
       ]
@@ -4752,7 +4752,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 19.6
+            "weightKg": 19.6
           }
         },
         {
@@ -4795,7 +4795,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 19.6
+            "weightKg": 19.6
           }
         },
         {
@@ -4838,7 +4838,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 19.6
+            "weightKg": 19.6
           }
         }
       ]
@@ -4881,7 +4881,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 76.6
+            "weightKg": 76.6
           }
         },
         {
@@ -4919,7 +4919,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 76.6
+            "weightKg": 76.6
           }
         },
         {
@@ -4957,7 +4957,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 76.6
+            "weightKg": 76.6
           }
         }
       ]
@@ -5004,7 +5004,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 28
+            "weightKg": 28
           }
         }
       ]
@@ -5044,7 +5044,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 32
+            "weightKg": 32
           }
         }
       ]
@@ -5092,7 +5092,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.7,
-            "WeightKg": 19
+            "weightKg": 19
           }
         },
         {
@@ -5135,7 +5135,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.7,
-            "WeightKg": 19
+            "weightKg": 19
           }
         },
         {
@@ -5178,7 +5178,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.7,
-            "WeightKg": 19
+            "weightKg": 19
           }
         }
       ]
@@ -5219,7 +5219,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.9,
-            "WeightKg": 155
+            "weightKg": 155
           }
         },
         {
@@ -5255,7 +5255,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.9,
-            "WeightKg": 155
+            "weightKg": 155
           }
         },
         {
@@ -5291,7 +5291,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.9,
-            "WeightKg": 155
+            "weightKg": 155
           }
         }
       ]
@@ -5339,7 +5339,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 12.4
+            "weightKg": 12.4
           }
         },
         {
@@ -5382,7 +5382,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 12.4
+            "weightKg": 12.4
           }
         },
         {
@@ -5425,7 +5425,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 12.4
+            "weightKg": 12.4
           }
         }
       ]
@@ -5479,7 +5479,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 20
+            "weightKg": 20
           }
         },
         {
@@ -5528,7 +5528,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 20
+            "weightKg": 20
           }
         },
         {
@@ -5577,7 +5577,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 20
+            "weightKg": 20
           }
         }
       ]
@@ -5619,7 +5619,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 54
+            "weightKg": 54
           }
         },
         {
@@ -5656,7 +5656,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 54
+            "weightKg": 54
           }
         },
         {
@@ -5693,7 +5693,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 54
+            "weightKg": 54
           }
         }
       ]
@@ -5741,7 +5741,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.9,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         },
         {
@@ -5784,7 +5784,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.9,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         },
         {
@@ -5827,7 +5827,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.9,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         }
       ]
@@ -5875,7 +5875,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.3,
-            "WeightKg": 56.5
+            "weightKg": 56.5
           }
         },
         {
@@ -5918,7 +5918,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.3,
-            "WeightKg": 56.5
+            "weightKg": 56.5
           }
         },
         {
@@ -5961,7 +5961,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.3,
-            "WeightKg": 56.5
+            "weightKg": 56.5
           }
         }
       ]
@@ -6002,7 +6002,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.5,
-            "WeightKg": 48
+            "weightKg": 48
           }
         },
         {
@@ -6038,7 +6038,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.5,
-            "WeightKg": 48
+            "weightKg": 48
           }
         },
         {
@@ -6074,7 +6074,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.5,
-            "WeightKg": 48
+            "weightKg": 48
           }
         }
       ]
@@ -6121,7 +6121,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.8,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         }
       ]
@@ -6168,7 +6168,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.5,
-            "WeightKg": 70.5
+            "weightKg": 70.5
           }
         }
       ]
@@ -6209,7 +6209,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.6,
-            "WeightKg": 130
+            "weightKg": 130
           }
         }
       ]
@@ -6257,7 +6257,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 4
+            "weightKg": 4
           }
         }
       ]
@@ -6305,7 +6305,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 6.4
+            "weightKg": 6.4
           }
         }
       ]
@@ -6348,7 +6348,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 15.5
+            "weightKg": 15.5
           }
         }
       ]
@@ -6396,7 +6396,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 45.5
+            "weightKg": 45.5
           }
         }
       ]
@@ -6438,7 +6438,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 55
+            "weightKg": 55
           }
         }
       ]
@@ -6487,7 +6487,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 20
+            "weightKg": 20
           }
         },
         {
@@ -6532,7 +6532,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.4,
-            "WeightKg": 20.3
+            "weightKg": 20.3
           }
         }
       ]
@@ -6581,7 +6581,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 105
+            "weightKg": 105
           }
         },
         {
@@ -6626,7 +6626,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 1,
-            "WeightKg": 110
+            "weightKg": 110
           }
         }
       ]
@@ -6667,7 +6667,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 300
+            "weightKg": 300
           }
         },
         {
@@ -6704,7 +6704,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 1.7,
-            "WeightKg": 316
+            "weightKg": 316
           }
         }
       ]
@@ -6751,7 +6751,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         }
       ]
@@ -6791,7 +6791,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 95
+            "weightKg": 95
           }
         }
       ]
@@ -6844,7 +6844,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 36
+            "weightKg": 36
           }
         }
       ]
@@ -6885,7 +6885,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 78.5
+            "weightKg": 78.5
           }
         }
       ]
@@ -6932,7 +6932,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 6
+            "weightKg": 6
           }
         }
       ]
@@ -6979,7 +6979,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1,
-            "WeightKg": 60
+            "weightKg": 60
           }
         }
       ]
@@ -7020,7 +7020,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -7068,7 +7068,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 39.2
+            "weightKg": 39.2
           }
         }
       ]
@@ -7109,7 +7109,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 85.2
+            "weightKg": 85.2
           }
         }
       ]
@@ -7156,7 +7156,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 90
+            "weightKg": 90
           }
         }
       ]
@@ -7197,7 +7197,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 120
+            "weightKg": 120
           }
         }
       ]
@@ -7245,7 +7245,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -7290,7 +7290,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 0.7,
-            "WeightKg": 42
+            "weightKg": 42
           }
         },
         {
@@ -7333,7 +7333,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -7376,7 +7376,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 30
+            "weightKg": 30
           }
         }
       ]
@@ -7418,7 +7418,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -7457,7 +7457,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 1,
-            "WeightKg": 52
+            "weightKg": 52
           }
         },
         {
@@ -7494,7 +7494,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -7531,7 +7531,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 30
+            "weightKg": 30
           }
         }
       ]
@@ -7578,7 +7578,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 4
+            "weightKg": 4
           }
         }
       ]
@@ -7619,7 +7619,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 132.5
+            "weightKg": 132.5
           }
         }
       ]
@@ -7667,7 +7667,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 0.1
+            "weightKg": 0.1
           }
         }
       ]
@@ -7715,7 +7715,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 0.1
+            "weightKg": 0.1
           }
         }
       ]
@@ -7756,7 +7756,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 40.5
+            "weightKg": 40.5
           }
         }
       ]
@@ -7804,7 +7804,7 @@
               "femalePercent": 0.5
             },
             "heightM": 8.8,
-            "WeightKg": 210
+            "weightKg": 210
           }
         }
       ]
@@ -7852,7 +7852,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 32.4
+            "weightKg": 32.4
           }
         },
         {
@@ -7895,7 +7895,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 32.4
+            "weightKg": 32.4
           }
         },
         {
@@ -7938,7 +7938,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 32.4
+            "weightKg": 32.4
           }
         }
       ]
@@ -7981,7 +7981,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 75.6
+            "weightKg": 75.6
           }
         },
         {
@@ -8019,7 +8019,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 75.6
+            "weightKg": 75.6
           }
         },
         {
@@ -8057,7 +8057,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 75.6
+            "weightKg": 75.6
           }
         }
       ]
@@ -8104,7 +8104,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         }
       ]
@@ -8145,7 +8145,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 60
+            "weightKg": 60
           }
         }
       ]
@@ -8191,7 +8191,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.5,
-            "WeightKg": 10.4
+            "weightKg": 10.4
           }
         }
       ]
@@ -8231,7 +8231,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.2,
-            "WeightKg": 66.6
+            "weightKg": 66.6
           }
         }
       ]
@@ -8279,7 +8279,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 2.5
+            "weightKg": 2.5
           }
         }
       ]
@@ -8320,7 +8320,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2,
-            "WeightKg": 120
+            "weightKg": 120
           }
         },
         {
@@ -8357,7 +8357,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 10.9,
-            "WeightKg": 415.6
+            "weightKg": 415.6
           }
         }
       ]
@@ -8405,7 +8405,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         },
         {
@@ -8448,7 +8448,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         },
         {
@@ -8491,7 +8491,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         }
       ]
@@ -8531,7 +8531,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 45
+            "weightKg": 45
           }
         },
         {
@@ -8570,7 +8570,7 @@
             },
             "assetBundleValue": 61,
             "heightM": 1,
-            "WeightKg": 34
+            "weightKg": 34
           }
         },
         {
@@ -8605,7 +8605,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 45
+            "weightKg": 45
           }
         },
         {
@@ -8640,7 +8640,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 45
+            "weightKg": 45
           }
         }
       ]
@@ -8679,7 +8679,7 @@
               "malePercent": 1
             },
             "heightM": 1.5,
-            "WeightKg": 49.8
+            "weightKg": 49.8
           }
         }
       ]
@@ -8720,7 +8720,7 @@
               "malePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 50.2
+            "weightKg": 50.2
           }
         },
         {
@@ -8756,7 +8756,7 @@
               "malePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 50.2
+            "weightKg": 50.2
           }
         },
         {
@@ -8792,7 +8792,7 @@
               "malePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 50.2
+            "weightKg": 50.2
           }
         }
       ]
@@ -8839,7 +8839,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 65.5
+            "weightKg": 65.5
           }
         }
       ]
@@ -8886,7 +8886,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -8927,7 +8927,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 9.5
+            "weightKg": 9.5
           }
         }
       ]
@@ -8975,7 +8975,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 115
+            "weightKg": 115
           }
         }
       ]
@@ -9023,7 +9023,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.9,
-            "WeightKg": 120
+            "weightKg": 120
           }
         }
       ]
@@ -9068,7 +9068,7 @@
               "femalePercent": 1
             },
             "heightM": 1.1,
-            "WeightKg": 34.6
+            "weightKg": 34.6
           }
         }
       ]
@@ -9115,7 +9115,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 35
+            "weightKg": 35
           }
         }
       ]
@@ -9155,7 +9155,7 @@
               "femalePercent": 1
             },
             "heightM": 2.2,
-            "WeightKg": 80
+            "weightKg": 80
           }
         }
       ]
@@ -9202,7 +9202,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 8
+            "weightKg": 8
           }
         }
       ]
@@ -9249,7 +9249,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 25
+            "weightKg": 25
           }
         }
       ]
@@ -9296,7 +9296,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -9336,7 +9336,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 39
+            "weightKg": 39
           }
         }
       ]
@@ -9382,7 +9382,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.8,
-            "WeightKg": 34.5
+            "weightKg": 34.5
           }
         }
       ]
@@ -9424,7 +9424,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.1,
-            "WeightKg": 80
+            "weightKg": 80
           }
         }
       ]
@@ -9465,7 +9465,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 54.5
+            "weightKg": 54.5
           }
         }
       ]
@@ -9514,7 +9514,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 56
+            "weightKg": 56
           }
         },
         {
@@ -9558,7 +9558,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 56
+            "weightKg": 56
           }
         },
         {
@@ -9602,7 +9602,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 56
+            "weightKg": 56
           }
         }
       ]
@@ -9643,7 +9643,7 @@
               "femalePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 40.6
+            "weightKg": 40.6
           }
         }
       ]
@@ -9691,7 +9691,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -9734,7 +9734,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         },
         {
@@ -9777,7 +9777,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         }
       ]
@@ -9825,7 +9825,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.3,
-            "WeightKg": 44.5
+            "weightKg": 44.5
           }
         },
         {
@@ -9868,7 +9868,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.3,
-            "WeightKg": 44.5
+            "weightKg": 44.5
           }
         },
         {
@@ -9911,7 +9911,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.3,
-            "WeightKg": 44.5
+            "weightKg": 44.5
           }
         }
       ]
@@ -9951,7 +9951,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 55
+            "weightKg": 55
           }
         }
       ]
@@ -9990,7 +9990,7 @@
               "malePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 88.4
+            "weightKg": 88.4
           }
         }
       ]
@@ -10035,7 +10035,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 10
+            "weightKg": 10
           }
         },
         {
@@ -10075,7 +10075,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 10
+            "weightKg": 10
           }
         },
         {
@@ -10115,7 +10115,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 10
+            "weightKg": 10
           }
         }
       ]
@@ -10156,7 +10156,7 @@
               "femalePercent": 0.5
             },
             "heightM": 6.5,
-            "WeightKg": 235
+            "weightKg": 235
           }
         },
         {
@@ -10192,7 +10192,7 @@
               "femalePercent": 0.5
             },
             "heightM": 6.5,
-            "WeightKg": 235
+            "weightKg": 235
           }
         },
         {
@@ -10228,7 +10228,7 @@
               "femalePercent": 0.5
             },
             "heightM": 6.5,
-            "WeightKg": 235
+            "weightKg": 235
           }
         }
       ]
@@ -10270,7 +10270,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.5,
-            "WeightKg": 220
+            "weightKg": 220
           }
         },
         {
@@ -10307,7 +10307,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.5,
-            "WeightKg": 220
+            "weightKg": 220
           }
         },
         {
@@ -10344,7 +10344,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.5,
-            "WeightKg": 220
+            "weightKg": 220
           }
         }
       ]
@@ -10380,7 +10380,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 4
+            "weightKg": 4
           }
         }
       ]
@@ -10462,7 +10462,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.3,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         }
       ]
@@ -10501,7 +10501,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 29
+            "weightKg": 29
           }
         }
       ]
@@ -10541,7 +10541,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.8,
-            "WeightKg": 24.5
+            "weightKg": 24.5
           }
         }
       ]
@@ -10581,7 +10581,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.9,
-            "WeightKg": 25
+            "weightKg": 25
           }
         }
       ]
@@ -10627,7 +10627,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.8,
-            "WeightKg": 36.5
+            "weightKg": 36.5
           }
         }
       ]
@@ -10675,7 +10675,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.4,
-            "WeightKg": 7.5
+            "weightKg": 7.5
           }
         }
       ]
@@ -10716,7 +10716,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 35
+            "weightKg": 35
           }
         }
       ]
@@ -10764,7 +10764,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 11.5
+            "weightKg": 11.5
           }
         }
       ]
@@ -10806,7 +10806,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.3,
-            "WeightKg": 40.5
+            "weightKg": 40.5
           }
         }
       ]
@@ -10850,7 +10850,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.8,
-            "WeightKg": 59
+            "weightKg": 59
           }
         }
       ]
@@ -10892,7 +10892,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2.1,
-            "WeightKg": 460
+            "weightKg": 460
           }
         },
         {
@@ -10929,7 +10929,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2.1,
-            "WeightKg": 460
+            "weightKg": 460
           }
         },
         {
@@ -10966,7 +10966,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2.1,
-            "WeightKg": 460
+            "weightKg": 460
           }
         }
       ]
@@ -11006,7 +11006,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.7,
-            "WeightKg": 55.4
+            "weightKg": 55.4
           }
         }
       ]
@@ -11046,7 +11046,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.6,
-            "WeightKg": 52.6
+            "weightKg": 52.6
           }
         }
       ]
@@ -11086,7 +11086,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2,
-            "WeightKg": 60
+            "weightKg": 60
           }
         }
       ]
@@ -11134,7 +11134,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 3.3
+            "weightKg": 3.3
           }
         },
         {
@@ -11177,7 +11177,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 3.3
+            "weightKg": 3.3
           }
         },
         {
@@ -11220,7 +11220,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 3.3
+            "weightKg": 3.3
           }
         }
       ]
@@ -11268,7 +11268,7 @@
               "femalePercent": 0.5
             },
             "heightM": 4,
-            "WeightKg": 16.5
+            "weightKg": 16.5
           }
         },
         {
@@ -11311,7 +11311,7 @@
               "femalePercent": 0.5
             },
             "heightM": 4,
-            "WeightKg": 16.5
+            "weightKg": 16.5
           }
         },
         {
@@ -11354,7 +11354,7 @@
               "femalePercent": 0.5
             },
             "heightM": 4,
-            "WeightKg": 16.5
+            "weightKg": 16.5
           }
         }
       ]
@@ -11395,7 +11395,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 210
+            "weightKg": 210
           }
         },
         {
@@ -11431,7 +11431,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 210
+            "weightKg": 210
           }
         },
         {
@@ -11467,7 +11467,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 210
+            "weightKg": 210
           }
         }
       ]
@@ -11507,7 +11507,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2,
-            "WeightKg": 122
+            "weightKg": 122
           }
         },
         {
@@ -11541,7 +11541,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2,
-            "WeightKg": 122
+            "weightKg": 122
           }
         }
       ]
@@ -11622,7 +11622,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.4,
-            "WeightKg": 4
+            "weightKg": 4
           }
         }
       ]
@@ -11669,7 +11669,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.89,
-            "WeightKg": 6.4
+            "weightKg": 6.4
           }
         }
       ]
@@ -11716,7 +11716,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.19,
-            "WeightKg": 15.8
+            "weightKg": 15.8
           }
         }
       ]
@@ -11756,7 +11756,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.8,
-            "WeightKg": 100.5
+            "weightKg": 100.5
           }
         }
       ]
@@ -11803,7 +11803,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.51,
-            "WeightKg": 7.9
+            "weightKg": 7.9
           }
         }
       ]
@@ -11850,7 +11850,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.89,
-            "WeightKg": 19
+            "weightKg": 19
           }
         }
       ]
@@ -11890,7 +11890,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.7,
-            "WeightKg": 79.5
+            "weightKg": 79.5
           }
         }
       ]
@@ -11937,7 +11937,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.61,
-            "WeightKg": 9.5
+            "weightKg": 9.5
           }
         }
       ]
@@ -11984,7 +11984,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.09,
-            "WeightKg": 25
+            "weightKg": 25
           }
         }
       ]
@@ -12024,7 +12024,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2.31,
-            "WeightKg": 88.8
+            "weightKg": 88.8
           }
         }
       ]
@@ -12071,7 +12071,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 6
+            "weightKg": 6
           }
         }
       ]
@@ -12111,7 +12111,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 32.5
+            "weightKg": 32.5
           }
         }
       ]
@@ -12159,7 +12159,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 21.2
+            "weightKg": 21.2
           }
         }
       ]
@@ -12200,7 +12200,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 40.8
+            "weightKg": 40.8
           }
         }
       ]
@@ -12248,7 +12248,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 10.8
+            "weightKg": 10.8
           }
         }
       ]
@@ -12289,7 +12289,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 35.6
+            "weightKg": 35.6
           }
         }
       ]
@@ -12337,7 +12337,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         }
       ]
@@ -12378,7 +12378,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 33.5
+            "weightKg": 33.5
           }
         }
       ]
@@ -12419,7 +12419,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 75
+            "weightKg": 75
           }
         },
         {
@@ -12455,7 +12455,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 75
+            "weightKg": 75
           }
         },
         {
@@ -12491,7 +12491,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 75
+            "weightKg": 75
           }
         }
       ]
@@ -12539,7 +12539,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 12
+            "weightKg": 12
           }
         }
       ]
@@ -12580,7 +12580,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 22.5
+            "weightKg": 22.5
           }
         }
       ]
@@ -12626,7 +12626,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2
+            "weightKg": 2
           }
         }
       ]
@@ -12673,7 +12673,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.3,
-            "WeightKg": 3
+            "weightKg": 3
           }
         }
       ]
@@ -12721,7 +12721,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.3,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -12768,7 +12768,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.3,
-            "WeightKg": 1.5
+            "weightKg": 1.5
           }
         }
       ]
@@ -12816,7 +12816,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.61,
-            "WeightKg": 3.2
+            "weightKg": 3.2
           }
         }
       ]
@@ -12864,7 +12864,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.2,
-            "WeightKg": 2
+            "weightKg": 2
           }
         }
       ]
@@ -12905,7 +12905,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -12953,7 +12953,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 7.8
+            "weightKg": 7.8
           }
         },
         {
@@ -12996,7 +12996,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 7.8
+            "weightKg": 7.8
           }
         },
         {
@@ -13039,7 +13039,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 7.8
+            "weightKg": 7.8
           }
         }
       ]
@@ -13087,7 +13087,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 13.3
+            "weightKg": 13.3
           }
         },
         {
@@ -13130,7 +13130,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 13.3
+            "weightKg": 13.3
           }
         },
         {
@@ -13173,7 +13173,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 13.3
+            "weightKg": 13.3
           }
         }
       ]
@@ -13214,7 +13214,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 61.5
+            "weightKg": 61.5
           }
         },
         {
@@ -13250,7 +13250,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 61.5
+            "weightKg": 61.5
           }
         },
         {
@@ -13286,7 +13286,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 61.5
+            "weightKg": 61.5
           }
         }
       ]
@@ -13326,7 +13326,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 5.8
+            "weightKg": 5.8
           }
         },
         {
@@ -13361,7 +13361,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 5.8
+            "weightKg": 5.8
           }
         },
         {
@@ -13396,7 +13396,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 5.8
+            "weightKg": 5.8
           }
         }
       ]
@@ -13444,7 +13444,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         }
       ]
@@ -13485,7 +13485,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 28.5
+            "weightKg": 28.5
           }
         }
       ]
@@ -13525,7 +13525,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 38
+            "weightKg": 38
           }
         }
       ]
@@ -13565,7 +13565,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 33.9
+            "weightKg": 33.9
           }
         },
         {
@@ -13600,7 +13600,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 33.9
+            "weightKg": 33.9
           }
         },
         {
@@ -13635,7 +13635,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 33.9
+            "weightKg": 33.9
           }
         }
       ]
@@ -13683,7 +13683,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 0.5
+            "weightKg": 0.5
           }
         }
       ]
@@ -13731,7 +13731,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -13772,7 +13772,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 3
+            "weightKg": 3
           }
         }
       ]
@@ -13819,7 +13819,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 11.5
+            "weightKg": 11.5
           }
         }
       ]
@@ -13867,7 +13867,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 1.8
+            "weightKg": 1.8
           }
         }
       ]
@@ -13907,7 +13907,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         }
       ]
@@ -13955,7 +13955,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 38
+            "weightKg": 38
           }
         }
       ]
@@ -14003,7 +14003,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         }
       ]
@@ -14045,7 +14045,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 75
+            "weightKg": 75
           }
         }
       ]
@@ -14085,7 +14085,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.89,
-            "WeightKg": 26.5
+            "weightKg": 26.5
           }
         }
       ]
@@ -14124,7 +14124,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.99,
-            "WeightKg": 27
+            "weightKg": 27
           }
         }
       ]
@@ -14172,7 +14172,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 2.1
+            "weightKg": 2.1
           }
         }
       ]
@@ -14213,7 +14213,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 79.5
+            "weightKg": 79.5
           }
         }
       ]
@@ -14260,7 +14260,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -14297,7 +14297,7 @@
             },
             "assetBundleValue": 16,
             "heightM": 0.51,
-            "WeightKg": 5
+            "weightKg": 5
           }
         }
       ]
@@ -14336,7 +14336,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 28.5
+            "weightKg": 28.5
           }
         }
       ]
@@ -14377,7 +14377,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 41.5
+            "weightKg": 41.5
           }
         }
       ]
@@ -14424,7 +14424,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 7.2
+            "weightKg": 7.2
           }
         }
       ]
@@ -14465,7 +14465,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 125.8
+            "weightKg": 125.8
           }
         }
       ]
@@ -14505,7 +14505,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 14
+            "weightKg": 14
           }
         }
       ]
@@ -14553,7 +14553,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 64.8
+            "weightKg": 64.8
           }
         }
       ]
@@ -14595,7 +14595,7 @@
               "femalePercent": 0.5
             },
             "heightM": 9.19,
-            "WeightKg": 400
+            "weightKg": 400
           }
         }
       ]
@@ -14642,7 +14642,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.61,
-            "WeightKg": 7.8
+            "weightKg": 7.8
           }
         }
       ]
@@ -14683,7 +14683,7 @@
               "femalePercent": 0.75
             },
             "heightM": 1.4,
-            "WeightKg": 48.7
+            "weightKg": 48.7
           }
         }
       ]
@@ -14725,7 +14725,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 3.9
+            "weightKg": 3.9
           }
         }
       ]
@@ -14766,7 +14766,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 125
+            "weightKg": 125
           }
         },
         {
@@ -14802,7 +14802,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 125
+            "weightKg": 125
           }
         },
         {
@@ -14838,7 +14838,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 125
+            "weightKg": 125
           }
         }
       ]
@@ -14879,7 +14879,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 20.5
+            "weightKg": 20.5
           }
         }
       ]
@@ -14920,7 +14920,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 54
+            "weightKg": 54
           }
         }
       ]
@@ -14968,7 +14968,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.89,
-            "WeightKg": 28
+            "weightKg": 28
           }
         }
       ]
@@ -15015,7 +15015,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 8.8
+            "weightKg": 8.8
           }
         }
       ]
@@ -15056,7 +15056,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 125.8
+            "weightKg": 125.8
           }
         }
       ]
@@ -15103,7 +15103,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 35
+            "weightKg": 35
           }
         }
       ]
@@ -15144,7 +15144,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 55
+            "weightKg": 55
           }
         }
       ]
@@ -15192,7 +15192,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         }
       ]
@@ -15240,7 +15240,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 55.8
+            "weightKg": 55.8
           }
         }
       ]
@@ -15281,7 +15281,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.61,
-            "WeightKg": 5
+            "weightKg": 5
           }
         }
       ]
@@ -15328,7 +15328,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 12
+            "weightKg": 12
           }
         }
       ]
@@ -15369,7 +15369,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.89,
-            "WeightKg": 28.5
+            "weightKg": 28.5
           }
         }
       ]
@@ -15409,7 +15409,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.89,
-            "WeightKg": 16
+            "weightKg": 16
           }
         }
       ]
@@ -15452,7 +15452,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.11,
-            "WeightKg": 220
+            "weightKg": 220
           }
         }
       ]
@@ -15493,7 +15493,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 50.5
+            "weightKg": 50.5
           }
         }
       ]
@@ -15542,7 +15542,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 10.8
+            "weightKg": 10.8
           }
         },
         {
@@ -15586,7 +15586,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 10.8
+            "weightKg": 10.8
           }
         },
         {
@@ -15630,7 +15630,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 10.8
+            "weightKg": 10.8
           }
         }
       ]
@@ -15672,7 +15672,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 35
+            "weightKg": 35
           }
         },
         {
@@ -15709,7 +15709,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 35
+            "weightKg": 35
           }
         },
         {
@@ -15746,7 +15746,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 35
+            "weightKg": 35
           }
         }
       ]
@@ -15787,7 +15787,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 152
+            "weightKg": 152
           }
         }
       ]
@@ -15834,7 +15834,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 33.5
+            "weightKg": 33.5
           }
         }
       ]
@@ -15876,7 +15876,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 120
+            "weightKg": 120
           }
         }
       ]
@@ -15922,7 +15922,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.61,
-            "WeightKg": 32.5
+            "weightKg": 32.5
           }
         }
       ]
@@ -15962,7 +15962,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 71.2
+            "weightKg": 71.2
           }
         }
       ]
@@ -15992,7 +15992,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 58
+            "weightKg": 58
           }
         }
       ]
@@ -16046,7 +16046,7 @@
               "malePercent": 1
             },
             "heightM": 0.71,
-            "WeightKg": 21
+            "weightKg": 21
           }
         }
       ]
@@ -16085,7 +16085,7 @@
               "malePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 48
+            "weightKg": 48
           }
         }
       ]
@@ -16132,7 +16132,7 @@
               "femalePercent": 1
             },
             "heightM": 0.41,
-            "WeightKg": 6
+            "weightKg": 6
           }
         }
       ]
@@ -16179,7 +16179,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.61,
-            "WeightKg": 23.5
+            "weightKg": 23.5
           }
         }
       ]
@@ -16226,7 +16226,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.71,
-            "WeightKg": 21.4
+            "weightKg": 21.4
           }
         }
       ]
@@ -16267,7 +16267,7 @@
               "femalePercent": 1
             },
             "heightM": 1.19,
-            "WeightKg": 75.5
+            "weightKg": 75.5
           }
         }
       ]
@@ -16306,7 +16306,7 @@
               "femalePercent": 1
             },
             "heightM": 1.5,
-            "WeightKg": 46.8
+            "weightKg": 46.8
           }
         }
       ]
@@ -16345,7 +16345,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.91,
-            "WeightKg": 178
+            "weightKg": 178
           }
         }
       ]
@@ -16384,7 +16384,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2.11,
-            "WeightKg": 198
+            "weightKg": 198
           }
         }
       ]
@@ -16424,7 +16424,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2.01,
-            "WeightKg": 187
+            "weightKg": 187
           }
         }
       ]
@@ -16473,7 +16473,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 72
+            "weightKg": 72
           }
         },
         {
@@ -16517,7 +16517,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 72
+            "weightKg": 72
           }
         },
         {
@@ -16561,7 +16561,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 72
+            "weightKg": 72
           }
         }
       ]
@@ -16610,7 +16610,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 152
+            "weightKg": 152
           }
         },
         {
@@ -16654,7 +16654,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 152
+            "weightKg": 152
           }
         },
         {
@@ -16698,7 +16698,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 152
+            "weightKg": 152
           }
         }
       ]
@@ -16739,7 +16739,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 202
+            "weightKg": 202
           }
         },
         {
@@ -16775,7 +16775,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 202
+            "weightKg": 202
           }
         },
         {
@@ -16811,7 +16811,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 202
+            "weightKg": 202
           }
         }
       ]
@@ -16850,7 +16850,7 @@
               "genderlessPercent": 1
             },
             "heightM": 5.21,
-            "WeightKg": 216
+            "weightKg": 216
           }
         }
       ]
@@ -16890,7 +16890,7 @@
               "genderlessPercent": 1
             },
             "heightM": 3.81,
-            "WeightKg": 199
+            "weightKg": 199
           }
         }
       ]
@@ -16928,7 +16928,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.61,
-            "WeightKg": 5
+            "weightKg": 5
           }
         }
       ]
@@ -16974,7 +16974,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.51,
-            "WeightKg": 5
+            "weightKg": 5
           }
         }
       ]
@@ -17020,7 +17020,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.89,
-            "WeightKg": 21.6
+            "weightKg": 21.6
           }
         }
       ]
@@ -17061,7 +17061,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.7,
-            "WeightKg": 52.2
+            "weightKg": 52.2
           }
         }
       ]
@@ -17107,7 +17107,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.41,
-            "WeightKg": 2.5
+            "weightKg": 2.5
           }
         }
       ]
@@ -17154,7 +17154,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.89,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         }
       ]
@@ -17196,7 +17196,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.91,
-            "WeightKg": 52
+            "weightKg": 52
           }
         }
       ]
@@ -17243,7 +17243,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.41,
-            "WeightKg": 7.6
+            "weightKg": 7.6
           }
         },
         {
@@ -17285,7 +17285,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.41,
-            "WeightKg": 7.6
+            "weightKg": 7.6
           }
         },
         {
@@ -17327,7 +17327,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.41,
-            "WeightKg": 7.6
+            "weightKg": 7.6
           }
         }
       ]
@@ -17375,7 +17375,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.71,
-            "WeightKg": 28
+            "weightKg": 28
           }
         },
         {
@@ -17418,7 +17418,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.71,
-            "WeightKg": 28
+            "weightKg": 28
           }
         },
         {
@@ -17461,7 +17461,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.71,
-            "WeightKg": 28
+            "weightKg": 28
           }
         }
       ]
@@ -17503,7 +17503,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.5,
-            "WeightKg": 81.9
+            "weightKg": 81.9
           }
         },
         {
@@ -17540,7 +17540,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.5,
-            "WeightKg": 81.9
+            "weightKg": 81.9
           }
         },
         {
@@ -17577,7 +17577,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.5,
-            "WeightKg": 81.9
+            "weightKg": 81.9
           }
         }
       ]
@@ -17623,7 +17623,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 13.6
+            "weightKg": 13.6
           }
         }
       ]
@@ -17665,7 +17665,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 37
+            "weightKg": 37
           }
         }
       ]
@@ -17711,7 +17711,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 17.5
+            "weightKg": 17.5
           }
         }
       ]
@@ -17751,7 +17751,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 32.5
+            "weightKg": 32.5
           }
         }
       ]
@@ -17799,7 +17799,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.6
+            "weightKg": 3.6
           }
         }
       ]
@@ -17843,7 +17843,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 10
+            "weightKg": 10
           }
         }
       ]
@@ -17884,7 +17884,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 28.4
+            "weightKg": 28.4
           }
         }
       ]
@@ -17928,7 +17928,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 11.5
+            "weightKg": 11.5
           }
         }
       ]
@@ -17969,7 +17969,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 31.6
+            "weightKg": 31.6
           }
         }
       ]
@@ -18015,7 +18015,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 2.6
+            "weightKg": 2.6
           }
         }
       ]
@@ -18062,7 +18062,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 32.5
+            "weightKg": 32.5
           }
         }
       ]
@@ -18104,7 +18104,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 55
+            "weightKg": 55
           }
         }
       ]
@@ -18151,7 +18151,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 4
+            "weightKg": 4
           }
         },
         {
@@ -18193,7 +18193,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 4
+            "weightKg": 4
           }
         },
         {
@@ -18235,7 +18235,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 4
+            "weightKg": 4
           }
         }
       ]
@@ -18283,7 +18283,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 28
+            "weightKg": 28
           }
         },
         {
@@ -18326,7 +18326,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 28
+            "weightKg": 28
           }
         },
         {
@@ -18369,7 +18369,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 28
+            "weightKg": 28
           }
         }
       ]
@@ -18411,7 +18411,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 59.6
+            "weightKg": 59.6
           }
         },
         {
@@ -18448,7 +18448,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 59.6
+            "weightKg": 59.6
           }
         },
         {
@@ -18485,7 +18485,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 59.6
+            "weightKg": 59.6
           }
         }
       ]
@@ -18530,7 +18530,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2.3
+            "weightKg": 2.3
           }
         }
       ]
@@ -18571,7 +18571,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 19.8
+            "weightKg": 19.8
           }
         }
       ]
@@ -18618,7 +18618,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 9.5
+            "weightKg": 9.5
           }
         }
       ]
@@ -18659,7 +18659,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 28
+            "weightKg": 28
           }
         }
       ]
@@ -18707,7 +18707,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 6.6
+            "weightKg": 6.6
           }
         },
         {
@@ -18750,7 +18750,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 6.6
+            "weightKg": 6.6
           }
         },
         {
@@ -18793,7 +18793,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 6.6
+            "weightKg": 6.6
           }
         }
       ]
@@ -18848,7 +18848,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 20.2
+            "weightKg": 20.2
           }
         },
         {
@@ -18898,7 +18898,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 20.2
+            "weightKg": 20.2
           }
         },
         {
@@ -18948,7 +18948,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 20.2
+            "weightKg": 20.2
           }
         }
       ]
@@ -18990,7 +18990,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 48.4
+            "weightKg": 48.4
           }
         },
         {
@@ -19027,7 +19027,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 48.4
+            "weightKg": 48.4
           }
         },
         {
@@ -19064,7 +19064,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 48.4
+            "weightKg": 48.4
           }
         }
       ]
@@ -19111,7 +19111,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 1.7
+            "weightKg": 1.7
           }
         }
       ]
@@ -19152,7 +19152,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 3.6
+            "weightKg": 3.6
           }
         }
       ]
@@ -19198,7 +19198,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 4.5
+            "weightKg": 4.5
           }
         }
       ]
@@ -19239,7 +19239,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 39.2
+            "weightKg": 39.2
           }
         }
       ]
@@ -19284,7 +19284,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 24
+            "weightKg": 24
           }
         }
       ]
@@ -19330,7 +19330,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 46.5
+            "weightKg": 46.5
           }
         }
       ]
@@ -19369,7 +19369,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 130.5
+            "weightKg": 130.5
           }
         }
       ]
@@ -19416,7 +19416,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 5.5
+            "weightKg": 5.5
           }
         }
       ]
@@ -19457,7 +19457,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 12
+            "weightKg": 12
           }
         }
       ]
@@ -19497,7 +19497,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.79,
-            "WeightKg": 1.2
+            "weightKg": 1.2
           }
         }
       ]
@@ -19543,7 +19543,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 16.3
+            "weightKg": 16.3
           }
         }
       ]
@@ -19589,7 +19589,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 40.5
+            "weightKg": 40.5
           }
         }
       ]
@@ -19629,7 +19629,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 84
+            "weightKg": 84
           }
         }
       ]
@@ -19675,7 +19675,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.99,
-            "WeightKg": 86.4
+            "weightKg": 86.4
           }
         }
       ]
@@ -19715,7 +19715,7 @@
               "femalePercent": 0.25
             },
             "heightM": 2.31,
-            "WeightKg": 253.8
+            "weightKg": 253.8
           }
         }
       ]
@@ -19762,7 +19762,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.2,
-            "WeightKg": 2
+            "weightKg": 2
           }
         }
       ]
@@ -19809,7 +19809,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 97
+            "weightKg": 97
           }
         }
       ]
@@ -19855,7 +19855,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.61,
-            "WeightKg": 11
+            "weightKg": 11
           }
         }
       ]
@@ -19896,7 +19896,7 @@
               "femalePercent": 0.75
             },
             "heightM": 1.09,
-            "WeightKg": 32.6
+            "weightKg": 32.6
           }
         }
       ]
@@ -19937,7 +19937,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 11
+            "weightKg": 11
           }
         },
         {
@@ -19973,7 +19973,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 11
+            "weightKg": 11
           }
         },
         {
@@ -20009,7 +20009,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 11
+            "weightKg": 11
           }
         }
       ]
@@ -20053,7 +20053,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 11.5
+            "weightKg": 11.5
           }
         }
       ]
@@ -20100,7 +20100,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 60
+            "weightKg": 60
           }
         }
       ]
@@ -20147,7 +20147,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.89,
-            "WeightKg": 120
+            "weightKg": 120
           }
         }
       ]
@@ -20189,7 +20189,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.11,
-            "WeightKg": 360
+            "weightKg": 360
           }
         }
       ]
@@ -20236,7 +20236,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 11.2
+            "weightKg": 11.2
           }
         }
       ]
@@ -20278,7 +20278,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 31.5
+            "weightKg": 31.5
           }
         }
       ]
@@ -20324,7 +20324,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 15.2
+            "weightKg": 15.2
           }
         }
       ]
@@ -20364,7 +20364,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 40.2
+            "weightKg": 40.2
           }
         }
       ]
@@ -20404,7 +20404,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 4.2
+            "weightKg": 4.2
           }
         }
       ]
@@ -20444,7 +20444,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 4.2
+            "weightKg": 4.2
           }
         }
       ]
@@ -20483,7 +20483,7 @@
               "malePercent": 1
             },
             "heightM": 0.71,
-            "WeightKg": 17.7
+            "weightKg": 17.7
           }
         }
       ]
@@ -20522,7 +20522,7 @@
               "femalePercent": 1
             },
             "heightM": 0.61,
-            "WeightKg": 17.7
+            "weightKg": 17.7
           }
         }
       ]
@@ -20570,7 +20570,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2
+            "weightKg": 2
           }
         }
       ]
@@ -20616,7 +20616,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 10.3
+            "weightKg": 10.3
           }
         }
       ]
@@ -20657,7 +20657,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 80
+            "weightKg": 80
           }
         }
       ]
@@ -20704,7 +20704,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 20.8
+            "weightKg": 20.8
           }
         }
       ]
@@ -20745,7 +20745,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 88.8
+            "weightKg": 88.8
           }
         }
       ]
@@ -20791,7 +20791,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 130
+            "weightKg": 130
           }
         }
       ]
@@ -20831,7 +20831,7 @@
               "femalePercent": 0.5
             },
             "heightM": 14.5,
-            "WeightKg": 398
+            "weightKg": 398
           }
         }
       ]
@@ -20878,7 +20878,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 24
+            "weightKg": 24
           }
         }
       ]
@@ -20920,7 +20920,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.91,
-            "WeightKg": 220
+            "weightKg": 220
           }
         }
       ]
@@ -20960,7 +20960,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.51,
-            "WeightKg": 80.4
+            "weightKg": 80.4
           }
         }
       ]
@@ -21006,7 +21006,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 30.6
+            "weightKg": 30.6
           }
         }
       ]
@@ -21046,7 +21046,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.89,
-            "WeightKg": 71.5
+            "weightKg": 71.5
           }
         }
       ]
@@ -21087,7 +21087,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.09,
-            "WeightKg": 5
+            "weightKg": 5
           }
         }
       ]
@@ -21134,7 +21134,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 15
+            "weightKg": 15
           }
         },
         {
@@ -21176,7 +21176,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 15
+            "weightKg": 15
           }
         },
         {
@@ -21218,7 +21218,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -21266,7 +21266,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 15.3
+            "weightKg": 15.3
           }
         },
         {
@@ -21309,7 +21309,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 15.3
+            "weightKg": 15.3
           }
         },
         {
@@ -21352,7 +21352,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 15.3
+            "weightKg": 15.3
           }
         }
       ]
@@ -21393,7 +21393,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 82
+            "weightKg": 82
           }
         },
         {
@@ -21429,7 +21429,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 82
+            "weightKg": 82
           }
         },
         {
@@ -21465,7 +21465,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 82
+            "weightKg": 82
           }
         }
       ]
@@ -21512,7 +21512,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 51.3
+            "weightKg": 51.3
           }
         },
         {
@@ -21554,7 +21554,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 51.3
+            "weightKg": 51.3
           }
         },
         {
@@ -21596,7 +21596,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 51.3
+            "weightKg": 51.3
           }
         }
       ]
@@ -21637,7 +21637,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 77.4
+            "weightKg": 77.4
           }
         },
         {
@@ -21673,7 +21673,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 77.4
+            "weightKg": 77.4
           }
         },
         {
@@ -21709,7 +21709,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 77.4
+            "weightKg": 77.4
           }
         }
       ]
@@ -21756,7 +21756,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 1.2
+            "weightKg": 1.2
           }
         }
       ]
@@ -21797,7 +21797,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 20.6
+            "weightKg": 20.6
           }
         }
       ]
@@ -21837,7 +21837,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 40.3
+            "weightKg": 40.3
           }
         }
       ]
@@ -21877,7 +21877,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.69,
-            "WeightKg": 52.5
+            "weightKg": 52.5
           }
         }
       ]
@@ -21917,7 +21917,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.99,
-            "WeightKg": 168
+            "weightKg": 168
           }
         }
       ]
@@ -21957,7 +21957,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.19,
-            "WeightKg": 154
+            "weightKg": 154
           }
         }
       ]
@@ -22004,7 +22004,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 1.9
+            "weightKg": 1.9
           }
         }
       ]
@@ -22045,7 +22045,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.89,
-            "WeightKg": 23.6
+            "weightKg": 23.6
           }
         }
       ]
@@ -22091,7 +22091,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 11.5
+            "weightKg": 11.5
           }
         }
       ]
@@ -22133,7 +22133,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 32.8
+            "weightKg": 32.8
           }
         }
       ]
@@ -22179,7 +22179,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.51,
-            "WeightKg": 21.5
+            "weightKg": 21.5
           }
         }
       ]
@@ -22221,7 +22221,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.5,
-            "WeightKg": 108
+            "weightKg": 108
           }
         }
       ]
@@ -22268,7 +22268,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.99,
-            "WeightKg": 23.8
+            "weightKg": 23.8
           }
         }
       ]
@@ -22309,7 +22309,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.5,
-            "WeightKg": 60.4
+            "weightKg": 60.4
           }
         }
       ]
@@ -22356,7 +22356,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.71,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         }
       ]
@@ -22397,7 +22397,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.5,
-            "WeightKg": 68.2
+            "weightKg": 68.2
           }
         }
       ]
@@ -22442,7 +22442,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 7.4
+            "weightKg": 7.4
           }
         }
       ]
@@ -22482,7 +22482,7 @@
               "femalePercent": 0.5
             },
             "heightM": 6.2,
-            "WeightKg": 162
+            "weightKg": 162
           }
         }
       ]
@@ -22523,7 +22523,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.3,
-            "WeightKg": 0.8
+            "weightKg": 0.8
           }
         },
         {
@@ -22559,7 +22559,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.3,
-            "WeightKg": 0.8
+            "weightKg": 0.8
           }
         },
         {
@@ -22595,7 +22595,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 0.3,
-            "WeightKg": 0.8
+            "weightKg": 0.8
           }
         },
         {
@@ -22631,7 +22631,7 @@
             },
             "assetBundleValue": 14,
             "heightM": 0.3,
-            "WeightKg": 0.8
+            "weightKg": 0.8
           }
         }
       ]
@@ -22674,7 +22674,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.99,
-            "WeightKg": 22
+            "weightKg": 22
           }
         }
       ]
@@ -22721,7 +22721,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 2.3
+            "weightKg": 2.3
           }
         },
         {
@@ -22763,7 +22763,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 2.3
+            "weightKg": 2.3
           }
         },
         {
@@ -22805,7 +22805,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 2.3
+            "weightKg": 2.3
           }
         }
       ]
@@ -22845,7 +22845,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         },
         {
@@ -22880,7 +22880,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         },
         {
@@ -22915,7 +22915,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         }
       ]
@@ -22962,7 +22962,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 15
+            "weightKg": 15
           }
         },
         {
@@ -23004,7 +23004,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 15
+            "weightKg": 15
           }
         },
         {
@@ -23046,7 +23046,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -23094,7 +23094,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 30.6
+            "weightKg": 30.6
           }
         },
         {
@@ -23137,7 +23137,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 30.6
+            "weightKg": 30.6
           }
         },
         {
@@ -23180,7 +23180,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 30.6
+            "weightKg": 30.6
           }
         }
       ]
@@ -23221,7 +23221,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.01,
-            "WeightKg": 100
+            "weightKg": 100
           }
         }
       ]
@@ -23262,7 +23262,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -23302,7 +23302,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.19,
-            "WeightKg": 47
+            "weightKg": 47
           }
         }
       ]
@@ -23346,7 +23346,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 14
+            "weightKg": 14
           }
         }
       ]
@@ -23398,7 +23398,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.71,
-            "WeightKg": 16.8
+            "weightKg": 16.8
           }
         }
       ]
@@ -23438,7 +23438,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 256.5
+            "weightKg": 256.5
           }
         }
       ]
@@ -23485,7 +23485,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.79,
-            "WeightKg": 39.5
+            "weightKg": 39.5
           }
         }
       ]
@@ -23532,7 +23532,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 87.6
+            "weightKg": 87.6
           }
         }
       ]
@@ -23573,7 +23573,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 150.6
+            "weightKg": 150.6
           }
         }
       ]
@@ -23622,7 +23622,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.41,
-            "WeightKg": 52.5
+            "weightKg": 52.5
           }
         }
       ]
@@ -23662,7 +23662,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 27
+            "weightKg": 27
           }
         }
       ]
@@ -23702,7 +23702,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 22.6
+            "weightKg": 22.6
           }
         }
       ]
@@ -23743,7 +23743,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.99,
-            "WeightKg": 23.4
+            "weightKg": 23.4
           }
         }
       ]
@@ -23783,7 +23783,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.61,
-            "WeightKg": 8.7
+            "weightKg": 8.7
           }
         }
       ]
@@ -23829,7 +23829,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.61,
-            "WeightKg": 42.1
+            "weightKg": 42.1
           }
         }
       ]
@@ -23875,7 +23875,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.09,
-            "WeightKg": 110.5
+            "weightKg": 110.5
           }
         }
       ]
@@ -23917,7 +23917,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 102.6
+            "weightKg": 102.6
           }
         }
       ]
@@ -23960,7 +23960,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.61,
-            "WeightKg": 95.2
+            "weightKg": 95.2
           }
         }
       ]
@@ -24006,7 +24006,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.19,
-            "WeightKg": 202.5
+            "weightKg": 202.5
           }
         }
       ]
@@ -24046,7 +24046,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.6,
-            "WeightKg": 550
+            "weightKg": 550
           }
         }
       ]
@@ -24084,7 +24084,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.7,
-            "WeightKg": 230
+            "weightKg": 230
           }
         }
       ]
@@ -24122,7 +24122,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.8,
-            "WeightKg": 175
+            "weightKg": 175
           }
         }
       ]
@@ -24160,7 +24160,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.91,
-            "WeightKg": 205
+            "weightKg": 205
           }
         }
       ]
@@ -24200,7 +24200,7 @@
               "femalePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 40
+            "weightKg": 40
           }
         }
       ]
@@ -24239,7 +24239,7 @@
               "malePercent": 1
             },
             "heightM": 2.01,
-            "WeightKg": 60
+            "weightKg": 60
           }
         }
       ]
@@ -24276,7 +24276,7 @@
               "genderlessPercent": 1
             },
             "heightM": 4.5,
-            "WeightKg": 352
+            "weightKg": 352
           }
         }
       ]
@@ -24314,7 +24314,7 @@
               "genderlessPercent": 1
             },
             "heightM": 3.51,
-            "WeightKg": 950
+            "weightKg": 950
           }
         }
       ]
@@ -24353,7 +24353,7 @@
               "genderlessPercent": 1
             },
             "heightM": 7.01,
-            "WeightKg": 206.5
+            "weightKg": 206.5
           }
         }
       ]
@@ -24391,7 +24391,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 1.1
+            "weightKg": 1.1
           }
         }
       ]
@@ -24430,7 +24430,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.7,
-            "WeightKg": 60.8
+            "weightKg": 60.8
           }
         },
         {
@@ -24464,7 +24464,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.7,
-            "WeightKg": 60.8
+            "weightKg": 60.8
           }
         },
         {
@@ -24498,7 +24498,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 1.7,
-            "WeightKg": 60.8
+            "weightKg": 60.8
           }
         },
         {
@@ -24532,7 +24532,7 @@
             },
             "assetBundleValue": 14,
             "heightM": 1.7,
-            "WeightKg": 60.8
+            "weightKg": 60.8
           }
         }
       ]
@@ -24580,7 +24580,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.4,
-            "WeightKg": 10.2
+            "weightKg": 10.2
           }
         },
         {
@@ -24623,7 +24623,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.4,
-            "WeightKg": 10.2
+            "weightKg": 10.2
           }
         },
         {
@@ -24666,7 +24666,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.4,
-            "WeightKg": 10.2
+            "weightKg": 10.2
           }
         }
       ]
@@ -24714,7 +24714,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.1,
-            "WeightKg": 97
+            "weightKg": 97
           }
         },
         {
@@ -24757,7 +24757,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.1,
-            "WeightKg": 97
+            "weightKg": 97
           }
         },
         {
@@ -24800,7 +24800,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.1,
-            "WeightKg": 97
+            "weightKg": 97
           }
         }
       ]
@@ -24842,7 +24842,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2.2,
-            "WeightKg": 310
+            "weightKg": 310
           }
         },
         {
@@ -24879,7 +24879,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2.2,
-            "WeightKg": 310
+            "weightKg": 310
           }
         },
         {
@@ -24916,7 +24916,7 @@
               "femalePercent": 0.125
             },
             "heightM": 2.2,
-            "WeightKg": 310
+            "weightKg": 310
           }
         }
       ]
@@ -24963,7 +24963,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 6.2
+            "weightKg": 6.2
           }
         }
       ]
@@ -25011,7 +25011,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.9,
-            "WeightKg": 22
+            "weightKg": 22
           }
         }
       ]
@@ -25053,7 +25053,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.2,
-            "WeightKg": 55
+            "weightKg": 55
           }
         }
       ]
@@ -25100,7 +25100,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.4,
-            "WeightKg": 5.2
+            "weightKg": 5.2
           }
         }
       ]
@@ -25147,7 +25147,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.8,
-            "WeightKg": 23
+            "weightKg": 23
           }
         }
       ]
@@ -25189,7 +25189,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.7,
-            "WeightKg": 84.5
+            "weightKg": 84.5
           }
         }
       ]
@@ -25236,7 +25236,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2
+            "weightKg": 2
           }
         }
       ]
@@ -25284,7 +25284,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 15.5
+            "weightKg": 15.5
           }
         }
       ]
@@ -25326,7 +25326,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 24.9
+            "weightKg": 24.9
           }
         }
       ]
@@ -25373,7 +25373,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 20
+            "weightKg": 20
           }
         }
       ]
@@ -25415,7 +25415,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 31.5
+            "weightKg": 31.5
           }
         }
       ]
@@ -25460,7 +25460,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2.2
+            "weightKg": 2.2
           }
         }
       ]
@@ -25501,7 +25501,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 25.5
+            "weightKg": 25.5
           }
         }
       ]
@@ -25548,7 +25548,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 9.5
+            "weightKg": 9.5
           }
         }
       ]
@@ -25595,7 +25595,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 30.5
+            "weightKg": 30.5
           }
         }
       ]
@@ -25637,7 +25637,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 42
+            "weightKg": 42
           }
         }
       ]
@@ -25684,7 +25684,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.2,
-            "WeightKg": 1.2
+            "weightKg": 1.2
           }
         }
       ]
@@ -25727,7 +25727,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 14.5
+            "weightKg": 14.5
           }
         }
       ]
@@ -25774,7 +25774,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.9,
-            "WeightKg": 31.5
+            "weightKg": 31.5
           }
         }
       ]
@@ -25815,7 +25815,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.6,
-            "WeightKg": 102.5
+            "weightKg": 102.5
           }
         }
       ]
@@ -25863,7 +25863,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 57
+            "weightKg": 57
           }
         }
       ]
@@ -25905,7 +25905,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.3,
-            "WeightKg": 149.5
+            "weightKg": 149.5
           }
         }
       ]
@@ -25958,7 +25958,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.2,
-            "WeightKg": 3.4
+            "weightKg": 3.4
           }
         },
         {
@@ -26006,7 +26006,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.2,
-            "WeightKg": 3.4
+            "weightKg": 3.4
           }
         },
         {
@@ -26054,7 +26054,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 0.2,
-            "WeightKg": 3.4
+            "weightKg": 3.4
           }
         }
       ]
@@ -26096,7 +26096,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.5,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         },
         {
@@ -26133,7 +26133,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.5,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         },
         {
@@ -26170,7 +26170,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 0.5,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         }
       ]
@@ -26211,7 +26211,7 @@
               "malePercent": 1
             },
             "heightM": 0.9,
-            "WeightKg": 23.3
+            "weightKg": 23.3
           }
         }
       ]
@@ -26257,7 +26257,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.3,
-            "WeightKg": 5.5
+            "weightKg": 5.5
           }
         }
       ]
@@ -26298,7 +26298,7 @@
               "femalePercent": 1
             },
             "heightM": 1.2,
-            "WeightKg": 38.5
+            "weightKg": 38.5
           }
         }
       ]
@@ -26339,7 +26339,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 3.9
+            "weightKg": 3.9
           }
         }
       ]
@@ -26386,7 +26386,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 29.5
+            "weightKg": 29.5
           }
         }
       ]
@@ -26427,7 +26427,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 33.5
+            "weightKg": 33.5
           }
         }
       ]
@@ -26480,7 +26480,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 3.3
+            "weightKg": 3.3
           }
         }
       ]
@@ -26522,7 +26522,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.5,
-            "WeightKg": 9.3
+            "weightKg": 9.3
           }
         },
         {
@@ -26559,7 +26559,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.5,
-            "WeightKg": 9.3
+            "weightKg": 9.3
           }
         }
       ]
@@ -26608,7 +26608,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.3,
-            "WeightKg": 6.3
+            "weightKg": 6.3
           }
         },
         {
@@ -26652,7 +26652,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.3,
-            "WeightKg": 6.3
+            "weightKg": 6.3
           }
         }
       ]
@@ -26695,7 +26695,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.9,
-            "WeightKg": 29.9
+            "weightKg": 29.9
           }
         },
         {
@@ -26733,7 +26733,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.9,
-            "WeightKg": 29.9
+            "weightKg": 29.9
           }
         }
       ]
@@ -26774,7 +26774,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 20.3
+            "weightKg": 20.3
           }
         }
       ]
@@ -26822,7 +26822,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 1.2
+            "weightKg": 1.2
           }
         }
       ]
@@ -26864,7 +26864,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -26910,7 +26910,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 5.5
+            "weightKg": 5.5
           }
         }
       ]
@@ -26951,7 +26951,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 33.3
+            "weightKg": 33.3
           }
         }
       ]
@@ -26992,7 +26992,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 4.4
+            "weightKg": 4.4
           }
         }
       ]
@@ -27035,7 +27035,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 27.3
+            "weightKg": 27.3
           }
         }
       ]
@@ -27082,7 +27082,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.5,
-            "WeightKg": 3.9
+            "weightKg": 3.9
           }
         }
       ]
@@ -27123,7 +27123,7 @@
               "femalePercent": 0.75
             },
             "heightM": 1,
-            "WeightKg": 43.8
+            "weightKg": 43.8
           }
         }
       ]
@@ -27170,7 +27170,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.2,
-            "WeightKg": 0.6
+            "weightKg": 0.6
           }
         }
       ]
@@ -27218,7 +27218,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 19.2
+            "weightKg": 19.2
           }
         }
       ]
@@ -27260,7 +27260,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 38
+            "weightKg": 38
           }
         }
       ]
@@ -27307,7 +27307,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.5,
-            "WeightKg": 60.5
+            "weightKg": 60.5
           }
         }
       ]
@@ -27350,7 +27350,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.3,
-            "WeightKg": 187
+            "weightKg": 187
           }
         }
       ]
@@ -27398,7 +27398,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -27447,7 +27447,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 13
+            "weightKg": 13
           }
         }
       ]
@@ -27492,7 +27492,7 @@
               "femalePercent": 1
             },
             "heightM": 0.6,
-            "WeightKg": 24.4
+            "weightKg": 24.4
           }
         }
       ]
@@ -27534,7 +27534,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 1.9
+            "weightKg": 1.9
           }
         }
       ]
@@ -27576,7 +27576,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 108
+            "weightKg": 108
           }
         }
       ]
@@ -27624,7 +27624,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 20.5
+            "weightKg": 20.5
           }
         }
       ]
@@ -27672,7 +27672,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 56
+            "weightKg": 56
           }
         }
       ]
@@ -27714,7 +27714,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.9,
-            "WeightKg": 95
+            "weightKg": 95
           }
         }
       ]
@@ -27761,7 +27761,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 105
+            "weightKg": 105
           }
         }
       ]
@@ -27808,7 +27808,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.7,
-            "WeightKg": 20.2
+            "weightKg": 20.2
           }
         }
       ]
@@ -27851,7 +27851,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.2,
-            "WeightKg": 54
+            "weightKg": 54
           }
         }
       ]
@@ -27898,7 +27898,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 49.5
+            "weightKg": 49.5
           }
         }
       ]
@@ -27942,7 +27942,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2,
-            "WeightKg": 300
+            "weightKg": 300
           }
         }
       ]
@@ -27990,7 +27990,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 12
+            "weightKg": 12
           }
         }
       ]
@@ -28034,7 +28034,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 61.5
+            "weightKg": 61.5
           }
         }
       ]
@@ -28082,7 +28082,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 23
+            "weightKg": 23
           }
         }
       ]
@@ -28124,7 +28124,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 44.4
+            "weightKg": 44.4
           }
         }
       ]
@@ -28165,7 +28165,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 27
+            "weightKg": 27
           }
         }
       ]
@@ -28212,7 +28212,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 7
+            "weightKg": 7
           }
         }
       ]
@@ -28253,7 +28253,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 24
+            "weightKg": 24
           }
         }
       ]
@@ -28301,7 +28301,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 65
+            "weightKg": 65
           }
         }
       ]
@@ -28349,7 +28349,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 50.5
+            "weightKg": 50.5
           }
         }
       ]
@@ -28391,7 +28391,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 135.5
+            "weightKg": 135.5
           }
         }
       ]
@@ -28434,7 +28434,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 34
+            "weightKg": 34
           }
         }
       ]
@@ -28475,7 +28475,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.2,
-            "WeightKg": 180
+            "weightKg": 180
           }
         }
       ]
@@ -28516,7 +28516,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 140
+            "weightKg": 140
           }
         }
       ]
@@ -28559,7 +28559,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.4,
-            "WeightKg": 282.8
+            "weightKg": 282.8
           }
         }
       ]
@@ -28600,7 +28600,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2,
-            "WeightKg": 128.6
+            "weightKg": 128.6
           }
         }
       ]
@@ -28642,7 +28642,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.8,
-            "WeightKg": 138.6
+            "weightKg": 138.6
           }
         },
         {
@@ -28679,7 +28679,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.8,
-            "WeightKg": 138.6
+            "weightKg": 138.6
           }
         },
         {
@@ -28716,7 +28716,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.8,
-            "WeightKg": 138.6
+            "weightKg": 138.6
           }
         }
       ]
@@ -28758,7 +28758,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.6,
-            "WeightKg": 68
+            "weightKg": 68
           }
         },
         {
@@ -28795,7 +28795,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.6,
-            "WeightKg": 68
+            "weightKg": 68
           }
         },
         {
@@ -28832,7 +28832,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.6,
-            "WeightKg": 68
+            "weightKg": 68
           }
         }
       ]
@@ -28876,7 +28876,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.5,
-            "WeightKg": 38
+            "weightKg": 38
           }
         }
       ]
@@ -28918,7 +28918,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.9,
-            "WeightKg": 51.5
+            "weightKg": 51.5
           }
         }
       ]
@@ -28959,7 +28959,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 25.5
+            "weightKg": 25.5
           }
         }
       ]
@@ -29000,7 +29000,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.8,
-            "WeightKg": 25.9
+            "weightKg": 25.9
           }
         }
       ]
@@ -29042,7 +29042,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2,
-            "WeightKg": 42.5
+            "weightKg": 42.5
           }
         }
       ]
@@ -29084,7 +29084,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.5,
-            "WeightKg": 291
+            "weightKg": 291
           }
         }
       ]
@@ -29125,7 +29125,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.9,
-            "WeightKg": 34
+            "weightKg": 34
           }
         }
       ]
@@ -29167,7 +29167,7 @@
               "malePercent": 1
             },
             "heightM": 1.6,
-            "WeightKg": 52
+            "weightKg": 52
           }
         },
         {
@@ -29204,7 +29204,7 @@
               "malePercent": 1
             },
             "heightM": 1.6,
-            "WeightKg": 52
+            "weightKg": 52
           }
         },
         {
@@ -29241,7 +29241,7 @@
               "malePercent": 1
             },
             "heightM": 1.6,
-            "WeightKg": 52
+            "weightKg": 52
           }
         }
       ]
@@ -29283,7 +29283,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 340
+            "weightKg": 340
           }
         }
       ]
@@ -29324,7 +29324,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 106.6
+            "weightKg": 106.6
           }
         },
         {
@@ -29360,7 +29360,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 106.6
+            "weightKg": 106.6
           }
         },
         {
@@ -29396,7 +29396,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 106.6
+            "weightKg": 106.6
           }
         }
       ]
@@ -29437,7 +29437,7 @@
               "femalePercent": 1
             },
             "heightM": 1.3,
-            "WeightKg": 26.6
+            "weightKg": 26.6
           }
         }
       ]
@@ -29479,7 +29479,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         },
         {
@@ -29516,7 +29516,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         },
         {
@@ -29553,7 +29553,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         },
         {
@@ -29590,7 +29590,7 @@
             },
             "assetBundleValue": 14,
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         },
         {
@@ -29627,7 +29627,7 @@
             },
             "assetBundleValue": 15,
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         },
         {
@@ -29664,7 +29664,7 @@
             },
             "assetBundleValue": 16,
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         }
       ]
@@ -29703,7 +29703,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         }
       ]
@@ -29742,7 +29742,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         }
       ]
@@ -29781,7 +29781,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         }
       ]
@@ -29821,7 +29821,7 @@
               "genderlessPercent": 1
             },
             "heightM": 5.4,
-            "WeightKg": 683
+            "weightKg": 683
           }
         }
       ]
@@ -29861,7 +29861,7 @@
               "genderlessPercent": 1
             },
             "heightM": 4.2,
-            "WeightKg": 336
+            "weightKg": 336
           }
         }
       ]
@@ -29902,7 +29902,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 430
+            "weightKg": 430
           }
         }
       ]
@@ -29941,7 +29941,7 @@
               "genderlessPercent": 1
             },
             "heightM": 3.7,
-            "WeightKg": 420
+            "weightKg": 420
           }
         }
       ]
@@ -29982,7 +29982,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 4.5,
-            "WeightKg": 750
+            "weightKg": 750
           }
         },
         {
@@ -30018,7 +30018,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 6.9,
-            "WeightKg": 650
+            "weightKg": 650
           }
         }
       ]
@@ -30057,7 +30057,7 @@
               "femalePercent": 1
             },
             "heightM": 1.5,
-            "WeightKg": 85.6
+            "weightKg": 85.6
           }
         }
       ]
@@ -30095,7 +30095,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.4,
-            "WeightKg": 3.1
+            "weightKg": 3.1
           }
         }
       ]
@@ -30133,7 +30133,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 1.4
+            "weightKg": 1.4
           }
         }
       ]
@@ -30172,7 +30172,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.5,
-            "WeightKg": 50.5
+            "weightKg": 50.5
           }
         }
       ]
@@ -30211,7 +30211,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.2,
-            "WeightKg": 2.1
+            "weightKg": 2.1
           }
         },
         {
@@ -30246,7 +30246,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.4,
-            "WeightKg": 5.2
+            "weightKg": 5.2
           }
         }
       ]
@@ -30285,7 +30285,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30319,7 +30319,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30353,7 +30353,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30387,7 +30387,7 @@
             },
             "assetBundleValue": 14,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30421,7 +30421,7 @@
             },
             "assetBundleValue": 15,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30455,7 +30455,7 @@
             },
             "assetBundleValue": 16,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30489,7 +30489,7 @@
             },
             "assetBundleValue": 17,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30523,7 +30523,7 @@
             },
             "assetBundleValue": 18,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30557,7 +30557,7 @@
             },
             "assetBundleValue": 19,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30591,7 +30591,7 @@
             },
             "assetBundleValue": 20,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30625,7 +30625,7 @@
             },
             "assetBundleValue": 21,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30659,7 +30659,7 @@
             },
             "assetBundleValue": 22,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30693,7 +30693,7 @@
             },
             "assetBundleValue": 23,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30727,7 +30727,7 @@
             },
             "assetBundleValue": 24,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30761,7 +30761,7 @@
             },
             "assetBundleValue": 25,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30795,7 +30795,7 @@
             },
             "assetBundleValue": 26,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30829,7 +30829,7 @@
             },
             "assetBundleValue": 27,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         },
         {
@@ -30863,7 +30863,7 @@
             },
             "assetBundleValue": 28,
             "heightM": 3.2,
-            "WeightKg": 320
+            "weightKg": 320
           }
         }
       ]
@@ -30902,7 +30902,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.4,
-            "WeightKg": 4
+            "weightKg": 4
           }
         }
       ]
@@ -30949,7 +30949,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 8.1
+            "weightKg": 8.1
           }
         }
       ]
@@ -30996,7 +30996,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.8,
-            "WeightKg": 16
+            "weightKg": 16
           }
         }
       ]
@@ -31037,7 +31037,7 @@
               "femalePercent": 0.125
             },
             "heightM": 3.3,
-            "WeightKg": 63
+            "weightKg": 63
           }
         }
       ]
@@ -31084,7 +31084,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 9.9
+            "weightKg": 9.9
           }
         }
       ]
@@ -31132,7 +31132,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 55.5
+            "weightKg": 55.5
           }
         }
       ]
@@ -31174,7 +31174,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.6,
-            "WeightKg": 150
+            "weightKg": 150
           }
         }
       ]
@@ -31221,7 +31221,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 5.9
+            "weightKg": 5.9
           }
         }
       ]
@@ -31268,7 +31268,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.8,
-            "WeightKg": 24.5
+            "weightKg": 24.5
           }
         }
       ]
@@ -31309,7 +31309,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.5,
-            "WeightKg": 94.6
+            "weightKg": 94.6
           }
         }
       ]
@@ -31356,7 +31356,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 11.6
+            "weightKg": 11.6
           }
         }
       ]
@@ -31397,7 +31397,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 27
+            "weightKg": 27
           }
         }
       ]
@@ -31444,7 +31444,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 4.1
+            "weightKg": 4.1
           }
         }
       ]
@@ -31491,7 +31491,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 14.7
+            "weightKg": 14.7
           }
         }
       ]
@@ -31532,7 +31532,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 61
+            "weightKg": 61
           }
         }
       ]
@@ -31579,7 +31579,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 10.1
+            "weightKg": 10.1
           }
         }
       ]
@@ -31620,7 +31620,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 37.5
+            "weightKg": 37.5
           }
         }
       ]
@@ -31668,7 +31668,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 10.5
+            "weightKg": 10.5
           }
         }
       ]
@@ -31709,7 +31709,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.1,
-            "WeightKg": 30.5
+            "weightKg": 30.5
           }
         }
       ]
@@ -31757,7 +31757,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 11
+            "weightKg": 11
           }
         }
       ]
@@ -31798,7 +31798,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 28
+            "weightKg": 28
           }
         }
       ]
@@ -31846,7 +31846,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.6,
-            "WeightKg": 13.5
+            "weightKg": 13.5
           }
         }
       ]
@@ -31887,7 +31887,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1,
-            "WeightKg": 29
+            "weightKg": 29
           }
         }
       ]
@@ -31935,7 +31935,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 23.3
+            "weightKg": 23.3
           }
         }
       ]
@@ -31976,7 +31976,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 60.5
+            "weightKg": 60.5
           }
         }
       ]
@@ -32024,7 +32024,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2.1
+            "weightKg": 2.1
           }
         }
       ]
@@ -32072,7 +32072,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 15
+            "weightKg": 15
           }
         }
       ]
@@ -32114,7 +32114,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 29
+            "weightKg": 29
           }
         }
       ]
@@ -32161,7 +32161,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 29.8
+            "weightKg": 29.8
           }
         }
       ]
@@ -32202,7 +32202,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 79.5
+            "weightKg": 79.5
           }
         }
       ]
@@ -32249,7 +32249,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 18
+            "weightKg": 18
           }
         }
       ]
@@ -32296,7 +32296,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 102
+            "weightKg": 102
           }
         }
       ]
@@ -32338,7 +32338,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 260
+            "weightKg": 260
           }
         }
       ]
@@ -32387,7 +32387,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 2.1
+            "weightKg": 2.1
           }
         }
       ]
@@ -32429,7 +32429,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 10.5
+            "weightKg": 10.5
           }
         }
       ]
@@ -32476,7 +32476,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         }
       ]
@@ -32519,7 +32519,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 40.4
+            "weightKg": 40.4
           }
         }
       ]
@@ -32560,7 +32560,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 31
+            "weightKg": 31
           }
         }
       ]
@@ -32607,7 +32607,7 @@
               "femalePercent": 0.25
             },
             "heightM": 0.6,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         }
       ]
@@ -32654,7 +32654,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.2,
-            "WeightKg": 40
+            "weightKg": 40
           }
         }
       ]
@@ -32695,7 +32695,7 @@
               "femalePercent": 0.25
             },
             "heightM": 1.4,
-            "WeightKg": 87
+            "weightKg": 87
           }
         }
       ]
@@ -32742,7 +32742,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 4.5
+            "weightKg": 4.5
           }
         }
       ]
@@ -32790,7 +32790,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 17
+            "weightKg": 17
           }
         }
       ]
@@ -32832,7 +32832,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 62
+            "weightKg": 62
           }
         }
       ]
@@ -32872,7 +32872,7 @@
               "malePercent": 1
             },
             "heightM": 1.3,
-            "WeightKg": 55.5
+            "weightKg": 55.5
           }
         }
       ]
@@ -32912,7 +32912,7 @@
               "malePercent": 1
             },
             "heightM": 1.4,
-            "WeightKg": 51
+            "weightKg": 51
           }
         }
       ]
@@ -32960,7 +32960,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 2.5
+            "weightKg": 2.5
           }
         }
       ]
@@ -33008,7 +33008,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 7.3
+            "weightKg": 7.3
           }
         }
       ]
@@ -33050,7 +33050,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 20.5
+            "weightKg": 20.5
           }
         }
       ]
@@ -33098,7 +33098,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 5.3
+            "weightKg": 5.3
           }
         }
       ]
@@ -33146,7 +33146,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 58.5
+            "weightKg": 58.5
           }
         }
       ]
@@ -33188,7 +33188,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.5,
-            "WeightKg": 200.5
+            "weightKg": 200.5
           }
         }
       ]
@@ -33237,7 +33237,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 0.6
+            "weightKg": 0.6
           }
         }
       ]
@@ -33279,7 +33279,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 6.6
+            "weightKg": 6.6
           }
         }
       ]
@@ -33325,7 +33325,7 @@
               "femalePercent": 1
             },
             "heightM": 0.5,
-            "WeightKg": 6.6
+            "weightKg": 6.6
           }
         }
       ]
@@ -33365,7 +33365,7 @@
               "femalePercent": 1
             },
             "heightM": 1.1,
-            "WeightKg": 16.3
+            "weightKg": 16.3
           }
         }
       ]
@@ -33407,7 +33407,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1,
-            "WeightKg": 18
+            "weightKg": 18
           }
         },
         {
@@ -33444,7 +33444,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1,
-            "WeightKg": 18
+            "weightKg": 18
           }
         }
       ]
@@ -33492,7 +33492,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 15.2
+            "weightKg": 15.2
           }
         }
       ]
@@ -33540,7 +33540,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 33.4
+            "weightKg": 33.4
           }
         }
       ]
@@ -33582,7 +33582,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.5,
-            "WeightKg": 96.3
+            "weightKg": 96.3
           }
         }
       ]
@@ -33637,7 +33637,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 37.5
+            "weightKg": 37.5
           }
         }
       ]
@@ -33680,7 +33680,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.3,
-            "WeightKg": 92.9
+            "weightKg": 92.9
           }
         },
         {
@@ -33719,7 +33719,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.3,
-            "WeightKg": 92.9
+            "weightKg": 92.9
           }
         }
       ]
@@ -33760,7 +33760,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 28
+            "weightKg": 28
           }
         }
       ]
@@ -33808,7 +33808,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 14.5
+            "weightKg": 14.5
           }
         }
       ]
@@ -33850,7 +33850,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 200
+            "weightKg": 200
           }
         }
       ]
@@ -33898,7 +33898,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 11.8
+            "weightKg": 11.8
           }
         }
       ]
@@ -33940,7 +33940,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 30
+            "weightKg": 30
           }
         }
       ]
@@ -33983,7 +33983,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 14
+            "weightKg": 14
           }
         }
       ]
@@ -34030,7 +34030,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 1.5
+            "weightKg": 1.5
           }
         }
       ]
@@ -34071,7 +34071,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.7,
-            "WeightKg": 76.5
+            "weightKg": 76.5
           }
         }
       ]
@@ -34119,7 +34119,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.7,
-            "WeightKg": 16.5
+            "weightKg": 16.5
           }
         }
       ]
@@ -34161,7 +34161,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.2,
-            "WeightKg": 81
+            "weightKg": 81
           }
         }
       ]
@@ -34209,7 +34209,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.5,
-            "WeightKg": 9.5
+            "weightKg": 9.5
           }
         }
       ]
@@ -34251,7 +34251,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.4,
-            "WeightKg": 32
+            "weightKg": 32
           }
         }
       ]
@@ -34298,7 +34298,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 31
+            "weightKg": 31
           }
         }
       ]
@@ -34340,7 +34340,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.9,
-            "WeightKg": 107.3
+            "weightKg": 107.3
           }
         }
       ]
@@ -34387,7 +34387,7 @@
               "femalePercent": 0.125
             },
             "heightM": 0.7,
-            "WeightKg": 12.5
+            "weightKg": 12.5
           }
         }
       ]
@@ -34428,7 +34428,7 @@
               "femalePercent": 0.125
             },
             "heightM": 1.6,
-            "WeightKg": 81.1
+            "weightKg": 81.1
           }
         }
       ]
@@ -34476,7 +34476,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.4,
-            "WeightKg": 5.8
+            "weightKg": 5.8
           }
         }
       ]
@@ -34517,7 +34517,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.5,
-            "WeightKg": 7.5
+            "weightKg": 7.5
           }
         }
       ]
@@ -34564,7 +34564,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.4,
-            "WeightKg": 5.8
+            "weightKg": 5.8
           }
         }
       ]
@@ -34611,7 +34611,7 @@
               "femalePercent": 0.75
             },
             "heightM": 0.7,
-            "WeightKg": 18
+            "weightKg": 18
           }
         }
       ]
@@ -34652,7 +34652,7 @@
               "femalePercent": 0.75
             },
             "heightM": 1.5,
-            "WeightKg": 44
+            "weightKg": 44
           }
         }
       ]
@@ -34699,7 +34699,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -34746,7 +34746,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 8
+            "weightKg": 8
           }
         }
       ]
@@ -34787,7 +34787,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 20.1
+            "weightKg": 20.1
           }
         }
       ]
@@ -34835,7 +34835,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 5.5
+            "weightKg": 5.5
           }
         }
       ]
@@ -34877,7 +34877,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 24.2
+            "weightKg": 24.2
           }
         }
       ]
@@ -34924,7 +34924,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 5.7
+            "weightKg": 5.7
           }
         }
       ]
@@ -34971,7 +34971,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 41
+            "weightKg": 41
           }
         }
       ]
@@ -35012,7 +35012,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.3,
-            "WeightKg": 57.5
+            "weightKg": 57.5
           }
         }
       ]
@@ -35062,7 +35062,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.6,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         },
         {
@@ -35107,7 +35107,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.6,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         },
         {
@@ -35152,7 +35152,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 0.6,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         },
         {
@@ -35197,7 +35197,7 @@
             },
             "assetBundleValue": 14,
             "heightM": 0.6,
-            "WeightKg": 19.5
+            "weightKg": 19.5
           }
         }
       ]
@@ -35241,7 +35241,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.9,
-            "WeightKg": 92.5
+            "weightKg": 92.5
           }
         },
         {
@@ -35280,7 +35280,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.9,
-            "WeightKg": 92.5
+            "weightKg": 92.5
           }
         },
         {
@@ -35319,7 +35319,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 1.9,
-            "WeightKg": 92.5
+            "weightKg": 92.5
           }
         },
         {
@@ -35358,7 +35358,7 @@
             },
             "assetBundleValue": 14,
             "heightM": 1.9,
-            "WeightKg": 92.5
+            "weightKg": 92.5
           }
         }
       ]
@@ -35400,7 +35400,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 5
+            "weightKg": 5
           }
         }
       ]
@@ -35448,7 +35448,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 5.9
+            "weightKg": 5.9
           }
         }
       ]
@@ -35491,7 +35491,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 33
+            "weightKg": 33
           }
         }
       ]
@@ -35539,7 +35539,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.2,
-            "WeightKg": 1
+            "weightKg": 1
           }
         }
       ]
@@ -35581,7 +35581,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 10.5
+            "weightKg": 10.5
           }
         }
       ]
@@ -35629,7 +35629,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 33
+            "weightKg": 33
           }
         }
       ]
@@ -35671,7 +35671,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.2,
-            "WeightKg": 135
+            "weightKg": 135
           }
         }
       ]
@@ -35712,7 +35712,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 31.6
+            "weightKg": 31.6
           }
         }
       ]
@@ -35760,7 +35760,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.1,
-            "WeightKg": 0.6
+            "weightKg": 0.6
           }
         }
       ]
@@ -35803,7 +35803,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 14.3
+            "weightKg": 14.3
           }
         }
       ]
@@ -35851,7 +35851,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 18.8
+            "weightKg": 18.8
           }
         }
       ]
@@ -35894,7 +35894,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 110
+            "weightKg": 110
           }
         }
       ]
@@ -35940,7 +35940,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.3,
-            "WeightKg": 21
+            "weightKg": 21
           }
         }
       ]
@@ -35986,7 +35986,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.6,
-            "WeightKg": 51
+            "weightKg": 51
           }
         }
       ]
@@ -36026,7 +36026,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.6,
-            "WeightKg": 81
+            "weightKg": 81
           }
         }
       ]
@@ -36071,7 +36071,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.2,
-            "WeightKg": 0.3
+            "weightKg": 0.3
           }
         }
       ]
@@ -36119,7 +36119,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.2,
-            "WeightKg": 22
+            "weightKg": 22
           }
         }
       ]
@@ -36161,7 +36161,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.1,
-            "WeightKg": 80.5
+            "weightKg": 80.5
           }
         }
       ]
@@ -36208,7 +36208,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 9
+            "weightKg": 9
           }
         }
       ]
@@ -36249,7 +36249,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 34.5
+            "weightKg": 34.5
           }
         }
       ]
@@ -36297,7 +36297,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 3.1
+            "weightKg": 3.1
           }
         }
       ]
@@ -36346,7 +36346,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 13
+            "weightKg": 13
           }
         }
       ]
@@ -36388,7 +36388,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 34.3
+            "weightKg": 34.3
           }
         }
       ]
@@ -36435,7 +36435,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.6,
-            "WeightKg": 18
+            "weightKg": 18
           }
         }
       ]
@@ -36482,7 +36482,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1,
-            "WeightKg": 36
+            "weightKg": 36
           }
         }
       ]
@@ -36524,7 +36524,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 105.5
+            "weightKg": 105.5
           }
         }
       ]
@@ -36571,7 +36571,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 8.5
+            "weightKg": 8.5
           }
         }
       ]
@@ -36612,7 +36612,7 @@
               "femalePercent": 0.5
             },
             "heightM": 2.6,
-            "WeightKg": 260
+            "weightKg": 260
           }
         }
       ]
@@ -36653,7 +36653,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.1,
-            "WeightKg": 148
+            "weightKg": 148
           }
         }
       ]
@@ -36700,7 +36700,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.4,
-            "WeightKg": 7.7
+            "weightKg": 7.7
           }
         }
       ]
@@ -36742,7 +36742,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 25.3
+            "weightKg": 25.3
           }
         }
       ]
@@ -36784,7 +36784,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.7,
-            "WeightKg": 11
+            "weightKg": 11
           }
         }
       ]
@@ -36831,7 +36831,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.9,
-            "WeightKg": 20
+            "weightKg": 20
           }
         }
       ]
@@ -36872,7 +36872,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 35.5
+            "weightKg": 35.5
           }
         }
       ]
@@ -36913,7 +36913,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 139
+            "weightKg": 139
           }
         }
       ]
@@ -36960,7 +36960,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1,
-            "WeightKg": 92
+            "weightKg": 92
           }
         }
       ]
@@ -37001,7 +37001,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2.8,
-            "WeightKg": 330
+            "weightKg": 330
           }
         }
       ]
@@ -37049,7 +37049,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.5,
-            "WeightKg": 10.2
+            "weightKg": 10.2
           }
         }
       ]
@@ -37092,7 +37092,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 70
+            "weightKg": 70
           }
         }
       ]
@@ -37134,7 +37134,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 94.6
+            "weightKg": 94.6
           }
         }
       ]
@@ -37181,7 +37181,7 @@
               "malePercent": 1
             },
             "heightM": 0.5,
-            "WeightKg": 10.5
+            "weightKg": 10.5
           }
         }
       ]
@@ -37222,7 +37222,7 @@
               "malePercent": 1
             },
             "heightM": 1.5,
-            "WeightKg": 41
+            "weightKg": 41
           }
         }
       ]
@@ -37269,7 +37269,7 @@
               "femalePercent": 1
             },
             "heightM": 0.5,
-            "WeightKg": 9
+            "weightKg": 9
           }
         }
       ]
@@ -37311,7 +37311,7 @@
               "femalePercent": 1
             },
             "heightM": 1.2,
-            "WeightKg": 39.5
+            "weightKg": 39.5
           }
         }
       ]
@@ -37352,7 +37352,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 58
+            "weightKg": 58
           }
         }
       ]
@@ -37394,7 +37394,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.3,
-            "WeightKg": 33
+            "weightKg": 33
           }
         }
       ]
@@ -37442,7 +37442,7 @@
               "femalePercent": 0.5
             },
             "heightM": 0.8,
-            "WeightKg": 17.3
+            "weightKg": 17.3
           }
         }
       ]
@@ -37490,7 +37490,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.4,
-            "WeightKg": 50
+            "weightKg": 50
           }
         }
       ]
@@ -37532,7 +37532,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.8,
-            "WeightKg": 160
+            "weightKg": 160
           }
         }
       ]
@@ -37580,7 +37580,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.1,
-            "WeightKg": 28.8
+            "weightKg": 28.8
           }
         }
       ]
@@ -37623,7 +37623,7 @@
               "femalePercent": 0.5
             },
             "heightM": 1.6,
-            "WeightKg": 46
+            "weightKg": 46
           }
         }
       ]
@@ -37663,7 +37663,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2.1,
-            "WeightKg": 250
+            "weightKg": 250
           }
         }
       ]
@@ -37703,7 +37703,7 @@
               "genderlessPercent": 1
             },
             "heightM": 1.9,
-            "WeightKg": 260
+            "weightKg": 260
           }
         }
       ]
@@ -37743,7 +37743,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2,
-            "WeightKg": 200
+            "weightKg": 200
           }
         }
       ]
@@ -37784,7 +37784,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.5,
-            "WeightKg": 63
+            "weightKg": 63
           }
         },
         {
@@ -37820,7 +37820,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.5,
-            "WeightKg": 63
+            "weightKg": 63
           }
         }
       ]
@@ -37862,7 +37862,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.5,
-            "WeightKg": 61
+            "weightKg": 61
           }
         },
         {
@@ -37899,7 +37899,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.5,
-            "WeightKg": 61
+            "weightKg": 61
           }
         }
       ]
@@ -37940,7 +37940,7 @@
               "genderlessPercent": 1
             },
             "heightM": 3.2,
-            "WeightKg": 330
+            "weightKg": 330
           }
         }
       ]
@@ -37981,7 +37981,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2.9,
-            "WeightKg": 345
+            "weightKg": 345
           }
         }
       ]
@@ -38023,7 +38023,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.5,
-            "WeightKg": 68
+            "weightKg": 68
           }
         },
         {
@@ -38060,7 +38060,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.5,
-            "WeightKg": 68
+            "weightKg": 68
           }
         }
       ]
@@ -38102,7 +38102,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 3,
-            "WeightKg": 325
+            "weightKg": 325
           }
         },
         {
@@ -38139,7 +38139,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 3,
-            "WeightKg": 325
+            "weightKg": 325
           }
         },
         {
@@ -38176,7 +38176,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 3,
-            "WeightKg": 325
+            "weightKg": 325
           }
         }
       ]
@@ -38217,7 +38217,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.4,
-            "WeightKg": 48.5
+            "weightKg": 48.5
           }
         },
         {
@@ -38253,7 +38253,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.4,
-            "WeightKg": 48.5
+            "weightKg": 48.5
           }
         }
       ]
@@ -38294,7 +38294,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 0.6,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         },
         {
@@ -38330,7 +38330,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 0.6,
-            "WeightKg": 6.5
+            "weightKg": 6.5
           }
         }
       ]
@@ -38371,7 +38371,7 @@
             },
             "assetBundleValue": 11,
             "heightM": 1.5,
-            "WeightKg": 82.5
+            "weightKg": 82.5
           }
         },
         {
@@ -38407,7 +38407,7 @@
             },
             "assetBundleValue": 12,
             "heightM": 1.5,
-            "WeightKg": 82.5
+            "weightKg": 82.5
           }
         },
         {
@@ -38443,7 +38443,7 @@
             },
             "assetBundleValue": 13,
             "heightM": 1.5,
-            "WeightKg": 82.5
+            "weightKg": 82.5
           }
         },
         {
@@ -38479,7 +38479,7 @@
             },
             "assetBundleValue": 14,
             "heightM": 1.5,
-            "WeightKg": 82.5
+            "weightKg": 82.5
           }
         },
         {
@@ -38515,7 +38515,7 @@
             },
             "assetBundleValue": 15,
             "heightM": 1.5,
-            "WeightKg": 82.5
+            "weightKg": 82.5
           }
         }
       ]
@@ -38559,7 +38559,7 @@
               "genderlessPercent": 1
             },
             "heightM": 0.2,
-            "WeightKg": 8
+            "weightKg": 8
           }
         }
       ]
@@ -38599,7 +38599,7 @@
               "genderlessPercent": 1
             },
             "heightM": 2.5,
-            "WeightKg": 800
+            "weightKg": 800
           }
         }
       ]
