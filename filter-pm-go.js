@@ -183,9 +183,22 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
       };
       _pm.pokemonSettings.heightM = _pm.pokemonSettings.pokedexHeightM;
       _pm.pokemonSettings.weightKg = _pm.pokemonSettings.pokedexWeightKg;
-      _pm.data = _pm.pokemonSettings;
-      delete _pm.pokemonSettings.pokedexHeightM;
-      delete _pm.pokemonSettings.pokedexWeightKg;
+      _pm.data = { ..._pm.pokemonSettings };
+      _pm.data.pid = _pm.data.pokemonId;
+      _pm.data.fid = _pm.data.familyId.replace('FAMILY_', '$F_');
+      _pm.data.types = [_pm.data.type, _pm.data.type2].filter(Boolean);
+      if (_pm.data.gender) {
+        _pm.data.gender = Object.keys(_pm.data.gender).reduce((all, i) => {
+          all[i.replace('Percent', '')] = _pm.data.gender[i];
+          return all;
+        }, {});
+      }
+      delete _pm.data.type;
+      delete _pm.data.type2;
+      delete _pm.data.pokemonId;
+      delete _pm.data.familyId;
+      delete _pm.data.pokedexHeightM;
+      delete _pm.data.pokedexWeightKg;
       delete _pm.pokemonSettings;
       return _pm;
     });
