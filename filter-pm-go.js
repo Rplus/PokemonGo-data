@@ -11,7 +11,7 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
 };
 
 ((allData) => {
-  let replacePT = (str) => str.replace('POKEMON_TYPE', '$PT')
+  let replacePT = (str) => str.replace('POKEMON_TYPE', '$T')
   let _data = allData.itemTemplates;
 
   let whitelistForPMS = [
