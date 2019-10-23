@@ -177,8 +177,8 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
       let _pm = _data.find(d => d.templateId === i);
       _pm.pokemonSettings.assetBundleValue = _of && _of.find(i => i.rid === _pm.templateId).assetBundleValue;
       _pm.pokemonSettings.stats = {
-        a: _pm.pokemonSettings.stats.baseStamina,
-        s: _pm.pokemonSettings.stats.baseAttack,
+        a: _pm.pokemonSettings.stats.baseAttack,
+        s: _pm.pokemonSettings.stats.baseStamina,
         d: _pm.pokemonSettings.stats.baseDefense,
       };
       _pm.pokemonSettings.heightM = _pm.pokemonSettings.pokedexHeightM;
