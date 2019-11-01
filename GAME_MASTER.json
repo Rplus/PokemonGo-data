@@ -67543,7 +67543,7 @@
       "movementId": "GIGA_IMPACT",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_NORMAL",
-      "power": 9001.0,
+      "power": 200,
       "accuracyChance": 1.0,
       "staminaLossScalar": 0.01,
       "trainerLevelMin": 1,
@@ -67552,7 +67552,7 @@
       "durationMs": 4700,
       "damageWindowStartMs": 1000,
       "damageWindowEndMs": 2400,
-      "energyDelta": 100
+      "energyDelta": -100
     }
   }, {
     "templateId": "V0321_POKEMON_WAILORD",
@@ -67856,13 +67856,14 @@
       "movementId": "LOCK_ON_FAST",
       "animationId": 4,
       "pokemonType": "POKEMON_TYPE_NORMAL",
-      "power": 8.0,
+      "power": 1.0,
       "accuracyChance": 1.0,
       "staminaLossScalar": 0.01,
       "trainerLevelMin": 1,
       "trainerLevelMax": 100,
       "vfxName": "lock_on_fast",
       "durationMs": 300,
+      "energyDelta": 6,
       "damageWindowStartMs": 170,
       "damageWindowEndMs": 300
     }
