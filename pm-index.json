@@ -2427,7 +2427,7 @@
       "templateId": "V0023_POKEMON_EKANS",
       "pms": [
         {
-          "templateId": "V0023_POKEMON_EKANS",
+          "templateId": "V0023_POKEMON_EKANS_NORMAL",
           "data": {
             "stats": {
               "a": 110,
@@ -2448,12 +2448,103 @@
             "evolutionBranch": [
               {
                 "evolution": "ARBOK",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "ARBOK_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2,
+            "weightKg": 6.9,
+            "pid": "EKANS",
+            "fid": "$F_EKANS",
+            "types": [
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0023_POKEMON_EKANS_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 110,
+              "s": 111,
+              "d": 97
+            },
+            "quickMoves": [
+              "POISON_STING_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "WRAP",
+              "POISON_FANG",
+              "SLUDGE_BOMB"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "ARBOK",
+                "candyCost": 45,
+                "form": "ARBOK_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2,
+            "weightKg": 6.9,
+            "pid": "EKANS",
+            "fid": "$F_EKANS",
+            "types": [
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0023_POKEMON_EKANS_SHADOW",
+          "data": {
+            "stats": {
+              "a": 110,
+              "s": 111,
+              "d": 97
+            },
+            "quickMoves": [
+              "POISON_STING_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "WRAP",
+              "POISON_FANG",
+              "SLUDGE_BOMB"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "ARBOK",
+                "candyCost": 50,
+                "form": "ARBOK_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -2476,7 +2567,7 @@
       "templateId": "V0024_POKEMON_ARBOK",
       "pms": [
         {
-          "templateId": "V0024_POKEMON_ARBOK",
+          "templateId": "V0024_POKEMON_ARBOK_NORMAL",
           "data": {
             "stats": {
               "a": 167,
@@ -2498,6 +2589,84 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 3.5,
+            "weightKg": 65,
+            "pid": "ARBOK",
+            "fid": "$F_EKANS",
+            "types": [
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0024_POKEMON_ARBOK_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 167,
+              "s": 155,
+              "d": 153
+            },
+            "quickMoves": [
+              "BITE_FAST",
+              "ACID_FAST",
+              "DRAGON_TAIL_FAST"
+            ],
+            "cinematicMoves": [
+              "DARK_PULSE",
+              "SLUDGE_WAVE",
+              "GUNK_SHOT",
+              "ACID_SPRAY"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 3.5,
+            "weightKg": 65,
+            "pid": "ARBOK",
+            "fid": "$F_EKANS",
+            "types": [
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0024_POKEMON_ARBOK_SHADOW",
+          "data": {
+            "stats": {
+              "a": 167,
+              "s": 155,
+              "d": 153
+            },
+            "quickMoves": [
+              "BITE_FAST",
+              "ACID_FAST",
+              "DRAGON_TAIL_FAST"
+            ],
+            "cinematicMoves": [
+              "DARK_PULSE",
+              "SLUDGE_WAVE",
+              "GUNK_SHOT",
+              "ACID_SPRAY"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -2780,6 +2949,96 @@
               "$T_STEEL"
             ]
           }
+        },
+        {
+          "templateId": "V0027_POKEMON_SANDSHREW_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 126,
+              "s": 137,
+              "d": 120
+            },
+            "quickMoves": [
+              "SCRATCH_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "ROCK_SLIDE",
+              "SAND_TOMB"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "SANDSLASH",
+                "candyCost": 45,
+                "form": "SANDSLASH_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.6,
+            "weightKg": 12,
+            "pid": "SANDSHREW",
+            "fid": "$F_SANDSHREW",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0027_POKEMON_SANDSHREW_SHADOW",
+          "data": {
+            "stats": {
+              "a": 126,
+              "s": 137,
+              "d": 120
+            },
+            "quickMoves": [
+              "SCRATCH_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "ROCK_SLIDE",
+              "SAND_TOMB"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "SANDSLASH",
+                "candyCost": 50,
+                "form": "SANDSLASH_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.6,
+            "weightKg": 12,
+            "pid": "SANDSHREW",
+            "fid": "$F_SANDSHREW",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
         }
       ]
     },
@@ -2860,6 +3119,80 @@
             "types": [
               "$T_ICE",
               "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0028_POKEMON_SANDSLASH_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 182,
+              "s": 181,
+              "d": 175
+            },
+            "quickMoves": [
+              "METAL_CLAW_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "ROCK_TOMB",
+              "BULLDOZE"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 29.5,
+            "pid": "SANDSLASH",
+            "fid": "$F_SANDSHREW",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0028_POKEMON_SANDSLASH_SHADOW",
+          "data": {
+            "stats": {
+              "a": 182,
+              "s": 181,
+              "d": 175
+            },
+            "quickMoves": [
+              "METAL_CLAW_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "ROCK_TOMB",
+              "BULLDOZE"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 29.5,
+            "pid": "SANDSLASH",
+            "fid": "$F_SANDSHREW",
+            "types": [
+              "$T_GROUND"
             ]
           }
         }
@@ -4669,6 +5002,96 @@
               "$T_STEEL"
             ]
           }
+        },
+        {
+          "templateId": "V0050_POKEMON_DIGLETT_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 109,
+              "s": 67,
+              "d": 78
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "SCRATCH_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "MUD_BOMB",
+              "ROCK_TOMB"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "DUGTRIO",
+                "candyCost": 45,
+                "form": "DUGTRIO_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.2,
+            "weightKg": 0.8,
+            "pid": "DIGLETT",
+            "fid": "$F_DIGLETT",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0050_POKEMON_DIGLETT_SHADOW",
+          "data": {
+            "stats": {
+              "a": 109,
+              "s": 67,
+              "d": 78
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "SCRATCH_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "MUD_BOMB",
+              "ROCK_TOMB"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "DUGTRIO",
+                "candyCost": 50,
+                "form": "DUGTRIO_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.2,
+            "weightKg": 0.8,
+            "pid": "DIGLETT",
+            "fid": "$F_DIGLETT",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
         }
       ]
     },
@@ -4748,6 +5171,80 @@
             "types": [
               "$T_GROUND",
               "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0051_POKEMON_DUGTRIO_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 167,
+              "s": 111,
+              "d": 134
+            },
+            "quickMoves": [
+              "SUCKER_PUNCH_FAST",
+              "MUD_SLAP_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "MUD_BOMB",
+              "STONE_EDGE"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.7,
+            "weightKg": 33.3,
+            "pid": "DUGTRIO",
+            "fid": "$F_DIGLETT",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0051_POKEMON_DUGTRIO_SHADOW",
+          "data": {
+            "stats": {
+              "a": 167,
+              "s": 111,
+              "d": 134
+            },
+            "quickMoves": [
+              "SUCKER_PUNCH_FAST",
+              "MUD_SLAP_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "MUD_BOMB",
+              "STONE_EDGE"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.7,
+            "weightKg": 33.3,
+            "pid": "DUGTRIO",
+            "fid": "$F_DIGLETT",
+            "types": [
+              "$T_GROUND"
             ]
           }
         }
@@ -4846,6 +5343,96 @@
               "$T_DARK"
             ]
           }
+        },
+        {
+          "templateId": "V0052_POKEMON_MEOWTH_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 92,
+              "s": 120,
+              "d": 78
+            },
+            "quickMoves": [
+              "SCRATCH_FAST",
+              "BITE_FAST"
+            ],
+            "cinematicMoves": [
+              "NIGHT_SLASH",
+              "DARK_PULSE",
+              "FOUL_PLAY"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "PERSIAN",
+                "candyCost": 45,
+                "form": "PERSIAN_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.4,
+            "weightKg": 4.2,
+            "pid": "MEOWTH",
+            "fid": "$F_MEOWTH",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0052_POKEMON_MEOWTH_SHADOW",
+          "data": {
+            "stats": {
+              "a": 92,
+              "s": 120,
+              "d": 78
+            },
+            "quickMoves": [
+              "SCRATCH_FAST",
+              "BITE_FAST"
+            ],
+            "cinematicMoves": [
+              "NIGHT_SLASH",
+              "DARK_PULSE",
+              "FOUL_PLAY"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "PERSIAN",
+                "candyCost": 50,
+                "form": "PERSIAN_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.4,
+            "weightKg": 4.2,
+            "pid": "MEOWTH",
+            "fid": "$F_MEOWTH",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
         }
       ]
     },
@@ -4924,6 +5511,80 @@
             "fid": "$F_MEOWTH",
             "types": [
               "$T_DARK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0053_POKEMON_PERSIAN_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 150,
+              "s": 163,
+              "d": 136
+            },
+            "quickMoves": [
+              "SCRATCH_FAST",
+              "FEINT_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "FOUL_PLAY",
+              "POWER_GEM",
+              "PLAY_ROUGH"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 32,
+            "pid": "PERSIAN",
+            "fid": "$F_MEOWTH",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0053_POKEMON_PERSIAN_SHADOW",
+          "data": {
+            "stats": {
+              "a": 150,
+              "s": 163,
+              "d": 136
+            },
+            "quickMoves": [
+              "SCRATCH_FAST",
+              "FEINT_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "FOUL_PLAY",
+              "POWER_GEM",
+              "PLAY_ROUGH"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 32,
+            "pid": "PERSIAN",
+            "fid": "$F_MEOWTH",
+            "types": [
+              "$T_NORMAL"
             ]
           }
         }
@@ -6508,7 +7169,7 @@
       "templateId": "V0069_POKEMON_BELLSPROUT",
       "pms": [
         {
-          "templateId": "V0069_POKEMON_BELLSPROUT",
+          "templateId": "V0069_POKEMON_BELLSPROUT_NORMAL",
           "data": {
             "stats": {
               "a": 139,
@@ -6529,12 +7190,105 @@
             "evolutionBranch": [
               {
                 "evolution": "WEEPINBELL",
-                "candyCost": 25
+                "candyCost": 25,
+                "form": "WEEPINBELL_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.7,
+            "weightKg": 4,
+            "pid": "BELLSPROUT",
+            "fid": "$F_BELLSPROUT",
+            "types": [
+              "$T_GRASS",
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0069_POKEMON_BELLSPROUT_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 139,
+              "s": 137,
+              "d": 61
+            },
+            "quickMoves": [
+              "VINE_WHIP_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "POWER_WHIP",
+              "SLUDGE_BOMB",
+              "WRAP"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "WEEPINBELL",
+                "candyCost": 22,
+                "form": "WEEPINBELL_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.7,
+            "weightKg": 4,
+            "pid": "BELLSPROUT",
+            "fid": "$F_BELLSPROUT",
+            "types": [
+              "$T_GRASS",
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0069_POKEMON_BELLSPROUT_SHADOW",
+          "data": {
+            "stats": {
+              "a": 139,
+              "s": 137,
+              "d": 61
+            },
+            "quickMoves": [
+              "VINE_WHIP_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "POWER_WHIP",
+              "SLUDGE_BOMB",
+              "WRAP"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "WEEPINBELL",
+                "candyCost": 25,
+                "form": "WEEPINBELL_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 75
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -6558,7 +7312,7 @@
       "templateId": "V0070_POKEMON_WEEPINBELL",
       "pms": [
         {
-          "templateId": "V0070_POKEMON_WEEPINBELL",
+          "templateId": "V0070_POKEMON_WEEPINBELL_NORMAL",
           "data": {
             "stats": {
               "a": 172,
@@ -6579,12 +7333,105 @@
             "evolutionBranch": [
               {
                 "evolution": "VICTREEBEL",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "VICTREEBEL_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 6.4,
+            "pid": "WEEPINBELL",
+            "fid": "$F_BELLSPROUT",
+            "types": [
+              "$T_GRASS",
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0070_POKEMON_WEEPINBELL_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 172,
+              "s": 163,
+              "d": 92
+            },
+            "quickMoves": [
+              "BULLET_SEED_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "POWER_WHIP",
+              "SLUDGE_BOMB",
+              "SEED_BOMB"
+            ],
+            "candyToEvolve": 100,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "VICTREEBEL",
+                "candyCost": 90,
+                "form": "VICTREEBEL_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 6.4,
+            "pid": "WEEPINBELL",
+            "fid": "$F_BELLSPROUT",
+            "types": [
+              "$T_GRASS",
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0070_POKEMON_WEEPINBELL_SHADOW",
+          "data": {
+            "stats": {
+              "a": 172,
+              "s": 163,
+              "d": 92
+            },
+            "quickMoves": [
+              "BULLET_SEED_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "POWER_WHIP",
+              "SLUDGE_BOMB",
+              "SEED_BOMB"
+            ],
+            "candyToEvolve": 100,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "VICTREEBEL",
+                "candyCost": 100,
+                "form": "VICTREEBEL_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 75
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -6608,7 +7455,7 @@
       "templateId": "V0071_POKEMON_VICTREEBEL",
       "pms": [
         {
-          "templateId": "V0071_POKEMON_VICTREEBEL",
+          "templateId": "V0071_POKEMON_VICTREEBEL_NORMAL",
           "data": {
             "stats": {
               "a": 207,
@@ -6630,6 +7477,86 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.7,
+            "weightKg": 15.5,
+            "pid": "VICTREEBEL",
+            "fid": "$F_BELLSPROUT",
+            "types": [
+              "$T_GRASS",
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0071_POKEMON_VICTREEBEL_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 207,
+              "s": 190,
+              "d": 135
+            },
+            "quickMoves": [
+              "RAZOR_LEAF_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "LEAF_BLADE",
+              "SLUDGE_BOMB",
+              "SOLAR_BEAM",
+              "LEAF_TORNADO",
+              "ACID_SPRAY"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.7,
+            "weightKg": 15.5,
+            "pid": "VICTREEBEL",
+            "fid": "$F_BELLSPROUT",
+            "types": [
+              "$T_GRASS",
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0071_POKEMON_VICTREEBEL_SHADOW",
+          "data": {
+            "stats": {
+              "a": 207,
+              "s": 190,
+              "d": 135
+            },
+            "quickMoves": [
+              "RAZOR_LEAF_FAST",
+              "ACID_FAST"
+            ],
+            "cinematicMoves": [
+              "LEAF_BLADE",
+              "SLUDGE_BOMB",
+              "SOLAR_BEAM",
+              "LEAF_TORNADO",
+              "ACID_SPRAY"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 75
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -6838,6 +7765,98 @@
               "$T_ELECTRIC"
             ]
           }
+        },
+        {
+          "templateId": "V0074_POKEMON_GEODUDE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 132,
+              "s": 120,
+              "d": 132
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "ROCK_SLIDE",
+              "ROCK_TOMB",
+              "DIG"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 1,
+            "evolutionBranch": [
+              {
+                "evolution": "GRAVELER",
+                "candyCost": 22,
+                "form": "GRAVELER_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 8000,
+              "candyToUnlock": 20
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.4,
+            "weightKg": 20,
+            "pid": "GEODUDE",
+            "fid": "$F_GEODUDE",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0074_POKEMON_GEODUDE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 132,
+              "s": 120,
+              "d": 132
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "ROCK_SLIDE",
+              "ROCK_TOMB",
+              "DIG"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 1,
+            "evolutionBranch": [
+              {
+                "evolution": "GRAVELER",
+                "candyCost": 25,
+                "form": "GRAVELER_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 30000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.4,
+            "weightKg": 20,
+            "pid": "GEODUDE",
+            "fid": "$F_GEODUDE",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
+            ]
+          }
         }
       ]
     },
@@ -6936,6 +7955,98 @@
               "$T_ELECTRIC"
             ]
           }
+        },
+        {
+          "templateId": "V0075_POKEMON_GRAVELER_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 164,
+              "s": 146,
+              "d": 164
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "MUD_SLAP_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "STONE_EDGE",
+              "ROCK_BLAST"
+            ],
+            "candyToEvolve": 100,
+            "kmBuddyDistance": 1,
+            "evolutionBranch": [
+              {
+                "evolution": "GOLEM",
+                "candyCost": 90,
+                "form": "GOLEM_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 8000,
+              "candyToUnlock": 20
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 105,
+            "pid": "GRAVELER",
+            "fid": "$F_GEODUDE",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0075_POKEMON_GRAVELER_SHADOW",
+          "data": {
+            "stats": {
+              "a": 164,
+              "s": 146,
+              "d": 164
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "MUD_SLAP_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "STONE_EDGE",
+              "ROCK_BLAST"
+            ],
+            "candyToEvolve": 100,
+            "kmBuddyDistance": 1,
+            "evolutionBranch": [
+              {
+                "evolution": "GOLEM",
+                "candyCost": 100,
+                "form": "GOLEM_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 30000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 105,
+            "pid": "GRAVELER",
+            "fid": "$F_GEODUDE",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
+            ]
+          }
         }
       ]
     },
@@ -7016,6 +8127,82 @@
             "types": [
               "$T_ROCK",
               "$T_ELECTRIC"
+            ]
+          }
+        },
+        {
+          "templateId": "V0076_POKEMON_GOLEM_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 211,
+              "s": 190,
+              "d": 198
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "MUD_SLAP_FAST"
+            ],
+            "cinematicMoves": [
+              "STONE_EDGE",
+              "ROCK_BLAST",
+              "EARTHQUAKE"
+            ],
+            "kmBuddyDistance": 1,
+            "thirdMove": {
+              "stardustToUnlock": 8000,
+              "candyToUnlock": 20
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.4,
+            "weightKg": 300,
+            "pid": "GOLEM",
+            "fid": "$F_GEODUDE",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0076_POKEMON_GOLEM_SHADOW",
+          "data": {
+            "stats": {
+              "a": 211,
+              "s": 190,
+              "d": 198
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "MUD_SLAP_FAST"
+            ],
+            "cinematicMoves": [
+              "STONE_EDGE",
+              "ROCK_BLAST",
+              "EARTHQUAKE"
+            ],
+            "kmBuddyDistance": 1,
+            "thirdMove": {
+              "stardustToUnlock": 30000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.4,
+            "weightKg": 300,
+            "pid": "GOLEM",
+            "fid": "$F_GEODUDE",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
             ]
           }
         }
@@ -7214,7 +8401,7 @@
       "templateId": "V0081_POKEMON_MAGNEMITE",
       "pms": [
         {
-          "templateId": "V0081_POKEMON_MAGNEMITE",
+          "templateId": "V0081_POKEMON_MAGNEMITE_NORMAL",
           "data": {
             "stats": {
               "a": 165,
@@ -7235,12 +8422,103 @@
             "evolutionBranch": [
               {
                 "evolution": "MAGNETON",
-                "candyCost": 25
+                "candyCost": 25,
+                "form": "MAGNETON_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.3,
+            "weightKg": 6,
+            "pid": "MAGNEMITE",
+            "fid": "$F_MAGNEMITE",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0081_POKEMON_MAGNEMITE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 165,
+              "s": 93,
+              "d": 121
+            },
+            "quickMoves": [
+              "SPARK_FAST",
+              "THUNDER_SHOCK_FAST"
+            ],
+            "cinematicMoves": [
+              "DISCHARGE",
+              "MAGNET_BOMB",
+              "THUNDERBOLT"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "MAGNETON",
+                "candyCost": 22,
+                "form": "MAGNETON_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.3,
+            "weightKg": 6,
+            "pid": "MAGNEMITE",
+            "fid": "$F_MAGNEMITE",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0081_POKEMON_MAGNEMITE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 165,
+              "s": 93,
+              "d": 121
+            },
+            "quickMoves": [
+              "SPARK_FAST",
+              "THUNDER_SHOCK_FAST"
+            ],
+            "cinematicMoves": [
+              "DISCHARGE",
+              "MAGNET_BOMB",
+              "THUNDERBOLT"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "MAGNETON",
+                "candyCost": 25,
+                "form": "MAGNETON_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -7263,7 +8541,7 @@
       "templateId": "V0082_POKEMON_MAGNETON",
       "pms": [
         {
-          "templateId": "V0082_POKEMON_MAGNETON",
+          "templateId": "V0082_POKEMON_MAGNETON_NORMAL",
           "data": {
             "stats": {
               "a": 223,
@@ -7284,12 +8562,103 @@
               {
                 "evolution": "MAGNEZONE",
                 "candyCost": 100,
+                "form": "MAGNEZONE_NORMAL",
                 "lureItemRequirement": "ITEM_TROY_DISK_MAGNETIC"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1,
+            "weightKg": 60,
+            "pid": "MAGNETON",
+            "fid": "$F_MAGNEMITE",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0082_POKEMON_MAGNETON_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 223,
+              "s": 137,
+              "d": 169
+            },
+            "quickMoves": [
+              "SPARK_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "ZAP_CANNON",
+              "MAGNET_BOMB",
+              "FLASH_CANNON"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "MAGNEZONE",
+                "candyCost": 90,
+                "form": "MAGNEZONE_PURIFIED",
+                "lureItemRequirement": "ITEM_TROY_DISK_MAGNETIC"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1,
+            "weightKg": 60,
+            "pid": "MAGNETON",
+            "fid": "$F_MAGNEMITE",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0082_POKEMON_MAGNETON_SHADOW",
+          "data": {
+            "stats": {
+              "a": 223,
+              "s": 137,
+              "d": 169
+            },
+            "quickMoves": [
+              "SPARK_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "ZAP_CANNON",
+              "MAGNET_BOMB",
+              "FLASH_CANNON"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "MAGNEZONE",
+                "candyCost": 100,
+                "form": "MAGNEZONE_SHADOW",
+                "lureItemRequirement": "ITEM_TROY_DISK_MAGNETIC"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -7890,7 +9259,7 @@
       "templateId": "V0090_POKEMON_SHELLDER",
       "pms": [
         {
-          "templateId": "V0090_POKEMON_SHELLDER",
+          "templateId": "V0090_POKEMON_SHELLDER_NORMAL",
           "data": {
             "stats": {
               "a": 116,
@@ -7911,12 +9280,103 @@
             "evolutionBranch": [
               {
                 "evolution": "CLOYSTER",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "CLOYSTER_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.3,
+            "weightKg": 4,
+            "pid": "SHELLDER",
+            "fid": "$F_SHELLDER",
+            "types": [
+              "$T_WATER"
+            ]
+          }
+        },
+        {
+          "templateId": "V0090_POKEMON_SHELLDER_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 116,
+              "s": 102,
+              "d": 134
+            },
+            "quickMoves": [
+              "ICE_SHARD_FAST",
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "BUBBLE_BEAM",
+              "WATER_PULSE",
+              "ICY_WIND"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "CLOYSTER",
+                "candyCost": 45,
+                "form": "CLOYSTER_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.3,
+            "weightKg": 4,
+            "pid": "SHELLDER",
+            "fid": "$F_SHELLDER",
+            "types": [
+              "$T_WATER"
+            ]
+          }
+        },
+        {
+          "templateId": "V0090_POKEMON_SHELLDER_SHADOW",
+          "data": {
+            "stats": {
+              "a": 116,
+              "s": 102,
+              "d": 134
+            },
+            "quickMoves": [
+              "ICE_SHARD_FAST",
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "BUBBLE_BEAM",
+              "WATER_PULSE",
+              "ICY_WIND"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "CLOYSTER",
+                "candyCost": 50,
+                "form": "CLOYSTER_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -7939,7 +9399,7 @@
       "templateId": "V0091_POKEMON_CLOYSTER",
       "pms": [
         {
-          "templateId": "V0091_POKEMON_CLOYSTER",
+          "templateId": "V0091_POKEMON_CLOYSTER_NORMAL",
           "data": {
             "stats": {
               "a": 186,
@@ -7959,6 +9419,82 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.5,
+            "weightKg": 132.5,
+            "pid": "CLOYSTER",
+            "fid": "$F_SHELLDER",
+            "types": [
+              "$T_WATER",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0091_POKEMON_CLOYSTER_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 186,
+              "s": 137,
+              "d": 256
+            },
+            "quickMoves": [
+              "FROST_BREATH_FAST",
+              "ICE_SHARD_FAST"
+            ],
+            "cinematicMoves": [
+              "AURORA_BEAM",
+              "HYDRO_PUMP",
+              "AVALANCHE"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.5,
+            "weightKg": 132.5,
+            "pid": "CLOYSTER",
+            "fid": "$F_SHELLDER",
+            "types": [
+              "$T_WATER",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0091_POKEMON_CLOYSTER_SHADOW",
+          "data": {
+            "stats": {
+              "a": 186,
+              "s": 137,
+              "d": 256
+            },
+            "quickMoves": [
+              "FROST_BREATH_FAST",
+              "ICE_SHARD_FAST"
+            ],
+            "cinematicMoves": [
+              "AURORA_BEAM",
+              "HYDRO_PUMP",
+              "AVALANCHE"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -8125,7 +9661,7 @@
       "templateId": "V0095_POKEMON_ONIX",
       "pms": [
         {
-          "templateId": "V0095_POKEMON_ONIX",
+          "templateId": "V0095_POKEMON_ONIX_NORMAL",
           "data": {
             "stats": {
               "a": 85,
@@ -8146,12 +9682,105 @@
               {
                 "evolution": "STEELIX",
                 "evolutionItemRequirement": "ITEM_METAL_COAT",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "STEELIX_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 8.8,
+            "weightKg": 210,
+            "pid": "ONIX",
+            "fid": "$F_ONIX",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0095_POKEMON_ONIX_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 85,
+              "s": 111,
+              "d": 232
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "SAND_TOMB",
+              "STONE_EDGE",
+              "HEAVY_SLAM"
+            ],
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "STEELIX",
+                "evolutionItemRequirement": "ITEM_METAL_COAT",
+                "candyCost": 45,
+                "form": "STEELIX_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 8.8,
+            "weightKg": 210,
+            "pid": "ONIX",
+            "fid": "$F_ONIX",
+            "types": [
+              "$T_ROCK",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0095_POKEMON_ONIX_SHADOW",
+          "data": {
+            "stats": {
+              "a": 85,
+              "s": 111,
+              "d": 232
+            },
+            "quickMoves": [
+              "ROCK_THROW_FAST",
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "SAND_TOMB",
+              "STONE_EDGE",
+              "HEAVY_SLAM"
+            ],
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "STEELIX",
+                "evolutionItemRequirement": "ITEM_METAL_COAT",
+                "candyCost": 50,
+                "form": "STEELIX_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -8440,7 +10069,7 @@
       "templateId": "V0098_POKEMON_KRABBY",
       "pms": [
         {
-          "templateId": "V0098_POKEMON_KRABBY",
+          "templateId": "V0098_POKEMON_KRABBY_NORMAL",
           "data": {
             "stats": {
               "a": 181,
@@ -8461,12 +10090,103 @@
             "evolutionBranch": [
               {
                 "evolution": "KINGLER",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "KINGLER_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.4,
+            "weightKg": 6.5,
+            "pid": "KRABBY",
+            "fid": "$F_KRABBY",
+            "types": [
+              "$T_WATER"
+            ]
+          }
+        },
+        {
+          "templateId": "V0098_POKEMON_KRABBY_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 181,
+              "s": 102,
+              "d": 124
+            },
+            "quickMoves": [
+              "BUBBLE_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "VICE_GRIP",
+              "BUBBLE_BEAM",
+              "WATER_PULSE"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "KINGLER",
+                "candyCost": 45,
+                "form": "KINGLER_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.4,
+            "weightKg": 6.5,
+            "pid": "KRABBY",
+            "fid": "$F_KRABBY",
+            "types": [
+              "$T_WATER"
+            ]
+          }
+        },
+        {
+          "templateId": "V0098_POKEMON_KRABBY_SHADOW",
+          "data": {
+            "stats": {
+              "a": 181,
+              "s": 102,
+              "d": 124
+            },
+            "quickMoves": [
+              "BUBBLE_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "VICE_GRIP",
+              "BUBBLE_BEAM",
+              "WATER_PULSE"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "KINGLER",
+                "candyCost": 50,
+                "form": "KINGLER_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -8489,7 +10209,7 @@
       "templateId": "V0099_POKEMON_KINGLER",
       "pms": [
         {
-          "templateId": "V0099_POKEMON_KINGLER",
+          "templateId": "V0099_POKEMON_KINGLER_NORMAL",
           "data": {
             "stats": {
               "a": 240,
@@ -8510,6 +10230,82 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.3,
+            "weightKg": 60,
+            "pid": "KINGLER",
+            "fid": "$F_KRABBY",
+            "types": [
+              "$T_WATER"
+            ]
+          }
+        },
+        {
+          "templateId": "V0099_POKEMON_KINGLER_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 240,
+              "s": 146,
+              "d": 181
+            },
+            "quickMoves": [
+              "BUBBLE_FAST",
+              "METAL_CLAW_FAST"
+            ],
+            "cinematicMoves": [
+              "VICE_GRIP",
+              "X_SCISSOR",
+              "WATER_PULSE",
+              "CRABHAMMER"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.3,
+            "weightKg": 60,
+            "pid": "KINGLER",
+            "fid": "$F_KRABBY",
+            "types": [
+              "$T_WATER"
+            ]
+          }
+        },
+        {
+          "templateId": "V0099_POKEMON_KINGLER_SHADOW",
+          "data": {
+            "stats": {
+              "a": 240,
+              "s": 146,
+              "d": 181
+            },
+            "quickMoves": [
+              "BUBBLE_FAST",
+              "METAL_CLAW_FAST"
+            ],
+            "cinematicMoves": [
+              "VICE_GRIP",
+              "X_SCISSOR",
+              "WATER_PULSE",
+              "CRABHAMMER"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -9051,7 +10847,7 @@
       "templateId": "V0106_POKEMON_HITMONLEE",
       "pms": [
         {
-          "templateId": "V0106_POKEMON_HITMONLEE",
+          "templateId": "V0106_POKEMON_HITMONLEE_NORMAL",
           "data": {
             "stats": {
               "a": 224,
@@ -9071,6 +10867,78 @@
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 1
+            },
+            "heightM": 1.5,
+            "weightKg": 49.8,
+            "pid": "HITMONLEE",
+            "fid": "$F_TYROGUE",
+            "types": [
+              "$T_FIGHTING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0106_POKEMON_HITMONLEE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 224,
+              "s": 137,
+              "d": 181
+            },
+            "quickMoves": [
+              "LOW_KICK_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "CLOSE_COMBAT",
+              "LOW_SWEEP",
+              "STONE_EDGE"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 1
+            },
+            "heightM": 1.5,
+            "weightKg": 49.8,
+            "pid": "HITMONLEE",
+            "fid": "$F_TYROGUE",
+            "types": [
+              "$T_FIGHTING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0106_POKEMON_HITMONLEE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 224,
+              "s": 137,
+              "d": 181
+            },
+            "quickMoves": [
+              "LOW_KICK_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "CLOSE_COMBAT",
+              "LOW_SWEEP",
+              "STONE_EDGE"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -9260,7 +11128,7 @@
       "templateId": "V0109_POKEMON_KOFFING",
       "pms": [
         {
-          "templateId": "V0109_POKEMON_KOFFING",
+          "templateId": "V0109_POKEMON_KOFFING_NORMAL",
           "data": {
             "stats": {
               "a": 119,
@@ -9281,12 +11149,103 @@
             "evolutionBranch": [
               {
                 "evolution": "WEEZING",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "WEEZING_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.6,
+            "weightKg": 1,
+            "pid": "KOFFING",
+            "fid": "$F_KOFFING",
+            "types": [
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0109_POKEMON_KOFFING_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 119,
+              "s": 120,
+              "d": 141
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "INFESTATION_FAST"
+            ],
+            "cinematicMoves": [
+              "SLUDGE",
+              "SLUDGE_BOMB",
+              "DARK_PULSE"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "WEEZING",
+                "candyCost": 45,
+                "form": "WEEZING_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.6,
+            "weightKg": 1,
+            "pid": "KOFFING",
+            "fid": "$F_KOFFING",
+            "types": [
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0109_POKEMON_KOFFING_SHADOW",
+          "data": {
+            "stats": {
+              "a": 119,
+              "s": 120,
+              "d": 141
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "INFESTATION_FAST"
+            ],
+            "cinematicMoves": [
+              "SLUDGE",
+              "SLUDGE_BOMB",
+              "DARK_PULSE"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "WEEZING",
+                "candyCost": 50,
+                "form": "WEEZING_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -9309,7 +11268,7 @@
       "templateId": "V0110_POKEMON_WEEZING",
       "pms": [
         {
-          "templateId": "V0110_POKEMON_WEEZING",
+          "templateId": "V0110_POKEMON_WEEZING_NORMAL",
           "data": {
             "stats": {
               "a": 174,
@@ -9345,6 +11304,82 @@
               "$T_POISON"
             ]
           }
+        },
+        {
+          "templateId": "V0110_POKEMON_WEEZING_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 174,
+              "s": 163,
+              "d": 197
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "INFESTATION_FAST"
+            ],
+            "cinematicMoves": [
+              "SLUDGE_BOMB",
+              "SHADOW_BALL",
+              "DARK_PULSE",
+              "THUNDERBOLT"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.2,
+            "weightKg": 9.5,
+            "pid": "WEEZING",
+            "fid": "$F_KOFFING",
+            "types": [
+              "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0110_POKEMON_WEEZING_SHADOW",
+          "data": {
+            "stats": {
+              "a": 174,
+              "s": 163,
+              "d": 197
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "INFESTATION_FAST"
+            ],
+            "cinematicMoves": [
+              "SLUDGE_BOMB",
+              "SHADOW_BALL",
+              "DARK_PULSE",
+              "THUNDERBOLT"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.2,
+            "weightKg": 9.5,
+            "pid": "WEEZING",
+            "fid": "$F_KOFFING",
+            "types": [
+              "$T_POISON"
+            ]
+          }
         }
       ]
     },
@@ -9352,7 +11387,7 @@
       "templateId": "V0111_POKEMON_RHYHORN",
       "pms": [
         {
-          "templateId": "V0111_POKEMON_RHYHORN",
+          "templateId": "V0111_POKEMON_RHYHORN_NORMAL",
           "data": {
             "stats": {
               "a": 140,
@@ -9373,12 +11408,105 @@
             "evolutionBranch": [
               {
                 "evolution": "RHYDON",
-                "candyCost": 25
+                "candyCost": 25,
+                "form": "RHYDON_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 115,
+            "pid": "RHYHORN",
+            "fid": "$F_RHYHORN",
+            "types": [
+              "$T_GROUND",
+              "$T_ROCK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0111_POKEMON_RHYHORN_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 140,
+              "s": 190,
+              "d": 127
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "BULLDOZE",
+              "HORN_ATTACK",
+              "STOMP"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "RHYDON",
+                "candyCost": 22,
+                "form": "RHYDON_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 115,
+            "pid": "RHYHORN",
+            "fid": "$F_RHYHORN",
+            "types": [
+              "$T_GROUND",
+              "$T_ROCK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0111_POKEMON_RHYHORN_SHADOW",
+          "data": {
+            "stats": {
+              "a": 140,
+              "s": 190,
+              "d": 127
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "BULLDOZE",
+              "HORN_ATTACK",
+              "STOMP"
+            ],
+            "candyToEvolve": 50,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "RHYDON",
+                "candyCost": 25,
+                "form": "RHYDON_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -9402,7 +11530,7 @@
       "templateId": "V0112_POKEMON_RHYDON",
       "pms": [
         {
-          "templateId": "V0112_POKEMON_RHYDON",
+          "templateId": "V0112_POKEMON_RHYDON_NORMAL",
           "data": {
             "stats": {
               "a": 222,
@@ -9423,12 +11551,105 @@
               {
                 "evolution": "RHYPERIOR",
                 "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "RHYPERIOR_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.9,
+            "weightKg": 120,
+            "pid": "RHYDON",
+            "fid": "$F_RHYHORN",
+            "types": [
+              "$T_GROUND",
+              "$T_ROCK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0112_POKEMON_RHYDON_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 222,
+              "s": 233,
+              "d": 171
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "SURF",
+              "EARTHQUAKE",
+              "STONE_EDGE"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "RHYPERIOR",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 90,
+                "form": "RHYPERIOR_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.9,
+            "weightKg": 120,
+            "pid": "RHYDON",
+            "fid": "$F_RHYHORN",
+            "types": [
+              "$T_GROUND",
+              "$T_ROCK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0112_POKEMON_RHYDON_SHADOW",
+          "data": {
+            "stats": {
+              "a": 222,
+              "s": 233,
+              "d": 171
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "SURF",
+              "EARTHQUAKE",
+              "STONE_EDGE"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "RHYPERIOR",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 100,
+                "form": "RHYPERIOR_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 300
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -9548,7 +11769,7 @@
       "templateId": "V0115_POKEMON_KANGASKHAN",
       "pms": [
         {
-          "templateId": "V0115_POKEMON_KANGASKHAN",
+          "templateId": "V0115_POKEMON_KANGASKHAN_NORMAL",
           "data": {
             "stats": {
               "a": 181,
@@ -9569,6 +11790,80 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "female": 1
+            },
+            "heightM": 2.2,
+            "weightKg": 80,
+            "pid": "KANGASKHAN",
+            "fid": "$F_KANGASKHAN",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0115_POKEMON_KANGASKHAN_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 181,
+              "s": 233,
+              "d": 165
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "LOW_KICK_FAST"
+            ],
+            "cinematicMoves": [
+              "CRUNCH",
+              "EARTHQUAKE",
+              "OUTRAGE",
+              "POWER_UP_PUNCH"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "female": 1
+            },
+            "heightM": 2.2,
+            "weightKg": 80,
+            "pid": "KANGASKHAN",
+            "fid": "$F_KANGASKHAN",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0115_POKEMON_KANGASKHAN_SHADOW",
+          "data": {
+            "stats": {
+              "a": 181,
+              "s": 233,
+              "d": 165
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "LOW_KICK_FAST"
+            ],
+            "cinematicMoves": [
+              "CRUNCH",
+              "EARTHQUAKE",
+              "OUTRAGE",
+              "POWER_UP_PUNCH"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -11082,7 +13377,7 @@
       "templateId": "V0137_POKEMON_PORYGON",
       "pms": [
         {
-          "templateId": "V0137_POKEMON_PORYGON",
+          "templateId": "V0137_POKEMON_PORYGON_NORMAL",
           "data": {
             "stats": {
               "a": 153,
@@ -11103,12 +13398,101 @@
               {
                 "evolution": "PORYGON2",
                 "evolutionItemRequirement": "ITEM_UP_GRADE",
-                "candyCost": 25
+                "candyCost": 25,
+                "form": "PORYGON2_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.8,
+            "weightKg": 36.5,
+            "pid": "PORYGON",
+            "fid": "$F_PORYGON",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0137_POKEMON_PORYGON_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 153,
+              "s": 163,
+              "d": 136
+            },
+            "quickMoves": [
+              "CHARGE_BEAM_FAST",
+              "HIDDEN_POWER_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "HYPER_BEAM",
+              "ZAP_CANNON"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "PORYGON2",
+                "evolutionItemRequirement": "ITEM_UP_GRADE",
+                "candyCost": 22,
+                "form": "PORYGON2_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.8,
+            "weightKg": 36.5,
+            "pid": "PORYGON",
+            "fid": "$F_PORYGON",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0137_POKEMON_PORYGON_SHADOW",
+          "data": {
+            "stats": {
+              "a": 153,
+              "s": 163,
+              "d": 136
+            },
+            "quickMoves": [
+              "CHARGE_BEAM_FAST",
+              "HIDDEN_POWER_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "HYPER_BEAM",
+              "ZAP_CANNON"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "PORYGON2",
+                "evolutionItemRequirement": "ITEM_UP_GRADE",
+                "candyCost": 25,
+                "form": "PORYGON2_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -11485,7 +13869,7 @@
       "templateId": "V0144_POKEMON_ARTICUNO",
       "pms": [
         {
-          "templateId": "V0144_POKEMON_ARTICUNO",
+          "templateId": "V0144_POKEMON_ARTICUNO_NORMAL",
           "data": {
             "stats": {
               "a": 192,
@@ -11506,6 +13890,80 @@
             "thirdMove": {
               "stardustToUnlock": 100000,
               "candyToUnlock": 100
+            },
+            "isTransferable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1.7,
+            "weightKg": 55.4,
+            "pid": "ARTICUNO",
+            "fid": "$F_ARTICUNO",
+            "types": [
+              "$T_ICE",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0144_POKEMON_ARTICUNO_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 192,
+              "s": 207,
+              "d": 236
+            },
+            "quickMoves": [
+              "FROST_BREATH_FAST",
+              "ICE_SHARD_FAST"
+            ],
+            "cinematicMoves": [
+              "ICE_BEAM",
+              "ICY_WIND",
+              "BLIZZARD",
+              "ANCIENT_POWER"
+            ],
+            "kmBuddyDistance": 20,
+            "thirdMove": {
+              "stardustToUnlock": 80000,
+              "candyToUnlock": 80
+            },
+            "isTransferable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1.7,
+            "weightKg": 55.4,
+            "pid": "ARTICUNO",
+            "fid": "$F_ARTICUNO",
+            "types": [
+              "$T_ICE",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0144_POKEMON_ARTICUNO_SHADOW",
+          "data": {
+            "stats": {
+              "a": 192,
+              "s": 207,
+              "d": 236
+            },
+            "quickMoves": [
+              "FROST_BREATH_FAST",
+              "ICE_SHARD_FAST"
+            ],
+            "cinematicMoves": [
+              "ICE_BEAM",
+              "ICY_WIND",
+              "BLIZZARD",
+              "ANCIENT_POWER"
+            ],
+            "kmBuddyDistance": 20,
+            "thirdMove": {
+              "stardustToUnlock": 300000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "gender": {
@@ -14789,7 +17247,7 @@
       "templateId": "V0198_POKEMON_MURKROW",
       "pms": [
         {
-          "templateId": "V0198_POKEMON_MURKROW",
+          "templateId": "V0198_POKEMON_MURKROW_NORMAL",
           "data": {
             "stats": {
               "a": 175,
@@ -14810,12 +17268,105 @@
               {
                 "evolution": "HONCHKROW",
                 "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "HONCHKROW_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.51,
+            "weightKg": 2.1,
+            "pid": "MURKROW",
+            "fid": "$F_MURKROW",
+            "types": [
+              "$T_DARK",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0198_POKEMON_MURKROW_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 175,
+              "s": 155,
+              "d": 87
+            },
+            "quickMoves": [
+              "PECK_FAST",
+              "FEINT_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "DRILL_PECK",
+              "FOUL_PLAY",
+              "DARK_PULSE"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "HONCHKROW",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 90,
+                "form": "HONCHKROW_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.51,
+            "weightKg": 2.1,
+            "pid": "MURKROW",
+            "fid": "$F_MURKROW",
+            "types": [
+              "$T_DARK",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0198_POKEMON_MURKROW_SHADOW",
+          "data": {
+            "stats": {
+              "a": 175,
+              "s": 155,
+              "d": 87
+            },
+            "quickMoves": [
+              "PECK_FAST",
+              "FEINT_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "DRILL_PECK",
+              "FOUL_PLAY",
+              "DARK_PULSE"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "HONCHKROW",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 100,
+                "form": "HONCHKROW_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -14970,7 +17521,7 @@
       "templateId": "V0202_POKEMON_WOBBUFFET",
       "pms": [
         {
-          "templateId": "V0202_POKEMON_WOBBUFFET",
+          "templateId": "V0202_POKEMON_WOBBUFFET_NORMAL",
           "data": {
             "stats": {
               "a": 60,
@@ -14989,6 +17540,78 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.3,
+            "weightKg": 28.5,
+            "pid": "WOBBUFFET",
+            "fid": "$F_WOBBUFFET",
+            "types": [
+              "$T_PSYCHIC"
+            ]
+          }
+        },
+        {
+          "templateId": "V0202_POKEMON_WOBBUFFET_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 60,
+              "s": 382,
+              "d": 106
+            },
+            "quickMoves": [
+              "COUNTER_FAST",
+              "SPLASH_FAST",
+              "CHARM_FAST"
+            ],
+            "cinematicMoves": [
+              "MIRROR_COAT"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.3,
+            "weightKg": 28.5,
+            "pid": "WOBBUFFET",
+            "fid": "$F_WOBBUFFET",
+            "types": [
+              "$T_PSYCHIC"
+            ]
+          }
+        },
+        {
+          "templateId": "V0202_POKEMON_WOBBUFFET_SHADOW",
+          "data": {
+            "stats": {
+              "a": 60,
+              "s": 382,
+              "d": 106
+            },
+            "quickMoves": [
+              "COUNTER_FAST",
+              "SPLASH_FAST",
+              "CHARM_FAST"
+            ],
+            "cinematicMoves": [
+              "MIRROR_COAT"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -15238,7 +17861,7 @@
       "templateId": "V0208_POKEMON_STEELIX",
       "pms": [
         {
-          "templateId": "V0208_POKEMON_STEELIX",
+          "templateId": "V0208_POKEMON_STEELIX_NORMAL",
           "data": {
             "stats": {
               "a": 148,
@@ -15258,6 +17881,84 @@
             "kmBuddyDistance": 5,
             "thirdMove": {
               "stardustToUnlock": 75000,
+              "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 9.19,
+            "weightKg": 400,
+            "pid": "STEELIX",
+            "fid": "$F_ONIX",
+            "types": [
+              "$T_STEEL",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0208_POKEMON_STEELIX_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 148,
+              "s": 181,
+              "d": 272
+            },
+            "quickMoves": [
+              "IRON_TAIL_FAST",
+              "DRAGON_TAIL_FAST",
+              "THUNDER_FANG_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "HEAVY_SLAM",
+              "CRUNCH"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 9.19,
+            "weightKg": 400,
+            "pid": "STEELIX",
+            "fid": "$F_ONIX",
+            "types": [
+              "$T_STEEL",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0208_POKEMON_STEELIX_SHADOW",
+          "data": {
+            "stats": {
+              "a": 148,
+              "s": 181,
+              "d": 272
+            },
+            "quickMoves": [
+              "IRON_TAIL_FAST",
+              "DRAGON_TAIL_FAST",
+              "THUNDER_FANG_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "HEAVY_SLAM",
+              "CRUNCH"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 225000,
               "candyToUnlock": 75
             },
             "isTransferable": true,
@@ -15623,7 +18324,7 @@
       "templateId": "V0215_POKEMON_SNEASEL",
       "pms": [
         {
-          "templateId": "V0215_POKEMON_SNEASEL",
+          "templateId": "V0215_POKEMON_SNEASEL_NORMAL",
           "data": {
             "stats": {
               "a": 189,
@@ -15644,12 +18345,105 @@
               {
                 "evolution": "WEAVILE",
                 "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "WEAVILE_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.89,
+            "weightKg": 28,
+            "pid": "SNEASEL",
+            "fid": "$F_SNEASEL",
+            "types": [
+              "$T_DARK",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0215_POKEMON_SNEASEL_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 189,
+              "s": 146,
+              "d": 146
+            },
+            "quickMoves": [
+              "ICE_SHARD_FAST",
+              "FEINT_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "AVALANCHE",
+              "ICE_PUNCH",
+              "FOUL_PLAY"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "WEAVILE",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 90,
+                "form": "WEAVILE_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.89,
+            "weightKg": 28,
+            "pid": "SNEASEL",
+            "fid": "$F_SNEASEL",
+            "types": [
+              "$T_DARK",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0215_POKEMON_SNEASEL_SHADOW",
+          "data": {
+            "stats": {
+              "a": 189,
+              "s": 146,
+              "d": 146
+            },
+            "quickMoves": [
+              "ICE_SHARD_FAST",
+              "FEINT_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "AVALANCHE",
+              "ICE_PUNCH",
+              "FOUL_PLAY"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "WEAVILE",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 100,
+                "form": "WEAVILE_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 75
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -16623,7 +19417,7 @@
       "templateId": "V0233_POKEMON_PORYGON2",
       "pms": [
         {
-          "templateId": "V0233_POKEMON_PORYGON2",
+          "templateId": "V0233_POKEMON_PORYGON2_NORMAL",
           "data": {
             "stats": {
               "a": 198,
@@ -16644,12 +19438,101 @@
               {
                 "evolution": "PORYGON_Z",
                 "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "PORYGON_Z_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.61,
+            "weightKg": 32.5,
+            "pid": "PORYGON2",
+            "fid": "$F_PORYGON",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0233_POKEMON_PORYGON2_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 198,
+              "s": 198,
+              "d": 180
+            },
+            "quickMoves": [
+              "HIDDEN_POWER_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "HYPER_BEAM",
+              "ZAP_CANNON"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "PORYGON_Z",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 90,
+                "form": "PORYGON_Z_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.61,
+            "weightKg": 32.5,
+            "pid": "PORYGON2",
+            "fid": "$F_PORYGON",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0233_POKEMON_PORYGON2_SHADOW",
+          "data": {
+            "stats": {
+              "a": 198,
+              "s": 198,
+              "d": 180
+            },
+            "quickMoves": [
+              "HIDDEN_POWER_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "HYPER_BEAM",
+              "ZAP_CANNON"
+            ],
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "PORYGON_Z",
+                "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
+                "candyCost": 100,
+                "form": "PORYGON_Z_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 75
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -25184,7 +28067,8 @@
             },
             "quickMoves": [
               "ROCK_THROW_FAST",
-              "ROCK_SMASH_FAST"
+              "ROCK_SMASH_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "STONE_EDGE",
@@ -25224,7 +28108,8 @@
             },
             "quickMoves": [
               "FROST_BREATH_FAST",
-              "ROCK_SMASH_FAST"
+              "ROCK_SMASH_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "BLIZZARD",
@@ -25264,7 +28149,8 @@
             },
             "quickMoves": [
               "METAL_CLAW_FAST",
-              "ROCK_SMASH_FAST"
+              "ROCK_SMASH_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "FLASH_CANNON",
@@ -26089,7 +28975,7 @@
       "templateId": "V0390_POKEMON_CHIMCHAR",
       "pms": [
         {
-          "templateId": "V0390_POKEMON_CHIMCHAR",
+          "templateId": "V0390_POKEMON_CHIMCHAR_NORMAL",
           "data": {
             "stats": {
               "a": 113,
@@ -26110,12 +28996,103 @@
             "evolutionBranch": [
               {
                 "evolution": "MONFERNO",
-                "candyCost": 25
+                "candyCost": 25,
+                "form": "MONFERNO_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 10000,
               "candyToUnlock": 25
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.875,
+              "female": 0.125
+            },
+            "heightM": 0.5,
+            "weightKg": 6.2,
+            "pid": "CHIMCHAR",
+            "fid": "$F_CHIMCHAR",
+            "types": [
+              "$T_FIRE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0390_POKEMON_CHIMCHAR_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 113,
+              "s": 127,
+              "d": 86
+            },
+            "quickMoves": [
+              "EMBER_FAST",
+              "SCRATCH_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAME_WHEEL",
+              "FLAMETHROWER",
+              "FLAME_CHARGE"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "MONFERNO",
+                "candyCost": 22,
+                "form": "MONFERNO_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 8000,
+              "candyToUnlock": 20
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.875,
+              "female": 0.125
+            },
+            "heightM": 0.5,
+            "weightKg": 6.2,
+            "pid": "CHIMCHAR",
+            "fid": "$F_CHIMCHAR",
+            "types": [
+              "$T_FIRE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0390_POKEMON_CHIMCHAR_SHADOW",
+          "data": {
+            "stats": {
+              "a": 113,
+              "s": 127,
+              "d": 86
+            },
+            "quickMoves": [
+              "EMBER_FAST",
+              "SCRATCH_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAME_WHEEL",
+              "FLAMETHROWER",
+              "FLAME_CHARGE"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "MONFERNO",
+                "candyCost": 25,
+                "form": "MONFERNO_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 30000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -26138,7 +29115,7 @@
       "templateId": "V0391_POKEMON_MONFERNO",
       "pms": [
         {
-          "templateId": "V0391_POKEMON_MONFERNO",
+          "templateId": "V0391_POKEMON_MONFERNO_NORMAL",
           "data": {
             "stats": {
               "a": 158,
@@ -26159,12 +29136,105 @@
             "evolutionBranch": [
               {
                 "evolution": "INFERNAPE",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "INFERNAPE_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 10000,
               "candyToUnlock": 25
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.875,
+              "female": 0.125
+            },
+            "heightM": 0.9,
+            "weightKg": 22,
+            "pid": "MONFERNO",
+            "fid": "$F_CHIMCHAR",
+            "types": [
+              "$T_FIRE",
+              "$T_FIGHTING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0391_POKEMON_MONFERNO_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 158,
+              "s": 162,
+              "d": 105
+            },
+            "quickMoves": [
+              "EMBER_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAME_WHEEL",
+              "FLAMETHROWER",
+              "LOW_SWEEP"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "INFERNAPE",
+                "candyCost": 90,
+                "form": "INFERNAPE_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 8000,
+              "candyToUnlock": 20
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.875,
+              "female": 0.125
+            },
+            "heightM": 0.9,
+            "weightKg": 22,
+            "pid": "MONFERNO",
+            "fid": "$F_CHIMCHAR",
+            "types": [
+              "$T_FIRE",
+              "$T_FIGHTING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0391_POKEMON_MONFERNO_SHADOW",
+          "data": {
+            "stats": {
+              "a": 158,
+              "s": 162,
+              "d": 105
+            },
+            "quickMoves": [
+              "EMBER_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAME_WHEEL",
+              "FLAMETHROWER",
+              "LOW_SWEEP"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "INFERNAPE",
+                "candyCost": 100,
+                "form": "INFERNAPE_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 30000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -26188,7 +29258,7 @@
       "templateId": "V0392_POKEMON_INFERNAPE",
       "pms": [
         {
-          "templateId": "V0392_POKEMON_INFERNAPE",
+          "templateId": "V0392_POKEMON_INFERNAPE_NORMAL",
           "data": {
             "stats": {
               "a": 222,
@@ -26209,6 +29279,84 @@
             "thirdMove": {
               "stardustToUnlock": 10000,
               "candyToUnlock": 25
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.875,
+              "female": 0.125
+            },
+            "heightM": 1.2,
+            "weightKg": 55,
+            "pid": "INFERNAPE",
+            "fid": "$F_CHIMCHAR",
+            "types": [
+              "$T_FIRE",
+              "$T_FIGHTING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0392_POKEMON_INFERNAPE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 222,
+              "s": 183,
+              "d": 151
+            },
+            "quickMoves": [
+              "FIRE_SPIN_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "FLAMETHROWER",
+              "CLOSE_COMBAT"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 8000,
+              "candyToUnlock": 20
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.875,
+              "female": 0.125
+            },
+            "heightM": 1.2,
+            "weightKg": 55,
+            "pid": "INFERNAPE",
+            "fid": "$F_CHIMCHAR",
+            "types": [
+              "$T_FIRE",
+              "$T_FIGHTING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0392_POKEMON_INFERNAPE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 222,
+              "s": 183,
+              "d": 151
+            },
+            "quickMoves": [
+              "FIRE_SPIN_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "FLAMETHROWER",
+              "CLOSE_COMBAT"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 30000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -28259,7 +31407,7 @@
       "templateId": "V0430_POKEMON_HONCHKROW",
       "pms": [
         {
-          "templateId": "V0430_POKEMON_HONCHKROW",
+          "templateId": "V0430_POKEMON_HONCHKROW_NORMAL",
           "data": {
             "stats": {
               "a": 243,
@@ -28281,6 +31429,86 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.9,
+            "weightKg": 27.3,
+            "pid": "HONCHKROW",
+            "fid": "$F_MURKROW",
+            "types": [
+              "$T_DARK",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0430_POKEMON_HONCHKROW_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 243,
+              "s": 225,
+              "d": 103
+            },
+            "quickMoves": [
+              "PECK_FAST",
+              "SNARL_FAST"
+            ],
+            "cinematicMoves": [
+              "BRAVE_BIRD",
+              "PSYCHIC",
+              "DARK_PULSE",
+              "SKY_ATTACK"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.9,
+            "weightKg": 27.3,
+            "pid": "HONCHKROW",
+            "fid": "$F_MURKROW",
+            "types": [
+              "$T_DARK",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0430_POKEMON_HONCHKROW_SHADOW",
+          "data": {
+            "stats": {
+              "a": 243,
+              "s": 225,
+              "d": 103
+            },
+            "quickMoves": [
+              "PECK_FAST",
+              "SNARL_FAST"
+            ],
+            "cinematicMoves": [
+              "BRAVE_BIRD",
+              "PSYCHIC",
+              "DARK_PULSE",
+              "SKY_ATTACK"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -28869,7 +32097,7 @@
       "templateId": "V0443_POKEMON_GIBLE",
       "pms": [
         {
-          "templateId": "V0443_POKEMON_GIBLE",
+          "templateId": "V0443_POKEMON_GIBLE_NORMAL",
           "data": {
             "stats": {
               "a": 124,
@@ -28890,12 +32118,105 @@
             "evolutionBranch": [
               {
                 "evolution": "GABITE",
-                "candyCost": 25
+                "candyCost": 25,
+                "form": "GABITE_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.7,
+            "weightKg": 20.5,
+            "pid": "GIBLE",
+            "fid": "$F_GIBLE",
+            "types": [
+              "$T_DRAGON",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0443_POKEMON_GIBLE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 124,
+              "s": 151,
+              "d": 84
+            },
+            "quickMoves": [
+              "TAKE_DOWN_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "TWISTER",
+              "BODY_SLAM"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "GABITE",
+                "candyCost": 22,
+                "form": "GABITE_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.7,
+            "weightKg": 20.5,
+            "pid": "GIBLE",
+            "fid": "$F_GIBLE",
+            "types": [
+              "$T_DRAGON",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0443_POKEMON_GIBLE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 124,
+              "s": 151,
+              "d": 84
+            },
+            "quickMoves": [
+              "TAKE_DOWN_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "TWISTER",
+              "BODY_SLAM"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "GABITE",
+                "candyCost": 25,
+                "form": "GABITE_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -28919,7 +32240,7 @@
       "templateId": "V0444_POKEMON_GABITE",
       "pms": [
         {
-          "templateId": "V0444_POKEMON_GABITE",
+          "templateId": "V0444_POKEMON_GABITE_NORMAL",
           "data": {
             "stats": {
               "a": 172,
@@ -28940,12 +32261,105 @@
             "evolutionBranch": [
               {
                 "evolution": "GARCHOMP",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "GARCHOMP_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.4,
+            "weightKg": 56,
+            "pid": "GABITE",
+            "fid": "$F_GIBLE",
+            "types": [
+              "$T_DRAGON",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0444_POKEMON_GABITE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 172,
+              "s": 169,
+              "d": 125
+            },
+            "quickMoves": [
+              "TAKE_DOWN_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "TWISTER",
+              "FLAMETHROWER"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "GARCHOMP",
+                "candyCost": 90,
+                "form": "GARCHOMP_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.4,
+            "weightKg": 56,
+            "pid": "GABITE",
+            "fid": "$F_GIBLE",
+            "types": [
+              "$T_DRAGON",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0444_POKEMON_GABITE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 172,
+              "s": 169,
+              "d": 125
+            },
+            "quickMoves": [
+              "TAKE_DOWN_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "TWISTER",
+              "FLAMETHROWER"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "GARCHOMP",
+                "candyCost": 100,
+                "form": "GARCHOMP_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -28969,7 +32383,7 @@
       "templateId": "V0445_POKEMON_GARCHOMP",
       "pms": [
         {
-          "templateId": "V0445_POKEMON_GARCHOMP",
+          "templateId": "V0445_POKEMON_GARCHOMP_NORMAL",
           "data": {
             "stats": {
               "a": 261,
@@ -28990,6 +32404,84 @@
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.9,
+            "weightKg": 95,
+            "pid": "GARCHOMP",
+            "fid": "$F_GIBLE",
+            "types": [
+              "$T_DRAGON",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0445_POKEMON_GARCHOMP_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 261,
+              "s": 239,
+              "d": 193
+            },
+            "quickMoves": [
+              "DRAGON_TAIL_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "OUTRAGE",
+              "EARTHQUAKE",
+              "FIRE_BLAST"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.9,
+            "weightKg": 95,
+            "pid": "GARCHOMP",
+            "fid": "$F_GIBLE",
+            "types": [
+              "$T_DRAGON",
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0445_POKEMON_GARCHOMP_SHADOW",
+          "data": {
+            "stats": {
+              "a": 261,
+              "s": 239,
+              "d": 193
+            },
+            "quickMoves": [
+              "DRAGON_TAIL_FAST",
+              "MUD_SHOT_FAST"
+            ],
+            "cinematicMoves": [
+              "OUTRAGE",
+              "EARTHQUAKE",
+              "FIRE_BLAST"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -29156,7 +32648,7 @@
       "templateId": "V0449_POKEMON_HIPPOPOTAS",
       "pms": [
         {
-          "templateId": "V0449_POKEMON_HIPPOPOTAS",
+          "templateId": "V0449_POKEMON_HIPPOPOTAS_NORMAL",
           "data": {
             "stats": {
               "a": 124,
@@ -29177,12 +32669,103 @@
             "evolutionBranch": [
               {
                 "evolution": "HIPPOWDON",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "HIPPOWDON_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.8,
+            "weightKg": 49.5,
+            "pid": "HIPPOPOTAS",
+            "fid": "$F_HIPPOPOTAS",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0449_POKEMON_HIPPOPOTAS_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 124,
+              "s": 169,
+              "d": 118
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "BITE_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "ROCK_TOMB",
+              "BODY_SLAM"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "HIPPOWDON",
+                "candyCost": 45,
+                "form": "HIPPOWDON_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.8,
+            "weightKg": 49.5,
+            "pid": "HIPPOPOTAS",
+            "fid": "$F_HIPPOPOTAS",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0449_POKEMON_HIPPOPOTAS_SHADOW",
+          "data": {
+            "stats": {
+              "a": 124,
+              "s": 169,
+              "d": 118
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "BITE_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "ROCK_TOMB",
+              "BODY_SLAM"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "HIPPOWDON",
+                "candyCost": 50,
+                "form": "HIPPOWDON_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -29205,7 +32788,7 @@
       "templateId": "V0450_POKEMON_HIPPOWDON",
       "pms": [
         {
-          "templateId": "V0450_POKEMON_HIPPOWDON",
+          "templateId": "V0450_POKEMON_HIPPOWDON_NORMAL",
           "data": {
             "stats": {
               "a": 201,
@@ -29229,6 +32812,88 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2,
+            "weightKg": 300,
+            "pid": "HIPPOWDON",
+            "fid": "$F_HIPPOPOTAS",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0450_POKEMON_HIPPOWDON_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 201,
+              "s": 239,
+              "d": 191
+            },
+            "quickMoves": [
+              "FIRE_FANG_FAST",
+              "BITE_FAST",
+              "THUNDER_FANG_FAST",
+              "ICE_FANG_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "STONE_EDGE",
+              "BODY_SLAM",
+              "EARTH_POWER"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2,
+            "weightKg": 300,
+            "pid": "HIPPOWDON",
+            "fid": "$F_HIPPOPOTAS",
+            "types": [
+              "$T_GROUND"
+            ]
+          }
+        },
+        {
+          "templateId": "V0450_POKEMON_HIPPOWDON_SHADOW",
+          "data": {
+            "stats": {
+              "a": 201,
+              "s": 239,
+              "d": 191
+            },
+            "quickMoves": [
+              "FIRE_FANG_FAST",
+              "BITE_FAST",
+              "THUNDER_FANG_FAST",
+              "ICE_FANG_FAST"
+            ],
+            "cinematicMoves": [
+              "EARTHQUAKE",
+              "STONE_EDGE",
+              "BODY_SLAM",
+              "EARTH_POWER"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -29720,7 +33385,7 @@
       "templateId": "V0461_POKEMON_WEAVILE",
       "pms": [
         {
-          "templateId": "V0461_POKEMON_WEAVILE",
+          "templateId": "V0461_POKEMON_WEAVILE_NORMAL",
           "data": {
             "stats": {
               "a": 243,
@@ -29758,6 +33423,86 @@
               "$T_ICE"
             ]
           }
+        },
+        {
+          "templateId": "V0461_POKEMON_WEAVILE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 243,
+              "s": 172,
+              "d": 171
+            },
+            "quickMoves": [
+              "ICE_SHARD_FAST",
+              "FEINT_ATTACK_FAST",
+              "SNARL_FAST"
+            ],
+            "cinematicMoves": [
+              "AVALANCHE",
+              "FOCUS_BLAST",
+              "FOUL_PLAY"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.1,
+            "weightKg": 34,
+            "pid": "WEAVILE",
+            "fid": "$F_SNEASEL",
+            "types": [
+              "$T_DARK",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0461_POKEMON_WEAVILE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 243,
+              "s": 172,
+              "d": 171
+            },
+            "quickMoves": [
+              "ICE_SHARD_FAST",
+              "FEINT_ATTACK_FAST",
+              "SNARL_FAST"
+            ],
+            "cinematicMoves": [
+              "AVALANCHE",
+              "FOCUS_BLAST",
+              "FOUL_PLAY"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.1,
+            "weightKg": 34,
+            "pid": "WEAVILE",
+            "fid": "$F_SNEASEL",
+            "types": [
+              "$T_DARK",
+              "$T_ICE"
+            ]
+          }
         }
       ]
     },
@@ -29765,7 +33510,7 @@
       "templateId": "V0462_POKEMON_MAGNEZONE",
       "pms": [
         {
-          "templateId": "V0462_POKEMON_MAGNEZONE",
+          "templateId": "V0462_POKEMON_MAGNEZONE_NORMAL",
           "data": {
             "stats": {
               "a": 238,
@@ -29785,6 +33530,82 @@
             "kmBuddyDistance": 3,
             "thirdMove": {
               "stardustToUnlock": 50000,
+              "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1.2,
+            "weightKg": 180,
+            "pid": "MAGNEZONE",
+            "fid": "$F_MAGNEMITE",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0462_POKEMON_MAGNEZONE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 238,
+              "s": 172,
+              "d": 205
+            },
+            "quickMoves": [
+              "SPARK_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "ZAP_CANNON",
+              "WILD_CHARGE",
+              "FLASH_CANNON"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1.2,
+            "weightKg": 180,
+            "pid": "MAGNEZONE",
+            "fid": "$F_MAGNEMITE",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_STEEL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0462_POKEMON_MAGNEZONE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 238,
+              "s": 172,
+              "d": 205
+            },
+            "quickMoves": [
+              "SPARK_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "ZAP_CANNON",
+              "WILD_CHARGE",
+              "FLASH_CANNON"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
               "candyToUnlock": 50
             },
             "isTransferable": true,
@@ -29851,7 +33672,7 @@
       "templateId": "V0464_POKEMON_RHYPERIOR",
       "pms": [
         {
-          "templateId": "V0464_POKEMON_RHYPERIOR",
+          "templateId": "V0464_POKEMON_RHYPERIOR_NORMAL",
           "data": {
             "stats": {
               "a": 241,
@@ -29872,6 +33693,86 @@
             "kmBuddyDistance": 3,
             "thirdMove": {
               "stardustToUnlock": 50000,
+              "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2.4,
+            "weightKg": 282.8,
+            "pid": "RHYPERIOR",
+            "fid": "$F_RHYHORN",
+            "types": [
+              "$T_GROUND",
+              "$T_ROCK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0464_POKEMON_RHYPERIOR_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 241,
+              "s": 251,
+              "d": 190
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "SMACK_DOWN_FAST"
+            ],
+            "cinematicMoves": [
+              "SURF",
+              "EARTHQUAKE",
+              "STONE_EDGE",
+              "SKULL_BASH"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2.4,
+            "weightKg": 282.8,
+            "pid": "RHYPERIOR",
+            "fid": "$F_RHYHORN",
+            "types": [
+              "$T_GROUND",
+              "$T_ROCK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0464_POKEMON_RHYPERIOR_SHADOW",
+          "data": {
+            "stats": {
+              "a": 241,
+              "s": 251,
+              "d": 190
+            },
+            "quickMoves": [
+              "MUD_SLAP_FAST",
+              "SMACK_DOWN_FAST"
+            ],
+            "cinematicMoves": [
+              "SURF",
+              "EARTHQUAKE",
+              "STONE_EDGE",
+              "SKULL_BASH"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
               "candyToUnlock": 50
             },
             "isTransferable": true,
@@ -30447,7 +34348,7 @@
       "templateId": "V0474_POKEMON_PORYGON_Z",
       "pms": [
         {
-          "templateId": "V0474_POKEMON_PORYGON_Z",
+          "templateId": "V0474_POKEMON_PORYGON_Z_NORMAL",
           "data": {
             "stats": {
               "a": 264,
@@ -30468,6 +34369,82 @@
             "kmBuddyDistance": 3,
             "thirdMove": {
               "stardustToUnlock": 50000,
+              "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.9,
+            "weightKg": 34,
+            "pid": "PORYGON_Z",
+            "fid": "$F_PORYGON",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0474_POKEMON_PORYGON_Z_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 264,
+              "s": 198,
+              "d": 150
+            },
+            "quickMoves": [
+              "HIDDEN_POWER_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "HYPER_BEAM",
+              "ZAP_CANNON",
+              "BLIZZARD"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 0.9,
+            "weightKg": 34,
+            "pid": "PORYGON_Z",
+            "fid": "$F_PORYGON",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0474_POKEMON_PORYGON_Z_SHADOW",
+          "data": {
+            "stats": {
+              "a": 264,
+              "s": 198,
+              "d": 150
+            },
+            "quickMoves": [
+              "HIDDEN_POWER_FAST",
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "SOLAR_BEAM",
+              "HYPER_BEAM",
+              "ZAP_CANNON",
+              "BLIZZARD"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
               "candyToUnlock": 50
             },
             "isTransferable": true,
@@ -31316,12 +35293,12 @@
             },
             "quickMoves": [
               "ZEN_HEADBUTT_FAST",
-              "ROCK_SMASH_FAST"
+              "HIDDEN_POWER_FAST"
             ],
             "cinematicMoves": [
-              "STONE_EDGE",
-              "AVALANCHE",
-              "HEAVY_SLAM"
+              "GIGA_IMPACT",
+              "FOCUS_BLAST",
+              "THUNDER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 20,
@@ -43044,9 +47021,13 @@
       "data": {
         "power": 1,
         "durationMs": 300,
-        "energyDelta": 6,
         "damageWindowStartMs": 170,
-        "damageWindowEndMs": 300
+        "damageWindowEndMs": 300,
+        "energyDelta": 6
+      },
+      "pvpData": {
+        "power": 1,
+        "energyDelta": 5
       }
     },
     {
@@ -44008,6 +47989,10 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2400,
         "energyDelta": -100
+      },
+      "pvpData": {
+        "power": 150,
+        "energyDelta": -80
       }
     },
     {

@@ -492,7 +492,26 @@
       110,
       97,
       111
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 23,
+    "ads": [
+      110,
+      97,
+      111
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 23,
+    "ads": [
+      110,
+      97,
+      111
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 24,
@@ -500,7 +519,26 @@
       167,
       153,
       155
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 24,
+    "ads": [
+      167,
+      153,
+      155
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 24,
+    "ads": [
+      167,
+      153,
+      155
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 25,
@@ -557,6 +595,24 @@
     "isotope": "normal"
   },
   {
+    "dex": 27,
+    "ads": [
+      126,
+      120,
+      137
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 27,
+    "ads": [
+      126,
+      120,
+      137
+    ],
+    "isotope": "shadow"
+  },
+  {
     "dex": 28,
     "ads": [
       177,
@@ -573,6 +629,24 @@
       181
     ],
     "isotope": "normal"
+  },
+  {
+    "dex": 28,
+    "ads": [
+      182,
+      175,
+      181
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 28,
+    "ads": [
+      182,
+      175,
+      181
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 29,
@@ -914,6 +988,24 @@
     "isotope": "normal"
   },
   {
+    "dex": 50,
+    "ads": [
+      109,
+      78,
+      67
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 50,
+    "ads": [
+      109,
+      78,
+      67
+    ],
+    "isotope": "shadow"
+  },
+  {
     "dex": 51,
     "ads": [
       201,
@@ -930,6 +1022,24 @@
       111
     ],
     "isotope": "normal"
+  },
+  {
+    "dex": 51,
+    "ads": [
+      167,
+      134,
+      111
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 51,
+    "ads": [
+      167,
+      134,
+      111
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 52,
@@ -950,6 +1060,24 @@
     "isotope": "normal"
   },
   {
+    "dex": 52,
+    "ads": [
+      92,
+      78,
+      120
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 52,
+    "ads": [
+      92,
+      78,
+      120
+    ],
+    "isotope": "shadow"
+  },
+  {
     "dex": 53,
     "ads": [
       158,
@@ -966,6 +1094,24 @@
       163
     ],
     "isotope": "normal"
+  },
+  {
+    "dex": 53,
+    "ads": [
+      150,
+      136,
+      163
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 53,
+    "ads": [
+      150,
+      136,
+      163
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 54,
@@ -1283,7 +1429,26 @@
       139,
       61,
       137
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 69,
+    "ads": [
+      139,
+      61,
+      137
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 69,
+    "ads": [
+      139,
+      61,
+      137
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 70,
@@ -1291,7 +1456,26 @@
       172,
       92,
       163
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 70,
+    "ads": [
+      172,
+      92,
+      163
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 70,
+    "ads": [
+      172,
+      92,
+      163
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 71,
@@ -1299,7 +1483,26 @@
       207,
       135,
       190
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 71,
+    "ads": [
+      207,
+      135,
+      190
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 71,
+    "ads": [
+      207,
+      135,
+      190
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 72,
@@ -1336,6 +1539,24 @@
     "isotope": "normal"
   },
   {
+    "dex": 74,
+    "ads": [
+      132,
+      132,
+      120
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 74,
+    "ads": [
+      132,
+      132,
+      120
+    ],
+    "isotope": "shadow"
+  },
+  {
     "dex": 75,
     "ads": [
       164,
@@ -1354,6 +1575,24 @@
     "isotope": "normal"
   },
   {
+    "dex": 75,
+    "ads": [
+      164,
+      164,
+      146
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 75,
+    "ads": [
+      164,
+      164,
+      146
+    ],
+    "isotope": "shadow"
+  },
+  {
     "dex": 76,
     "ads": [
       211,
@@ -1370,6 +1609,24 @@
       190
     ],
     "isotope": "normal"
+  },
+  {
+    "dex": 76,
+    "ads": [
+      211,
+      198,
+      190
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 76,
+    "ads": [
+      211,
+      198,
+      190
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 77,
@@ -1409,7 +1666,26 @@
       165,
       121,
       93
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 81,
+    "ads": [
+      165,
+      121,
+      93
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 81,
+    "ads": [
+      165,
+      121,
+      93
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 82,
@@ -1417,7 +1693,26 @@
       223,
       169,
       137
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 82,
+    "ads": [
+      223,
+      169,
+      137
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 82,
+    "ads": [
+      223,
+      169,
+      137
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 83,
@@ -1537,7 +1832,26 @@
       116,
       134,
       102
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 90,
+    "ads": [
+      116,
+      134,
+      102
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 90,
+    "ads": [
+      116,
+      134,
+      102
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 91,
@@ -1545,7 +1859,26 @@
       186,
       256,
       137
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 91,
+    "ads": [
+      186,
+      256,
+      137
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 91,
+    "ads": [
+      186,
+      256,
+      137
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 92,
@@ -1577,7 +1910,26 @@
       85,
       232,
       111
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 95,
+    "ads": [
+      85,
+      232,
+      111
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 95,
+    "ads": [
+      85,
+      232,
+      111
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 96,
@@ -1639,7 +1991,26 @@
       181,
       124,
       102
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 98,
+    "ads": [
+      181,
+      124,
+      102
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 98,
+    "ads": [
+      181,
+      124,
+      102
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 99,
@@ -1647,7 +2018,26 @@
       240,
       181,
       146
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 99,
+    "ads": [
+      240,
+      181,
+      146
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 99,
+    "ads": [
+      240,
+      181,
+      146
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 100,
@@ -1760,7 +2150,26 @@
       224,
       181,
       137
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 106,
+    "ads": [
+      224,
+      181,
+      137
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 106,
+    "ads": [
+      224,
+      181,
+      137
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 107,
@@ -1803,7 +2212,26 @@
       119,
       141,
       120
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 109,
+    "ads": [
+      119,
+      141,
+      120
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 109,
+    "ads": [
+      119,
+      141,
+      120
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 110,
@@ -1811,7 +2239,26 @@
       174,
       197,
       163
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 110,
+    "ads": [
+      174,
+      197,
+      163
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 110,
+    "ads": [
+      174,
+      197,
+      163
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 111,
@@ -1819,7 +2266,26 @@
       140,
       127,
       190
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 111,
+    "ads": [
+      140,
+      127,
+      190
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 111,
+    "ads": [
+      140,
+      127,
+      190
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 112,
@@ -1827,7 +2293,26 @@
       222,
       171,
       233
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 112,
+    "ads": [
+      222,
+      171,
+      233
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 112,
+    "ads": [
+      222,
+      171,
+      233
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 113,
@@ -1851,7 +2336,26 @@
       181,
       165,
       233
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 115,
+    "ads": [
+      181,
+      165,
+      233
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 115,
+    "ads": [
+      181,
+      165,
+      233
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 116,
@@ -2141,7 +2645,26 @@
       153,
       136,
       163
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 137,
+    "ads": [
+      153,
+      136,
+      163
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 137,
+    "ads": [
+      153,
+      136,
+      163
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 138,
@@ -2216,7 +2739,26 @@
       192,
       236,
       207
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 144,
+    "ads": [
+      192,
+      236,
+      207
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 144,
+    "ads": [
+      192,
+      236,
+      207
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 145,
@@ -2829,7 +3371,26 @@
       175,
       87,
       155
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 198,
+    "ads": [
+      175,
+      87,
+      155
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 198,
+    "ads": [
+      175,
+      87,
+      155
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 199,
@@ -2861,7 +3422,26 @@
       60,
       106,
       382
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 202,
+    "ads": [
+      60,
+      106,
+      382
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 202,
+    "ads": [
+      60,
+      106,
+      382
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 203,
@@ -2909,7 +3489,26 @@
       148,
       272,
       181
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 208,
+    "ads": [
+      148,
+      272,
+      181
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 208,
+    "ads": [
+      148,
+      272,
+      181
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 209,
@@ -2984,7 +3583,26 @@
       189,
       146,
       146
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 215,
+    "ads": [
+      189,
+      146,
+      146
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 215,
+    "ads": [
+      189,
+      146,
+      146
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 216,
@@ -3166,7 +3784,26 @@
       198,
       180,
       198
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 233,
+    "ads": [
+      198,
+      180,
+      198
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 233,
+    "ads": [
+      198,
+      180,
+      198
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 234,
@@ -4953,7 +5590,26 @@
       113,
       86,
       127
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 390,
+    "ads": [
+      113,
+      86,
+      127
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 390,
+    "ads": [
+      113,
+      86,
+      127
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 391,
@@ -4961,7 +5617,26 @@
       158,
       105,
       162
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 391,
+    "ads": [
+      158,
+      105,
+      162
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 391,
+    "ads": [
+      158,
+      105,
+      162
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 392,
@@ -4969,7 +5644,26 @@
       222,
       151,
       183
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 392,
+    "ads": [
+      222,
+      151,
+      183
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 392,
+    "ads": [
+      222,
+      151,
+      183
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 393,
@@ -5341,7 +6035,26 @@
       243,
       103,
       225
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 430,
+    "ads": [
+      243,
+      103,
+      225
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 430,
+    "ads": [
+      243,
+      103,
+      225
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 431,
@@ -5445,7 +6158,26 @@
       124,
       84,
       151
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 443,
+    "ads": [
+      124,
+      84,
+      151
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 443,
+    "ads": [
+      124,
+      84,
+      151
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 444,
@@ -5453,7 +6185,26 @@
       172,
       125,
       169
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 444,
+    "ads": [
+      172,
+      125,
+      169
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 444,
+    "ads": [
+      172,
+      125,
+      169
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 445,
@@ -5461,7 +6212,26 @@
       261,
       193,
       239
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 445,
+    "ads": [
+      261,
+      193,
+      239
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 445,
+    "ads": [
+      261,
+      193,
+      239
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 446,
@@ -5493,7 +6263,26 @@
       124,
       118,
       169
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 449,
+    "ads": [
+      124,
+      118,
+      169
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 449,
+    "ads": [
+      124,
+      118,
+      169
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 450,
@@ -5501,7 +6290,26 @@
       201,
       191,
       239
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 450,
+    "ads": [
+      201,
+      191,
+      239
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 450,
+    "ads": [
+      201,
+      191,
+      239
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 451,
@@ -5589,7 +6397,26 @@
       243,
       171,
       172
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 461,
+    "ads": [
+      243,
+      171,
+      172
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 461,
+    "ads": [
+      243,
+      171,
+      172
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 462,
@@ -5597,7 +6424,26 @@
       238,
       205,
       172
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 462,
+    "ads": [
+      238,
+      205,
+      172
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 462,
+    "ads": [
+      238,
+      205,
+      172
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 463,
@@ -5613,7 +6459,26 @@
       241,
       190,
       251
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 464,
+    "ads": [
+      241,
+      190,
+      251
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 464,
+    "ads": [
+      241,
+      190,
+      251
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 465,
@@ -5731,7 +6596,26 @@
       264,
       150,
       198
-    ]
+    ],
+    "isotope": "normal"
+  },
+  {
+    "dex": 474,
+    "ads": [
+      264,
+      150,
+      198
+    ],
+    "isotope": "purified"
+  },
+  {
+    "dex": 474,
+    "ads": [
+      264,
+      150,
+      198
+    ],
+    "isotope": "shadow"
   },
   {
     "dex": 475,
