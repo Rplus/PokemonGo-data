@@ -1,0 +1,875 @@
+[
+  {
+    "dex": 3,
+    "cm": [
+      "FRENZY_PLANT"
+    ]
+  },
+  {
+    "dex": 9,
+    "cm": [
+      "HYDRO_CANNON"
+    ]
+  },
+  {
+    "dex": 21,
+    "cm": [
+      "TWISTER"
+    ]
+  },
+  {
+    "dex": 22,
+    "cm": [
+      "TWISTER"
+    ]
+  },
+  {
+    "dex": 23,
+    "cm": [
+      "GUNK_SHOT"
+    ]
+  },
+  {
+    "dex": 27,
+    "cm": [
+      "ROCK_TOMB"
+    ]
+  },
+  {
+    "dex": 39,
+    "cm": [
+      "PLAY_ROUGH",
+      "BODY_SLAM"
+    ]
+  },
+  {
+    "dex": 41,
+    "cm": [
+      "SLUDGE_BOMB"
+    ]
+  },
+  {
+    "dex": 42,
+    "cm": [
+      "OMINOUS_WIND"
+    ]
+  },
+  {
+    "dex": 52,
+    "cm": [
+      "BODY_SLAM"
+    ]
+  },
+  {
+    "dex": 53,
+    "cm": [
+      "NIGHT_SLASH"
+    ]
+  },
+  {
+    "dex": 61,
+    "cm": [
+      "SCALD"
+    ]
+  },
+  {
+    "dex": 65,
+    "cm": [
+      "DAZZLING_GLEAM",
+      "PSYCHIC"
+    ]
+  },
+  {
+    "dex": 67,
+    "cm": [
+      "CROSS_CHOP"
+    ]
+  },
+  {
+    "dex": 77,
+    "cm": [
+      "FIRE_BLAST"
+    ]
+  },
+  {
+    "dex": 84,
+    "cm": [
+      "SWIFT"
+    ]
+  },
+  {
+    "dex": 85,
+    "cm": [
+      "AIR_CUTTER"
+    ]
+  },
+  {
+    "dex": 91,
+    "cm": [
+      "BLIZZARD",
+      "ICY_WIND"
+    ]
+  },
+  {
+    "dex": 95,
+    "cm": [
+      "IRON_HEAD",
+      "ROCK_SLIDE"
+    ]
+  },
+  {
+    "dex": 97,
+    "cm": [
+      "PSYSHOCK",
+      "SHADOW_BALL"
+    ]
+  },
+  {
+    "dex": 100,
+    "cm": [
+      "SIGNAL_BEAM"
+    ]
+  },
+  {
+    "dex": 106,
+    "cm": [
+      "STOMP",
+      "BRICK_BREAK"
+    ]
+  },
+  {
+    "dex": 112,
+    "cm": [
+      "MEGAHORN"
+    ]
+  },
+  {
+    "dex": 113,
+    "cm": [
+      "PSYBEAM"
+    ]
+  },
+  {
+    "dex": 114,
+    "cm": [
+      "POWER_WHIP"
+    ]
+  },
+  {
+    "dex": 115,
+    "cm": [
+      "BRICK_BREAK",
+      "STOMP"
+    ]
+  },
+  {
+    "dex": 117,
+    "cm": [
+      "BLIZZARD"
+    ]
+  },
+  {
+    "dex": 133,
+    "cm": [
+      "BODY_SLAM",
+      "LAST_RESORT"
+    ]
+  },
+  {
+    "dex": 134,
+    "cm": [
+      "LAST_RESORT"
+    ]
+  },
+  {
+    "dex": 135,
+    "cm": [
+      "LAST_RESORT"
+    ]
+  },
+  {
+    "dex": 136,
+    "cm": [
+      "HEAT_WAVE",
+      "LAST_RESORT"
+    ]
+  },
+  {
+    "dex": 138,
+    "cm": [
+      "ROCK_TOMB",
+      "BRINE"
+    ]
+  },
+  {
+    "dex": 144,
+    "cm": [
+      "HURRICANE"
+    ]
+  },
+  {
+    "dex": 150,
+    "cm": [
+      "SHADOW_BALL",
+      "HYPER_BEAM",
+      "PSYSTRIKE"
+    ]
+  },
+  {
+    "dex": 154,
+    "cm": [
+      "FRENZY_PLANT"
+    ]
+  },
+  {
+    "dex": 157,
+    "cm": [
+      "BLAST_BURN"
+    ]
+  },
+  {
+    "dex": 173,
+    "cm": [
+      "PSYCHIC",
+      "BODY_SLAM"
+    ]
+  },
+  {
+    "dex": 174,
+    "cm": [
+      "BODY_SLAM"
+    ]
+  },
+  {
+    "dex": 181,
+    "cm": [
+      "DRAGON_PULSE"
+    ]
+  },
+  {
+    "dex": 186,
+    "cm": [
+      "EARTHQUAKE"
+    ]
+  },
+  {
+    "dex": 196,
+    "cm": [
+      "LAST_RESORT"
+    ]
+  },
+  {
+    "dex": 197,
+    "cm": [
+      "LAST_RESORT"
+    ]
+  },
+  {
+    "dex": 239,
+    "cm": [
+      "THUNDERBOLT"
+    ]
+  },
+  {
+    "dex": 240,
+    "cm": [
+      "FLAMETHROWER"
+    ]
+  },
+  {
+    "dex": 254,
+    "cm": [
+      "FRENZY_PLANT"
+    ]
+  },
+  {
+    "dex": 257,
+    "cm": [
+      "STONE_EDGE",
+      "BLAST_BURN"
+    ]
+  },
+  {
+    "dex": 260,
+    "cm": [
+      "HYDRO_CANNON"
+    ]
+  },
+  {
+    "dex": 282,
+    "cm": [
+      "SYNCHRONOISE"
+    ]
+  },
+  {
+    "dex": 286,
+    "cm": [
+      "GRASS_KNOT"
+    ]
+  },
+  {
+    "dex": 289,
+    "cm": [
+      "BODY_SLAM"
+    ]
+  },
+  {
+    "dex": 294,
+    "cm": [
+      "CRUNCH"
+    ]
+  },
+  {
+    "dex": 330,
+    "cm": [
+      "EARTH_POWER"
+    ]
+  },
+  {
+    "dex": 373,
+    "cm": [
+      "OUTRAGE"
+    ]
+  },
+  {
+    "dex": 376,
+    "cm": [
+      "METEOR_MASH"
+    ]
+  },
+  {
+    "dex": 392,
+    "cm": [
+      "BLAST_BURN"
+    ]
+  },
+  {
+    "dex": 389,
+    "cm": [
+      "FRENZY_PLANT"
+    ]
+  },
+  {
+    "dex": 473,
+    "cm": [
+      "ANCIENT_POWER"
+    ]
+  },
+  {
+    "dex": 475,
+    "cm": [
+      "SYNCHRONOISE"
+    ]
+  },
+  {
+    "dex": 423,
+    "cm": [
+      "EARTHQUAKE"
+    ]
+  },
+  {
+    "dex": 88,
+    "qm": [
+      "ACID_FAST"
+    ]
+  },
+  {
+    "dex": 109,
+    "qm": [
+      "ACID_FAST"
+    ]
+  },
+  {
+    "dex": 110,
+    "qm": [
+      "ACID_FAST"
+    ]
+  },
+  {
+    "dex": 89,
+    "qm": [
+      "ACID_FAST",
+      "LICK_FAST"
+    ]
+  },
+  {
+    "dex": 59,
+    "qm": [
+      "BITE_FAST"
+    ],
+    "cm": [
+      "BULLDOZE",
+      "FLAMETHROWER"
+    ]
+  },
+  {
+    "dex": 292,
+    "qm": [
+      "BITE_FAST",
+      "STRUGGLE_BUG_FAST"
+    ]
+  },
+  {
+    "dex": 12,
+    "qm": [
+      "BUG_BITE_FAST"
+    ]
+  },
+  {
+    "dex": 15,
+    "qm": [
+      "BUG_BITE_FAST"
+    ]
+  },
+  {
+    "dex": 47,
+    "qm": [
+      "BUG_BITE_FAST"
+    ]
+  },
+  {
+    "dex": 49,
+    "qm": [
+      "BUG_BITE_FAST"
+    ],
+    "cm": [
+      "POISON_FANG"
+    ]
+  },
+  {
+    "dex": 103,
+    "qm": [
+      "CONFUSION_FAST",
+      "ZEN_HEADBUTT_FAST"
+    ]
+  },
+  {
+    "dex": 83,
+    "qm": [
+      "CUT_FAST"
+    ]
+  },
+  {
+    "dex": 149,
+    "qm": [
+      "DRAGON_BREATH_FAST"
+    ],
+    "cm": [
+      "DRAGON_CLAW",
+      "DRAGON_PULSE",
+      "DRACO_METEOR"
+    ]
+  },
+  {
+    "dex": 130,
+    "qm": [
+      "DRAGON_BREATH_FAST",
+      "DRAGON_TAIL_FAST"
+    ],
+    "cm": [
+      "DRAGON_PULSE",
+      "TWISTER"
+    ]
+  },
+  {
+    "dex": 38,
+    "qm": [
+      "EMBER_FAST"
+    ],
+    "cm": [
+      "FIRE_BLAST",
+      "FLAMETHROWER"
+    ]
+  },
+  {
+    "dex": 78,
+    "qm": [
+      "EMBER_FAST"
+    ]
+  },
+  {
+    "dex": 146,
+    "qm": [
+      "EMBER_FAST"
+    ],
+    "cm": [
+      "SKY_ATTACK"
+    ]
+  },
+  {
+    "dex": 6,
+    "qm": [
+      "EMBER_FAST",
+      "WING_ATTACK_FAST"
+    ],
+    "cm": [
+      "FLAMETHROWER",
+      "BLAST_BURN"
+    ]
+  },
+  {
+    "dex": 238,
+    "qm": [
+      "FROST_BREATH_FAST"
+    ]
+  },
+  {
+    "dex": 34,
+    "qm": [
+      "FURY_CUTTER_FAST"
+    ]
+  },
+  {
+    "dex": 127,
+    "qm": [
+      "FURY_CUTTER_FAST"
+    ],
+    "cm": [
+      "SUBMISSION"
+    ]
+  },
+  {
+    "dex": 141,
+    "qm": [
+      "FURY_CUTTER_FAST"
+    ]
+  },
+  {
+    "dex": 245,
+    "qm": [
+      "HIDDEN_POWER_FAST"
+    ]
+  },
+  {
+    "dex": 87,
+    "qm": [
+      "ICE_SHARD_FAST"
+    ],
+    "cm": [
+      "AQUA_JET",
+      "ICY_WIND"
+    ]
+  },
+  {
+    "dex": 131,
+    "qm": [
+      "ICE_SHARD_FAST"
+    ],
+    "cm": [
+      "DRAGON_PULSE",
+      "ICE_BEAM"
+    ]
+  },
+  {
+    "dex": 225,
+    "qm": [
+      "ICE_SHARD_FAST",
+      "QUICK_ATTACK_FAST"
+    ]
+  },
+  {
+    "dex": 57,
+    "qm": [
+      "KARATE_CHOP_FAST"
+    ],
+    "cm": [
+      "CROSS_CHOP"
+    ]
+  },
+  {
+    "dex": 68,
+    "qm": [
+      "KARATE_CHOP_FAST"
+    ],
+    "cm": [
+      "CROSS_CHOP",
+      "STONE_EDGE",
+      "SUBMISSION"
+    ]
+  },
+  {
+    "dex": 93,
+    "qm": [
+      "LICK_FAST"
+    ],
+    "cm": [
+      "SHADOW_BALL"
+    ]
+  },
+  {
+    "dex": 66,
+    "qm": [
+      "LOW_KICK_FAST"
+    ]
+  },
+  {
+    "dex": 50,
+    "qm": [
+      "MUD_SHOT_FAST"
+    ]
+  },
+  {
+    "dex": 51,
+    "qm": [
+      "MUD_SHOT_FAST"
+    ]
+  },
+  {
+    "dex": 62,
+    "qm": [
+      "MUD_SHOT_FAST"
+    ],
+    "cm": [
+      "SUBMISSION"
+    ]
+  },
+  {
+    "dex": 75,
+    "qm": [
+      "MUD_SHOT_FAST"
+    ],
+    "cm": [
+      "ROCK_SLIDE"
+    ]
+  },
+  {
+    "dex": 76,
+    "qm": [
+      "MUD_SHOT_FAST"
+    ],
+    "cm": [
+      "ANCIENT_POWER"
+    ]
+  },
+  {
+    "dex": 99,
+    "qm": [
+      "MUD_SHOT_FAST"
+    ]
+  },
+  {
+    "dex": 119,
+    "qm": [
+      "POISON_JAB_FAST"
+    ],
+    "cm": [
+      "ICY_WIND",
+      "DRILL_RUN"
+    ]
+  },
+  {
+    "dex": 36,
+    "qm": [
+      "POUND_FAST"
+    ]
+  },
+  {
+    "dex": 124,
+    "qm": [
+      "POUND_FAST"
+    ],
+    "cm": [
+      "ICE_PUNCH"
+    ]
+  },
+  {
+    "dex": 25,
+    "qm": [
+      "PRESENT_FAST"
+    ],
+    "cm": [
+      "SURF",
+      "THUNDER"
+    ]
+  },
+  {
+    "dex": 120,
+    "qm": [
+      "QUICK_ATTACK_FAST"
+    ]
+  },
+  {
+    "dex": 172,
+    "qm": [
+      "QUICK_ATTACK_FAST"
+    ]
+  },
+  {
+    "dex": 121,
+    "qm": [
+      "QUICK_ATTACK_FAST",
+      "TACKLE_FAST"
+    ],
+    "cm": [
+      "PSYBEAM"
+    ]
+  },
+  {
+    "dex": 137,
+    "qm": [
+      "QUICK_ATTACK_FAST",
+      "TACKLE_FAST",
+      "ZEN_HEADBUTT_FAST"
+    ],
+    "cm": [
+      "DISCHARGE",
+      "PSYBEAM",
+      "SIGNAL_BEAM"
+    ]
+  },
+  {
+    "dex": 70,
+    "qm": [
+      "RAZOR_LEAF_FAST"
+    ]
+  },
+  {
+    "dex": 107,
+    "qm": [
+      "ROCK_SMASH_FAST"
+    ],
+    "cm": [
+      "BRICK_BREAK"
+    ]
+  },
+  {
+    "dex": 139,
+    "qm": [
+      "ROCK_THROW_FAST"
+    ],
+    "cm": [
+      "ROCK_SLIDE"
+    ]
+  },
+  {
+    "dex": 5,
+    "qm": [
+      "SCRATCH_FAST"
+    ]
+  },
+  {
+    "dex": 94,
+    "qm": [
+      "SHADOW_CLAW_FAST",
+      "LICK_FAST"
+    ],
+    "cm": [
+      "SLUDGE_WAVE",
+      "DARK_PULSE",
+      "PSYCHIC"
+    ]
+  },
+  {
+    "dex": 248,
+    "qm": [
+      "SMACK_DOWN_FAST"
+    ]
+  },
+  {
+    "dex": 123,
+    "qm": [
+      "STEEL_WING_FAST"
+    ],
+    "cm": [
+      "BUG_BUZZ"
+    ]
+  },
+  {
+    "dex": 176,
+    "qm": [
+      "STEEL_WING_FAST",
+      "ZEN_HEADBUTT_FAST"
+    ]
+  },
+  {
+    "dex": 92,
+    "qm": [
+      "SUCKER_PUNCH_FAST"
+    ],
+    "cm": [
+      "OMINOUS_WIND"
+    ]
+  },
+  {
+    "dex": 101,
+    "qm": [
+      "TACKLE_FAST"
+    ]
+  },
+  {
+    "dex": 26,
+    "qm": [
+      "THUNDER_SHOCK_FAST"
+    ],
+    "cm": [
+      "THUNDER"
+    ]
+  },
+  {
+    "dex": 82,
+    "qm": [
+      "THUNDER_SHOCK_FAST"
+    ],
+    "cm": [
+      "DISCHARGE"
+    ]
+  },
+  {
+    "dex": 145,
+    "qm": [
+      "THUNDER_SHOCK_FAST",
+      "THUNDER_SHOCK_FAST"
+    ],
+    "cm": [
+      "DISCHARGE"
+    ]
+  },
+  {
+    "dex": 86,
+    "qm": [
+      "WATER_GUN_FAST"
+    ],
+    "cm": [
+      "AQUA_JET"
+    ]
+  },
+  {
+    "dex": 160,
+    "qm": [
+      "WATER_GUN_FAST"
+    ],
+    "cm": [
+      "HYDRO_CANNON"
+    ]
+  },
+  {
+    "dex": 230,
+    "qm": [
+      "WATER_GUN_FAST"
+    ]
+  },
+  {
+    "dex": 18,
+    "qm": [
+      "WING_ATTACK_FAST"
+    ],
+    "cm": [
+      "AIR_CUTTER"
+    ]
+  },
+  {
+    "dex": 143,
+    "qm": [
+      "YAWN_FAST"
+    ],
+    "cm": [
+      "BODY_SLAM"
+    ]
+  },
+  {
+    "dex": 175,
+    "qm": [
+      "ZEN_HEADBUTT_FAST"
+    ]
+  }
+]

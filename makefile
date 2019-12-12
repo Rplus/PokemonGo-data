@@ -14,3 +14,6 @@ filter-pm-stats:
 
 filter-pm-go:
 	node filter-pm-go.js
+
+get-legendary-moves:
+	node get-legemdary-moves.js
