@@ -1744,7 +1744,8 @@
             "cinematicMoves": [
               "SLUDGE_BOMB",
               "AERIAL_ACE",
-              "X_SCISSOR"
+              "X_SCISSOR",
+              "FELL_STINGER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -1782,7 +1783,8 @@
             "cinematicMoves": [
               "SLUDGE_BOMB",
               "AERIAL_ACE",
-              "X_SCISSOR"
+              "X_SCISSOR",
+              "FELL_STINGER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -1820,7 +1822,8 @@
             "cinematicMoves": [
               "SLUDGE_BOMB",
               "AERIAL_ACE",
-              "X_SCISSOR"
+              "X_SCISSOR",
+              "FELL_STINGER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -6105,7 +6108,8 @@
             "cinematicMoves": [
               "FIRE_BLAST",
               "WILD_CHARGE",
-              "CRUNCH"
+              "CRUNCH",
+              "FLAMETHROWER"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -6143,7 +6147,8 @@
             "cinematicMoves": [
               "FIRE_BLAST",
               "WILD_CHARGE",
-              "CRUNCH"
+              "CRUNCH",
+              "FLAMETHROWER"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -6181,7 +6186,8 @@
             "cinematicMoves": [
               "FIRE_BLAST",
               "WILD_CHARGE",
-              "CRUNCH"
+              "CRUNCH",
+              "FLAMETHROWER"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -6516,7 +6522,8 @@
             },
             "quickMoves": [
               "BUBBLE_FAST",
-              "ROCK_SMASH_FAST"
+              "ROCK_SMASH_FAST",
+              "MUD_SHOT_FAST"
             ],
             "cinematicMoves": [
               "HYDRO_PUMP",
@@ -6555,7 +6562,8 @@
             },
             "quickMoves": [
               "BUBBLE_FAST",
-              "ROCK_SMASH_FAST"
+              "ROCK_SMASH_FAST",
+              "MUD_SHOT_FAST"
             ],
             "cinematicMoves": [
               "HYDRO_PUMP",
@@ -6594,7 +6602,8 @@
             },
             "quickMoves": [
               "BUBBLE_FAST",
-              "ROCK_SMASH_FAST"
+              "ROCK_SMASH_FAST",
+              "MUD_SHOT_FAST"
             ],
             "cinematicMoves": [
               "HYDRO_PUMP",
@@ -7141,7 +7150,8 @@
               "HEAVY_SLAM",
               "DYNAMIC_PUNCH",
               "CLOSE_COMBAT",
-              "ROCK_SLIDE"
+              "ROCK_SLIDE",
+              "CROSS_CHOP"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -8068,7 +8078,8 @@
             "cinematicMoves": [
               "STONE_EDGE",
               "ROCK_BLAST",
-              "EARTHQUAKE"
+              "EARTHQUAKE",
+              "ANCIENT_POWER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -8145,7 +8156,8 @@
             "cinematicMoves": [
               "STONE_EDGE",
               "ROCK_BLAST",
-              "EARTHQUAKE"
+              "EARTHQUAKE",
+              "ANCIENT_POWER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -8183,7 +8195,8 @@
             "cinematicMoves": [
               "STONE_EDGE",
               "ROCK_BLAST",
-              "EARTHQUAKE"
+              "EARTHQUAKE",
+              "ANCIENT_POWER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -9413,7 +9426,8 @@
             "cinematicMoves": [
               "AURORA_BEAM",
               "HYDRO_PUMP",
-              "AVALANCHE"
+              "AVALANCHE",
+              "ICY_WIND"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -9451,7 +9465,8 @@
             "cinematicMoves": [
               "AURORA_BEAM",
               "HYDRO_PUMP",
-              "AVALANCHE"
+              "AVALANCHE",
+              "ICY_WIND"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -9489,7 +9504,8 @@
             "cinematicMoves": [
               "AURORA_BEAM",
               "HYDRO_PUMP",
-              "AVALANCHE"
+              "AVALANCHE",
+              "ICY_WIND"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -9627,7 +9643,8 @@
             },
             "quickMoves": [
               "SUCKER_PUNCH_FAST",
-              "HEX_FAST"
+              "HEX_FAST",
+              "SHADOW_CLAW_FAST"
             ],
             "cinematicMoves": [
               "SHADOW_BALL",
@@ -10477,7 +10494,8 @@
             },
             "quickMoves": [
               "BULLET_SEED_FAST",
-              "EXTRASENSORY_FAST"
+              "EXTRASENSORY_FAST",
+              "CONFUSION_FAST"
             ],
             "cinematicMoves": [
               "SEED_BOMB",
@@ -11302,6 +11320,46 @@
             "fid": "$F_KOFFING",
             "types": [
               "$T_POISON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0110_POKEMON_WEEZING_GALARIAN",
+          "data": {
+            "stats": {
+              "a": 174,
+              "s": 163,
+              "d": 197
+            },
+            "quickMoves": [
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "SLUDGE",
+              "HYPER_BEAM",
+              "PLAY_ROUGH",
+              "HYPER_BEAM",
+              "OVERHEAT"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 50000,
+              "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "assetBundleValue": 31,
+            "heightM": 3,
+            "weightKg": 16,
+            "pid": "WEEZING",
+            "fid": "$F_KOFFING",
+            "types": [
+              "$T_POISON",
+              "$T_FAIRY"
             ]
           }
         },
@@ -12684,12 +12742,14 @@
             },
             "quickMoves": [
               "ROCK_SMASH_FAST",
-              "BUG_BITE_FAST"
+              "BUG_BITE_FAST",
+              "FURY_CUTTER_FAST"
             ],
             "cinematicMoves": [
               "VICE_GRIP",
               "X_SCISSOR",
-              "CLOSE_COMBAT"
+              "CLOSE_COMBAT",
+              "SUPER_POWER"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -12898,12 +12958,14 @@
             },
             "quickMoves": [
               "BITE_FAST",
-              "WATERFALL_FAST"
+              "WATERFALL_FAST",
+              "DRAGON_BREATH_FAST"
             ],
             "cinematicMoves": [
               "HYDRO_PUMP",
               "CRUNCH",
-              "OUTRAGE"
+              "OUTRAGE",
+              "TWISTER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -12936,12 +12998,14 @@
             },
             "quickMoves": [
               "BITE_FAST",
-              "WATERFALL_FAST"
+              "WATERFALL_FAST",
+              "DRAGON_BREATH_FAST"
             ],
             "cinematicMoves": [
               "HYDRO_PUMP",
               "CRUNCH",
-              "OUTRAGE"
+              "OUTRAGE",
+              "TWISTER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -12974,12 +13038,14 @@
             },
             "quickMoves": [
               "BITE_FAST",
-              "WATERFALL_FAST"
+              "WATERFALL_FAST",
+              "DRAGON_BREATH_FAST"
             ],
             "cinematicMoves": [
               "HYDRO_PUMP",
               "CRUNCH",
-              "OUTRAGE"
+              "OUTRAGE",
+              "TWISTER"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -13763,7 +13829,9 @@
               "HYPER_BEAM",
               "EARTHQUAKE",
               "OUTRAGE",
-              "SKULL_BASH"
+              "SKULL_BASH",
+              "BODY_SLAM",
+              "SUPER_POWER"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -13802,7 +13870,9 @@
               "HYPER_BEAM",
               "EARTHQUAKE",
               "OUTRAGE",
-              "SKULL_BASH"
+              "SKULL_BASH",
+              "BODY_SLAM",
+              "SUPER_POWER"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -13841,7 +13911,9 @@
               "HYPER_BEAM",
               "EARTHQUAKE",
               "OUTRAGE",
-              "SKULL_BASH"
+              "SKULL_BASH",
+              "BODY_SLAM",
+              "SUPER_POWER"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -13985,7 +14057,7 @@
       "templateId": "V0145_POKEMON_ZAPDOS",
       "pms": [
         {
-          "templateId": "V0145_POKEMON_ZAPDOS",
+          "templateId": "V0145_POKEMON_ZAPDOS_NORMAL",
           "data": {
             "stats": {
               "a": 253,
@@ -14020,6 +14092,80 @@
               "$T_FLYING"
             ]
           }
+        },
+        {
+          "templateId": "V0145_POKEMON_ZAPDOS_SHADOW",
+          "data": {
+            "stats": {
+              "a": 253,
+              "s": 207,
+              "d": 185
+            },
+            "quickMoves": [
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "ZAP_CANNON",
+              "THUNDERBOLT",
+              "THUNDER",
+              "ANCIENT_POWER",
+              "DRILL_PECK"
+            ],
+            "kmBuddyDistance": 20,
+            "thirdMove": {
+              "stardustToUnlock": 300000,
+              "candyToUnlock": 225
+            },
+            "isTransferable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1.6,
+            "weightKg": 52.6,
+            "pid": "ZAPDOS",
+            "fid": "$F_ZAPDOS",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0145_POKEMON_ZAPDOS_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 253,
+              "s": 207,
+              "d": 185
+            },
+            "quickMoves": [
+              "CHARGE_BEAM_FAST"
+            ],
+            "cinematicMoves": [
+              "ZAP_CANNON",
+              "THUNDERBOLT",
+              "THUNDER",
+              "ANCIENT_POWER",
+              "DRILL_PECK"
+            ],
+            "kmBuddyDistance": 20,
+            "thirdMove": {
+              "stardustToUnlock": 80000,
+              "candyToUnlock": 80
+            },
+            "isTransferable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 1.6,
+            "weightKg": 52.6,
+            "pid": "ZAPDOS",
+            "fid": "$F_ZAPDOS",
+            "types": [
+              "$T_ELECTRIC",
+              "$T_FLYING"
+            ]
+          }
         }
       ]
     },
@@ -14027,7 +14173,7 @@
       "templateId": "V0146_POKEMON_MOLTRES",
       "pms": [
         {
-          "templateId": "V0146_POKEMON_MOLTRES",
+          "templateId": "V0146_POKEMON_MOLTRES_NORMAL",
           "data": {
             "stats": {
               "a": 251,
@@ -14048,6 +14194,80 @@
             "thirdMove": {
               "stardustToUnlock": 100000,
               "candyToUnlock": 100
+            },
+            "isTransferable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 2,
+            "weightKg": 60,
+            "pid": "MOLTRES",
+            "fid": "$F_MOLTRES",
+            "types": [
+              "$T_FIRE",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0146_POKEMON_MOLTRES_SHADOW",
+          "data": {
+            "stats": {
+              "a": 251,
+              "s": 207,
+              "d": 181
+            },
+            "quickMoves": [
+              "FIRE_SPIN_FAST",
+              "WING_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "FIRE_BLAST",
+              "HEAT_WAVE",
+              "OVERHEAT",
+              "ANCIENT_POWER"
+            ],
+            "kmBuddyDistance": 20,
+            "thirdMove": {
+              "stardustToUnlock": 300000,
+              "candyToUnlock": 225
+            },
+            "isTransferable": true,
+            "gender": {
+              "genderless": 1
+            },
+            "heightM": 2,
+            "weightKg": 60,
+            "pid": "MOLTRES",
+            "fid": "$F_MOLTRES",
+            "types": [
+              "$T_FIRE",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0146_POKEMON_MOLTRES_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 251,
+              "s": 207,
+              "d": 181
+            },
+            "quickMoves": [
+              "FIRE_SPIN_FAST",
+              "WING_ATTACK_FAST"
+            ],
+            "cinematicMoves": [
+              "FIRE_BLAST",
+              "HEAT_WAVE",
+              "OVERHEAT",
+              "ANCIENT_POWER"
+            ],
+            "kmBuddyDistance": 20,
+            "thirdMove": {
+              "stardustToUnlock": 80000,
+              "candyToUnlock": 80
             },
             "isTransferable": true,
             "gender": {
@@ -14358,12 +14578,14 @@
             },
             "quickMoves": [
               "DRAGON_TAIL_FAST",
-              "STEEL_WING_FAST"
+              "STEEL_WING_FAST",
+              "DRAGON_BREATH_FAST"
             ],
             "cinematicMoves": [
               "HURRICANE",
               "HYPER_BEAM",
-              "OUTRAGE"
+              "OUTRAGE",
+              "DRAGON_CLAW"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -14396,12 +14618,14 @@
             },
             "quickMoves": [
               "DRAGON_TAIL_FAST",
-              "STEEL_WING_FAST"
+              "STEEL_WING_FAST",
+              "DRAGON_BREATH_FAST"
             ],
             "cinematicMoves": [
               "HURRICANE",
               "HYPER_BEAM",
-              "OUTRAGE"
+              "OUTRAGE",
+              "DRAGON_CLAW"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -14434,12 +14658,14 @@
             },
             "quickMoves": [
               "DRAGON_TAIL_FAST",
-              "STEEL_WING_FAST"
+              "STEEL_WING_FAST",
+              "DRAGON_BREATH_FAST"
             ],
             "cinematicMoves": [
               "HURRICANE",
               "HYPER_BEAM",
-              "OUTRAGE"
+              "OUTRAGE",
+              "DRAGON_CLAW"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -15016,7 +15242,8 @@
             },
             "quickMoves": [
               "WATERFALL_FAST",
-              "BITE_FAST"
+              "BITE_FAST",
+              "ICE_FANG_FAST"
             ],
             "cinematicMoves": [
               "CRUNCH",
@@ -17740,7 +17967,9 @@
             "cinematicMoves": [
               "HEAVY_SLAM",
               "EARTHQUAKE",
-              "ROCK_TOMB"
+              "ROCK_TOMB",
+              "SAND_TOMB",
+              "MIRROR_SHOT"
             ],
             "kmBuddyDistance": 5,
             "thirdMove": {
@@ -18090,7 +18319,8 @@
               "AQUA_TAIL",
               "ICE_BEAM",
               "SLUDGE_WAVE",
-              "ACID_SPRAY"
+              "ACID_SPRAY",
+              "FELL_STINGER"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -18858,7 +19088,8 @@
               "GUNK_SHOT",
               "WATER_PULSE",
               "AURORA_BEAM",
-              "ACID_SPRAY"
+              "ACID_SPRAY",
+              "OCTAZOOKA"
             ],
             "kmBuddyDistance": 1,
             "thirdMove": {
@@ -18886,7 +19117,7 @@
       "templateId": "V0225_POKEMON_DELIBIRD",
       "pms": [
         {
-          "templateId": "V0225_POKEMON_DELIBIRD",
+          "templateId": "V0225_POKEMON_DELIBIRD_NORMAL",
           "data": {
             "stats": {
               "a": 128,
@@ -18905,6 +19136,80 @@
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.89,
+            "weightKg": 16,
+            "pid": "DELIBIRD",
+            "fid": "$F_DELIBIRD",
+            "types": [
+              "$T_ICE",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0225_POKEMON_DELIBIRD_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 128,
+              "s": 128,
+              "d": 90
+            },
+            "quickMoves": [
+              "PRESENT_FAST"
+            ],
+            "cinematicMoves": [
+              "ICE_PUNCH",
+              "ICY_WIND",
+              "AERIAL_ACE"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.89,
+            "weightKg": 16,
+            "pid": "DELIBIRD",
+            "fid": "$F_DELIBIRD",
+            "types": [
+              "$T_ICE",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0225_POKEMON_DELIBIRD_SHADOW",
+          "data": {
+            "stats": {
+              "a": 128,
+              "s": 128,
+              "d": 90
+            },
+            "quickMoves": [
+              "PRESENT_FAST"
+            ],
+            "cinematicMoves": [
+              "ICE_PUNCH",
+              "ICY_WIND",
+              "AERIAL_ACE"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -19295,7 +19600,8 @@
             "cinematicMoves": [
               "HYDRO_PUMP",
               "BLIZZARD",
-              "OUTRAGE"
+              "OUTRAGE",
+              "OCTAZOOKA"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -19426,7 +19732,8 @@
             },
             "quickMoves": [
               "HIDDEN_POWER_FAST",
-              "CHARGE_BEAM_FAST"
+              "CHARGE_BEAM_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "SOLAR_BEAM",
@@ -19470,7 +19777,8 @@
             },
             "quickMoves": [
               "HIDDEN_POWER_FAST",
-              "CHARGE_BEAM_FAST"
+              "CHARGE_BEAM_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "SOLAR_BEAM",
@@ -19514,7 +19822,8 @@
             },
             "quickMoves": [
               "HIDDEN_POWER_FAST",
-              "CHARGE_BEAM_FAST"
+              "CHARGE_BEAM_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "SOLAR_BEAM",
@@ -19554,7 +19863,7 @@
       "templateId": "V0234_POKEMON_STANTLER",
       "pms": [
         {
-          "templateId": "V0234_POKEMON_STANTLER",
+          "templateId": "V0234_POKEMON_STANTLER_NORMAL",
           "data": {
             "stats": {
               "a": 192,
@@ -19574,6 +19883,80 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.4,
+            "weightKg": 71.2,
+            "pid": "STANTLER",
+            "fid": "$F_STANTLER",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0234_POKEMON_STANTLER_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 192,
+              "s": 177,
+              "d": 131
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "ZEN_HEADBUTT_FAST"
+            ],
+            "cinematicMoves": [
+              "STOMP",
+              "WILD_CHARGE",
+              "MEGAHORN"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.4,
+            "weightKg": 71.2,
+            "pid": "STANTLER",
+            "fid": "$F_STANTLER",
+            "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0234_POKEMON_STANTLER_SHADOW",
+          "data": {
+            "stats": {
+              "a": 192,
+              "s": 177,
+              "d": 131
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "ZEN_HEADBUTT_FAST"
+            ],
+            "cinematicMoves": [
+              "STOMP",
+              "WILD_CHARGE",
+              "MEGAHORN"
+            ],
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -20582,7 +20965,8 @@
             "cinematicMoves": [
               "HYPER_BEAM",
               "PSYCHIC",
-              "DAZZLING_GLEAM"
+              "DAZZLING_GLEAM",
+              "SEED_BOMB"
             ],
             "kmBuddyDistance": 20,
             "thirdMove": {
@@ -21379,7 +21763,7 @@
       "templateId": "V0263_POKEMON_ZIGZAGOON",
       "pms": [
         {
-          "templateId": "V0263_POKEMON_ZIGZAGOON",
+          "templateId": "V0263_POKEMON_ZIGZAGOON_NORMAL",
           "data": {
             "stats": {
               "a": 58,
@@ -21399,7 +21783,8 @@
             "evolutionBranch": [
               {
                 "evolution": "LINOONE",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "LINOONE_NORMAL"
               }
             ],
             "thirdMove": {
@@ -21420,6 +21805,52 @@
               "$T_NORMAL"
             ]
           }
+        },
+        {
+          "templateId": "V0263_POKEMON_ZIGZAGOON_GALARIAN",
+          "data": {
+            "stats": {
+              "a": 58,
+              "s": 116,
+              "d": 80
+            },
+            "quickMoves": [
+              "TACKLE_FAST",
+              "ROCK_SMASH_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "GRASS_KNOT",
+              "THUNDERBOLT"
+            ],
+            "kmBuddyDistance": 1,
+            "evolutionBranch": [
+              {
+                "evolution": "LINOONE",
+                "candyCost": 50,
+                "form": "LINOONE_GALARIAN"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 10000,
+              "candyToUnlock": 25
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "assetBundleValue": 31,
+            "heightM": 0.4,
+            "weightKg": 17.5,
+            "pid": "ZIGZAGOON",
+            "fid": "$F_ZIGZAGOON",
+            "types": [
+              "$T_DARK",
+              "$T_NORMAL"
+            ]
+          }
         }
       ]
     },
@@ -21427,7 +21858,7 @@
       "templateId": "V0264_POKEMON_LINOONE",
       "pms": [
         {
-          "templateId": "V0264_POKEMON_LINOONE",
+          "templateId": "V0264_POKEMON_LINOONE_NORMAL",
           "data": {
             "stats": {
               "a": 142,
@@ -21459,6 +21890,45 @@
             "pid": "LINOONE",
             "fid": "$F_ZIGZAGOON",
             "types": [
+              "$T_NORMAL"
+            ]
+          }
+        },
+        {
+          "templateId": "V0264_POKEMON_LINOONE_GALARIAN",
+          "data": {
+            "stats": {
+              "a": 142,
+              "s": 186,
+              "d": 128
+            },
+            "quickMoves": [
+              "SHADOW_CLAW_FAST",
+              "TACKLE_FAST"
+            ],
+            "cinematicMoves": [
+              "DIG",
+              "GRASS_KNOT",
+              "THUNDER"
+            ],
+            "kmBuddyDistance": 1,
+            "thirdMove": {
+              "stardustToUnlock": 10000,
+              "candyToUnlock": 25
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "assetBundleValue": 31,
+            "heightM": 0.5,
+            "weightKg": 32.5,
+            "pid": "LINOONE",
+            "fid": "$F_ZIGZAGOON",
+            "types": [
+              "$T_DARK",
               "$T_NORMAL"
             ]
           }
@@ -22124,7 +22594,8 @@
             },
             "quickMoves": [
               "RAZOR_LEAF_FAST",
-              "FEINT_ATTACK_FAST"
+              "FEINT_ATTACK_FAST",
+              "SNARL_FAST"
             ],
             "cinematicMoves": [
               "LEAF_BLADE",
@@ -22163,7 +22634,8 @@
             },
             "quickMoves": [
               "RAZOR_LEAF_FAST",
-              "FEINT_ATTACK_FAST"
+              "FEINT_ATTACK_FAST",
+              "SNARL_FAST"
             ],
             "cinematicMoves": [
               "LEAF_BLADE",
@@ -22202,7 +22674,8 @@
             },
             "quickMoves": [
               "RAZOR_LEAF_FAST",
-              "FEINT_ATTACK_FAST"
+              "FEINT_ATTACK_FAST",
+              "SNARL_FAST"
             ],
             "cinematicMoves": [
               "LEAF_BLADE",
@@ -23495,7 +23968,8 @@
             "cinematicMoves": [
               "HEAVY_SLAM",
               "CLOSE_COMBAT",
-              "DYNAMIC_PUNCH"
+              "DYNAMIC_PUNCH",
+              "SUPER_POWER"
             ],
             "kmBuddyDistance": 3,
             "thirdMove": {
@@ -27238,7 +27712,7 @@
       "templateId": "V0359_POKEMON_ABSOL",
       "pms": [
         {
-          "templateId": "V0359_POKEMON_ABSOL",
+          "templateId": "V0359_POKEMON_ABSOL_NORMAL",
           "data": {
             "stats": {
               "a": 246,
@@ -27258,6 +27732,80 @@
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.19,
+            "weightKg": 47,
+            "pid": "ABSOL",
+            "fid": "$F_ABSOL",
+            "types": [
+              "$T_DARK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0359_POKEMON_ABSOL_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 246,
+              "s": 163,
+              "d": 120
+            },
+            "quickMoves": [
+              "PSYCHO_CUT_FAST",
+              "SNARL_FAST"
+            ],
+            "cinematicMoves": [
+              "DARK_PULSE",
+              "THUNDER",
+              "MEGAHORN"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.19,
+            "weightKg": 47,
+            "pid": "ABSOL",
+            "fid": "$F_ABSOL",
+            "types": [
+              "$T_DARK"
+            ]
+          }
+        },
+        {
+          "templateId": "V0359_POKEMON_ABSOL_SHADOW",
+          "data": {
+            "stats": {
+              "a": 246,
+              "s": 163,
+              "d": 120
+            },
+            "quickMoves": [
+              "PSYCHO_CUT_FAST",
+              "SNARL_FAST"
+            ],
+            "cinematicMoves": [
+              "DARK_PULSE",
+              "THUNDER",
+              "MEGAHORN"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -27783,7 +28331,7 @@
       "templateId": "V0371_POKEMON_BAGON",
       "pms": [
         {
-          "templateId": "V0371_POKEMON_BAGON",
+          "templateId": "V0371_POKEMON_BAGON_NORMAL",
           "data": {
             "stats": {
               "a": 134,
@@ -27803,12 +28351,101 @@
             "evolutionBranch": [
               {
                 "evolution": "SHELGON",
-                "candyCost": 25
+                "candyCost": 25,
+                "form": "SHELGON_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.61,
+            "weightKg": 42.1,
+            "pid": "BAGON",
+            "fid": "$F_BAGON",
+            "types": [
+              "$T_DRAGON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0371_POKEMON_BAGON_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 134,
+              "s": 128,
+              "d": 93
+            },
+            "quickMoves": [
+              "BITE_FAST",
+              "EMBER_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAMETHROWER",
+              "TWISTER",
+              "CRUNCH"
+            ],
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "SHELGON",
+                "candyCost": 22,
+                "form": "SHELGON_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 0.61,
+            "weightKg": 42.1,
+            "pid": "BAGON",
+            "fid": "$F_BAGON",
+            "types": [
+              "$T_DRAGON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0371_POKEMON_BAGON_SHADOW",
+          "data": {
+            "stats": {
+              "a": 134,
+              "s": 128,
+              "d": 93
+            },
+            "quickMoves": [
+              "BITE_FAST",
+              "EMBER_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAMETHROWER",
+              "TWISTER",
+              "CRUNCH"
+            ],
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "SHELGON",
+                "candyCost": 25,
+                "form": "SHELGON_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -27831,7 +28468,7 @@
       "templateId": "V0372_POKEMON_SHELGON",
       "pms": [
         {
-          "templateId": "V0372_POKEMON_SHELGON",
+          "templateId": "V0372_POKEMON_SHELGON_NORMAL",
           "data": {
             "stats": {
               "a": 172,
@@ -27851,12 +28488,101 @@
             "evolutionBranch": [
               {
                 "evolution": "SALAMENCE",
-                "candyCost": 100
+                "candyCost": 100,
+                "form": "SALAMENCE_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.09,
+            "weightKg": 110.5,
+            "pid": "SHELGON",
+            "fid": "$F_BAGON",
+            "types": [
+              "$T_DRAGON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0372_POKEMON_SHELGON_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 172,
+              "s": 163,
+              "d": 155
+            },
+            "quickMoves": [
+              "EMBER_FAST",
+              "DRAGON_BREATH_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAMETHROWER",
+              "DRAGON_PULSE",
+              "TWISTER"
+            ],
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "SALAMENCE",
+                "candyCost": 90,
+                "form": "SALAMENCE_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.09,
+            "weightKg": 110.5,
+            "pid": "SHELGON",
+            "fid": "$F_BAGON",
+            "types": [
+              "$T_DRAGON"
+            ]
+          }
+        },
+        {
+          "templateId": "V0372_POKEMON_SHELGON_SHADOW",
+          "data": {
+            "stats": {
+              "a": 172,
+              "s": 163,
+              "d": 155
+            },
+            "quickMoves": [
+              "EMBER_FAST",
+              "DRAGON_BREATH_FAST"
+            ],
+            "cinematicMoves": [
+              "FLAMETHROWER",
+              "DRAGON_PULSE",
+              "TWISTER"
+            ],
+            "kmBuddyDistance": 5,
+            "evolutionBranch": [
+              {
+                "evolution": "SALAMENCE",
+                "candyCost": 100,
+                "form": "SALAMENCE_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -27879,7 +28605,7 @@
       "templateId": "V0373_POKEMON_SALAMENCE",
       "pms": [
         {
-          "templateId": "V0373_POKEMON_SALAMENCE",
+          "templateId": "V0373_POKEMON_SALAMENCE_NORMAL",
           "data": {
             "stats": {
               "a": 277,
@@ -27900,6 +28626,84 @@
             "thirdMove": {
               "stardustToUnlock": 75000,
               "candyToUnlock": 75
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.5,
+            "weightKg": 102.6,
+            "pid": "SALAMENCE",
+            "fid": "$F_BAGON",
+            "types": [
+              "$T_DRAGON",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0373_POKEMON_SALAMENCE_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 277,
+              "s": 216,
+              "d": 168
+            },
+            "quickMoves": [
+              "DRAGON_TAIL_FAST",
+              "FIRE_FANG_FAST",
+              "BITE_FAST"
+            ],
+            "cinematicMoves": [
+              "FIRE_BLAST",
+              "HYDRO_PUMP",
+              "DRACO_METEOR"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 60000,
+              "candyToUnlock": 60
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1.5,
+            "weightKg": 102.6,
+            "pid": "SALAMENCE",
+            "fid": "$F_BAGON",
+            "types": [
+              "$T_DRAGON",
+              "$T_FLYING"
+            ]
+          }
+        },
+        {
+          "templateId": "V0373_POKEMON_SALAMENCE_SHADOW",
+          "data": {
+            "stats": {
+              "a": 277,
+              "s": 216,
+              "d": 168
+            },
+            "quickMoves": [
+              "DRAGON_TAIL_FAST",
+              "FIRE_FANG_FAST",
+              "BITE_FAST"
+            ],
+            "cinematicMoves": [
+              "FIRE_BLAST",
+              "HYDRO_PUMP",
+              "DRACO_METEOR"
+            ],
+            "kmBuddyDistance": 5,
+            "thirdMove": {
+              "stardustToUnlock": 225000,
+              "candyToUnlock": 225
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -28277,7 +29081,8 @@
             "cinematicMoves": [
               "HYDRO_PUMP",
               "BLIZZARD",
-              "THUNDER"
+              "THUNDER",
+              "SURF"
             ],
             "kmBuddyDistance": 20,
             "thirdMove": {
@@ -28684,7 +29489,7 @@
             "evolutionBranch": [
               {
                 "evolution": "GROTLE",
-                "candyCost": 25,
+                "candyCost": 22,
                 "form": "GROTLE_PURIFIED"
               }
             ],
@@ -28824,7 +29629,7 @@
             "evolutionBranch": [
               {
                 "evolution": "TORTERRA",
-                "candyCost": 100,
+                "candyCost": 90,
                 "form": "TORTERRA_PURIFIED"
               }
             ],
@@ -28867,7 +29672,8 @@
             "cinematicMoves": [
               "STONE_EDGE",
               "SOLAR_BEAM",
-              "EARTHQUAKE"
+              "EARTHQUAKE",
+              "SAND_TOMB"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -28906,7 +29712,8 @@
             "cinematicMoves": [
               "STONE_EDGE",
               "SOLAR_BEAM",
-              "EARTHQUAKE"
+              "EARTHQUAKE",
+              "SAND_TOMB"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -28945,7 +29752,8 @@
             "cinematicMoves": [
               "STONE_EDGE",
               "SOLAR_BEAM",
-              "EARTHQUAKE"
+              "EARTHQUAKE",
+              "SAND_TOMB"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -30652,7 +31460,8 @@
             "cinematicMoves": [
               "BUG_BUZZ",
               "POWER_GEM",
-              "X_SCISSOR"
+              "X_SCISSOR",
+              "FELL_STINGER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -32397,7 +33206,8 @@
             "cinematicMoves": [
               "OUTRAGE",
               "EARTHQUAKE",
-              "FIRE_BLAST"
+              "FIRE_BLAST",
+              "SAND_TOMB"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 5,
@@ -32436,7 +33246,8 @@
             "cinematicMoves": [
               "OUTRAGE",
               "EARTHQUAKE",
-              "FIRE_BLAST"
+              "FIRE_BLAST",
+              "SAND_TOMB"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 5,
@@ -32475,7 +33286,8 @@
             "cinematicMoves": [
               "OUTRAGE",
               "EARTHQUAKE",
-              "FIRE_BLAST"
+              "FIRE_BLAST",
+              "SAND_TOMB"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 5,
@@ -32618,7 +33430,8 @@
               "FLASH_CANNON",
               "SHADOW_BALL",
               "CLOSE_COMBAT",
-              "POWER_UP_PUNCH"
+              "POWER_UP_PUNCH",
+              "AURA_SPHERE"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 5,
@@ -32982,7 +33795,8 @@
             "cinematicMoves": [
               "CRUNCH",
               "AQUA_TAIL",
-              "SLUDGE_BOMB"
+              "SLUDGE_BOMB",
+              "FELL_STINGER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 5,
@@ -33291,7 +34105,7 @@
       "templateId": "V0459_POKEMON_SNOVER",
       "pms": [
         {
-          "templateId": "V0459_POKEMON_SNOVER",
+          "templateId": "V0459_POKEMON_SNOVER_NORMAL",
           "data": {
             "stats": {
               "a": 115,
@@ -33312,12 +34126,105 @@
             "evolutionBranch": [
               {
                 "evolution": "ABOMASNOW",
-                "candyCost": 50
+                "candyCost": 50,
+                "form": "ABOMASNOW_NORMAL"
               }
             ],
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 50.5,
+            "pid": "SNOVER",
+            "fid": "$F_SNOVER",
+            "types": [
+              "$T_GRASS",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0459_POKEMON_SNOVER_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 115,
+              "s": 155,
+              "d": 105
+            },
+            "quickMoves": [
+              "POWDER_SNOW_FAST",
+              "ICE_SHARD_FAST"
+            ],
+            "cinematicMoves": [
+              "ICE_BEAM",
+              "ENERGY_BALL",
+              "STOMP"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "ABOMASNOW",
+                "candyCost": 45,
+                "form": "ABOMASNOW_PURIFIED"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 1,
+            "weightKg": 50.5,
+            "pid": "SNOVER",
+            "fid": "$F_SNOVER",
+            "types": [
+              "$T_GRASS",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0459_POKEMON_SNOVER_SHADOW",
+          "data": {
+            "stats": {
+              "a": 115,
+              "s": 155,
+              "d": 105
+            },
+            "quickMoves": [
+              "POWDER_SNOW_FAST",
+              "ICE_SHARD_FAST"
+            ],
+            "cinematicMoves": [
+              "ICE_BEAM",
+              "ENERGY_BALL",
+              "STOMP"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "evolutionBranch": [
+              {
+                "evolution": "ABOMASNOW",
+                "candyCost": 50,
+                "form": "ABOMASNOW_SHADOW"
+              }
+            ],
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -33341,7 +34248,7 @@
       "templateId": "V0460_POKEMON_ABOMASNOW",
       "pms": [
         {
-          "templateId": "V0460_POKEMON_ABOMASNOW",
+          "templateId": "V0460_POKEMON_ABOMASNOW_NORMAL",
           "data": {
             "stats": {
               "a": 178,
@@ -33362,6 +34269,84 @@
             "thirdMove": {
               "stardustToUnlock": 50000,
               "candyToUnlock": 50
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2.2,
+            "weightKg": 135.5,
+            "pid": "ABOMASNOW",
+            "fid": "$F_SNOVER",
+            "types": [
+              "$T_GRASS",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0460_POKEMON_ABOMASNOW_PURIFIED",
+          "data": {
+            "stats": {
+              "a": 178,
+              "s": 207,
+              "d": 158
+            },
+            "quickMoves": [
+              "POWDER_SNOW_FAST",
+              "RAZOR_LEAF_FAST"
+            ],
+            "cinematicMoves": [
+              "BLIZZARD",
+              "ENERGY_BALL",
+              "OUTRAGE"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 40000,
+              "candyToUnlock": 40
+            },
+            "isTransferable": true,
+            "isDeployable": true,
+            "gender": {
+              "male": 0.5,
+              "female": 0.5
+            },
+            "heightM": 2.2,
+            "weightKg": 135.5,
+            "pid": "ABOMASNOW",
+            "fid": "$F_SNOVER",
+            "types": [
+              "$T_GRASS",
+              "$T_ICE"
+            ]
+          }
+        },
+        {
+          "templateId": "V0460_POKEMON_ABOMASNOW_SHADOW",
+          "data": {
+            "stats": {
+              "a": 178,
+              "s": 207,
+              "d": 158
+            },
+            "quickMoves": [
+              "POWDER_SNOW_FAST",
+              "RAZOR_LEAF_FAST"
+            ],
+            "cinematicMoves": [
+              "BLIZZARD",
+              "ENERGY_BALL",
+              "OUTRAGE"
+            ],
+            "candyToEvolve": 25,
+            "kmBuddyDistance": 3,
+            "thirdMove": {
+              "stardustToUnlock": 150000,
+              "candyToUnlock": 150
             },
             "isTransferable": true,
             "isDeployable": true,
@@ -33524,7 +34509,8 @@
             "cinematicMoves": [
               "ZAP_CANNON",
               "WILD_CHARGE",
-              "FLASH_CANNON"
+              "FLASH_CANNON",
+              "MIRROR_SHOT"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -33562,7 +34548,8 @@
             "cinematicMoves": [
               "ZAP_CANNON",
               "WILD_CHARGE",
-              "FLASH_CANNON"
+              "FLASH_CANNON",
+              "MIRROR_SHOT"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -33600,7 +34587,8 @@
             "cinematicMoves": [
               "ZAP_CANNON",
               "WILD_CHARGE",
-              "FLASH_CANNON"
+              "FLASH_CANNON",
+              "MIRROR_SHOT"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -33643,7 +34631,8 @@
             "cinematicMoves": [
               "HYPER_BEAM",
               "EARTHQUAKE",
-              "SOLAR_BEAM"
+              "SOLAR_BEAM",
+              "SHADOW_BALL"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -33687,7 +34676,8 @@
               "SURF",
               "EARTHQUAKE",
               "STONE_EDGE",
-              "SKULL_BASH"
+              "SKULL_BASH",
+              "SUPER_POWER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -33727,7 +34717,8 @@
               "SURF",
               "EARTHQUAKE",
               "STONE_EDGE",
-              "SKULL_BASH"
+              "SKULL_BASH",
+              "SUPER_POWER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -33767,7 +34758,8 @@
               "SURF",
               "EARTHQUAKE",
               "STONE_EDGE",
-              "SKULL_BASH"
+              "SKULL_BASH",
+              "SUPER_POWER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -33811,7 +34803,8 @@
             "cinematicMoves": [
               "ANCIENT_POWER",
               "SLUDGE_BOMB",
-              "SOLAR_BEAM"
+              "SOLAR_BEAM",
+              "POWER_WHIP"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -34274,7 +35267,8 @@
             "cinematicMoves": [
               "EARTHQUAKE",
               "AERIAL_ACE",
-              "NIGHT_SLASH"
+              "NIGHT_SLASH",
+              "SAND_TOMB"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 5,
@@ -34357,7 +35351,8 @@
             },
             "quickMoves": [
               "HIDDEN_POWER_FAST",
-              "CHARGE_BEAM_FAST"
+              "CHARGE_BEAM_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "SOLAR_BEAM",
@@ -34395,7 +35390,8 @@
             },
             "quickMoves": [
               "HIDDEN_POWER_FAST",
-              "CHARGE_BEAM_FAST"
+              "CHARGE_BEAM_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "SOLAR_BEAM",
@@ -34433,7 +35429,8 @@
             },
             "quickMoves": [
               "HIDDEN_POWER_FAST",
-              "CHARGE_BEAM_FAST"
+              "CHARGE_BEAM_FAST",
+              "LOCK_ON_FAST"
             ],
             "cinematicMoves": [
               "SOLAR_BEAM",
@@ -35255,7 +36252,8 @@
             "cinematicMoves": [
               "FIRE_BLAST",
               "IRON_HEAD",
-              "STONE_EDGE"
+              "STONE_EDGE",
+              "FLAMETHROWER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 20,
@@ -36964,7 +37962,8 @@
             },
             "quickMoves": [
               "LICK_FAST",
-              "TAKE_DOWN_FAST"
+              "TAKE_DOWN_FAST",
+              "ICE_FANG_FAST"
             ],
             "cinematicMoves": [
               "WILD_CHARGE",
@@ -39848,7 +40847,7 @@
             },
             "quickMoves": [
               "POUND_FAST",
-              "ACID_FAST"
+              "TAKE_DOWN_FAST"
             ],
             "cinematicMoves": [
               "GUNK_SHOT",
@@ -39897,7 +40896,7 @@
             },
             "quickMoves": [
               "INFESTATION_FAST",
-              "ACID_FAST"
+              "TAKE_DOWN_FAST"
             ],
             "cinematicMoves": [
               "ACID_SPRAY",
@@ -41526,7 +42525,8 @@
               "POWER_WHIP",
               "FLASH_CANNON",
               "ACID_SPRAY",
-              "THUNDER"
+              "THUNDER",
+              "MIRROR_SHOT"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 3,
@@ -41666,7 +42666,8 @@
             "cinematicMoves": [
               "HYPER_BEAM",
               "FLASH_CANNON",
-              "ZAP_CANNON"
+              "ZAP_CANNON",
+              "MIRROR_SHOT"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 5,
@@ -44361,7 +45362,8 @@
               "FLASH_CANNON",
               "THUNDERBOLT",
               "HYPER_BEAM",
-              "ROCK_SLIDE"
+              "ROCK_SLIDE",
+              "SUPER_POWER"
             ],
             "candyToEvolve": 25,
             "kmBuddyDistance": 20,
@@ -44862,7 +45864,11 @@
       },
       "pvpData": {
         "power": 50,
-        "energyDelta": -40
+        "energyDelta": -35,
+        "buffs": {
+          "attackerAttackStatStageChange": 2,
+          "buffActivationChance": 0.125
+        }
       }
     },
     {
@@ -45212,7 +46218,11 @@
       },
       "pvpData": {
         "power": 60,
-        "energyDelta": -45
+        "energyDelta": -45,
+        "buffs": {
+          "targetAttackStatStageChange": -1,
+          "buffActivationChance": 1
+        }
       }
     },
     {
@@ -45960,7 +46970,7 @@
       "type": "$T_GROUND",
       "mid": "EARTHQUAKE",
       "data": {
-        "power": 120,
+        "power": 140,
         "durationMs": 3600,
         "damageWindowStartMs": 2700,
         "damageWindowEndMs": 3500,
@@ -46243,6 +47253,57 @@
       }
     },
     {
+      "templateId": "V0291_MOVE_PRESENT_FAST",
+      "type": "$T_NORMAL",
+      "mid": "PRESENT_FAST",
+      "data": {
+        "power": 5,
+        "durationMs": 1300,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1300,
+        "energyDelta": 20
+      },
+      "pvpData": {
+        "power": 3,
+        "durationTurns": 2,
+        "energyDelta": 12
+      }
+    },
+    {
+      "templateId": "V0327_MOVE_ICE_FANG_FAST",
+      "type": "$T_ICE",
+      "mid": "ICE_FANG_FAST",
+      "data": {
+        "power": 12,
+        "durationMs": 1500,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 1000,
+        "energyDelta": 20
+      },
+      "pvpData": {
+        "power": 8,
+        "durationTurns": 1,
+        "energyDelta": 5
+      }
+    },
+    {
+      "templateId": "V0326_MOVE_THUNDER_FANG_FAST",
+      "type": "$T_ELECTRIC",
+      "mid": "THUNDER_FANG_FAST",
+      "data": {
+        "power": 12,
+        "durationMs": 1200,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 900,
+        "energyDelta": 16
+      },
+      "pvpData": {
+        "power": 8,
+        "durationTurns": 1,
+        "energyDelta": 5
+      }
+    },
+    {
       "templateId": "V0235_MOVE_CONFUSION_FAST",
       "type": "$T_PSYCHIC",
       "mid": "CONFUSION_FAST",
@@ -46328,6 +47389,38 @@
       }
     },
     {
+      "templateId": "V0281_MOVE_HIDDEN_POWER_FAST",
+      "type": "$T_NORMAL",
+      "mid": "HIDDEN_POWER_FAST",
+      "data": {
+        "power": 15,
+        "durationMs": 1500,
+        "damageWindowStartMs": 1100,
+        "damageWindowEndMs": 1400,
+        "energyDelta": 15
+      },
+      "pvpData": {
+        "power": 9,
+        "durationTurns": 2,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "V0287_MOVE_YAWN_FAST",
+      "type": "$T_NORMAL",
+      "mid": "YAWN_FAST",
+      "data": {
+        "durationMs": 1700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 1600,
+        "energyDelta": 15
+      },
+      "pvpData": {
+        "durationTurns": 3,
+        "energyDelta": 12
+      }
+    },
+    {
       "templateId": "V0237_MOVE_BUBBLE_FAST",
       "type": "$T_WATER",
       "mid": "BUBBLE_FAST",
@@ -46396,18 +47489,35 @@
       }
     },
     {
+      "templateId": "V0278_MOVE_SNARL_FAST",
+      "type": "$T_DARK",
+      "mid": "SNARL_FAST",
+      "data": {
+        "power": 12,
+        "durationMs": 1100,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1050,
+        "energyDelta": 14
+      },
+      "pvpData": {
+        "power": 5,
+        "durationTurns": 2,
+        "energyDelta": 13
+      }
+    },
+    {
       "templateId": "V0233_MOVE_MUD_SLAP_FAST",
       "type": "$T_GROUND",
       "mid": "MUD_SLAP_FAST",
       "data": {
-        "power": 15,
+        "power": 18,
         "durationMs": 1400,
         "damageWindowStartMs": 1150,
         "damageWindowEndMs": 1350,
         "energyDelta": 12
       },
       "pvpData": {
-        "power": 9,
+        "power": 11,
         "durationTurns": 2,
         "energyDelta": 8
       }
@@ -46427,6 +47537,23 @@
         "power": 8,
         "durationTurns": 2,
         "energyDelta": 10
+      }
+    },
+    {
+      "templateId": "V0320_MOVE_CHARM_FAST",
+      "type": "$T_FAIRY",
+      "mid": "CHARM_FAST",
+      "data": {
+        "power": 20,
+        "durationMs": 1500,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1200,
+        "energyDelta": 11
+      },
+      "pvpData": {
+        "power": 16,
+        "durationTurns": 2,
+        "energyDelta": 6
       }
     },
     {
@@ -46532,6 +47659,23 @@
       }
     },
     {
+      "templateId": "V0282_MOVE_TAKE_DOWN_FAST",
+      "type": "$T_NORMAL",
+      "mid": "TAKE_DOWN_FAST",
+      "data": {
+        "power": 8,
+        "durationMs": 1200,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 10
+      },
+      "pvpData": {
+        "power": 5,
+        "durationTurns": 2,
+        "energyDelta": 8
+      }
+    },
+    {
       "templateId": "V0238_MOVE_FEINT_ATTACK_FAST",
       "type": "$T_DARK",
       "mid": "FEINT_ATTACK_FAST",
@@ -46631,6 +47775,40 @@
         "power": 8,
         "durationTurns": 1,
         "energyDelta": 7
+      }
+    },
+    {
+      "templateId": "V0283_MOVE_WATERFALL_FAST",
+      "type": "$T_WATER",
+      "mid": "WATERFALL_FAST",
+      "data": {
+        "power": 16,
+        "durationMs": 1200,
+        "damageWindowStartMs": 950,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 8
+      },
+      "pvpData": {
+        "power": 12,
+        "durationTurns": 2,
+        "energyDelta": 8
+      }
+    },
+    {
+      "templateId": "V0297_MOVE_SMACK_DOWN_FAST",
+      "type": "$T_ROCK",
+      "mid": "SMACK_DOWN_FAST",
+      "data": {
+        "power": 16,
+        "durationMs": 1200,
+        "damageWindowStartMs": 800,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 8
+      },
+      "pvpData": {
+        "power": 12,
+        "durationTurns": 2,
+        "energyDelta": 8
       }
     },
     {
@@ -46770,6 +47948,22 @@
       }
     },
     {
+      "templateId": "V0325_MOVE_LOCK_ON_FAST",
+      "type": "$T_NORMAL",
+      "mid": "LOCK_ON_FAST",
+      "data": {
+        "power": 1,
+        "durationMs": 300,
+        "damageWindowStartMs": 170,
+        "damageWindowEndMs": 300,
+        "energyDelta": 6
+      },
+      "pvpData": {
+        "power": 1,
+        "energyDelta": 5
+      }
+    },
+    {
       "templateId": "V0221_MOVE_TACKLE_FAST",
       "type": "$T_NORMAL",
       "mid": "TACKLE_FAST",
@@ -46847,187 +48041,23 @@
       }
     },
     {
-      "templateId": "V0291_MOVE_PRESENT_FAST",
-      "type": "$T_NORMAL",
-      "mid": "PRESENT_FAST",
+      "templateId": "V0258_MOVE_SAND_TOMB",
+      "type": "$T_GROUND",
+      "mid": "SAND_TOMB",
       "data": {
-        "power": 5,
-        "durationMs": 1300,
-        "damageWindowStartMs": 1100,
-        "damageWindowEndMs": 1300,
-        "energyDelta": 20
+        "power": 60,
+        "durationMs": 4000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 4000,
+        "energyDelta": -33
       },
       "pvpData": {
-        "power": 3,
-        "durationTurns": 2,
-        "energyDelta": 12
-      }
-    },
-    {
-      "templateId": "V0327_MOVE_ICE_FANG_FAST",
-      "type": "$T_ICE",
-      "mid": "ICE_FANG_FAST",
-      "data": {
-        "power": 12,
-        "durationMs": 1500,
-        "damageWindowStartMs": 400,
-        "damageWindowEndMs": 1000,
-        "energyDelta": 20
-      },
-      "pvpData": {
-        "power": 8,
-        "durationTurns": 1,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "V0326_MOVE_THUNDER_FANG_FAST",
-      "type": "$T_ELECTRIC",
-      "mid": "THUNDER_FANG_FAST",
-      "data": {
-        "power": 12,
-        "durationMs": 1200,
-        "damageWindowStartMs": 400,
-        "damageWindowEndMs": 900,
-        "energyDelta": 16
-      },
-      "pvpData": {
-        "power": 8,
-        "durationTurns": 1,
-        "energyDelta": 5
-      }
-    },
-    {
-      "templateId": "V0281_MOVE_HIDDEN_POWER_FAST",
-      "type": "$T_NORMAL",
-      "mid": "HIDDEN_POWER_FAST",
-      "data": {
-        "power": 15,
-        "durationMs": 1500,
-        "damageWindowStartMs": 1100,
-        "damageWindowEndMs": 1400,
-        "energyDelta": 15
-      },
-      "pvpData": {
-        "power": 9,
-        "durationTurns": 2,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "V0287_MOVE_YAWN_FAST",
-      "type": "$T_NORMAL",
-      "mid": "YAWN_FAST",
-      "data": {
-        "durationMs": 1700,
-        "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 1600,
-        "energyDelta": 15
-      },
-      "pvpData": {
-        "durationTurns": 3,
-        "energyDelta": 12
-      }
-    },
-    {
-      "templateId": "V0278_MOVE_SNARL_FAST",
-      "type": "$T_DARK",
-      "mid": "SNARL_FAST",
-      "data": {
-        "power": 12,
-        "durationMs": 1100,
-        "damageWindowStartMs": 850,
-        "damageWindowEndMs": 1050,
-        "energyDelta": 14
-      },
-      "pvpData": {
-        "power": 5,
-        "durationTurns": 2,
-        "energyDelta": 13
-      }
-    },
-    {
-      "templateId": "V0320_MOVE_CHARM_FAST",
-      "type": "$T_FAIRY",
-      "mid": "CHARM_FAST",
-      "data": {
-        "power": 20,
-        "durationMs": 1500,
-        "damageWindowStartMs": 900,
-        "damageWindowEndMs": 1200,
-        "energyDelta": 11
-      },
-      "pvpData": {
-        "power": 16,
-        "durationTurns": 2,
-        "energyDelta": 6
-      }
-    },
-    {
-      "templateId": "V0282_MOVE_TAKE_DOWN_FAST",
-      "type": "$T_NORMAL",
-      "mid": "TAKE_DOWN_FAST",
-      "data": {
-        "power": 8,
-        "durationMs": 1200,
-        "damageWindowStartMs": 950,
-        "damageWindowEndMs": 1100,
-        "energyDelta": 10
-      },
-      "pvpData": {
-        "power": 5,
-        "durationTurns": 2,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "V0283_MOVE_WATERFALL_FAST",
-      "type": "$T_WATER",
-      "mid": "WATERFALL_FAST",
-      "data": {
-        "power": 16,
-        "durationMs": 1200,
-        "damageWindowStartMs": 950,
-        "damageWindowEndMs": 1100,
-        "energyDelta": 8
-      },
-      "pvpData": {
-        "power": 12,
-        "durationTurns": 2,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "V0297_MOVE_SMACK_DOWN_FAST",
-      "type": "$T_ROCK",
-      "mid": "SMACK_DOWN_FAST",
-      "data": {
-        "power": 16,
-        "durationMs": 1200,
-        "damageWindowStartMs": 800,
-        "damageWindowEndMs": 1100,
-        "energyDelta": 8
-      },
-      "pvpData": {
-        "power": 12,
-        "durationTurns": 2,
-        "energyDelta": 8
-      }
-    },
-    {
-      "templateId": "V0325_MOVE_LOCK_ON_FAST",
-      "type": "$T_NORMAL",
-      "mid": "LOCK_ON_FAST",
-      "data": {
-        "power": 1,
-        "durationMs": 300,
-        "damageWindowStartMs": 170,
-        "damageWindowEndMs": 300,
-        "energyDelta": 6
-      },
-      "pvpData": {
-        "power": 1,
-        "energyDelta": 5
+        "power": 25,
+        "energyDelta": -40,
+        "buffs": {
+          "targetDefenseStatStageChange": -1,
+          "buffActivationChance": 1
+        }
       }
     },
     {
@@ -47164,6 +48194,46 @@
       }
     },
     {
+      "templateId": "V0309_MOVE_MIRROR_SHOT",
+      "type": "$T_STEEL",
+      "mid": "MIRROR_SHOT",
+      "data": {
+        "power": 50,
+        "durationMs": 2400,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2200,
+        "energyDelta": -33
+      },
+      "pvpData": {
+        "power": 35,
+        "energyDelta": -35,
+        "buffs": {
+          "targetAttackStatStageChange": -1,
+          "buffActivationChance": 0.3
+        }
+      }
+    },
+    {
+      "templateId": "V0311_MOVE_FELL_STINGER",
+      "type": "$T_BUG",
+      "mid": "FELL_STINGER",
+      "data": {
+        "power": 50,
+        "durationMs": 2200,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -33
+      },
+      "pvpData": {
+        "power": 20,
+        "energyDelta": -35,
+        "buffs": {
+          "attackerAttackStatStageChange": 1,
+          "buffActivationChance": 1
+        }
+      }
+    },
+    {
       "templateId": "V0312_MOVE_LEAF_TORNADO",
       "type": "$T_GRASS",
       "mid": "LEAF_TORNADO",
@@ -47252,7 +48322,7 @@
       },
       "pvpData": {
         "power": 10,
-        "energyDelta": -40
+        "energyDelta": -70
       }
     },
     {
@@ -47267,8 +48337,8 @@
         "energyDelta": -33
       },
       "pvpData": {
-        "power": 50,
-        "energyDelta": -40
+        "power": 130,
+        "energyDelta": -70
       }
     },
     {
@@ -47349,22 +48419,6 @@
       "pvpData": {
         "power": 80,
         "energyDelta": -45
-      }
-    },
-    {
-      "templateId": "V0258_MOVE_SAND_TOMB",
-      "type": "$T_GROUND",
-      "mid": "SAND_TOMB",
-      "data": {
-        "power": 80,
-        "durationMs": 4000,
-        "damageWindowStartMs": 1700,
-        "damageWindowEndMs": 4000,
-        "energyDelta": -50
-      },
-      "pvpData": {
-        "power": 80,
-        "energyDelta": -60
       }
     },
     {
@@ -47524,7 +48578,11 @@
       },
       "pvpData": {
         "power": 70,
-        "energyDelta": -40
+        "energyDelta": -35,
+        "buffs": {
+          "attackerAttackStatStageChange": -2,
+          "buffActivationChance": 1
+        }
       }
     },
     {
@@ -47571,7 +48629,7 @@
         "energyDelta": -50
       },
       "pvpData": {
-        "power": 90,
+        "power": 80,
         "energyDelta": -40
       }
     },
@@ -47668,19 +48726,60 @@
       }
     },
     {
-      "templateId": "V0324_MOVE_SYNCHRONOISE",
-      "type": "$T_PSYCHIC",
-      "mid": "SYNCHRONOISE",
+      "templateId": "V0308_MOVE_OCTAZOOKA",
+      "type": "$T_WATER",
+      "mid": "OCTAZOOKA",
       "data": {
-        "power": 80,
-        "durationMs": 2600,
-        "damageWindowStartMs": 850,
+        "power": 50,
+        "durationMs": 2300,
+        "damageWindowStartMs": 1300,
         "damageWindowEndMs": 1600,
         "energyDelta": -50
       },
       "pvpData": {
-        "power": 80,
+        "power": 50,
+        "energyDelta": -50,
+        "buffs": {
+          "targetAttackStatStageChange": -2,
+          "buffActivationChance": 0.5
+        }
+      }
+    },
+    {
+      "templateId": "V0310_MOVE_SUPER_POWER",
+      "type": "$T_FIGHTING",
+      "mid": "SUPER_POWER",
+      "data": {
+        "power": 85,
+        "durationMs": 3000,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2800,
         "energyDelta": -50
+      },
+      "pvpData": {
+        "power": 85,
+        "energyDelta": -40,
+        "buffs": {
+          "attackerAttackStatStageChange": -1,
+          "attackerDefenseStatStageChange": -1,
+          "buffActivationChance": 1
+        }
+      }
+    },
+    {
+      "templateId": "V0332_MOVE_AURA_SPHERE",
+      "type": "$T_FIGHTING",
+      "mid": "AURA_SPHERE",
+      "data": {
+        "power": 90,
+        "durationMs": 1800,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50
+      },
+      "pvpData": {
+        "power": 100,
+        "energyDelta": -55
       }
     },
     {
@@ -47716,102 +48815,6 @@
       }
     },
     {
-      "templateId": "V0245_MOVE_CLOSE_COMBAT",
-      "type": "$T_FIGHTING",
-      "mid": "CLOSE_COMBAT",
-      "data": {
-        "power": 100,
-        "durationMs": 2300,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 2300,
-        "energyDelta": -100
-      },
-      "pvpData": {
-        "power": 100,
-        "energyDelta": -60
-      }
-    },
-    {
-      "templateId": "V0247_MOVE_FOCUS_BLAST",
-      "type": "$T_FIGHTING",
-      "mid": "FOCUS_BLAST",
-      "data": {
-        "power": 140,
-        "durationMs": 3500,
-        "damageWindowStartMs": 3000,
-        "damageWindowEndMs": 3500,
-        "energyDelta": -100
-      },
-      "pvpData": {
-        "power": 150,
-        "energyDelta": -75
-      }
-    },
-    {
-      "templateId": "V0252_MOVE_ZAP_CANNON",
-      "type": "$T_ELECTRIC",
-      "mid": "ZAP_CANNON",
-      "data": {
-        "power": 140,
-        "durationMs": 3700,
-        "damageWindowStartMs": 3000,
-        "damageWindowEndMs": 3500,
-        "energyDelta": -100
-      },
-      "pvpData": {
-        "power": 150,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "V0256_MOVE_BRAVE_BIRD",
-      "type": "$T_FLYING",
-      "mid": "BRAVE_BIRD",
-      "data": {
-        "power": 90,
-        "durationMs": 2000,
-        "damageWindowStartMs": 1000,
-        "damageWindowEndMs": 1600,
-        "energyDelta": -100
-      },
-      "pvpData": {
-        "power": 90,
-        "energyDelta": -55
-      }
-    },
-    {
-      "templateId": "V0270_MOVE_OVERHEAT",
-      "type": "$T_FIRE",
-      "mid": "OVERHEAT",
-      "data": {
-        "power": 160,
-        "durationMs": 4000,
-        "damageWindowStartMs": 2600,
-        "damageWindowEndMs": 3800,
-        "energyDelta": -100
-      },
-      "pvpData": {
-        "power": 150,
-        "energyDelta": -80
-      }
-    },
-    {
-      "templateId": "V0275_MOVE_FUTURESIGHT",
-      "type": "$T_PSYCHIC",
-      "mid": "FUTURESIGHT",
-      "data": {
-        "power": 120,
-        "durationMs": 2700,
-        "damageWindowStartMs": 1400,
-        "damageWindowEndMs": 2700,
-        "energyDelta": -100
-      },
-      "pvpData": {
-        "power": 120,
-        "energyDelta": -65
-      }
-    },
-    {
       "templateId": "V0285_MOVE_DRACO_METEOR",
       "type": "$T_DRAGON",
       "mid": "DRACO_METEOR",
@@ -47824,7 +48827,11 @@
       },
       "pvpData": {
         "power": 150,
-        "energyDelta": -75
+        "energyDelta": -65,
+        "buffs": {
+          "attackerAttackStatStageChange": -2,
+          "buffActivationChance": 1
+        }
       }
     },
     {
@@ -47900,46 +48907,6 @@
       }
     },
     {
-      "templateId": "V0308_MOVE_OCTAZOOKA",
-      "type": "$T_WATER",
-      "mid": "OCTAZOOKA",
-      "data": {
-        "durationMs": 2300,
-        "damageWindowStartMs": 1300,
-        "damageWindowEndMs": 1600
-      }
-    },
-    {
-      "templateId": "V0309_MOVE_MIRROR_SHOT",
-      "type": "$T_STEEL",
-      "mid": "MIRROR_SHOT",
-      "data": {
-        "durationMs": 2400,
-        "damageWindowStartMs": 1800,
-        "damageWindowEndMs": 2200
-      }
-    },
-    {
-      "templateId": "V0310_MOVE_SUPER_POWER",
-      "type": "$T_FIGHTING",
-      "mid": "SUPER_POWER",
-      "data": {
-        "durationMs": 3000,
-        "damageWindowStartMs": 2100,
-        "damageWindowEndMs": 2800
-      }
-    },
-    {
-      "templateId": "V0311_MOVE_FELL_STINGER",
-      "type": "$T_BUG",
-      "mid": "FELL_STINGER",
-      "data": {
-        "durationMs": 2200,
-        "damageWindowStartMs": 1800,
-        "damageWindowEndMs": 2000
-      }
-    },
-    {
       "templateId": "V0313_MOVE_LEECH_LIFE",
       "type": "$T_BUG",
       "mid": "LEECH_LIFE",
@@ -47977,6 +48944,126 @@
         "durationMs": 1300,
         "damageWindowStartMs": 650,
         "damageWindowEndMs": 1000
+      }
+    },
+    {
+      "templateId": "V0324_MOVE_SYNCHRONOISE",
+      "type": "$T_PSYCHIC",
+      "mid": "SYNCHRONOISE",
+      "data": {
+        "power": 80,
+        "durationMs": 2600,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50
+      },
+      "pvpData": {
+        "power": 80,
+        "energyDelta": -50
+      }
+    },
+    {
+      "templateId": "V0245_MOVE_CLOSE_COMBAT",
+      "type": "$T_FIGHTING",
+      "mid": "CLOSE_COMBAT",
+      "data": {
+        "power": 100,
+        "durationMs": 2300,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2300,
+        "energyDelta": -100
+      },
+      "pvpData": {
+        "power": 100,
+        "energyDelta": -45,
+        "buffs": {
+          "attackerDefenseStatStageChange": -2,
+          "buffActivationChance": 1
+        }
+      }
+    },
+    {
+      "templateId": "V0247_MOVE_FOCUS_BLAST",
+      "type": "$T_FIGHTING",
+      "mid": "FOCUS_BLAST",
+      "data": {
+        "power": 140,
+        "durationMs": 3500,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -100
+      },
+      "pvpData": {
+        "power": 150,
+        "energyDelta": -75
+      }
+    },
+    {
+      "templateId": "V0252_MOVE_ZAP_CANNON",
+      "type": "$T_ELECTRIC",
+      "mid": "ZAP_CANNON",
+      "data": {
+        "power": 140,
+        "durationMs": 3700,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -100
+      },
+      "pvpData": {
+        "power": 150,
+        "energyDelta": -80
+      }
+    },
+    {
+      "templateId": "V0256_MOVE_BRAVE_BIRD",
+      "type": "$T_FLYING",
+      "mid": "BRAVE_BIRD",
+      "data": {
+        "power": 90,
+        "durationMs": 2000,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -100
+      },
+      "pvpData": {
+        "power": 90,
+        "energyDelta": -55
+      }
+    },
+    {
+      "templateId": "V0270_MOVE_OVERHEAT",
+      "type": "$T_FIRE",
+      "mid": "OVERHEAT",
+      "data": {
+        "power": 160,
+        "durationMs": 4000,
+        "damageWindowStartMs": 2600,
+        "damageWindowEndMs": 3800,
+        "energyDelta": -100
+      },
+      "pvpData": {
+        "power": 130,
+        "energyDelta": -55,
+        "buffs": {
+          "attackerAttackStatStageChange": -2,
+          "buffActivationChance": 1
+        }
+      }
+    },
+    {
+      "templateId": "V0275_MOVE_FUTURESIGHT",
+      "type": "$T_PSYCHIC",
+      "mid": "FUTURESIGHT",
+      "data": {
+        "power": 120,
+        "durationMs": 2700,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -100
+      },
+      "pvpData": {
+        "power": 120,
+        "energyDelta": -65
       }
     },
     {
