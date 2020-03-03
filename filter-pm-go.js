@@ -12,7 +12,10 @@ let outputJSON = (json = {}, fileName = '', jsonSpace = 2) => {
 
 ((allData) => {
   let replacePT = (str) => str.replace('POKEMON_TYPE', '$T')
-  let _data = allData.itemTemplates;
+  let _data = allData;
+  if (allData.result) {
+    allData = allData.itemTemplates;
+  }
 
   let whitelistForPMS = [
     'pokemonId',

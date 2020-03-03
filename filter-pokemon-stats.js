@@ -3,8 +3,11 @@ let fs = require('fs');
 let contents = fs.readFileSync('GAME_MASTER.json', 'utf8');
 
 let allData = JSON.parse(contents);
+if (allData.result) {
+  allData = allData.itemTemplates;
+}
 
-let pmData = allData.itemTemplates.filter(d => d.pokemonSettings);
+let pmData = allData.filter(d => d.pokemonSettings);
 
 console.log(`All pm data length: ${pmData.length}`);
 
